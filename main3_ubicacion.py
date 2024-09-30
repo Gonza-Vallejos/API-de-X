@@ -6,7 +6,7 @@ from configparser import ConfigParser
 from random import randint
 import asyncio
 
-MINIMUM_TWEETS = 1000  # Cambiar por la cantidad de tweets deceados
+MINIMUM_TWEETS = 2000  # Cambiar por la cantidad de tweets deceados
 QUERY = 'Corrientes lang:es since:2024-08-20 until:2024-09-20'  # Busca tweets que mencionen "Corrientes"
 
 async def get_tweets(client, tweets):
