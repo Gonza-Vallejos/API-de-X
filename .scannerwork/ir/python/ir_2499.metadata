@@ -1,0 +1,3 @@
+httpx._client.Client._init_proxy_transport
+477a3fc6130ba3dd54e1e486b7e64978
+httpx._transports.default.HTTPTransport.__init__

@@ -1,0 +1,1 @@
+ 	 2pyXlhrEenv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/response.py

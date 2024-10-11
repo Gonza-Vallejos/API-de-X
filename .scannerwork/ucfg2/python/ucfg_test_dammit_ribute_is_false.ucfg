@@ -1,0 +1,56 @@
+
+vbs4.tests.test_dammit.TestEntitySubstitution.test_xml_converstion_includes_no_quotes_if_make_quoted_attribute_is_falsed
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_dammit.pyœ œ(Q"2*˚
+2
+– –(!N
+L
+
+– –(!
+s"__id*3
+
+__unknown_file (
+Welcome to "my bar"q
+o
+
+— —(
+%1"__id*U
+
+__unknown_file (9*7.
+,bs4.tests.test_dammit.TestEntitySubstitution"
+subìê
+
+— —(0
+%2*"
+
+__unknown_file (
+
+%1*!
+
+__unknown_file (
+
+s*%
+
+__unknown_file (	
+
+False2substitute_xmlã
+à
+
+— —(5
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*!
+
+__unknown_file (
+
+s*
+3*6
+3
+test_dammit.py"
+” ”(
+implicit returnB0.
+,bs4.tests.test_dammit.TestEntitySubstitutionH

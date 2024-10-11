@@ -1,0 +1,4 @@
+pip._vendor.pkg_resources._is_egg_path
+7bab9a63602dcf22adfa5c9bfc7e1815
+pip._vendor.pkg_resources._is_unpacked_egg
+pip._vendor.pkg_resources._is_zip_egg

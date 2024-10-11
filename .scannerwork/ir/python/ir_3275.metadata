@@ -1,0 +1,13 @@
+pip._internal.locations._sysconfig.get_scheme
+8c8afaa1f40e2cb2a5fe0f07751de8c9
+pip._internal.utils.virtualenv.running_under_virtualenv
+pip._internal.locations.base.change_root
+sysconfig.get_paths
+os.path.join
+pip._internal.locations._sysconfig._infer_prefix
+pip._internal.locations._sysconfig._infer_user
+pip._internal.locations._sysconfig._infer_home
+pip._internal.models.scheme.Scheme.__init__
+getattr
+==
+get

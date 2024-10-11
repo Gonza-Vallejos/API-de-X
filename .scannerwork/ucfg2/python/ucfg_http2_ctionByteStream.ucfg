@@ -1,0 +1,64 @@
+
+/httpcore._async.http2.HTTP2ConnectionByteStreamd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_async/http2.py° °("2*Ÿ
+2
+³ ³(%…
+‚
+
+³ ³(%B1
+/httpcore._async.http2.HTTP2ConnectionByteStream"
+_connection"__id**
+
+__unknown_file (
+
+
+connection~
+|
+
+´ ´(?1
+/httpcore._async.http2.HTTP2ConnectionByteStream"
+
+_request"__id*'
+
+__unknown_file (
+	
+requestƒ
+€
+
+µ µ(#A1
+/httpcore._async.http2.HTTP2ConnectionByteStream"
+
+_stream_id"__id*)
+
+__unknown_file (
+
+	stream_id{
+y
+
+¶ ¶(>1
+/httpcore._async.http2.HTTP2ConnectionByteStream"	
+_closed"__id*%
+
+__unknown_file (	
+
+False*
+3*h
+3
+
+http2.pyCA
+¸ ¸(
+%1"/httpcore._async.http2.HTTP2ConnectionByteStream"
+¸ ¸(
+
+%1:
+
+± ±(.
+
+connection:
+
+±0 ±(@	
+request:
+
+±B ±(P
+	stream_idB31
+/httpcore._async.http2.HTTP2ConnectionByteStreamH

@@ -1,0 +1,1 @@
+æ 2pyXˆhr=env/lib/python3.12/site-packages/httpcore/_sync/interfaces.py

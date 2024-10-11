@@ -1,0 +1,75 @@
+
+gbs4.tests.test_builder_registry.TestRegistry.test_lookup_fails_when_cannot_reconcile_requested_featuresn
+b/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_builder_registry.py† †(B"2*²
+2
+‡ ‡(:ÃÀ
+
+‡ ‡(:
+%1*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+foo*#
+
+__unknown_file (
+bar2builder_for_featuresD
+B
+
+‡ ‡(:
+
+builder1"__id*"
+
+__unknown_file (
+
+%1ÃÀ
+
+ˆ ˆ(:
+%2*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+foo*#
+
+__unknown_file (
+baz2builder_for_featuresD
+B
+
+ˆ ˆ(:
+
+builder2"__id*"
+
+__unknown_file (
+
+%2v
+t
+
+‰ ‰(
+%3"__id*Z
+
+__unknown_file (>*<.
+,bs4.tests.test_builder_registry.TestRegistry"
+
+registry‹ˆ
+
+‰ ‰(1
+%4*"
+
+__unknown_file (
+
+%3*#
+
+__unknown_file (
+bar*#
+
+__unknown_file (
+baz2lookup*
+3*>
+3
+test_builder_registry.py"
+Š Š
+implicit returnB0.
+,bs4.tests.test_builder_registry.TestRegistryH

@@ -1,0 +1,6 @@
+pip._vendor.requests.exceptions.RequestException.__init__
+3aeafa9b4facf2cfbf4ff340d2394cba
+super
+hasattr
+==
+pop

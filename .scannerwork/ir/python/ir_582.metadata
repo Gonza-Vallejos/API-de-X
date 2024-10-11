@@ -1,0 +1,4 @@
+pip._internal.utils.unpacking.set_extracted_file_to_default_mode_plus_executable
+d5e9456e8cd5bdcdfe4b9b16743b68fd
+os.chmod
+pip._internal.utils.unpacking._get_default_mode_plus_executable

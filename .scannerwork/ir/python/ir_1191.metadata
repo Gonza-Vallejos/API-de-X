@@ -1,0 +1,6 @@
+pip._vendor.packaging.requirements.Requirement.__hash__
+d3e0888fef9ea13ee0442ddee7d5f2ab
+pip._vendor.packaging.utils.canonicalize_name
+hash
+==
+_iter_parts

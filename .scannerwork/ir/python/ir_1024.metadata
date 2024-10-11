@@ -1,0 +1,6 @@
+pip._internal.utils.virtualenv._no_global_under_legacy_virtualenv
+81ba7f8579f5868eab9d8468b0ea2d35
+os.path.abspath
+os.path.join
+os.path.dirname
+os.path.exists

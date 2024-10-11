@@ -1,0 +1,133 @@
+
+>bs4.tests.HTMLTreeBuilderSmokeTest.test_real_iso_8859_documenta
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py´ ´(#"2*¬
+2¹ ¹(½ð
+í
+¹ ¹(½
+unicode_html"__id*Ç
+
+__unknown_file (ª§
+¤<html><head><meta content="text/html; charset=ISO-8859-1" http-equiv="Content-type"/></head><body><p>Sacr\N{LATIN SMALL LETTER E WITH ACUTE} bleu!</p></body></html>ƒ€
+
+½ ½(:
+%1"
+str.encode*,
+
+__unknown_file (
+
+unicode_html**
+
+__unknown_file (
+
+iso-8859-12encodeJ
+H
+
+½ ½(:
+iso_latin_html"__id*"
+
+__unknown_file (
+
+%1Œ
+
+À À((
+%2*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*.
+
+__unknown_file (
+
+iso_latin_html2soup@
+>
+
+À À((
+soup"__id*"
+
+__unknown_file (
+
+%2ig
+
+Ã Ã(%
+%3*$
+
+__unknown_file (
+
+soup*%
+
+__unknown_file (	
+utf-82encodeB
+@
+
+Ã Ã(%
+result"__id*"
+
+__unknown_file (
+
+%3¬©
+
+È È(>
+%4"str.replace*,
+
+__unknown_file (
+
+unicode_html**
+
+__unknown_file (
+
+ISO-8859-1*%
+
+__unknown_file (	
+utf-82replaceD
+B
+
+È È(>
+
+expected"__id*"
+
+__unknown_file (
+
+%4yw
+
+Ë Ë(+
+%5"
+str.encode*(
+
+__unknown_file (
+
+
+expected*%
+
+__unknown_file (	
+utf-82encodeD
+B
+
+Ë Ë(+
+
+expected"__id*"
+
+__unknown_file (
+
+%5–
+“
+
+Î Î(!
+%6"	__compare*"
+
+__unknown_file (
+==*&
+
+__unknown_file (
+
+
+result*(
+
+__unknown_file (
+
+
+expected*
+3*3
+3
+__init__.py"
+Ð Ð(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

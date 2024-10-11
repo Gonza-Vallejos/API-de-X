@@ -1,0 +1,6 @@
+pip._internal.operations.prepare.RequirementPreparer._ensure_link_req_src_dir
+1fdc972aa15945c22f153fb44cf28a4d
+==
+is_existing_dir
+ensure_has_source_dir
+ensure_pristine_source_checkout

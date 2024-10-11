@@ -1,0 +1,30 @@
+
+*anyio._backends._asyncio.Semaphore.__new__g
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.py€ €("2*À
+2
+‡ ‡("˜•
+
+‡ ‡("
+%1"type.__new__*&
+
+__unknown_file (
+
+
+object*B
+
+__unknown_file (&$
+"anyio._backends._asyncio.Semaphore2__new__"
+
+‡ ‡("
+
+%1:
+
+‚ ‚(
+initial_value:
+
+„ „($
+	max_value:
+
+… …("
+fast_acquireB&$
+"anyio._backends._asyncio.SemaphoreH

@@ -1,0 +1,2 @@
+bs4.tests.test_builder_registry.TestRegistry.test_lookup_gets_most_recent_registration_when_no_feature_specified
+3e68b238ee0857cc71db78c595c1e57b

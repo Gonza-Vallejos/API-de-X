@@ -1,0 +1,8 @@
+pip._internal.vcs.mercurial.Mercurial.fetch_new
+14feecadd9cd98d5d1510df64846f953
+pip._internal.utils.misc.display_path
+==
+run_command
+to_args
+to_display
+info

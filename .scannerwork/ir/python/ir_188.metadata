@@ -1,0 +1,5 @@
+lxml.html.diff.fixup_ins_del_tags
+0b6fad3d7ece175bee9500b30990837c
+lxml.html.diff.serialize_html_fragment
+lxml.html.diff.parse_html
+lxml.html.diff._fixup_ins_del_tags

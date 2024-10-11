@@ -1,0 +1,8 @@
+pip._internal.network.download._get_http_response_filename
+6f73fc259cc8b7af2a50e2b9865da2fc
+mimetypes.guess_extension
+pip._internal.network.download.parse_content_disposition
+pip._internal.utils.misc.splitext
+os.path.splitext
+==
+get

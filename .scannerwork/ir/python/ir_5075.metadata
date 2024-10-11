@@ -1,0 +1,7 @@
+pip._internal.utils.appdirs._macos_user_config_dir
+f580d633012e2456299f503e9fc06bdb
+os.path.isdir
+os.path.join
+os.path.expanduser
+==
+user_data_dir

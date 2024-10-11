@@ -1,0 +1,52 @@
+
+9pip._vendor.truststore._api.SSLContext.load_default_certsj
+^/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/truststore/_api.py• •("1*Š
+2
+˜ ˜(4l
+j
+
+˜ ˜(
+%3"__id*P
+
+__unknown_file (4*2(
+&pip._vendor.truststore._api.SSLContext"
+_ctxus
+
+˜ ˜(4
+%4*"
+
+__unknown_file (
+
+%3*'
+
+__unknown_file (
+	
+purpose2load_default_certs"
+
+˜ ˜(4
+
+%4*¼
+1
+– –(<L
+J
+
+– –("
+%1"__id*0
+
+__unknown_file (*
+
+ssl"	
+PurposeX
+V
+
+–% –(<
+%2"__id*<
+
+__unknown_file ( *
+ssl.Purpose"
+SERVER_AUTH*
+2:
+
+– –(<	
+purposeB*(
+&pip._vendor.truststore._api.SSLContextH

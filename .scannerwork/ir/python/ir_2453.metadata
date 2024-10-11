@@ -1,0 +1,3 @@
+pip._vendor.requests.adapters.HTTPAdapter.build_connection_pool_key_attributes
+2ed73826e66f039144c4394c6abde86c
+pip._vendor.requests.adapters._urllib3_request_context

@@ -1,0 +1,14 @@
+pip._internal.commands.uninstall.UninstallCommand.run
+2958b60e76f9edc694ebbb80819c8d6d
+pip._internal.req.constructors.install_req_from_parsed_requirement
+pip._internal.utils.misc.check_externally_managed
+pip._internal.utils.misc.warn_if_run_as_root
+pip._vendor.packaging.utils.canonicalize_name
+pip._internal.req.constructors.install_req_from_line
+pip._internal.utils.misc.protect_pip_from_modification_on_windows
+==
+uninstall
+values
+commit
+warning
+get_default_session

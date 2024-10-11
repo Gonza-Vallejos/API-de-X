@@ -1,0 +1,4 @@
+bs4.tests.test_pageelement.TestFormatters.test_formatter_skips_script_tag_for_html_documents
+1f7e21aeb1822f020a6da2aecfe69086
+==
+encode

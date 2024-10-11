@@ -1,0 +1,6 @@
+bs4.tests.test_htmlparser.TestHTMLParserTreeBuilder.test_builder_is_pickled
+14e9806a08961f32df60c39829d69679
+pickle.loads
+pickle.dumps
+==
+soup

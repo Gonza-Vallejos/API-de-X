@@ -1,0 +1,11 @@
+pip._internal.commands.index.IndexCommand.add_options
+9f3ee20688d7669a698d2db6c0f80c87
+==
+insert_option_group
+add_target_python_options
+pre
+add_option
+ignore_requires_python
+make_option_group
+no_binary
+only_binary

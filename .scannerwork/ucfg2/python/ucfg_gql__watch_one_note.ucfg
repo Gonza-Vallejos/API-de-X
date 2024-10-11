@@ -1,0 +1,65 @@
+
+!gql.GQLClient.bird_watch_one_note`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py­ ­(!"2*Ü
+2
+® ®((
+
+® ®((
+%1"dict•
+’
+
+® ®('
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (	
+note_id*'
+
+__unknown_file (
+	
+note_idE
+C
+
+® ®((
+	variables"__id*"
+
+__unknown_file (
+
+%1b
+`
+
+¯" ¯(?
+%3"__id*F
+
+__unknown_file (**(
+gql.Endpoint"
+FETCH_COMMUNITY_NOTEÕÒ
+
+¯ ¯(d
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables*7
+
+__unknown_file (
+
+COMMUNITY_NOTE_FEATURES2gql_get"
+
+¯ ¯(d
+
+%4:
+
+­( ­(/	
+note_idB
+gql.GQLClientH

@@ -1,0 +1,5 @@
+pip._internal.self_outdated_check._convert_date
+5828d07735f89bad499059477fd6ded9
+datetime.date.fromisoformat
+==
+replace

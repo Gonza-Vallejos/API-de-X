@@ -1,0 +1,147 @@
+
+Mpip._internal.operations.prepare.RequirementPreparer._ensure_link_req_src_diro
+c/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/operations/prepare.py¯ ¯( "2*±
+2
+² ²(?I
+G
+
+´ ´(
+%9"__id*-
+
+__unknown_file (*
+
+req"
+linkM
+K
+
+´ ´(
+%10"__id*0
+
+__unknown_file (*
+
+%9"
+
+is_wheel*
+6
+7*2
+3
+
+prepare.py"
+Æ Æ(
+implicit return*ý
+4
+¿ Ã(	
+}
+
+À À(
+%1"__id*c
+
+__unknown_file (G*E6
+4pip._internal.operations.prepare.RequirementPreparer"
+	build_dirµ²
+
+¿ Ã(	
+%2"Fpip._internal.req.req_install.InstallRequirement.ensure_has_source_dir*#
+
+__unknown_file (
+
+req*"
+
+__unknown_file (
+
+%12ensure_has_source_dir:2
+
+autodelete$
+
+__unknown_file (
+
+True:B
+parallel_builds/
+
+__unknown_file (
+
+parallel_builds­ª
+
+Ä Ä(-
+%3"Ppip._internal.req.req_install.InstallRequirement.ensure_pristine_source_checkout*#
+
+__unknown_file (
+
+req2ensure_pristine_source_checkout*
+3*’
+5
+» »(/I
+G
+
+» »(%
+%4"__id*-
+
+__unknown_file (*
+
+req"
+linkM
+K
+
+» »(/
+%5"__id*1
+
+__unknown_file (*
+
+%4"
+	file_pathO
+M
+
+» »(/
+
+req"
+
+source_dir"__id*"
+
+__unknown_file (
+
+%5"
+
+¼ ¼(
+void*þ
+6
+¸ ¸(%O
+M
+
+¸ ¸(
+%6"__id*3
+
+__unknown_file (*
+
+req"
+
+source_dirI
+G
+
+¹ ¹(
+%7"__id*-
+
+__unknown_file (*
+
+req"
+linkIG
+
+¹ ¹(%
+%8*"
+
+__unknown_file (
+
+%72is_existing_dir*
+4
+5*'
+7
+· ·("
+
+· ·(
+void:
+
+° °(%
+req:
+
+°' °(<
+parallel_buildsB86
+4pip._internal.operations.prepare.RequirementPreparerH

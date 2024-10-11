@@ -1,0 +1,3 @@
+httpx._models.Response.is_informational
+8e3ac917123051fd9ab4a897c2c2ccf4
+httpx._status_codes.codes.is_informational

@@ -1,0 +1,6 @@
+pip._internal.metadata.base.BaseDistribution.installed_with_dist_info
+c6b377652c174159b4bb22bc7ebf2f1b
+pathlib.Path.__init__
+==
+is_dir
+endswith

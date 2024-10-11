@@ -1,0 +1,4 @@
+httpcore._models.URL.__init__
+1e95b443a4a7f8de89215a21b28ec102
+urllib.parse.urlparse
+httpcore._models.enforce_bytes

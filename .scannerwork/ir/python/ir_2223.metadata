@@ -1,0 +1,6 @@
+pip._vendor.requests.cookies.RequestsCookieJar.set
+608f083038e2b8c8a5e0dc78387955d0
+pip._vendor.requests.cookies.morsel_to_cookie
+pip._vendor.requests.cookies.remove_cookie_by_name
+==
+get

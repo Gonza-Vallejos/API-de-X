@@ -1,0 +1,1 @@
+ô 2pyXfhr=env/lib/python3.12/site-packages/pip/_internal/utils/glibc.py

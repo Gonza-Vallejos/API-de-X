@@ -1,0 +1,9 @@
+pip._vendor.distlib.version.LegacyMatcher._match_compatible
+c34a19aeb22cd8049cc89a356655a18c
+pip._vendor.distlib.version._match_prefix
+str.__init__
+==
+match
+warning
+groups
+rsplit

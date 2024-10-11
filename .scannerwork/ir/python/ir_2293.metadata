@@ -1,0 +1,8 @@
+pip._vendor.urllib3.util.ssltransport.SSLTransport.makefile
+101f00bb77b212bf5a5d4f596e612cbb
+io.BufferedRWPair.__init__
+set.__init__
+io.BufferedWriter.__init__
+socket.SocketIO.__init__
+io.BufferedReader.__init__
+io.TextIOWrapper.__init__

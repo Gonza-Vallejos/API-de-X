@@ -1,0 +1,5 @@
+bs4.tests.test_dammit.TestEncodingDetector.test_detwingle_ignores_multibyte_characters
+96c4b4f1601a1cc1aa2ba412b8e69b66
+bs4.dammit.UnicodeDammit.detwingle
+==
+encode

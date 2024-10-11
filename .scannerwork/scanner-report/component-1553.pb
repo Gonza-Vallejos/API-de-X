@@ -1,0 +1,1 @@
+‘ 2pyXƒhrPenv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/provider.py

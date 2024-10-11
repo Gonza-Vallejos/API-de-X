@@ -1,0 +1,7 @@
+pip._internal.req.req_install.InstallRequirement.check_if_exists
+deb306115202b0b6935db3e73f52f96c
+pip._internal.utils.virtualenv.running_under_virtualenv
+pip._internal.metadata.get_default_environment
+==
+contains
+get_distribution

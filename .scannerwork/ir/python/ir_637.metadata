@@ -1,0 +1,3 @@
+bs4.tests.test_dammit.TestEncodingDetector.test_detect_html5_style_meta_tag
+a5e06173b7bb67ae1348dd8a35c78f27
+bs4.dammit.UnicodeDammit.__init__

@@ -1,0 +1,11 @@
+pip._vendor.requests.auth._basic_auth_str
+47c2b1eef93220942e665bfb0b157b5e
+type.__init__
+warnings.warn
+pip._vendor.requests._internal_utils.to_native_string
+base64.b64encode
+==
+encode
+strip
+format
+join

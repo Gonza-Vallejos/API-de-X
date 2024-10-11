@@ -1,0 +1,7 @@
+pip._internal.utils.misc.warn_if_run_as_root
+fa09a337318f5d842701ad24eb120a75
+pip._internal.utils.virtualenv.running_under_virtualenv
+hasattr
+os.getuid
+==
+warning

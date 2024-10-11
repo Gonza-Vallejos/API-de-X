@@ -1,0 +1,1 @@
+¦ 2pyX3hr6env/lib/python3.12/site-packages/pip/__pip-runner__.py

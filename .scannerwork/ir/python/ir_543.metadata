@@ -1,0 +1,4 @@
+bs4.tests.test_pageelement.TestFormatters.test_prettify_leaves_preformatted_text_alone
+cd833675d5f72c74a8fcdb2286b68222
+==
+soup

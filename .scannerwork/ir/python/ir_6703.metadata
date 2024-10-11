@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_insert_works_on_empty_element_tag
+79be7ce35fde6aa9af097c81466d481c
+==
+soup
+insert

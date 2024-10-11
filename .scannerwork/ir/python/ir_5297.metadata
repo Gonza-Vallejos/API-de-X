@@ -1,0 +1,6 @@
+pip._internal.operations.prepare.RequirementPreparer._fetch_metadata_only
+0f20b1e571e3fda78994ae8ebea6bc7c
+==
+debug
+_fetch_metadata_using_link_data_attr
+_fetch_metadata_using_lazy_wheel

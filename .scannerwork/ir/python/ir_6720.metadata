@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestTreeModification.test_decompose
+64c2163d5467e261011876a606e5b324
+==
+soup
+find_all
+decompose

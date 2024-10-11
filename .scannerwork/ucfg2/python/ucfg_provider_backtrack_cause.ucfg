@@ -1,0 +1,115 @@
+
+Kpip._internal.resolution.resolvelib.provider.PipProvider.is_backtrack_cause{
+o/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/provider.pyú ú("4"6*(
+4
+‚ ‚("
+
+‚ ‚(	
+
+False*Ö
+6
+ş ş(=\
+Z
+
+ş ş(8
+%5"__id*@
+
+__unknown_file ($*"
+
+backtrack_cause"
+requirementH
+F
+
+ş ş(=
+%6"__id*,
+
+__unknown_file (*
+
+%5"
+name”
+‘
+
+ş ş(=
+%7"	__compare*"
+
+__unknown_file (
+==**
+
+__unknown_file (
+
+
+identifier*"
+
+__unknown_file (
+
+%6*
+8
+9*'
+7
+ ("
+
+ (
+
+True*­
+8
+€ €(SW
+U
+
+€ €(%
+%1"__id*;
+
+__unknown_file (*
+
+backtrack_cause"
+parentW
+U
+
+€8 €(N
+%2"__id*;
+
+__unknown_file (*
+
+backtrack_cause"
+parentH
+F
+
+€8 €(S
+%3"__id*,
+
+__unknown_file (*
+
+%2"
+name”
+‘
+
+€* €(S
+%4"	__compare*"
+
+__unknown_file (
+==**
+
+__unknown_file (
+
+
+identifier*"
+
+__unknown_file (
+
+%3*	
+4
+6
+7*'
+9
+ÿ ÿ("
+
+ÿ ÿ(
+
+True:
+
+û û(
+
+identifier: 
+
+û û(L
+backtrack_causesB<:
+8pip._internal.resolution.resolvelib.provider.PipProviderH

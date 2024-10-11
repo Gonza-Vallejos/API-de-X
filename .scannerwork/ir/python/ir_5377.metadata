@@ -1,0 +1,6 @@
+httpcore._sync.http2.HTTP2Connection._send_request_body
+5e99aceab77f6756edc4487d5bf36ece
+httpcore._sync.http2.has_body_headers
+==
+_send_end_stream
+_send_stream_data

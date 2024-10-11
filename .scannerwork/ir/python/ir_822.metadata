@@ -1,0 +1,6 @@
+anyio._backends._trio.BlockingPortal.__init__
+f81cb65075bacafcd10003c963556bd8
+super
+==
+current_trio_token
+__init__

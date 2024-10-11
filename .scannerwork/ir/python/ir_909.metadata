@@ -1,0 +1,5 @@
+pip._vendor.pyproject_hooks._impl.BuildBackendHookCaller.prepare_metadata_for_build_wheel
+b62741a6d3b13c6b41cc362c1770e3f5
+os.path.abspath
+==
+_call_hook

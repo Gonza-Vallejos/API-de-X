@@ -1,0 +1,1 @@
+î 2pyXµhrDenv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/six.py

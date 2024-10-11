@@ -1,0 +1,24 @@
+
+1httpcore._backends.mock.AsyncMockStream.start_tlsd
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_backends/mock.pyg g("1*F
+2m m("7
+m m(+)
+'httpcore._backends.mock.AsyncMockStream*a
+1k k('M
+K
+i i(#
+%1"__id*3
+
+__unknown_file (*
+
+ssl"
+
+SSLContext*
+2:
+i i(#
+ssl_context:
+j j(-
+server_hostname:
+k k('	
+timeoutB+)
+'httpcore._backends.mock.AsyncMockStreamH

@@ -1,0 +1,14 @@
+pip._internal.commands.cache.CacheCommand.get_cache_info
+dc2fe53c39faaa50e3249a642ac37403
+textwrap.dedent
+len
+==
+directory_size
+strip
+_cache_dir
+format
+format_size
+format_directory_size
+_find_http_files
+_find_wheels
+info

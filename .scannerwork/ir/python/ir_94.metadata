@@ -1,0 +1,2 @@
+pip._internal.cli.base_command.Command.handle_pip_version_check
+55f71ae583a1b453a17e41f2e61d7e50

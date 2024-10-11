@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestFindAllByAttribute.test_find_all_with_string_for_attrs_finds_multiple_classes
+941b5af8bf73d05412d6aa413d2d5284
+==
+soup
+find_all

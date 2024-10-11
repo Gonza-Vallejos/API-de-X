@@ -1,0 +1,3 @@
+httpx._client.AsyncClient._init_proxy_transport
+f43fd12be5c2812bd13355801630d006
+httpx._transports.default.AsyncHTTPTransport.__init__

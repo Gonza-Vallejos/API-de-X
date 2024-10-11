@@ -1,0 +1,4 @@
+pip._vendor.requests.auth.HTTPBasicAuth.__eq__
+aac36109bf580e6033b215449083aa56
+all
+getattr

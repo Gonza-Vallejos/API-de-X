@@ -1,0 +1,5 @@
+pip._internal.utils.hashes.Hashes.check_against_file
+13aaa9e06ab6746773fc46fa621b43d8
+pip._internal.utils.misc.read_chunks
+==
+check_against_chunks

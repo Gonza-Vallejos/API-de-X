@@ -1,0 +1,9 @@
+pip._vendor.tomli._parser.parse_hex_char
+da71ff753e3fa2f9930076c99a4395d9
+len
+pip._vendor.tomli._parser.suffixed_err
+pip._vendor.tomli._parser.is_unicode_scalar_value
+chr
+int.__init__
+==
+issuperset

@@ -1,0 +1,9 @@
+pip._vendor.distlib.index.PackageIndex._reader
+12dc859007cc63d4eb5ba6e4b1bfaa88
+==
+debug
+rstrip
+decode
+close
+append
+readline

@@ -1,0 +1,9 @@
+pip._internal.req.req_install.InstallRequirement.uninstall
+2110ef51b5e7b0886688efd264e4cb2d
+pip._internal.req.req_uninstall.UninstallPathSet.from_dist
+pip._internal.metadata.get_default_environment
+==
+get_distribution
+warning
+remove
+info

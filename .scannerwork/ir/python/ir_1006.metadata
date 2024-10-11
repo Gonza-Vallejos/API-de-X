@@ -1,0 +1,4 @@
+pip._internal.utils.misc.is_console_interactive
+563e3d709f9a3847c9008bdd6e2f08f9
+==
+isatty

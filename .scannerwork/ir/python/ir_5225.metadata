@@ -1,0 +1,6 @@
+pip._internal.req.req_install.InstallRequirement._set_requirement
+888897f62324861cdc707873db50fafc
+pip._internal.utils.packaging.get_requirement
+pip._vendor.packaging.version.parse
+==
+join

@@ -1,0 +1,5 @@
+pip._vendor.urllib3.contrib._securetransport.low_level._cfstr
+2183e22a02ac2ada7f5bb01f62155ee6
+ctypes.c_char_p.__init__
+==
+CFStringCreateWithCString

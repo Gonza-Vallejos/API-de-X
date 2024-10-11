@@ -1,0 +1,8 @@
+pip._vendor.pygments.util.docstring_headline
+ff4bc9979df70168a40925bb37b42a81
+==
+strip
+splitlines
+lstrip
+join
+append

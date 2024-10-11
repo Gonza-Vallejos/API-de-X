@@ -1,0 +1,5 @@
+pip._vendor.rich.pretty.install.RichFormatter.__call__
+94cb375be6ea89b295ce9b9e13b0d9f3
+repr
+pip._vendor.rich.get_console
+pip._vendor.rich.pretty._ipy_display_hook

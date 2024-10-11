@@ -1,0 +1,184 @@
+
+httpx._models.Headers.values\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_models.pyÖ Ö("2*›
+2
+Ü Ü((
+
+Ü& Ü((
+%12"dictH
+F
+
+Ü Ü((
+values_dict"__id*#
+
+__unknown_file (
+
+%12]
+[
+
+á á('
+%13"__id*@
+
+__unknown_file ($*"
+httpx._models.Headers"
+_list*
+4
+6*}
+4
+é é(#VT
+
+é é(#
+%1"dict.values*+
+
+__unknown_file (
+
+values_dict2values"
+
+é é(#
+
+%1*«
+6
+à à(/_
+]
+
+à! à(.
+%7"__id*C
+
+__unknown_file ('*%
+httpx._models.Headers"
+
+encodingec
+
+à à(/
+%8*#
+
+__unknown_file (
+
+key*"
+
+__unknown_file (
+
+%72decodeC
+A
+
+à à(/	
+str_key"__id*"
+
+__unknown_file (
+
+%8_
+]
+
+â% â(2
+%9"__id*C
+
+__unknown_file ('*%
+httpx._models.Headers"
+
+encodinghf
+
+â â(3
+%10*%
+
+__unknown_file (	
+
+value*"
+
+__unknown_file (
+
+%92decodeF
+D
+
+â â(3
+	str_value"__id*#
+
+__unknown_file (
+
+%10çä
+
+ä ä(%
+%11"dict.__contains__*+
+
+__unknown_file (
+
+values_dict*'
+
+__unknown_file (
+	
+str_key2__contains__*
+7
+8*ã
+7
+ã ã(8°
+û
+
+ã ã($
+%2"4httpx._models.Headers.values.values_dict.__getitem__*+
+
+__unknown_file (
+
+values_dict*'
+
+__unknown_file (
+	
+str_keyQ
+O
+
+ã( ã(8
+%3"__concat*
+
+ã* ã(,
+, *
+
+ã- ã(6
+
+	str_valueJ
+H
+
+ã ã(8
+%4"__concat*
+
+ã ã($
+
+%2*
+
+ã( ã(8
+
+%3Æ´
+
+ã ã(8
+%5"dict.__setitem__*+
+
+__unknown_file (
+
+values_dict*'
+
+__unknown_file (
+	
+str_key*"
+
+__unknown_file (
+
+%42__setitem__*
+4
+6*œ
+8
+ç ç(0µ≤
+
+ç ç(0
+%6"dict.__setitem__*+
+
+__unknown_file (
+
+values_dict*'
+
+__unknown_file (
+	
+str_key*)
+
+__unknown_file (
+
+	str_value2__setitem__*
+4
+6B
+httpx._models.HeadersH

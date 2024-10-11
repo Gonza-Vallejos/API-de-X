@@ -1,0 +1,66 @@
+
+ client.Client.get_latest_friendsc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyÝ Ý( "2*ó
+2
+á ä(R
+P
+
+æ) æ(1
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+v11P
+N
+
+æ) æ(>
+%2"__id*4
+
+__unknown_file (*
+
+%1"
+friends_list¥¢
+
+å ç(	
+%3*-
+
+__unknown_file (
+client.Client*'
+
+__unknown_file (
+	
+user_id*+
+
+__unknown_file (
+
+screen_name*%
+
+__unknown_file (	
+
+count*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+
+cursor2_get_user_friendship_2"
+
+å ç(	
+
+%3:
+
+Þ Þ((	
+user_id:
+
+Þ* Þ(H
+screen_name:
+
+ß ß(
+count:
+
+ß ß(3
+cursorB
+client.ClientH

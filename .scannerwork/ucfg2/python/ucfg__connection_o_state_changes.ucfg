@@ -1,0 +1,189 @@
+
+4h11._connection.Connection._respond_to_state_changes^
+R/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/h11/_connection.pyÊ Ê(!"2*õ
+2
+Ð Ð(6e
+c
+
+Ð Ð(
+%9"__id*I
+
+__unknown_file (-*+
+h11._connection.Connection"
+	our_statee
+c
+
+Ð( Ð(5
+%10"__id*H
+
+__unknown_file (,**
+h11._connection.Connection"
+
+our_role}{
+
+Ð Ð(6
+%11"__mapGet**
+
+__unknown_file (
+
+
+old_states*#
+
+__unknown_file (
+
+%102__getitem__Ž
+‹
+
+Ð Ð(6
+%12"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+
+%11*
+5
+6*6
+3
+_connection.py"
+Õ Õ(
+implicit return*¹
+4
+Ó Ó(Of
+d
+
+Ó/ Ó(>
+%1"__id*J
+
+__unknown_file (.*,
+h11._connection.Connection"
+
+their_roleÕÒ
+
+Ó Ó(O
+%2*:
+
+__unknown_file (
+h11._connection.Connection*"
+
+__unknown_file (
+
+%1*%
+
+__unknown_file (	
+
+event*'
+
+__unknown_file (
+	
+READERS2_get_io_objectc
+a
+
+Ó Ó(O)
+h11._connection.Connection"	
+_reader"__id*"
+
+__unknown_file (
+
+%2*
+3*ô
+5
+Ò Ò(:g
+e
+
+Ò Ò(
+%3"__id*K
+
+__unknown_file (/*-
+h11._connection.Connection"
+their_statef
+d
+
+Ò* Ò(9
+%4"__id*J
+
+__unknown_file (.*,
+h11._connection.Connection"
+
+their_role{y
+
+Ò Ò(:
+%5"__mapGet**
+
+__unknown_file (
+
+
+old_states*"
+
+__unknown_file (
+
+%42__getitem__Œ
+‰
+
+Ò Ò(:
+%6"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%5*
+3
+4*·
+6
+Ñ Ñ(Md
+b
+
+Ñ/ Ñ(<
+%7"__id*H
+
+__unknown_file (,**
+h11._connection.Connection"
+
+our_roleÕÒ
+
+Ñ Ñ(M
+%8*:
+
+__unknown_file (
+h11._connection.Connection*"
+
+__unknown_file (
+
+%7*%
+
+__unknown_file (	
+
+event*'
+
+__unknown_file (
+	
+WRITERS2_get_io_objectc
+a
+
+Ñ Ñ(M)
+h11._connection.Connection"	
+_writer"__id*"
+
+__unknown_file (
+
+%8*
+5:
+
+Ì Ì(8
+
+old_states:
+
+Í Í(%
+eventB
+h11._connection.ConnectionH

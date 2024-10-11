@@ -1,0 +1,4 @@
+bs4.tests.test_pageelement.TestFormatters.test_prettify_outputs_unicode_by_default
+e688fd9309976abefbcef2fe988696ee
+==
+soup

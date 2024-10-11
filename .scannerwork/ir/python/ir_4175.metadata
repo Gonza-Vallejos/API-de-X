@@ -1,0 +1,7 @@
+bs4.builder._htmlparser.HTMLParserTreeBuilder.__init__
+72c29c14e74fb82146a49fed2c31fb27
+super
+dict.__init__
+==
+pop
+update

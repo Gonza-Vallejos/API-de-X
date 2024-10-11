@@ -1,0 +1,1 @@
+µ 2xmlX…hr|env/lib/python3.12/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_skeleton_for_xslt1.xsl

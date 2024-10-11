@@ -1,0 +1,7 @@
+pip._internal.utils.compatibility_tags._get_custom_platforms
+e5c6a4d8aadb589a02bbc0b5d1d1e55f
+pip._internal.utils.compatibility_tags._mac_platforms
+pip._internal.utils.compatibility_tags._custom_manylinux_platforms
+==
+startswith
+partition

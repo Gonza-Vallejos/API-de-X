@@ -1,0 +1,5 @@
+pip._vendor.platformdirs.windows.get_win_folder_from_env_vars
+c28804465045ab82a4ac0c9b54aae8dc
+pip._vendor.platformdirs.windows.get_win_folder_if_csidl_name_not_env_var
+==
+get

@@ -1,0 +1,5 @@
+pip._vendor.truststore._macos._bytes_to_cf_string
+b8488326b2d332eb75b3a44321ced75f
+ctypes.c_char_p.__init__
+==
+CFStringCreateWithCString

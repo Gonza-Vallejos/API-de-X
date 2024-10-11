@@ -1,0 +1,59 @@
+
+8pip._vendor.distro.distro.LinuxDistribution.id.normalizeh
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distro/distro.pyÇ Ç("2*û
+2
+È È(;QO
+
+È È()
+%1"	str.lower*)
+
+__unknown_file (
+
+	distro_id2lower•’
+
+È È(;
+%2"str.replace*"
+
+__unknown_file (
+
+%1*!
+
+__unknown_file (
+ *!
+
+__unknown_file (
+_2replaceE
+C
+
+È È(;
+	distro_id"__id*"
+
+__unknown_file (
+
+%2¡ž
+
+É É(2
+%3"dict.get*%
+
+__unknown_file (	
+
+table*)
+
+__unknown_file (
+
+	distro_id*)
+
+__unknown_file (
+
+	distro_id2get"
+
+É É(2
+
+%3:
+
+Ç Ç($
+	distro_id:
+
+Ç& Ç(;
+tableB/-
++pip._vendor.distro.distro.LinuxDistributionH

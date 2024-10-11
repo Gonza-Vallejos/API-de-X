@@ -1,0 +1,9 @@
+pip._vendor.distro.distro.LinuxDistribution._parse_os_release_content
+7ed5ace3bad13c1fa162f88a37b64ca1
+re.search
+shlex.shlex.__init__
+list.__init__
+==
+split
+lower
+group

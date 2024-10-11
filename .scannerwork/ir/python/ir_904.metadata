@@ -1,0 +1,6 @@
+pip._vendor.pyproject_hooks._impl.quiet_subprocess_runner
+2298730fc17fe57c95fdc6bc48d5550a
+subprocess.check_output
+==
+update
+copy

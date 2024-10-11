@@ -1,0 +1,5 @@
+anyio._core._synchronization.LockAdapter.statistics
+12e8bc192fc241115e5598ebec92df1b
+anyio._core._synchronization.LockStatistics.__init__
+==
+statistics

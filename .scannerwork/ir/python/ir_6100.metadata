@@ -1,0 +1,4 @@
+pip._vendor.pygments.filters.KeywordCaseFilter.__init__
+8f5bb6f6b84c2fdd737509121224b49b
+pip._vendor.pygments.util.get_choice_opt
+getattr

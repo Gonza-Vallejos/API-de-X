@@ -1,0 +1,92 @@
+
+0pip._internal.index.package_finder.LinkEvaluatoro
+e/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/index/package_finder.pyx x("4"5*r
+3
+package_finder.pyDB
+ù ù(
+%1"0pip._internal.index.package_finder.LinkEvaluator"
+ù ù(
+
+%1*Ô
+4
+ï ï()ä
+á
+
+ï ï()E2
+0pip._internal.index.package_finder.LinkEvaluator"
+_allow_yanked"__id*,
+
+__unknown_file (
+
+allow_yankedé
+ã
+
+ñ ñ(-G2
+0pip._internal.index.package_finder.LinkEvaluator"
+_canonical_name"__id*.
+
+__unknown_file (
+
+canonical_nameû
+õ
+
+ó ó(=O2
+0pip._internal.index.package_finder.LinkEvaluator"
+_ignore_requires_python"__id*6
+
+__unknown_file (
+
+ignore_requires_python
+}
+
+ò ò(@2
+0pip._internal.index.package_finder.LinkEvaluator"
+
+_formats"__id*'
+
+__unknown_file (
+	
+formatså
+â
+
+ô ô(+F2
+0pip._internal.index.package_finder.LinkEvaluator"
+_target_python"__id*-
+
+__unknown_file (
+
+target_pythonâ
+Ü
+
+õ õ((D2
+0pip._internal.index.package_finder.LinkEvaluator"
+project_name"__id*,
+
+__unknown_file (
+
+project_name*
+3*k
+5
+ì ì(*U
+S
+
+ì ì(*
+ignore_requires_python"__id*%
+
+__unknown_file (	
+
+False*
+4:
+z z(
+project_name:
+{ {(
+canonical_name:
+| |(	
+formats:
+} }(#
+target_python:
+~ ~(
+allow_yanked:$
+ (5
+ignore_requires_pythonB42
+0pip._internal.index.package_finder.LinkEvaluatorH

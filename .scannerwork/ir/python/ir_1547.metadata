@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.unix.Unix.user_music_dir
+1ad2868b76639659a1ff05f08e7625db
+pip._vendor.platformdirs.unix._get_user_media_dir

@@ -1,0 +1,4 @@
+pip._vendor.urllib3.contrib.appengine.AppEngineManager._get_retries
+9ee02732810cc62b41e1fac2a7f721cb
+warnings.warn
+pip._vendor.urllib3.util.retry.Retry.from_int

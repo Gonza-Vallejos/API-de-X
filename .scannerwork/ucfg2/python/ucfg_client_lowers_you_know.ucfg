@@ -1,0 +1,59 @@
+
+)client.Client.get_user_followers_you_knowc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyˇ ˇ()"2* 
+2
+Ç ê(R
+P
+
+í í($
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+gqlV
+T
+
+í í(7
+%2"__id*:
+
+__unknown_file (*
+
+%1"
+followers_you_knowˆÛ
+
+ë ì(	
+%3*-
+
+__unknown_file (
+client.Client*'
+
+__unknown_file (
+	
+user_id*%
+
+__unknown_file (	
+
+count*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+
+cursor2_get_user_friendship"
+
+ë ì(	
+
+%3:
+
+Ä Ä(	
+user_id:
+
+Ä Ä(+
+count:
+
+Ä- Ä(F
+cursorB
+client.ClientH

@@ -1,0 +1,6 @@
+httpcore._backends.sync.SyncStream.get_extra_info
+af026e3c0155e67a9f7efc4ebb47e9eb
+httpcore._utils.is_socket_readable
+==
+getsockname
+getpeername

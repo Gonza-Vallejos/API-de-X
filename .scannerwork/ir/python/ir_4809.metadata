@@ -1,0 +1,6 @@
+pip._internal.models.direct_url.DirectUrl.redacted_url
+87b12be4ff90667d72193162f31d6d38
+urllib.parse.urlsplit
+urllib.parse.urlunsplit
+==
+_remove_auth_from_netloc

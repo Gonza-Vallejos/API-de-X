@@ -1,0 +1,5 @@
+pip._internal.cli.main_parser.identify_python_interpreter
+de6209604bebf270d76c27e3379eab37
+os.path.isdir
+os.path.join
+os.path.exists

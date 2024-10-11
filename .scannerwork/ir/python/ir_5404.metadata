@@ -1,0 +1,5 @@
+pip._vendor.urllib3.response.BrotliDecoder.__init__
+a8ff523ea34c57535ab75924ea64f14c
+hasattr
+==
+Decompressor

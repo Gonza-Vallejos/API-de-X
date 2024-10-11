@@ -1,0 +1,90 @@
+
+Ibs4.tests.HTMLTreeBuilderSmokeTest.test_entities_converted_on_the_way_outa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyÆ Æ(."2*ë
+2
+Ø Ø(>k
+i
+
+Ø Ø(>
+text"__id*M
+
+__unknown_file (1/
+-<p>&lt;&lt;sacr&eacute;&#32;bleu!&gt;&gt;</p>∂≥
+
+∞ ∞(i
+%1"
+str.encode*d
+
+__unknown_file (HF
+D<p>&lt;&lt;sacr\N{LATIN SMALL LETTER E WITH ACUTE} bleu!&gt;&gt;</p>*%
+
+__unknown_file (	
+utf-82encodeD
+B
+
+∞ ∞(i
+
+expected"__id*"
+
+__unknown_file (
+
+%1ÖÇ
+
+± ±(
+%2*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*$
+
+__unknown_file (
+
+text2soup@
+>
+
+± ±(
+soup"__id*"
+
+__unknown_file (
+
+%2G
+E
+
+≤ ≤(
+%3"__id*+
+
+__unknown_file (*
+
+soup"
+pge
+
+≤ ≤(%
+%4*"
+
+__unknown_file (
+
+%3*%
+
+__unknown_file (	
+utf-82encodeí
+è
+
+≤ ≤(1
+%5"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%4*(
+
+__unknown_file (
+
+
+expected*
+3*3
+3
+__init__.py"
+¥ ¥(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

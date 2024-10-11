@@ -1,0 +1,58 @@
+
+$gql.GQLClient.fetch_scheduled_tweets`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py• •($"2*¤
+2
+– –('
+
+– –('
+%1"dict”
+‘
+
+– –(&
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+	ascending*$
+
+__unknown_file (
+
+TrueE
+C
+
+– –('
+	variables"__id*"
+
+__unknown_file (
+
+%1d
+b
+
+—" —(A
+%3"__id*H
+
+__unknown_file (,**
+gql.Endpoint"
+FETCH_SCHEDULED_TWEETSœ™
+
+— —(M
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables2gql_get"
+
+— —(M
+
+%4B
+gql.GQLClientH

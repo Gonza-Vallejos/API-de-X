@@ -1,0 +1,1 @@
+Š	 2pyXòhrFenv/lib/python3.12/site-packages/pip/_vendor/urllib3/connectionpool.py

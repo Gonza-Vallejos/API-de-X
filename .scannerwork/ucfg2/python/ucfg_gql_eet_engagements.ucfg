@@ -1,0 +1,124 @@
+
+gql.GQLClient.tweet_engagements`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyù ù("2*À
+2
+û ¢(	
+
+û ¢(	
+%3"dictñ
+ì
+
+ü ü(
+%4"__mapSet*"
+
+__unknown_file (
+
+%3*'
+
+__unknown_file (	
+tweetId*(
+
+__unknown_file (
+
+
+tweet_idë
+é
+
+† †(
+%5"__mapSet*"
+
+__unknown_file (
+
+%3*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+count°
+û
+
+° °(*
+%6"__mapSet*"
+
+__unknown_file (
+
+%3*6
+
+__unknown_file (
+includePromotedContent*$
+
+__unknown_file (
+
+TrueE
+C
+
+û ¢(	
+	variables"__id*"
+
+__unknown_file (
+
+%3*
+4
+5*Ù
+4
+• •(@Ã…
+
+• •(@
+%1*-
+
+__unknown_file (
+gql.GQLClient*(
+
+__unknown_file (
+
+
+endpoint*)
+
+__unknown_file (
+
+	variables*(
+
+__unknown_file (
+
+
+FEATURES2gql_get"
+
+• •(@
+
+%1*∆
+5
+§ §((Ø¨
+
+§ §((
+%2"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+ù& ù(.
+
+tweet_id:
+
+ù0 ù(5
+count:
+
+ù7 ù(=
+cursor:
+
+ù? ù(G
+
+endpointB
+gql.GQLClientH

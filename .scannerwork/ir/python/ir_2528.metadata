@@ -1,0 +1,7 @@
+pip._vendor.pygments.plugin.iter_entry_points
+4caa003ef139a59c0ad68f2ca1e4341d
+hasattr
+importlib.metadata.entry_points
+==
+select
+get

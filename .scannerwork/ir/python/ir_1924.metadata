@@ -1,0 +1,6 @@
+anyio._backends._asyncio._RawSocketMixin.aclose
+31ca5ca6fdab2758406692c31c3ea041
+==
+fileno
+set_result
+close

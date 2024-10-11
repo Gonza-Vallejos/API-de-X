@@ -1,0 +1,6 @@
+pip._vendor.requests.utils.get_encoding_from_headers
+c0f5489d2300199b0de589af30e69340
+pip._vendor.requests.utils._parse_content_type_header
+==
+strip
+get

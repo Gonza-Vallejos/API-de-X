@@ -1,0 +1,72 @@
+
+>bs4.tests.test_pageelement.TestFormatters.test_formatter_html5g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.pya a("2*Ù
+2b b([á
+Ñ
+b b([
+markup"__id*h
+
+__unknown_file (LJ
+H<br><b>&lt;&lt;Sacr\N{LATIN SMALL LETTER E WITH ACUTE} bleu!&gt;&gt;</b>åâ
+c c( 
+%1*I
+
+__unknown_file (-+
+)bs4.tests.test_pageelement.TestFormatters*&
+
+__unknown_file (
+
+
+markup2soup>
+<
+c c( 
+soup"__id*"
+
+__unknown_file (
+
+%1tr
+d d(0
+%2*$
+
+__unknown_file (
+
+soup2decode:2
+	formatter%
+
+__unknown_file (	
+html5A
+?
+d d(0	
+decoded"__id*"
+
+__unknown_file (
+
+%2ª∏
+e g(	
+%3*I
+
+__unknown_file (-+
+)bs4.tests.test_pageelement.TestFormatters*M
+
+__unknown_file (1/
+-<br><b>&lt;&lt;Sacr&eacute; bleu!&gt;&gt;</b>2document_forè
+å
+e g(	
+%4"	__compare*"
+
+__unknown_file (
+==*'
+
+__unknown_file (
+	
+decoded*"
+
+__unknown_file (
+
+%3*
+3*9
+3
+test_pageelement.py"
+i i(
+implicit returnB-+
+)bs4.tests.test_pageelement.TestFormattersH

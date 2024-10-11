@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestNextOperations.test_find_all_next
+9ec936ccb13aeeddda5d3e42938136b0
+==
+assert_selects
+find_all_next

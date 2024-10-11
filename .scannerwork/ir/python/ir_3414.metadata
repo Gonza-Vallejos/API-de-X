@@ -1,0 +1,6 @@
+pip._internal.network.auth.MultiDomainBasicAuth._prompt_for_password
+92d17de3e2d87fa5d35cef86b46b4bc4
+pip._internal.utils.misc.ask_password
+pip._internal.utils.misc.ask_input
+==
+_get_keyring_auth

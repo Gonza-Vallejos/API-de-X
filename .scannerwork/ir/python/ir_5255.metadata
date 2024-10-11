@@ -1,0 +1,5 @@
+anyio._core._tasks.CancelScope.__new__
+eea8b2ae3d0113147203980220237136
+anyio._core._eventloop.get_async_backend
+==
+create_cancel_scope

@@ -1,0 +1,8 @@
+pip._vendor.urllib3.connectionpool.HTTPSConnectionPool._validate_conn
+0a11400ce54bc31d0d6df2761ad614f2
+super
+warnings.warn
+getattr
+==
+_validate_conn
+connect

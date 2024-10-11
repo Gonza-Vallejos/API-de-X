@@ -1,0 +1,72 @@
+
+client.Client.set_cookiesc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.py¦ ¦("4"5*1
+3
+	client.py"
+¿ ¿(
+implicit return*¡
+4
+½ ½()S
+Q
+
+½ ½(
+%1"__id*7
+
+__unknown_file (*
+client.Client"
+httpK
+I
+
+½ ½(
+%2"__id*/
+
+__unknown_file (*
+
+%1"	
+cookiesig
+
+½ ½()
+%3*"
+
+__unknown_file (
+
+%2*'
+
+__unknown_file (
+	
+cookies2update*
+3*÷
+5
+¼ ¼(%S
+Q
+
+¼ ¼(
+%4"__id*7
+
+__unknown_file (*
+client.Client"
+httpK
+I
+
+¼ ¼(
+%5"__id*/
+
+__unknown_file (*
+
+%4"	
+cookies?=
+
+¼ ¼(%
+%6*"
+
+__unknown_file (
+
+%52clear*
+4:
+
+¦ ¦('	
+cookies:
+
+¦) ¦(D
+clear_cookiesB
+client.ClientH

@@ -1,0 +1,7 @@
+bs4.builder.HTMLTreeBuilder.set_up_substitutions
+3bf6f3d3c4460e58b3448f8b3ae0883d
+bs4.element.CharsetMetaAttributeValue.__init__
+bs4.element.ContentMetaAttributeValue.__init__
+==
+get
+lower

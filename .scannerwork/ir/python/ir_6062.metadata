@@ -1,0 +1,4 @@
+pip._vendor.requests.models.Response.__init__
+cfc1ce7e8c2b36e989285b3a1f9012a1
+datetime.timedelta.__init__
+pip._vendor.requests.cookies.cookiejar_from_dict

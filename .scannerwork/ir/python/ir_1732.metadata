@@ -1,0 +1,5 @@
+anyio._core._synchronization.CapacityLimiterAdapter._limiter
+f20f9c8b0e22121bb31428750256f8ec
+anyio._core._eventloop.get_async_backend
+==
+create_capacity_limiter

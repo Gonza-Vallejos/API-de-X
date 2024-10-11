@@ -1,0 +1,65 @@
+
+-pip._vendor.distlib.util.ExportEntry.__repr__g
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/util.pyÎ Î("2*ƒ
+2
+Ï Ð(Hj
+h
+
+Ï0 Ï(9
+%1"__id*N
+
+__unknown_file (2*0&
+$pip._vendor.distlib.util.ExportEntry"
+namel
+j
+
+Ï; Ï(F
+%2"__id*P
+
+__unknown_file (4*2&
+$pip._vendor.distlib.util.ExportEntry"
+prefixl
+j
+
+Ð0 Ð(;
+%3"__id*P
+
+__unknown_file (4*2&
+$pip._vendor.distlib.util.ExportEntry"
+suffixk
+i
+
+Ð= Ð(G
+%4"__id*O
+
+__unknown_file (3*1&
+$pip._vendor.distlib.util.ExportEntry"
+flags¦
+£
+
+Ï Ð(H
+%5"__concat*-
+
+Ï Ï(,
+<ExportEntry %s = %s:%s %s>*
+
+Ï0 Ï(9
+
+%1*
+
+Ï; Ï(F
+
+%2*
+
+Ð0 Ð(;
+
+%3*
+
+Ð= Ð(G
+
+%4"
+
+Ï Ð(H
+
+%5B(&
+$pip._vendor.distlib.util.ExportEntryH

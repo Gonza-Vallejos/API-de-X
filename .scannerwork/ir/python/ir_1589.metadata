@@ -1,0 +1,2 @@
+httpx._transports.base.AsyncBaseTransport.handle_async_request
+56e37e427244ee84599fd302e60be2c0

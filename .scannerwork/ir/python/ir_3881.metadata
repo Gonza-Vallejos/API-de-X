@@ -1,0 +1,6 @@
+pip._vendor.platformdirs.windows.Windows.user_runtime_dir
+fb1769cfcd1d031843ac3b40e400c442
+os.path.normpath
+os.path.join
+==
+_append_parts

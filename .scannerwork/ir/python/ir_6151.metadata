@@ -1,0 +1,8 @@
+lxml.doctestcompare.LXMLOutputChecker.text_compare
+44a917fdf9afa21c742f5a36756687ff
+lxml.doctestcompare.norm_whitespace
+re.escape
+re.search
+==
+strip
+replace

@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_angle_brackets_in_attribute_values_are_escaped
+bdebbe8d84a95b419c6d7e777888b15c
+==
+assert_soup

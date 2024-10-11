@@ -1,0 +1,3 @@
+pip._vendor.pkg_resources.DefaultProvider._isdir
+69947ce19fd0ce470489e955e889fab1
+os.path.isdir

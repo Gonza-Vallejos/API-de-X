@@ -1,0 +1,75 @@
+
+Dbs4.tests.test_tag.TestTag.test_tag_with_recursive_string_has_string_
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tag.pyd d(1"2*Ö
+2g g(-ˆ…
+g g(-
+%1*:
+
+__unknown_file (
+bs4.tests.test_tag.TestTag*1
+
+__unknown_file (
+<a><b>foo</b></a>2soup>
+<
+g g(-
+soup"__id*"
+
+__unknown_file (
+
+%1E
+C
+h h(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+aH
+F
+h h(
+%3"__id*.
+
+__unknown_file (*
+
+%2"
+string‹
+ˆ
+h h(%
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*#
+
+__unknown_file (
+fooJ
+H
+i i(
+%5"__id*0
+
+__unknown_file (*
+
+soup"
+string‹
+ˆ
+i i(#
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5*#
+
+__unknown_file (
+foo*
+3*1
+3
+test_tag.py"
+k k(
+implicit returnB
+bs4.tests.test_tag.TestTagH

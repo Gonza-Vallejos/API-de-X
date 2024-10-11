@@ -1,0 +1,5 @@
+bs4.tests.test_soup.TestWarnings._assert_no_parser_specified
+171d4a44b18e13cc7950b6535a64dbaa
+str.__init__
+==
+_assert_warning

@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_unclosed_tags_get_closed
+6519b68c4e88c61d813972510e4ba78b
+==
+assert_soup

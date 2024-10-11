@@ -1,0 +1,5 @@
+pip._vendor.distlib.database.DistributionPath._generate_cache
+453962d2da13f7ffd74a0f4bc380e3e1
+==
+add
+_yield_distributions

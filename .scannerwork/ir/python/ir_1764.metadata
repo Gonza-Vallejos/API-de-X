@@ -1,0 +1,13 @@
+httpcore._sync.socks_proxy._init_socks5_connection
+83c14e7a42580974329cc01459d83774
+==
+SOCKS5UsernamePasswordRequest
+SOCKS5Connection
+read
+get
+data_to_send
+SOCKS5AuthMethodsRequest
+receive_data
+send
+write
+from_address

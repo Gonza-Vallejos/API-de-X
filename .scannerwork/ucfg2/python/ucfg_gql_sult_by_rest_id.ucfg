@@ -1,0 +1,192 @@
+
+%gql.GQLClient.tweet_result_by_rest_id`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py§ §(%"2*˛
+2
+• ™(	
+
+• ™(	
+%1"dictñ
+ì
+
+¶ ¶(
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (	
+tweetId*(
+
+__unknown_file (
+
+
+tweet_idô
+ñ
+
+ß ß("
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*-
+
+__unknown_file (
+withCommunity*%
+
+__unknown_file (	
+
+False¢
+ü
+
+® ®(+
+%4"__mapSet*"
+
+__unknown_file (
+
+%1*6
+
+__unknown_file (
+includePromotedContent*%
+
+__unknown_file (	
+
+Falseï
+í
+
+© ©(
+%5"__mapSet*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+	withVoice*%
+
+__unknown_file (	
+
+FalseE
+C
+
+• ™(	
+	variables"__id*"
+
+__unknown_file (
+
+%1
+
+´ ±(	
+%6"dict
+
+¨ ∞(
+%7"dict¶
+£
+
+≠ ≠(3
+%8"__mapSet*"
+
+__unknown_file (
+
+%7*;
+
+__unknown_file (
+withArticleRichContentState*$
+
+__unknown_file (
+
+True†
+ù
+
+Æ Æ(-
+%9"__mapSet*"
+
+__unknown_file (
+
+%7*4
+
+__unknown_file (
+withArticlePlainText*%
+
+__unknown_file (	
+
+Falseú
+ô
+
+Ø Ø((
+%10"__mapSet*"
+
+__unknown_file (
+
+%7*/
+
+__unknown_file (
+withGrokAnalyze*%
+
+__unknown_file (	
+
+Falseñ
+ì
+
+¨ ∞(
+%11"__mapSet*"
+
+__unknown_file (
+
+%6*,
+
+__unknown_file (
+fieldToggles*"
+
+__unknown_file (
+
+%7B
+@
+
+´ ±(	
+params"__id*"
+
+__unknown_file (
+
+%6f
+d
+
+≥ ≥(,
+%12"__id*I
+
+__unknown_file (-*+
+gql.Endpoint"
+TWEET_RESULT_BY_REST_IDòï
+
+≤ ¥(	
+%13*-
+
+__unknown_file (
+gql.GQLClient*#
+
+__unknown_file (
+
+%12*)
+
+__unknown_file (
+
+	variables*@
+
+__unknown_file ($
+"
+ TWEET_RESULT_BY_REST_ID_FEATURES2gql_get:6
+extra_params&
+
+__unknown_file (
+
+
+params"
+
+≤ ¥(	
+
+%13:
+
+§, §(4
+
+tweet_idB
+gql.GQLClientH

@@ -1,0 +1,5 @@
+pip._vendor.rich.text.Text.truncate
+459926c6e8a9e37c07565bf3f150d084
+len
+pip._vendor.rich.cells.cell_len
+pip._vendor.rich.cells.set_cell_size

@@ -1,0 +1,6 @@
+anyio._core._sockets.connect_unix
+5af8fc583a812fb838404494ddb450e6
+os.fspath
+anyio._core._eventloop.get_async_backend
+==
+connect_unix

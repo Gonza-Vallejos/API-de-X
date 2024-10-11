@@ -1,0 +1,2 @@
+bs4.tests.test_dammit.TestEntitySubstitution.test_xml_quoting_ignoring_ampersands_when_they_are_part_of_an_entity
+a5823c3aad5d0e446a86f41a96a1b50a

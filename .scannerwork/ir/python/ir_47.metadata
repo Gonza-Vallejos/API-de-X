@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_multivalued_attribute_value_becomes_list
+52ddfa9f2530560d454c58c73f658e5c
+==
+soup

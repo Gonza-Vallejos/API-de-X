@@ -1,0 +1,8 @@
+pip._vendor.urllib3.poolmanager.ProxyManager.__init__
+899ce3538725d6dc73c82def96e8996d
+super
+pip._vendor.urllib3.exceptions.ProxySchemeUnknown.__init__
+pip._vendor.urllib3.util.url.parse_url
+==
+get
+_replace

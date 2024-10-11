@@ -1,0 +1,4 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.move_cursor_to_column
+e390e0d01d4191d6589f59ec1d31eeec
+pip._vendor.rich._win32_console.WindowsCoordinates.__init__
+pip._vendor.rich._win32_console.SetConsoleCursorPosition

@@ -1,0 +1,6 @@
+bs4.tests.test_pageelement.TestPersistence.test_unicode_pickle
+f024e918f517c909b6bbd4f9e0cbdf78
+pickle.loads
+pickle.dumps
+==
+soup

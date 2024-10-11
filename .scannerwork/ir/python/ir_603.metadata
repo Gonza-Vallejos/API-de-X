@@ -1,0 +1,5 @@
+pip._vendor.rich.print_json
+d7e49f1db71d0d2fb614899bb061f0e9
+pip._vendor.rich.get_console
+==
+print_json

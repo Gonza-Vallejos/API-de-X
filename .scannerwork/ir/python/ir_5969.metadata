@@ -1,0 +1,7 @@
+pip._vendor.rich.console.Console.export_svg.get_svg_style
+094047f21e60994dced475ef171b3fa9
+pip._vendor.rich.color.blend_rgb
+==
+join
+get_truecolor
+append

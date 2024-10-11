@@ -1,0 +1,6 @@
+pip._vendor.requests.models.PreparedRequest.copy
+2558ef8e77fc9a3b5ef7e5d10467a68c
+pip._vendor.requests.cookies._copy_cookie_jar
+pip._vendor.requests.models.PreparedRequest.__init__
+==
+copy

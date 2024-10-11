@@ -1,0 +1,4 @@
+pip._vendor.pkg_resources.ensure_directory
+3c5a7c99c3b401b314405fbb143ae7bc
+os.path.dirname
+os.makedirs

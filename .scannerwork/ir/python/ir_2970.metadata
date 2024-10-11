@@ -1,0 +1,11 @@
+pip._vendor.urllib3.connection.HTTPSConnection._connect_tls_proxy
+49d0b388ec0d6ac070c95301e6670f6a
+pip._vendor.urllib3.connection._match_hostname
+warnings.warn
+pip._vendor.urllib3.util.ssl_.ssl_wrap_socket
+pip._vendor.urllib3.util.proxy.create_proxy_ssl_context
+getattr
+==
+get
+format
+getpeercert

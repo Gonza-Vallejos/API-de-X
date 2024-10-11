@@ -1,0 +1,101 @@
+
+#v11.V11Client.upload_media_finelize`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.pyõ õ(#"2*Î
+2
+ú ü(	
+
+ú ü(	
+%1"dictñ
+ì
+
+ù ù(!
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (	
+command*(
+
+__unknown_file (
+
+FINALIZEó
+î
+
+û û( 
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*(
+
+__unknown_file (
+
+media_id*(
+
+__unknown_file (
+
+
+media_idB
+@
+
+ú ü(	
+params"__id*"
+
+__unknown_file (
+
+%1S
+Q
+
+§ §(
+%4"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+§ §(+
+%5"__id*5
+
+__unknown_file (*
+
+%4"
+_base_headersàÖ
+
+† •(	
+%6*-
+
+__unknown_file (
+v11.V11Client*$
+
+__unknown_file (
+POST*-
+
+__unknown_file (
+
+is_long_video2upload_media:0
+params&
+
+__unknown_file (
+
+
+params:-
+headers"
+
+__unknown_file (
+
+%5"
+
+† •(	
+
+%6:
+
+õ* õ(7
+is_long_video:
+
+õ9 õ(A
+
+media_idB
+v11.V11ClientH

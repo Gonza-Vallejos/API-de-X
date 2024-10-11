@@ -1,0 +1,3 @@
+pip._internal.utils.unpacking.current_umask
+fbcb40e263658e5747f636790087f770
+os.umask

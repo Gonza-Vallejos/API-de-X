@@ -1,0 +1,63 @@
+
+$gql.GQLClient.delete_scheduled_tweet`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyô ô($"2*≤
+2
+ö ö(4
+
+ö ö(4
+%1"dict°
+û
+
+ö ö(3
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*2
+
+__unknown_file (
+scheduled_tweet_id*(
+
+__unknown_file (
+
+
+tweet_idE
+C
+
+ö ö(4
+	variables"__id*"
+
+__unknown_file (
+
+%1d
+b
+
+õ# õ(B
+%3"__id*H
+
+__unknown_file (,**
+gql.Endpoint"
+DELETE_SCHEDULED_TWEETùö
+
+õ õ(N
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+õ õ(N
+
+%4:
+
+ô+ ô(3
+
+tweet_idB
+gql.GQLClientH

@@ -1,0 +1,7 @@
+anyio.streams.memory.MemoryObjectReceiveStream.receive_nowait
+f8293d573297be823eaaed3ca2e0435a
+==
+set
+popleft
+popitem
+append

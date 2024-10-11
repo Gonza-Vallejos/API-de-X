@@ -1,0 +1,4 @@
+pip._vendor.distlib.util.in_venv
+b467baddebb194fd0788a80298fbad7b
+hasattr
+getattr

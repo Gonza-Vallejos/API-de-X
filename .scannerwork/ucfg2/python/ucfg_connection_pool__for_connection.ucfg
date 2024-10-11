@@ -1,0 +1,57 @@
+
+>httpcore._sync.connection_pool.PoolRequest.wait_for_connectionk
+a/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py ("2*‹
+2" "("t
+r
+" "(
+%5"__id*Z
+
+__unknown_file (>*<,
+*httpcore._sync.connection_pool.PoolRequest"
+
+connection*
+4
+5*
+4$ $(*t
+r
+$ $(
+%1"__id*Z
+
+__unknown_file (>*<,
+*httpcore._sync.connection_pool.PoolRequest"
+
+connectiont
+r
+% %(
+%2"__id*Z
+
+__unknown_file (>*<,
+*httpcore._sync.connection_pool.PoolRequest"
+
+connection"
+% %(
+
+%2*„
+5# #(;~
+|
+# #(%
+%3"__id*d
+
+__unknown_file (H*F,
+*httpcore._sync.connection_pool.PoolRequest"
+_connection_acquiredpn
+# #(;
+%4*"
+
+__unknown_file (
+
+%32wait:2
+timeout'
+
+__unknown_file (
+	
+timeout*
+4:
+   (-	
+timeoutB.,
+*httpcore._sync.connection_pool.PoolRequestH

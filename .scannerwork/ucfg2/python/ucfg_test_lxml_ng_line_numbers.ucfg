@@ -1,0 +1,106 @@
+
+Bbs4.tests.test_lxml.TestLXMLTreeBuilder.test_tracking_line_numbers`
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_lxml.pyG G(""2*∏
+2O R(	Å˛
+O R(	
+%1*G
+
+__unknown_file (+)
+'bs4.tests.test_lxml.TestLXMLTreeBuilder*a
+
+__unknown_file (EC
+A\n   <p>\n\n<sourceline>\n<b>text</b></sourceline><sourcepos></p>2soup::
+store_line_numbers$
+
+__unknown_file (
+
+True>
+<
+O R(	
+soup"__id*"
+
+__unknown_file (
+
+%1E
+C
+S S(%
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+pL
+J
+S S(0
+%3"__id*2
+
+__unknown_file (*
+
+%2"
+
+sourcelineF
+D
+S S(5
+%4"__id*,
+
+__unknown_file (*
+
+%3"
+nameí
+è
+S S(5
+%5"	__compare*"
+
+__unknown_file (
+==**
+
+__unknown_file (
+
+sourceline*"
+
+__unknown_file (
+
+%4E
+C
+T T($
+%6"__id*+
+
+__unknown_file (*
+
+soup"
+pK
+I
+T T(.
+%7"__id*1
+
+__unknown_file (*
+
+%6"
+	sourceposF
+D
+T T(3
+%8"__id*,
+
+__unknown_file (*
+
+%7"
+nameë
+é
+T T(3
+%9"	__compare*"
+
+__unknown_file (
+==*)
+
+__unknown_file (
+	sourcepos*"
+
+__unknown_file (
+
+%8*
+3*0
+3
+test_lxml.py"
+V V
+implicit returnB+)
+'bs4.tests.test_lxml.TestLXMLTreeBuilderH

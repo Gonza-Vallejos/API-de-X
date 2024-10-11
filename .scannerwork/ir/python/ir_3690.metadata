@@ -1,0 +1,5 @@
+anyio.lowlevel.current_token
+c577ac74df9fda1dc0803c4b9fc0b65f
+anyio._core._eventloop.get_async_backend
+==
+current_token

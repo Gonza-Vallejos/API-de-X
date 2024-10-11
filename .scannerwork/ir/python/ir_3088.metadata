@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.api.PlatformDirsABC.site_config_path
+ca6f952e7dc047773535ad08d2ab0df7
+pathlib.Path.__init__

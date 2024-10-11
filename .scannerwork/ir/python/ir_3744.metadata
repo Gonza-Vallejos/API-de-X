@@ -1,0 +1,3 @@
+pip._internal.req.req_set.RequirementSet.get_requirement
+168f9e3515843e26d89fabbedf7a5188
+pip._vendor.packaging.utils.canonicalize_name

@@ -1,0 +1,85 @@
+
+ gql.GQLClient.list_remove_member`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py¥ ¥( "2*ç
+2
+¦ ©(	
+
+¦ ©(	
+%1"dict”
+‘
+
+§ §(
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*&
+
+__unknown_file (
+
+listId*'
+
+__unknown_file (
+	
+list_id”
+‘
+
+¨ ¨(
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*&
+
+__unknown_file (
+
+userId*'
+
+__unknown_file (
+	
+user_idE
+C
+
+¦ ©(	
+	variables"__id*"
+
+__unknown_file (
+
+%1`
+^
+
+ª# ª(>
+%4"__id*D
+
+__unknown_file ((*&
+gql.Endpoint"
+LIST_REMOVE_MEMBERÌÉ
+
+ª ª(Y
+%5*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%4*)
+
+__unknown_file (
+
+	variables*-
+
+__unknown_file (
+
+LIST_FEATURES2gql_post"
+
+ª ª(Y
+
+%5:
+
+¥' ¥(.	
+list_id:
+
+¥0 ¥(7	
+user_idB
+gql.GQLClientH

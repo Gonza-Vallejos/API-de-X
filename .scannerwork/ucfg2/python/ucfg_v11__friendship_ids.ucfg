@@ -1,0 +1,164 @@
+
+v11.V11Client._friendship_ids`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.py— —("2*‘
+2
+˜ ˜(!
+
+˜ ˜(!
+%8"dict‘
+Ž
+
+˜ ˜( 
+%9"__mapSet*"
+
+__unknown_file (
+
+%8*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+countB
+@
+
+˜ ˜(!
+params"__id*"
+
+__unknown_file (
+
+%8*
+4
+5
+7
+8*î
+4
+¡ ¥(	S
+Q
+
+¡ ¡(
+%1"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseS
+Q
+
+¤ ¤(
+%2"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+¤ ¤(+
+%3"__id*5
+
+__unknown_file (*
+
+%2"
+_base_headersÉÆ
+
+¡ ¥(	
+%4*"
+
+__unknown_file (
+
+%1*(
+
+__unknown_file (
+
+
+endpoint2get:0
+params&
+
+__unknown_file (
+
+
+params:-
+headers"
+
+__unknown_file (
+
+%3"
+
+¡ ¥(	
+
+%4*Ã
+5
+Ÿ Ÿ(%¬©
+
+Ÿ Ÿ(%
+%5"dict.__setitem__*&
+
+__unknown_file (
+
+
+params*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4*È
+7
+š š('®«
+
+š š('
+%6"dict.__setitem__*&
+
+__unknown_file (
+
+
+params*'
+
+__unknown_file (	
+user_id*'
+
+__unknown_file (
+	
+user_id2__setitem__*
+4
+5*Ð
+8
+œ œ(/¶³
+
+œ œ(/
+%7"dict.__setitem__*&
+
+__unknown_file (
+
+
+params*+
+
+__unknown_file (
+screen_name*+
+
+__unknown_file (
+
+screen_name2__setitem__*
+4
+5:
+
+—$ —(+	
+user_id:
+
+—- —(8
+screen_name:
+
+—: —(?
+count:
+
+—A —(I
+
+endpoint:
+
+—K —(Q
+cursorB
+v11.V11ClientH

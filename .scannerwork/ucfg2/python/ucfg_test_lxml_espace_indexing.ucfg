@@ -1,0 +1,332 @@
+
+Bbs4.tests.test_lxml.TestLXMLXMLTreeBuilder.test_namespace_indexing`
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_lxml.pya a("2*â
+2b l(	ùö
+b l(	
+%1*J
+
+__unknown_file (.,
+*bs4.tests.test_lxml.TestLXMLXMLTreeBuilder*‘
+
+__unknown_file (ôñ
+î<?xml version="1.1"?>\n<root><tag xmlns="http://unprefixed-namespace.com">content</tag><prefix:tag2 xmlns:prefix="http://prefixed-namespace.com">content</prefix:tag2><prefix2:tag3 xmlns:prefix2="http://another-namespace.com"><subtag xmlns="http://another-unprefixed-namespace.com"><subsubtag xmlns="http://yet-another-unprefixed-namespace.com"></prefix2:tag3></root>2soup>
+<
+b l(	
+soup"__id*"
+
+__unknown_file (
+
+%1O
+M
+u u(
+%2"__id*5
+
+__unknown_file (*
+
+soup"
+_namespaces
+u# y(	
+%3"dict¬
+©
+v v(9
+%4"__mapSet*"
+
+__unknown_file (
+
+%3*#
+
+__unknown_file (
+xml*D
+
+__unknown_file ((&
+$http://www.w3.org/XML/1998/namespace¨
+¥
+w w(5
+%5"__mapSet*"
+
+__unknown_file (
+
+%3*&
+
+__unknown_file (
+
+prefix*=
+
+__unknown_file (!
+http://prefixed-namespace.com¨
+¥
+x x(5
+%6"__mapSet*"
+
+__unknown_file (
+
+%3*'
+
+__unknown_file (	
+prefix2*<
+
+__unknown_file ( 
+http://another-namespace.comŠ
+‡
+u y(	
+%7"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3I
+G
+
+‚ ‚(
+%8"__id*-
+
+__unknown_file (*
+
+soup"
+tagO
+M
+
+‚ ‚(#
+%9"__id*3
+
+__unknown_file (*
+
+%8"
+_namespaces
+
+‚' „(	
+%10"dict°
+­
+
+ƒ ƒ(9
+%11"__mapSet*#
+
+__unknown_file (
+
+%10*#
+
+__unknown_file (
+xml*D
+
+__unknown_file ((&
+$http://www.w3.org/XML/1998/namespaceŽ
+‹
+
+‚ „(	
+%12"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+
+%10K
+I
+
+† †(
+%13"__id*.
+
+__unknown_file (*
+
+soup"
+tag2Q
+O
+
+† †($
+%14"__id*4
+
+__unknown_file (*
+
+%13"
+_namespaces
+
+†( ‰(	
+%15"dict¬
+©
+
+‡ ‡(5
+%16"__mapSet*#
+
+__unknown_file (
+
+%15*&
+
+__unknown_file (
+
+prefix*=
+
+__unknown_file (!
+http://prefixed-namespace.com°
+­
+
+ˆ ˆ(9
+%17"__mapSet*#
+
+__unknown_file (
+
+%15*#
+
+__unknown_file (
+xml*D
+
+__unknown_file ((&
+$http://www.w3.org/XML/1998/namespace
+Œ
+
+† ‰(	
+%18"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%14*#
+
+__unknown_file (
+
+%15M
+K
+
+‹ ‹(
+%19"__id*0
+
+__unknown_file (*
+
+soup"
+subtagQ
+O
+
+‹ ‹(&
+%20"__id*4
+
+__unknown_file (*
+
+%19"
+_namespaces
+
+‹* Ž(	
+%21"dict¬
+©
+
+Œ Œ(5
+%22"__mapSet*#
+
+__unknown_file (
+
+%21*'
+
+__unknown_file (	
+prefix2*<
+
+__unknown_file ( 
+http://another-namespace.com°
+­
+
+ (9
+%23"__mapSet*#
+
+__unknown_file (
+
+%21*#
+
+__unknown_file (
+xml*D
+
+__unknown_file ((&
+$http://www.w3.org/XML/1998/namespace
+Œ
+
+‹ Ž(	
+%24"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%20*#
+
+__unknown_file (
+
+%21P
+N
+
+ (
+%25"__id*3
+
+__unknown_file (*
+
+soup"
+	subsubtagQ
+O
+
+ ()
+%26"__id*4
+
+__unknown_file (*
+
+%25"
+_namespaces
+
+- “(	
+%27"dict¬
+©
+
+‘ ‘(5
+%28"__mapSet*#
+
+__unknown_file (
+
+%27*'
+
+__unknown_file (	
+prefix2*<
+
+__unknown_file ( 
+http://another-namespace.com°
+­
+
+’ ’(9
+%29"__mapSet*#
+
+__unknown_file (
+
+%27*#
+
+__unknown_file (
+xml*D
+
+__unknown_file ((&
+$http://www.w3.org/XML/1998/namespace
+Œ
+
+ “(	
+%30"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%26*#
+
+__unknown_file (
+
+%27*
+3*4
+3
+test_lxml.py"
+– –(
+implicit returnB.,
+*bs4.tests.test_lxml.TestLXMLXMLTreeBuilderH

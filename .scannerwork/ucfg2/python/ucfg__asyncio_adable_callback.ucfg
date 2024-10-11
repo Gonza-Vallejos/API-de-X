@@ -1,0 +1,49 @@
+
+Fanyio._backends._asyncio._RawSocketMixin._wait_until_readable.callbackg
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.pyþ	 þ	("2*®
+2
+ÿ	 ÿ	($U
+S
+
+ÿ	 ÿ	($
+%1"__id*9
+
+__unknown_file (*
+
+self"
+_receive_futureR
+P
+
+€
+ €
+(0
+%2"__id*6
+
+__unknown_file (*
+
+self"
+__raw_socketmk
+
+€
+ €
+(1
+%3*$
+
+__unknown_file (
+
+loop*"
+
+__unknown_file (
+
+%22remove_reader*
+3*3
+3
+_asyncio.py"
+‚
+ ‚
+(
+implicit return:
+
+þ	 þ	(
+fB,*
+(anyio._backends._asyncio._RawSocketMixinH

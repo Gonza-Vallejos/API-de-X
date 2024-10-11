@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.unix.Unix.user_videos_dir
+422bd6525a337b0b75c723e7362ed1ed
+pip._vendor.platformdirs.unix._get_user_media_dir

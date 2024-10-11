@@ -1,0 +1,1 @@
+Ú 2pyX²hr@env/lib/python3.12/site-packages/pip/_vendor/requests/cookies.py

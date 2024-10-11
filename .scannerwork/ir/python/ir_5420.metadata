@@ -1,0 +1,5 @@
+pip._vendor.urllib3.response.HTTPResponse.getheader
+1fbc681997016f581ce694eea8f253ff
+warnings.warn
+==
+get

@@ -1,0 +1,7 @@
+pip._vendor.pkg_resources.ResourceManager._warn_unsafe_extraction_path
+0fb62d44043d6af0aa0cefbc8a9b913c
+os.stat
+warnings.warn
+locals
+==
+startswith

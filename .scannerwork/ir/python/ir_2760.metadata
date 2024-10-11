@@ -1,0 +1,7 @@
+TypeAliasType.__setattr__
+9ef30e68624a3b726b864770c1eb4fd2
+super
+hasattr
+==
+__setattr__
+_raise_attribute_error

@@ -1,0 +1,6 @@
+pip._vendor.urllib3.response.HTTPResponse.closed
+19246c95e5deb7dba664aaf24639b1c0
+hasattr
+==
+__get__
+isclosed

@@ -1,0 +1,8 @@
+pip._vendor.rich.console.Console.render_str
+82a3d76cab66ec1513521737f9d47b7b
+pip._vendor.rich.markup.render
+str.__init__
+pip._vendor.rich._emoji_replace._emoji_replace
+pip._vendor.rich.text.Text.__init__
+==
+copy_styles

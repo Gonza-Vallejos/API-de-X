@@ -1,0 +1,59 @@
+
+)client.Client.get_user_verified_followersc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyé é()"2*Ï
+2
+ì ú(R
+P
+
+ü ü($
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+gql[
+Y
+
+ü ü(<
+%2"__id*?
+
+__unknown_file (#*!
+
+%1"
+blue_verified_followersöó
+
+û ý(	
+%3*-
+
+__unknown_file (
+client.Client*'
+
+__unknown_file (
+	
+user_id*%
+
+__unknown_file (	
+
+count*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+
+cursor2_get_user_friendship"
+
+û ý(	
+
+%3:
+
+ê ê(	
+user_id:
+
+ê ê(+
+count:
+
+ê- ê(F
+cursorB
+client.ClientH

@@ -1,0 +1,9 @@
+httpcore._async.http_proxy.AsyncHTTPProxy.__init__
+2b62f23ad5ae930c004d6ce6eadd49db
+super
+httpcore._models.enforce_headers
+httpcore._models.enforce_bytes
+httpcore._async.http_proxy.build_auth_header
+httpcore._models.enforce_url
+==
+__init__

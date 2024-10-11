@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_insert_multiple_after
+da2331a092e4aa13b9e5c22726608a1c
+==
+soup
+insert_after

@@ -1,0 +1,1 @@
+ê 2pyXWhr:env/lib/python3.12/site-packages/httpx/_transports/base.py

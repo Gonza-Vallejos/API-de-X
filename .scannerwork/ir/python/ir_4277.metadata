@@ -1,0 +1,6 @@
+pip._vendor.distlib.util.read_exports.read_stream
+bd8e23233c3f5d5eab47e8476463278e
+hasattr
+==
+readfp
+read_file

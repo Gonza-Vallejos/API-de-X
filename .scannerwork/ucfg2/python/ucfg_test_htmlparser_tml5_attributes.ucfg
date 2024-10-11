@@ -1,0 +1,173 @@
+
+Ibs4.tests.test_htmlparser.TestHTMLParserTreeBuilder.test_html5_attributesf
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_htmlparser.pyv v("3"5*8
+3
+test_htmlparser.py"
+ï ï
+implicit return*¶
+5
+å å(4`
+^
+
+å å(4
+%1"__concat*
+
+å å($
+<div>%s</div>*
+
+å' å(4
+
+input_elementB
+@
+
+å å(4
+markup"__id*"
+
+__unknown_file (
+
+%1òï
+
+ç ç(#
+%2*S
+
+__unknown_file (75
+3bs4.tests.test_htmlparser.TestHTMLParserTreeBuilder*&
+
+__unknown_file (
+
+
+markup2soupG
+E
+
+ç ç('
+%3"__id*+
+
+__unknown_file (*
+
+%2"
+div?
+=
+
+ç ç('
+div"__id*"
+
+__unknown_file (
+
+%3A?
+
+é é(*
+%4*#
+
+__unknown_file (
+
+div2encodeK
+I
+
+é é(*
+without_element"__id*"
+
+__unknown_file (
+
+%4rp
+
+è( è(E
+%5*.
+
+__unknown_file (
+
+output_unicode*$
+
+__unknown_file (
+utf82encodeU
+S
+
+è è(E
+%6"__concat*
+
+è è(%
+<div>%s</div>*
+
+è( è(E
+
+%5B
+@
+
+è è(E
+expect"__id*"
+
+__unknown_file (
+
+%6ù
+ö
+
+ê ê(,
+%7"	__compare*"
+
+__unknown_file (
+==*/
+
+__unknown_file (
+
+without_element*&
+
+__unknown_file (
+
+
+expecttr
+
+í í(7
+%8*#
+
+__unknown_file (
+
+div2encode:1
+	formatter$
+
+__unknown_file (
+htmlH
+F
+
+í í(7
+with_element"__id*"
+
+__unknown_file (
+
+%8a
+_
+
+ì ì(6
+%9"__concat*
+
+ì ì(%
+<div>%s</div>* 
+
+ì( ì(6
+
+output_elementB
+@
+
+ì ì(6
+expect"__id*"
+
+__unknown_file (
+
+%9õ
+ò
+
+î î()
+%10"	__compare*"
+
+__unknown_file (
+==*,
+
+__unknown_file (
+
+with_element*&
+
+__unknown_file (
+
+
+expect*
+3
+5B75
+3bs4.tests.test_htmlparser.TestHTMLParserTreeBuilderH

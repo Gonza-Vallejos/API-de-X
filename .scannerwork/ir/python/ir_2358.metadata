@@ -1,0 +1,8 @@
+pip._vendor.distro.distro.LinuxDistribution.name
+f620b7c3b062a6133faabc0558ffa3ce
+==
+os_release_attr
+uname_attr
+distro_release_attr
+version
+lsb_release_attr

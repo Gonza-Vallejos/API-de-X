@@ -1,0 +1,43 @@
+
+qbs4.tests.test_dammit.TestEntitySubstitution.test_xml_quoting_ignoring_ampersands_when_they_are_part_of_an_entityd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_dammit.pyì ì(L"2*°
+2
+í í(^q
+o
+
+í í(
+%1"__id*U
+
+__unknown_file (9*7.
+,bs4.tests.test_dammit.TestEntitySubstitution"
+subŠ‡
+
+í í(I
+%2*"
+
+__unknown_file (
+
+%1*+
+
+__unknown_file (
+&Aacute;T&T2"substitute_xml_containing_entities™
+–
+
+í í(^
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*/
+
+__unknown_file (
+&Aacute;T&amp;T*
+3*6
+3
+test_dammit.py"
+ï ï(
+implicit returnB0.
+,bs4.tests.test_dammit.TestEntitySubstitutionH

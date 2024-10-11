@@ -1,0 +1,107 @@
+
+&soupsieve.css_match.CSSMatch.match_tagb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/soupsieve/css_match.pyñ ñ("1*\
+2
+ò ò(C
+A
+
+ô ô(
+match"__id*$
+
+__unknown_file (
+
+True*
+4
+8*(
+4
+û û("
+
+û û(	
+
+match*Z
+5
+ú ú(D
+B
+
+ú ú(
+match"__id*%
+
+__unknown_file (	
+
+False*
+4*Å
+6
+ù ù(.«¨
+
+ù ù(.
+%3*<
+
+__unknown_file ( 
+soupsieve.css_match.CSSMatch*"
+
+__unknown_file (
+
+el*#
+
+__unknown_file (
+
+tag2match_tagname*
+4
+5*Z
+7
+ø ø(D
+B
+
+ø ø(
+match"__id*%
+
+__unknown_file (	
+
+False*
+6*Ç
+8
+÷ ÷(0­ª
+
+÷ ÷(0
+%4*<
+
+__unknown_file ( 
+soupsieve.css_match.CSSMatch*"
+
+__unknown_file (
+
+el*#
+
+__unknown_file (
+
+tag2match_namespace*
+6
+7*¯
+1
+ñ% ñ(?O
+M
+
+ñ* ñ(8
+%1"__id*3
+
+__unknown_file (*
+
+ct"
+SelectorTagH
+F
+
+ñ ñ(#
+%2"__id*,
+
+__unknown_file (*
+
+bs4"
+Tag*
+2:
+
+ñ ñ(#
+el:
+
+ñ% ñ(?
+tagB 
+soupsieve.css_match.CSSMatchH

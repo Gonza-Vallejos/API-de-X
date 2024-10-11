@@ -1,0 +1,42 @@
+
+.anyio._backends._trio.Semaphore.acquire_nowaitd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.pyÙ Ù("2*Î
+2
+Û Û(,k
+i
+
+Û Û(
+%2"__id*O
+
+__unknown_file (3*1!
+anyio._backends._trio.Semaphore"
+
+__originalHF
+
+Û Û(,
+%3*"
+
+__unknown_file (
+
+%22acquire_nowait*
+3
+5*0
+3
+
+_trio.py"
+ß ß(
+implicit return*f
+5
+Ü Ü(P
+N
+
+Ü Ü(
+%1"__id*4
+
+__unknown_file (*
+
+trio"
+
+WouldBlock*
+3B#!
+anyio._backends._trio.SemaphoreH

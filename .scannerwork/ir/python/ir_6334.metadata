@@ -1,0 +1,12 @@
+pip._vendor.pkg_resources.Requirement.__init__
+37451f5cb8bf5515ca16ae1ea110ace6
+super
+tuple.__init__
+frozenset.__init__
+map.__init__
+pip._vendor.pkg_resources.safe_name
+str.__init__
+hash
+==
+lower
+__init__

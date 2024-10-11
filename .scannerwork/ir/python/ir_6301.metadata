@@ -1,0 +1,7 @@
+pip._vendor.pkg_resources._is_zip_egg
+6669e6d43e7b7886d25c2f58b3226e25
+zipfile.is_zipfile
+os.path.isfile
+==
+lower
+endswith

@@ -1,0 +1,6 @@
+pip._internal.cli.req_command.RequirementCommand.__init__
+c37e0f474cc612e2ca4fcf9991c96032
+super
+==
+no_clean
+add_option

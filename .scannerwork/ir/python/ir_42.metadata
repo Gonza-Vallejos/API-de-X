@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_out_of_range_entity
+cef1eb392bc4d5cfcb97622a9610d5e6
+==
+assert_soup

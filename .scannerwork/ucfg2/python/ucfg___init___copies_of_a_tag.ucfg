@@ -1,0 +1,66 @@
+
+@bs4.tests.HTMLTreeBuilderSmokeTest.test_multiple_copies_of_a_taga
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyÈ È(%"2*«
+2
+É É(Bã
+à
+
+Ê Õ(	
+content"__id*À
+
+__unknown_file (£ 
+<!DOCTYPE html>
+<html>
+ <body>
+   <article id="a" >
+   <div><a href="1"></div>
+   <footer>
+     <a href="2"></a>
+   </footer>
+  </article>
+  </body>
+</html>
+ˆ…
+
+Ö Ö(!
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*'
+
+__unknown_file (
+	
+content2soup@
+>
+
+Ö Ö(!
+soup"__id*"
+
+__unknown_file (
+
+%1M
+K
+
+×! ×(-
+%2"__id*1
+
+__unknown_file (*
+
+soup"	
+article’
+
+× ×(.
+%3*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*"
+
+__unknown_file (
+
+%22assertConnectedness*
+3*3
+3
+__init__.py"
+Ù Ù(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

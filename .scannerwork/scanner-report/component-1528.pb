@@ -1,0 +1,1 @@
+ø 2pyX¦hrJenv/lib/python3.12/site-packages/pip/_internal/utils/compatibility_tags.py

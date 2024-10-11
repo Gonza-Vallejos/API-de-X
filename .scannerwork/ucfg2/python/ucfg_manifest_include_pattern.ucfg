@@ -1,0 +1,148 @@
+
+6pip._vendor.distlib.manifest.Manifest._include_patternk
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/manifest.py÷ ÷("2*¬
+2
+ù ‘(D
+B
+
+“ “(
+found"__id*%
+
+__unknown_file (	
+
+False“
+
+” ”(O
+%6*E
+
+__unknown_file ()'
+%pip._vendor.distlib.manifest.Manifest*'
+
+__unknown_file (
+	
+pattern*&
+
+__unknown_file (
+
+
+anchor*&
+
+__unknown_file (
+
+
+prefix*(
+
+__unknown_file (
+
+
+is_regex2_translate_patternF
+D
+
+” ”(O
+
+pattern_re"__id*"
+
+__unknown_file (
+
+%6o
+m
+
+— —(
+%7"__id*S
+
+__unknown_file (7*5'
+%pip._vendor.distlib.manifest.Manifest"
+
+allfiles*
+8
+9*(
+4
+ ("
+
+ (	
+
+found*Š
+6
+› ›(&nl
+
+› ›(&
+%3**
+
+__unknown_file (
+
+
+pattern_re*$
+
+__unknown_file (
+
+name2search*	
+4
+6
+7*¯
+7
+œ œ($l
+j
+
+œ œ(
+%1"__id*P
+
+__unknown_file (4*2'
+%pip._vendor.distlib.manifest.Manifest"
+filesca
+
+œ œ($
+%2*"
+
+__unknown_file (
+
+%1*$
+
+__unknown_file (
+
+name2addC
+A
+
+ (
+found"__id*$
+
+__unknown_file (
+
+True*
+4
+6*ˆ
+8
+š š(!o
+m
+
+š š(!
+%4"__id*S
+
+__unknown_file (7*5'
+%pip._vendor.distlib.manifest.Manifest"
+
+allfiles*
+4
+6*z
+9
+˜ ˜(db
+
+˜ ˜(
+%5*E
+
+__unknown_file ()'
+%pip._vendor.distlib.manifest.Manifest2findall*
+8:
+
+÷ ÷(&	
+pattern:
+
+÷( ÷(3
+anchor:
+
+÷5 ÷(@
+prefix:
+
+ø ø('
+
+is_regexB)'
+%pip._vendor.distlib.manifest.ManifestH

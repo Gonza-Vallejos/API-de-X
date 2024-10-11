@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestFindAllByName.test_find_all_on_non_root_element
+60e5f888d6937e923529b35f4238c358
+==
+find_all
+assert_selects

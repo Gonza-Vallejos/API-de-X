@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_strings_resembling_character_entity_references
+34b5d29056a0674c664058250abf7ba6
+==
+assert_soup

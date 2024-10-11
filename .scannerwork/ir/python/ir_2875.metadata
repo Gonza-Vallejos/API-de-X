@@ -1,0 +1,7 @@
+pip._vendor.rich.text.Text.align
+46939d59a651909bc12d9c7f3141c933
+pip._vendor.rich.cells.cell_len
+==
+pad_left
+truncate
+pad_right

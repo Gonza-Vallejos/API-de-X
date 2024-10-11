@@ -1,0 +1,1 @@
+ñ 2pyXhr4env/lib/python3.12/site-packages/certifi/__init__.py

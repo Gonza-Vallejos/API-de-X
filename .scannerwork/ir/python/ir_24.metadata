@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_br_is_always_empty_element_tag
+bbc022301dc42ad7c285836557a8944d
+==
+soup

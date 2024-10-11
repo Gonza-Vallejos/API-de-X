@@ -1,0 +1,4 @@
+bs4.tests.test_pageelement.TestFormatters.test_prettify_handles_nested_string_literal_tags
+626f5275bd42d830a4680c996365c3bb
+==
+soup

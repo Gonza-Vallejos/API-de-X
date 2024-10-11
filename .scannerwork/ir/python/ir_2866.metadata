@@ -1,0 +1,5 @@
+pip._vendor.rich.text.Text.apply_meta
+9b23c51268f76b42dbf385cdc50bf0da
+pip._vendor.rich.style.Style.from_meta
+==
+stylize

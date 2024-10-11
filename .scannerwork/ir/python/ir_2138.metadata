@@ -1,0 +1,5 @@
+bs4.tests.test_navigablestring.TestNavigableString.test_text_acquisition_methods
+6610d27bfa41b7da90ec828194ed5eec
+bs4.element.CData.__init__
+bs4.element.NavigableString.__init__
+bs4.element.Comment.__init__

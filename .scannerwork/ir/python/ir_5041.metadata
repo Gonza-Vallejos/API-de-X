@@ -1,0 +1,6 @@
+pip._internal.vcs.git.Git.switch
+412dcc529d634013501346f35f8f7413
+pip._internal.vcs.git.Git.update_submodules
+==
+run_command
+to_args

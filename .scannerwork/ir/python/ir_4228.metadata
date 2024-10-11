@@ -1,0 +1,7 @@
+pip._vendor.rich.progress.TextColumn.render
+5fab705c63abec61d2adfa016de3b694
+pip._vendor.rich.text.Text.from_markup
+pip._vendor.rich.text.Text.__init__
+==
+highlight
+format

@@ -1,0 +1,7 @@
+pip._vendor.requests.adapters.HTTPAdapter.cert_verify
+59128fc82051224ebc6f006815f2cfca
+os.path.isdir
+os.path.exists
+==
+startswith
+lower

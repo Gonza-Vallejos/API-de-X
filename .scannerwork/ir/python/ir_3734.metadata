@@ -1,0 +1,5 @@
+h11.tests.test_io.test_ContentLengthReader
+6b8c51a9568dc0c5e6522fd78cadcfdb
+h11._events.EndOfMessage.__init__
+h11._events.Data.__init__
+h11.tests.test_io.t_body_reader

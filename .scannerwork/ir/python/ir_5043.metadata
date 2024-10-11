@@ -1,0 +1,10 @@
+pip._internal.vcs.git.Git._git_remote_to_pip_url
+2e6617dd396af9db8df6f4495e41b1f5
+re.match
+pathlib.PurePath.__init__
+os.path.exists
+pip._internal.vcs.versioncontrol.RemoteNotValidError.__init__
+==
+expand
+as_uri
+match

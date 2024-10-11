@@ -1,0 +1,3 @@
+bs4.tests.test_element.TestNamedspacedAttribute.test_name_may_be_none_or_missing
+9d39047aad10d3293fa87316c8be74bb
+bs4.element.NamespacedAttribute.__init__

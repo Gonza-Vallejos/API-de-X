@@ -1,0 +1,5 @@
+anyio._core._testing.get_current_task
+89de9b01294eb56a2406f97909277dd3
+anyio._core._eventloop.get_async_backend
+==
+get_current_task

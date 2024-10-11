@@ -1,0 +1,9 @@
+pip._vendor.pygments.formatters.terminal256.EscapeSequence.color_string
+b5d5773b5269cc61048d3d96a71d101e
+str.__init__
+int.__init__
+==
+extend
+replace
+escape
+append

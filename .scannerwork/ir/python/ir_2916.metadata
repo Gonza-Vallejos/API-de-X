@@ -1,0 +1,3 @@
+httpcore._sync.connection_pool.ConnectionPool.create_connection
+e33a969d2250226914806f6d00c98112
+httpcore._sync.connection.HTTPConnection.__init__

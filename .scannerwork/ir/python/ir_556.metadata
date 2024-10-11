@@ -1,0 +1,5 @@
+bs4.tests.test_pageelement.TestPersistence.test_copy_preserves_builder_information
+92587666fa8925bf51e8e78f2b8efa60
+==
+soup
+__copy__

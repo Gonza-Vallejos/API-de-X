@@ -1,0 +1,1 @@
+Ÿ	 2pyXhrBenv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/queue.py

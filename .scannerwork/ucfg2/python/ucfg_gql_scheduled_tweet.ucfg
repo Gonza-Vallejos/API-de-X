@@ -1,0 +1,150 @@
+
+$gql.GQLClient.create_scheduled_tweet`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyß ß($"2*…
+2
+à è(	
+
+à è(	
+%1"dict
+
+á" æ(
+%2"dict¨
+¥
+
+â â(1
+%3"__mapSet*"
+
+__unknown_file (
+
+%2*<
+
+__unknown_file ( 
+auto_populate_reply_metadata*%
+
+__unknown_file (	
+
+False‘
+Ž
+
+ã ã(
+%4"__mapSet*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+status*$
+
+__unknown_file (
+
+text
+
+ä& ä((
+%5"listŸ
+œ
+
+ä ä((
+%6"__mapSet*"
+
+__unknown_file (
+
+%2*6
+
+__unknown_file (
+exclude_reply_user_ids*"
+
+__unknown_file (
+
+%5™
+–
+
+å å("
+%7"__mapSet*"
+
+__unknown_file (
+
+%2*)
+
+__unknown_file (
+	media_ids*)
+
+__unknown_file (
+
+	media_ids›
+˜
+
+á æ(
+%8"__mapSet*"
+
+__unknown_file (
+
+%1*2
+
+__unknown_file (
+post_tweet_request*"
+
+__unknown_file (
+
+%2
+š
+
+ç ç(&
+%9"__mapSet*"
+
+__unknown_file (
+
+%1**
+
+__unknown_file (
+
+execute_at*,
+
+__unknown_file (
+
+scheduled_atE
+C
+
+à è(	
+	variables"__id*"
+
+__unknown_file (
+
+%1e
+c
+
+é# é(B
+%10"__id*H
+
+__unknown_file (,**
+gql.Endpoint"
+CREATE_SCHEDULED_TWEETŸœ
+
+é é(N
+%11*-
+
+__unknown_file (
+gql.GQLClient*#
+
+__unknown_file (
+
+%10*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+é é(N
+
+%11:
+
+ß+ ß(7
+scheduled_at:
+
+ß9 ß(=
+text:
+
+ß? ß(H
+	media_idsB
+gql.GQLClientH

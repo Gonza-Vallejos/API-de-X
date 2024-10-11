@@ -1,0 +1,4 @@
+bs4.tests.test_tag.TestTag.test_member_access_invokes_find
+c96dbb46ff3ff220e2f892164478d6f0
+==
+soup

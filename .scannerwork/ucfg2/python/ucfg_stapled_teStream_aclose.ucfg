@@ -1,0 +1,37 @@
+
+.anyio.streams.stapled.StapledByteStream.acloseb
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/streams/stapled.py. .("2*ý
+2/ /('r
+p
+/ /(
+%1"__id*X
+
+__unknown_file (<*:)
+'anyio.streams.stapled.StapledByteStream"
+send_stream><
+/ /('
+%2*"
+
+__unknown_file (
+
+%12acloseu
+s
+0 0(!
+%3"__id*[
+
+__unknown_file (?*=)
+'anyio.streams.stapled.StapledByteStream"
+receive_stream><
+0 0(*
+%4*"
+
+__unknown_file (
+
+%32aclose*
+3*0
+3
+
+stapled.py"
+2 2(
+implicit returnB+)
+'anyio.streams.stapled.StapledByteStreamH

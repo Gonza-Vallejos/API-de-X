@@ -1,0 +1,63 @@
+
+(gql.GQLClient.dm_message_delete_mutation`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyö ö(("2*¯
+2
+÷ ÷(-
+
+÷ ÷(-
+%1"dictš
+—
+
+÷ ÷(,
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+	messageId**
+
+__unknown_file (
+
+
+message_idE
+C
+
+÷ ÷(-
+	variables"__id*"
+
+__unknown_file (
+
+%1h
+f
+
+ø# ø(F
+%3"__id*L
+
+__unknown_file (0*.
+gql.Endpoint"
+DM_MESSAGE_DELETE_MUTATIONš
+
+ø ø(R
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+ø ø(R
+
+%4:
+
+ö/ ö(9
+
+message_idB
+gql.GQLClientH

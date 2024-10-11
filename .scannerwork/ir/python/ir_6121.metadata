@@ -1,0 +1,7 @@
+pip._internal.req.req_uninstall.UninstallPathSet.add_pth
+b45cd747ce6491699bacc96f2d94af00
+pip._internal.req.req_uninstall.UninstallPthEntries.__init__
+==
+_normalize_path_cached
+add
+_permitted

@@ -1,0 +1,5 @@
+pip._vendor.distlib.metadata.Metadata.todict
+ab563f9525cf6521f6b744566c5ac71d
+pip._vendor.distlib.util.extract_by_key
+==
+todict

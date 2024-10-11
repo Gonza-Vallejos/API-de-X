@@ -1,0 +1,57 @@
+
+Opip._internal.resolution.resolvelib.factory.Factory.make_requirements_from_specz
+n/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/factory.py· ·(#"2*²
+2
+½ Å(ÞÛ
+
+Æ Æ(F
+%1*S
+
+__unknown_file (75
+3pip._internal.resolution.resolvelib.factory.Factory*)
+
+__unknown_file (
+
+	specifier**
+
+__unknown_file (
+
+
+comes_from2_make_install_req_from_spec@
+>
+
+Æ Æ(F
+ireq"__id*"
+
+__unknown_file (
+
+%1çä
+
+Ç Ç(O
+%2*S
+
+__unknown_file (75
+3pip._internal.resolution.resolvelib.factory.Factory*$
+
+__unknown_file (
+
+ireq*0
+
+__unknown_file (
+
+requested_extras2#_make_requirements_from_install_req"
+
+Ç Ç(O
+
+%2:
+
+¹ ¹(
+	specifier:
+
+º º(0
+
+comes_from: 
+
+» »(,
+requested_extrasB75
+3pip._internal.resolution.resolvelib.factory.FactoryH

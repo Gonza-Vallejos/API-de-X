@@ -1,0 +1,7 @@
+anyio._backends._trio.TCPSocketListener.__init__
+caab930ac7436fc8aafdcc5c50856fe4
+super
+anyio._core._synchronization.ResourceGuard.__init__
+==
+from_stdlib_socket
+__init__

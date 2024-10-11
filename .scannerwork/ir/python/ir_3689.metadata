@@ -1,0 +1,5 @@
+anyio.lowlevel.cancel_shielded_checkpoint
+bc9538555331d4d0cf79c5639342b447
+anyio._core._eventloop.get_async_backend
+==
+cancel_shielded_checkpoint

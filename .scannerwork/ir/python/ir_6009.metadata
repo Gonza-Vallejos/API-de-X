@@ -1,0 +1,5 @@
+pip._internal.resolution.resolvelib.factory.Factory.get_dist_to_uninstall
+e89e1dc44b533bbe9c21debf29c85f36
+pip._internal.utils.virtualenv.running_under_virtualenv
+==
+get

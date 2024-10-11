@@ -1,0 +1,9 @@
+pip._internal.cli.parser.UpdatingDefaultsHelpFormatter.expand_default
+3c96bb9a800da1e034b1af85c1da6ed8
+super
+pip._internal.utils.misc.redact_auth_from_url
+==
+expand_default
+get
+replace
+_update_defaults

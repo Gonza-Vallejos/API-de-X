@@ -1,0 +1,2 @@
+pip._vendor.requests.sessions.Session.__getstate__
+e9e652b390ac9af4081194c057c67661

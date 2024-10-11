@@ -1,0 +1,6 @@
+bs4.tests.test_pageelement.TestPersistence.test_copy_navigablestring_is_not_attached_to_tree
+377b925964f27117259b2342372c163f
+copy.copy
+==
+soup
+find

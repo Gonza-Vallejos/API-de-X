@@ -1,0 +1,5 @@
+pip._vendor.distlib.util.FileOperator.write_text_file
+ca54f66fa14ae4112769b158b1f9ba9d
+==
+encode
+write_binary_file

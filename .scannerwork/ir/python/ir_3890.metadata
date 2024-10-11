@@ -1,0 +1,5 @@
+anyio._core._eventloop.current_time
+812d1b1e0f904c02185971ed5cd523ec
+anyio._core._eventloop.get_async_backend
+==
+current_time

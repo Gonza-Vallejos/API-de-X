@@ -1,0 +1,3 @@
+pip._vendor.msgpack.fallback._get_data_from_buffer
+cdf6716d1f6f898d70a9e947ed1b5d3e
+memoryview.__init__

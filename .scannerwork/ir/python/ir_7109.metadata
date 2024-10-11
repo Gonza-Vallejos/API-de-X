@@ -1,0 +1,6 @@
+pip._vendor.requests.auth.HTTPDigestAuth.build_digest_header.md5_utf8
+212289ca704ec09b82b7687d935b9aa5
+hashlib.md5
+==
+encode
+hexdigest

@@ -1,0 +1,6 @@
+pip._internal.metadata.importlib._compat.get_dist_canonical_name
+993fb47187acc57512b2048cc25330b8
+pip._internal.metadata.importlib._compat.parse_name_and_version_from_info_directory
+pip._vendor.packaging.utils.canonicalize_name
+typing.cast
+pip._internal.metadata.importlib._compat.BadMetadata.__init__

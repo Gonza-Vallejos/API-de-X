@@ -1,0 +1,128 @@
+
+:lxml.doctestcompare.LXMLOutputChecker.collect_diff_end_tagb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/lxml/doctestcompare.pyÛ Û("2*»
+2
+Ü Ü(I
+G
+
+Ü Ü(
+%6"__id*-
+
+__unknown_file (*
+
+want"
+tagH
+F
+
+Ü Ü(
+%7"__id*,
+
+__unknown_file (*
+
+got"
+tagŒ
+‰
+
+Ü Ü(
+%8"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+
+%6*"
+
+__unknown_file (
+
+%7*
+5
+6*u
+4
+à à(N
+L
+
+à à(
+%1"__concat*
+
+à à(	
+</%s>*
+
+à à(
+
+tag"
+
+à à(
+
+%1*Ö
+5
+Ý Ý(6I
+G
+
+Ý$ Ý(,
+%2"__id*-
+
+__unknown_file (*
+
+want"
+tagH
+F
+
+Ý. Ý(5
+%3"__id*,
+
+__unknown_file (*
+
+got"
+tagj
+h
+
+Ý Ý(6
+%4"__concat*
+
+Ý Ý( 
+%s (got: %s)*
+
+Ý$ Ý(,
+
+%2*
+
+Ý. Ý(5
+
+%3?
+=
+
+Ý Ý(6
+tag"__id*"
+
+__unknown_file (
+
+%4*
+4*Ÿ
+6
+ß ß(H
+F
+
+ß ß(
+%5"__id*,
+
+__unknown_file (*
+
+got"
+tag?
+=
+
+ß ß(
+tag"__id*"
+
+__unknown_file (
+
+%5*
+4:
+
+Û# Û('
+want:
+
+Û) Û(,
+gotB)'
+%lxml.doctestcompare.LXMLOutputCheckerH

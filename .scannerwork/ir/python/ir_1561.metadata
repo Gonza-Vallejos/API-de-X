@@ -1,0 +1,11 @@
+pip._vendor.pygments.sphinxext.PygmentsDoc.run
+d3939118de1882067ae7096c29db5aed
+set.__init__
+==
+add
+document_formatters
+document_lexers_overview
+document_lexers
+split
+document_filters
+compound

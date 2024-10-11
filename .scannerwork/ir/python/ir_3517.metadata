@@ -1,0 +1,7 @@
+pip._internal.metadata.importlib._compat.parse_name_and_version_from_info_directory
+c90542fea0bb93971ec3d010f79b479b
+pip._internal.metadata.importlib._compat.get_info_location
+os.path.splitext
+==
+partition
+split

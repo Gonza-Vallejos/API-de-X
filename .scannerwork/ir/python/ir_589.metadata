@@ -1,0 +1,8 @@
+pip._vendor.rich.logging.RichHandler.__init__
+ffd8e665b1759dcaf390247e8d32c4ff
+super
+pip._vendor.rich.get_console
+pip._vendor.rich._log_render.LogRender.__init__
+==
+HIGHLIGHTER_CLASS
+__init__

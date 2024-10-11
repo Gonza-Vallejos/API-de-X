@@ -1,0 +1,7 @@
+pip._internal.commands.uninstall.UninstallCommand.add_options
+d915046f54bd69abb5f5127b1188c0d4
+==
+insert_option_group
+root_user_action
+add_option
+override_externally_managed

@@ -1,0 +1,8 @@
+pip._vendor.rich.panel.Panel._title
+40e1091cec5647c623bff15b41e8caf9
+pip._vendor.rich.text.Text.from_markup
+==
+pad
+replace
+copy
+expand_tabs

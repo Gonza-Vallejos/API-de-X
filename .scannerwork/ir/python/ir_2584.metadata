@@ -1,0 +1,8 @@
+pip._internal.build_env.get_runnable_pip
+fc549b0ecb15e14cccf78b925c52c6d3
+pathlib.Path.__init__
+str.__init__
+os.fsdecode
+==
+resolve
+is_dir

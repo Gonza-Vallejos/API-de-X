@@ -1,0 +1,40 @@
+
+-anyio._backends._trio.CapacityLimiter.__new__d
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.pyð ð("1*Ã
+2
+ö ö("›˜
+
+ö ö("
+%2"type.__new__*&
+
+__unknown_file (
+
+
+object*E
+
+__unknown_file ()'
+%anyio._backends._trio.CapacityLimiter2__new__"
+
+ö ö("
+
+%2*k
+1
+ô ô(4U
+S
+
+ô ô(&
+%1"__id*9
+
+__unknown_file (*
+
+trio"
+CapacityLimiter*
+2:
+
+ò ò()
+total_tokens:
+
+ô ô(4
+
+originalB)'
+%anyio._backends._trio.CapacityLimiterH

@@ -1,0 +1,110 @@
+
+@bs4.tests.HTML5TreeBuilderSmokeTest.test_svg_tags_have_namespacea
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyÖ	 Ö	($"2*˘
+2
+Ü	 Ü	('T
+R
+
+Ü	 Ü	('
+markup"__id*4
+
+__unknown_file (
+<svg><circle/></svg>àÖ
+
+á	 á	( 
+%1*C
+
+__unknown_file ('%
+#bs4.tests.HTML5TreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+á	 á	( 
+soup"__id*"
+
+__unknown_file (
+
+%1]
+[
+
+à	 à	(0
+	namespace"__id*:
+
+__unknown_file (
+http://www.w3.org/2000/svgI
+G
+
+â	 â	($
+%2"__id*-
+
+__unknown_file (*
+
+soup"
+svgM
+K
+
+â	 â	(.
+%3"__id*1
+
+__unknown_file (*
+
+%2"
+	namespaceì
+ê
+
+â	 â	(.
+%4"	__compare*"
+
+__unknown_file (
+==*)
+
+__unknown_file (
+
+	namespace*"
+
+__unknown_file (
+
+%3L
+J
+
+ä	 ä	('
+%5"__id*0
+
+__unknown_file (*
+
+soup"
+circleM
+K
+
+ä	 ä	(1
+%6"__id*1
+
+__unknown_file (*
+
+%5"
+	namespaceì
+ê
+
+ä	 ä	(1
+%7"	__compare*"
+
+__unknown_file (
+==*)
+
+__unknown_file (
+
+	namespace*"
+
+__unknown_file (
+
+%6*
+3*3
+3
+__init__.py"
+ç	 ç	(
+implicit returnB'%
+#bs4.tests.HTML5TreeBuilderSmokeTestH

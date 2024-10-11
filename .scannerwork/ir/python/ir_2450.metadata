@@ -1,0 +1,7 @@
+pip._vendor.requests.adapters.HTTPAdapter.proxy_manager_for
+3f69ee6fb21ee2acbfa9ac87efded6c6
+pip._vendor.requests.utils.get_auth_from_url
+==
+startswith
+proxy_headers
+lower

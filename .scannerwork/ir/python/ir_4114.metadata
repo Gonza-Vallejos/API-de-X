@@ -1,0 +1,5 @@
+httpcore._synchronization.AsyncLock.setup
+b661be3b42eedb4d7fe98e3704174ddf
+httpcore._synchronization.current_async_library
+==
+Lock

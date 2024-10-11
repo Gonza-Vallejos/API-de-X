@@ -1,0 +1,4 @@
+pip._internal.distributions.wheel.WheelDistribution.get_metadata_distribution
+dcc865bca96bbb35523b3e5a08c6ec58
+pip._internal.metadata.get_wheel_distribution
+pip._vendor.packaging.utils.canonicalize_name

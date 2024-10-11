@@ -1,0 +1,1 @@
+Ï 2pyX'hr7env/lib/python3.12/site-packages/bs4/tests/test_docs.py

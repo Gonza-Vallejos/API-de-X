@@ -1,0 +1,7 @@
+pip._vendor.urllib3.connectionpool.HTTPConnectionPool.is_same_host
+94a08bea298c0c4ee408de104fe27c4c
+pip._vendor.urllib3.util.url.get_host
+pip._vendor.urllib3.connectionpool._normalize_host
+==
+startswith
+get

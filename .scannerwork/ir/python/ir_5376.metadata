@@ -1,0 +1,7 @@
+httpcore._sync.http2.HTTP2Connection._send_request_headers
+88086bd270c6d365ba80c98b8a5fe969
+httpcore._sync.http2.has_body_headers
+==
+_write_outgoing_data
+send_headers
+increment_flow_control_window

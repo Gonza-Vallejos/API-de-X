@@ -1,0 +1,6 @@
+pip._internal.commands.configuration.ConfigurationCommand.set_name_value
+7a5f2897f15dc674108414a718daa6ae
+==
+set_value
+_get_n_args
+_save_configuration

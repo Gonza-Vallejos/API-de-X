@@ -1,0 +1,59 @@
+
+&client.Client.get_community_moderatorsc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyØ Ø(&"2*Ü
+2
+Û é(R
+P
+
+ë ë(
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+gqlc
+a
+
+ë ë(4
+%2"__id*G
+
+__unknown_file (+*)
+
+%1"!
+moderators_slice_timeline_queryûø
+
+ê ì(	
+%3*-
+
+__unknown_file (
+client.Client*"
+
+__unknown_file (
+
+%2*,
+
+__unknown_file (
+
+community_id*%
+
+__unknown_file (	
+
+count*&
+
+__unknown_file (
+
+
+cursor2_get_community_users"
+
+ê ì(	
+
+%3:
+
+Ù Ù(
+community_id:
+
+Ù! Ù(0
+count:
+
+Ù2 Ù(K
+cursorB
+client.ClientH

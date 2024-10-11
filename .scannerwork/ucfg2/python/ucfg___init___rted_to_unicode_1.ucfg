@@ -1,0 +1,74 @@
+
+Mbs4.tests.HTMLTreeBuilderSmokeTest.test_entities_in_text_converted_to_unicodea
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyž ž(2"2*›
+2
+Ÿ Ÿ(Bo
+m
+
+Ÿ Ÿ(B
+expect"__id*O
+
+__unknown_file (31
+/<p>pi\N{LATIN SMALL LETTER N WITH TILDE}ata</p>Â¿
+
+   (6
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*2
+
+__unknown_file (
+<p>pi&#241;ata</p>*&
+
+__unknown_file (
+
+
+expect2assert_soupÂ¿
+
+¡ ¡(6
+%2*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*2
+
+__unknown_file (
+<p>pi&#xf1;ata</p>*&
+
+__unknown_file (
+
+
+expect2assert_soupÂ¿
+
+¢ ¢(6
+%3*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*2
+
+__unknown_file (
+<p>pi&#Xf1;ata</p>*&
+
+__unknown_file (
+
+
+expect2assert_soupÄÁ
+
+£ £(8
+%4*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*4
+
+__unknown_file (
+<p>pi&ntilde;ata</p>*&
+
+__unknown_file (
+
+
+expect2assert_soup*
+3*3
+3
+__init__.py"
+¥ ¥(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

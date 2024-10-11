@@ -1,0 +1,7 @@
+pip._vendor.requests.cookies.get_cookie_header
+09699a9608188e240ecb9e1818cb197e
+pip._vendor.requests.cookies.MockRequest.__init__
+==
+get_new_headers
+get
+add_cookie_header

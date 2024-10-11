@@ -1,0 +1,90 @@
+
+!lxml.html.diff.tag_token.__repr__]
+Q/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/lxml/html/diff.pyÓ Ó("2*ç
+2
+Ô ı(%]
+[
+
+ (
+%1"__id*A
+
+__unknown_file (%*#
+lxml.html.diff.tag_token"
+tag^
+\
+
+Ò Ò(
+%2"__id*B
+
+__unknown_file (&*$
+lxml.html.diff.tag_token"
+datac
+a
+
+Ú Ú(
+%3"__id*G
+
+__unknown_file (+*)
+lxml.html.diff.tag_token"
+	html_reprb
+`
+
+Û Û(
+%4"__id*F
+
+__unknown_file (**(
+lxml.html.diff.tag_token"
+
+pre_tagsc
+a
+
+Ù Ù(
+%5"__id*G
+
+__unknown_file (+*)
+lxml.html.diff.tag_token"
+	post_tagsm
+k
+
+ı ı($
+%6"__id*Q
+
+__unknown_file (5*3
+lxml.html.diff.tag_token"
+trailing_whitespaceâ
+Ü
+
+Ô ı(%
+%7"__concat*d
+
+Ô Ô(cVT
+Rtag_token(%s, %s, html_repr=%s, post_tags=%r, pre_tags=%r, trailing_whitespace=%r)*
+
+ (
+
+%1*
+
+Ò Ò(
+
+%2*
+
+Ú Ú(
+
+%3*
+
+Û Û(
+
+%4*
+
+Ù Ù(
+
+%5*
+
+ı ı($
+
+%6"
+
+Ô ı(%
+
+%7B
+lxml.html.diff.tag_tokenH

@@ -1,0 +1,2 @@
+bs4.tests.test_dammit.TestEntitySubstitution.test_xml_quoting_handles_angle_brackets
+606bc152074ecc868508d4e510a5be77

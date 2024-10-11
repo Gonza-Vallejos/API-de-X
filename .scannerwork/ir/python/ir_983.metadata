@@ -1,0 +1,6 @@
+pip._internal.utils.misc.normalize_path
+6643b3805116bf3afa0a99c4c176d024
+os.path.normcase
+os.path.abspath
+os.path.realpath
+os.path.expanduser

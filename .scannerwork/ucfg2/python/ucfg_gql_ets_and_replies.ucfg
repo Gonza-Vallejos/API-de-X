@@ -1,0 +1,50 @@
+
+%gql.GQLClient.user_tweets_and_replies`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyÁ Á(%"2*
+2
+Â Â(de
+c
+
+ÂC Â(c
+%1"__id*I
+
+__unknown_file (-*+
+gql.Endpoint"
+USER_TWEETS_AND_REPLIESòï
+
+Â Â(d
+%2*-
+
+__unknown_file (
+gql.GQLClient*'
+
+__unknown_file (
+	
+user_id*%
+
+__unknown_file (	
+
+count*&
+
+__unknown_file (
+
+
+cursor*"
+
+__unknown_file (
+
+%12_get_user_tweets"
+
+Â Â(d
+
+%2:
+
+Á, Á(3	
+user_id:
+
+Á5 Á(:
+count:
+
+Á< Á(B
+cursorB
+gql.GQLClientH

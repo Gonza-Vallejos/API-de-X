@@ -1,0 +1,6 @@
+pip._internal.models.link.Link.splitext
+cf07705d19cfcef4f0b8427e76169a4c
+posixpath.basename
+pip._internal.utils.misc.splitext
+==
+rstrip

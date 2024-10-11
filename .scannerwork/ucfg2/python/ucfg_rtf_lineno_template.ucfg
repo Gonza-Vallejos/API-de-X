@@ -1,0 +1,186 @@
+
+Apip._vendor.pygments.formatters.rtf.RtfFormatter._lineno_templater
+f/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/rtf.pyÓ Ó("2*¨
+2
+Ô Ô(0É
+Ä
+
+Ô Ô(
+%14"__id*e
+
+__unknown_file (I*G2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+lineno_fontsize{
+y
+
+Ô# Ô(0
+%15"__id*^
+
+__unknown_file (B*@2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+
+fontsizeè
+å
+
+Ô Ô(0
+%16"	__compare*"
+
+__unknown_file (
+!=*#
+
+__unknown_file (
+
+%14*#
+
+__unknown_file (
+
+%15*
+4
+5*™
+4
+Ù ı(0
+}
+
+Ù( Ù(:
+%1"__id*c
+
+__unknown_file (G*E2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+color_mapping~
+|
+
+Ù; Ù(L
+%2"__id*b
+
+__unknown_file (F*D2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+lineno_colorsq
+
+Ù( Ù(M
+%3"__mapGet*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22__getitem__Ä
+~
+
+ı ı(/
+%4"__id*d
+
+__unknown_file (H*F2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+lineno_paddinge
+c
+
+ı ı(/
+%5"__repeat*!
+
+__unknown_file (
+ *"
+
+__unknown_file (
+
+%4¢ü
+
+Ù ı(0
+%6"
+str.format*/
+
+__unknown_file (
+{{\\cf{} %s{}}}*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%52format"
+
+Ù ı(0
+
+%6*·
+5
+ Ú(4Å
+
+
+3 (G
+%7"__id*e
+
+__unknown_file (I*G2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+lineno_fontsize
+}
+
+Ò Ò(,
+%8"__id*c
+
+__unknown_file (G*E2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+color_mapping~
+|
+
+Ò- Ò(>
+%9"__id*b
+
+__unknown_file (F*D2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+lineno_colortr
+
+Ò Ò(?
+%10"__mapGet*"
+
+__unknown_file (
+
+%8*"
+
+__unknown_file (
+
+%92__getitem__Å
+
+
+Ú  Ú(3
+%11"__id*d
+
+__unknown_file (H*F2
+0pip._vendor.pygments.formatters.rtf.RtfFormatter"
+lineno_paddingg
+e
+
+Ú Ú(3
+%12"__repeat*!
+
+__unknown_file (
+ *#
+
+__unknown_file (
+
+%11–Õ
+
+ Ú(4
+%13"
+str.format*6
+
+__unknown_file (
+{{\\fs{} \\cf{} %s{}}}*"
+
+__unknown_file (
+
+%7*#
+
+__unknown_file (
+
+%10*#
+
+__unknown_file (
+
+%122format"
+
+ Ú(4
+
+%13B42
+0pip._vendor.pygments.formatters.rtf.RtfFormatterH

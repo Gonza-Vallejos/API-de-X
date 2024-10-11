@@ -1,0 +1,7 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.write_styled
+00aed700f21a24e7d9dabdfb27629b13
+ctypes.c_ushort.__init__
+pip._vendor.rich._win32_console.SetConsoleTextAttribute
+==
+write_text
+downgrade

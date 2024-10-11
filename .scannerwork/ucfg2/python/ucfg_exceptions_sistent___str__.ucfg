@@ -1,0 +1,78 @@
+
+5pip._internal.exceptions.MetadataInconsistent.__str__g
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/exceptions.pyÞ Þ("2*”
+2
+ß â(	s
+q
+
+à à("
+%1"__id*W
+
+__unknown_file (;*9/
+-pip._internal.exceptions.MetadataInconsistent"
+ireqt
+r
+
+à6 à(@
+%2"__id*X
+
+__unknown_file (<*:/
+-pip._internal.exceptions.MetadataInconsistent"
+fieldt
+r
+
+á á("
+%3"__id*X
+
+__unknown_file (<*:/
+-pip._internal.exceptions.MetadataInconsistent"
+f_valt
+r
+
+á9 á(C
+%4"__id*X
+
+__unknown_file (<*:/
+-pip._internal.exceptions.MetadataInconsistent"
+m_val•
+’
+
+à á(G
+%5"__concat*
+
+à à(
+
+Requested *
+
+à à("
+
+%1*$
+
+à# à(5
+ has inconsistent *
+
+à6 à(@
+
+%2*
+
+àA à(C
+: *
+
+á á(
+	expected *
+
+á á("
+
+%3*%
+
+á% á(8
+, but metadata has *
+
+á9 á(C
+
+%4"
+
+ß â(	
+
+%5B1/
+-pip._internal.exceptions.MetadataInconsistentH

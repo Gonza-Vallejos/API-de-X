@@ -1,0 +1,8 @@
+pip._vendor.urllib3.util.retry.Retry.parse_retry_after
+949e32b39b1765de4ed363003b5b4cae
+re.match
+time.time
+int.__init__
+==
+parsedate_tz
+mktime_tz

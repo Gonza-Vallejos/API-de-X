@@ -1,0 +1,7 @@
+pip._vendor.platformdirs.unix.Unix.site_runtime_dir
+2b49f0335f39020166533a201837bb2e
+==
+startswith
+strip
+get
+_append_app_name_and_version

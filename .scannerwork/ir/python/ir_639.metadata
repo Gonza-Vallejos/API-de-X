@@ -1,0 +1,3 @@
+bs4.tests.test_dammit.TestEncodingDetector.test_byte_order_mark_removed
+2c26af4b9de2145637f3f7c933754403
+bs4.dammit.UnicodeDammit.__init__

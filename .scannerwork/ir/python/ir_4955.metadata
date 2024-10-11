@@ -1,0 +1,12 @@
+pip._vendor.distlib.index.PackageIndex.upload_documentation
+757c5ef4ad958d720b735417e11f5aae
+os.path.isdir
+os.path.join
+pip._vendor.distlib.util.zip_dir
+os.path.exists
+==
+getvalue
+check_credentials
+send_request
+encode_request
+validate

@@ -1,0 +1,20 @@
+
+;anyio.abc._eventloop.AsyncBackend.run_sync_in_worker_threadc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/abc/_eventloop.pyÄ Ä('"3*5
+3
+_eventloop.py"
+Í Í(
+implicit return:
+
+Æ Æ(4
+func:
+
+Ç Ç(%
+args:!
+
+È È('
+abandon_on_cancel:
+
+É É(.	
+limiterB%#
+!anyio.abc._eventloop.AsyncBackendH

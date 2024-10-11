@@ -1,0 +1,4 @@
+bs4.tests.test_tag.TestMultiValuedAttributes.test_multiple_values_becomes_list
+41bf603546220d679120004a8ca5f668
+==
+soup

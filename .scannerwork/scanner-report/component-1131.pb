@@ -1,0 +1,1 @@
+ë 2pyXÀhr?env/lib/python3.12/site-packages/pip/_vendor/urllib3/request.py

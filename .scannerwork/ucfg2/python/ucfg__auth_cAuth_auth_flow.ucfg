@@ -1,0 +1,46 @@
+
+httpx._auth.BasicAuth.auth_flowZ
+N/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_auth.py‡ ‡("2*ù
+2
+ˆ ˆ(<c
+a
+
+ˆ+ ˆ(<
+%1"__id*G
+
+__unknown_file (+*)
+httpx._auth.BasicAuth"
+_auth_headerP
+N
+
+ˆ ˆ(
+%3"__id*4
+
+__unknown_file (*
+	
+request"	
+headers«¨
+
+ˆ ˆ(<
+%2"dict.__setitem__*"
+
+__unknown_file (
+
+%3*-
+
+__unknown_file (
+Authorization*"
+
+__unknown_file (
+
+%12__setitem__*
+3*0
+3
+
+_auth.py"
+‹ ‹(
+implicit return:
+
+‡ ‡((	
+requestB
+httpx._auth.BasicAuthH

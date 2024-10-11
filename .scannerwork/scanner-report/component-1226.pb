@@ -1,0 +1,1 @@
+Ê	 2pyXGhr@env/lib/python3.12/site-packages/pip/_vendor/pygments/console.py

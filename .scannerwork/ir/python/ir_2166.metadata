@@ -1,0 +1,5 @@
+pip._vendor.requests.sessions.SessionRedirectMixin.get_redirect_target
+b3392414ff9ee9c5e4e8f1708347e248
+pip._vendor.requests._internal_utils.to_native_string
+==
+encode

@@ -1,0 +1,68 @@
+
+!twikit.streaming.StreamingSession]
+S/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/streaming.py ("2*Å
+2 (l
+j
+ (0#
+!twikit.streaming.StreamingSession"	
+_client"__id*&
+
+__unknown_file (
+
+
+clientk
+i
+ (+#
+!twikit.streaming.StreamingSession"
+id"__id**
+
+__unknown_file (
+
+
+session_idl
+j
+ (0#
+!twikit.streaming.StreamingSession"	
+_stream"__id*&
+
+__unknown_file (
+
+
+streamk
+i
+ (/#
+!twikit.streaming.StreamingSession"
+topics"__id*&
+
+__unknown_file (
+
+
+topics{
+y
+   (,7#
+!twikit.streaming.StreamingSession"
+auto_reconnect"__id*.
+
+__unknown_file (
+
+auto_reconnect*
+3*Z
+3
+streaming.py31
+" "(
+%1"!twikit.streaming.StreamingSession"
+" "(
+
+%1:
+ (
+client:
+ (-
+
+session_id:
+ ('
+stream:
+) (9
+topics:
+; (O
+auto_reconnectB%#
+!twikit.streaming.StreamingSessionH

@@ -1,0 +1,96 @@
+
+httpx._models.Response._prepare\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_models.pyù ù("2*q
+2
+ú ú(1XV
+
+ú ú(1
+%7"
+dict.items*/
+
+__unknown_file (
+
+default_headers2items*
+3
+5*2
+3
+
+_models.py"
+€ €(
+implicit return*Ó
+5
+ü ü(V@>
+
+ü ü(
+%3*#
+
+__unknown_file (
+
+key2lower›
+˜
+
+ü ü(1
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*1
+
+__unknown_file (
+transfer-encoding_
+]
+
+üJ ü(V
+%5"__id*C
+
+__unknown_file ('*%
+httpx._models.Response"	
+headersvt
+
+ü6 ü(V
+%6*"
+
+__unknown_file (
+
+%5*.
+
+__unknown_file (
+content-length2__contains__*	
+3
+5
+6*Œ
+6
+þ þ(/_
+]
+
+þ þ(
+%1"__id*C
+
+__unknown_file ('*%
+httpx._models.Response"	
+headers‘Ž
+
+þ þ(/
+%2*"
+
+__unknown_file (
+
+%1*#
+
+__unknown_file (
+
+key*%
+
+__unknown_file (	
+
+value2
+setdefault*
+3
+5:
+
+ù ù(6
+default_headersB
+httpx._models.ResponseH

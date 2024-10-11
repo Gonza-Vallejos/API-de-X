@@ -1,0 +1,1 @@
+æ 2pyXohrBenv/lib/python3.12/site-packages/pip/_vendor/packaging/_elffile.py

@@ -1,0 +1,6 @@
+pip._vendor.pyproject_hooks._impl.default_subprocess_runner
+d5ca1e3861d89096a9055caa8d58db28
+subprocess.check_call
+==
+update
+copy

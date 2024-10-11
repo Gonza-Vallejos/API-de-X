@@ -1,0 +1,7 @@
+pip._internal.req.req_uninstall.UninstallPathSet._allowed_to_proceed
+386782ae4a2e70502f764fe7ea0b9476
+pip._internal.req.req_uninstall.UninstallPathSet._allowed_to_proceed._display
+pip._internal.utils.misc.ask
+pip._internal.req.req_uninstall.compress_for_rename
+set.__init__
+pip._internal.req.req_uninstall.compress_for_output_listing

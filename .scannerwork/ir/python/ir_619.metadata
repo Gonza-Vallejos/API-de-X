@@ -1,0 +1,8 @@
+pip._internal.commands.list.ListCommand.add_options
+0b702b8b096d7de5949bed36ee025088
+==
+insert_option_group
+list_exclude
+add_option
+list_path
+make_option_group

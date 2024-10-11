@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_wrap_puts_new_contents_at_the_end
+12301d543ece133fcb60f7163e441464
+==
+soup
+wrap

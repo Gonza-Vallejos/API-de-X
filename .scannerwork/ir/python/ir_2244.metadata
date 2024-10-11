@@ -1,0 +1,5 @@
+pip._vendor.requests.cookies.cookiejar_from_dict
+61d7863269ae1c303adfc7ecb78882a0
+pip._vendor.requests.cookies.RequestsCookieJar.__init__
+==
+set_cookie

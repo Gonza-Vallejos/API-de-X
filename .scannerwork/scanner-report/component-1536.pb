@@ -1,0 +1,1 @@
+€ 2pyXÖhrLenv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/resolver.py

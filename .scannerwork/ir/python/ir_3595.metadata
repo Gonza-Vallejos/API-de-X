@@ -1,0 +1,3 @@
+pip._vendor.packaging.specifiers.Specifier._canonical_spec
+45a5792c087deed67e3753a016ff5ba9
+pip._vendor.packaging.utils.canonicalize_version

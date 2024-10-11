@@ -1,0 +1,9 @@
+pip._vendor.pkg_resources.dist_factory
+b7df1ab6ab17f0b7a8af5ac5af498a1d
+os.path.join
+os.path.isdir
+pip._vendor.pkg_resources.NoDists.__init__
+pip._vendor.pkg_resources._is_egg_path
+==
+lower
+endswith

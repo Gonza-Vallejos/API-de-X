@@ -1,0 +1,2 @@
+bs4.tests.test_tree.TestParentOperations.test_parent_of_top_tag_is_soup_object
+a572b697bc8e4b40b1d2deea3c42f3a4

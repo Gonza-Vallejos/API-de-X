@@ -1,0 +1,6 @@
+pip._internal.network.xmlrpc.PipXmlrpcTransport.__init__
+399673a9170d74dd375edeb1aa4ab116
+super
+urllib.parse.urlparse
+==
+__init__

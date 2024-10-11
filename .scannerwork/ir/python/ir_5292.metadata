@@ -1,0 +1,6 @@
+pip._internal.operations.prepare.get_file_url
+8c5b8af277abbc0596ec7c560054f1c1
+pip._internal.operations.prepare._check_download_dir
+pip._internal.operations.prepare.File.__init__
+==
+check_against_path

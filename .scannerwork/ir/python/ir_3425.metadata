@@ -1,0 +1,7 @@
+pip._vendor.distlib.locators.RedirectHandler.http_error_302
+05c9e0c17701edea2f131959236c0df0
+hasattr
+==
+get_full_url
+replace_header
+http_error_302

@@ -1,0 +1,7 @@
+pip._vendor.urllib3.contrib.securetransport.WrappedSocket.version
+302399c06b3789283d0a96bd308abd00
+pip._vendor.urllib3.contrib._securetransport.low_level._assert_no_error
+ctypes.byref
+==
+SSLGetNegotiatedProtocolVersion
+SSLProtocol

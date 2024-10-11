@@ -1,0 +1,66 @@
+
+"client.Client.get_latest_followersc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyÑ Ñ(""2*õ
+2
+Õ Ø(R
+P
+
+Ú) Ú(1
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+v11R
+P
+
+Ú) Ú(@
+%2"__id*6
+
+__unknown_file (*
+
+%1"
+followers_list¥¢
+
+Ù Û(	
+%3*-
+
+__unknown_file (
+client.Client*'
+
+__unknown_file (
+	
+user_id*+
+
+__unknown_file (
+
+screen_name*%
+
+__unknown_file (	
+
+count*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+
+cursor2_get_user_friendship_2"
+
+Ù Û(	
+
+%3:
+
+Ò Ò((	
+user_id:
+
+Ò* Ò(H
+screen_name:
+
+Ó Ó(
+count:
+
+Ó Ó(3
+cursorB
+client.ClientH

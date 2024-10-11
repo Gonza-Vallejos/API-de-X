@@ -1,0 +1,3 @@
+httpx._utils.is_https_redirect
+60ac8bc2e2eb76ba8504e9ee94d24aec
+httpx._utils.port_or_default

@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.assertDoctypeHandled
+2d477ea7d0499faec0c8657bf9828a3c
+==
+_document_with_doctype

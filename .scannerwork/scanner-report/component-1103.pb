@@ -1,0 +1,1 @@
+Ï 2pyXÉhr>env/lib/python3.12/site-packages/pip/_vendor/requests/utils.py

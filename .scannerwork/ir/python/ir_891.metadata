@@ -1,0 +1,4 @@
+anyio._backends._trio.TrioBackend.open_process.convert_item
+38b6a4d264698efae081fe07f08f8b21
+os.fspath
+os.fsdecode

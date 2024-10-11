@@ -1,0 +1,15 @@
+
+2httpcore._synchronization.AsyncThreadLock.__exit__f
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_synchronization.pyg g("3*7
+3
+_synchronization.py"
+p p
+implicit return:
+i i(6
+
+exc_type:
+j j(1
+	exc_value:
+k k(1
+	tracebackB-+
+)httpcore._synchronization.AsyncThreadLockH

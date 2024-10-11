@@ -1,0 +1,76 @@
+
+0httpx._client.BaseClient._enforce_trailing_slash\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.py– –("2*Õ
+2
+— —(&M
+K
+
+— —(
+%4"__id*1
+
+__unknown_file (*
+
+url"
+
+raw_pathec
+
+— —(&
+%5*"
+
+__unknown_file (
+
+%4*!
+
+__unknown_file (
+/2endswith*
+4
+5*“
+4
+” ”(:M
+K
+
+”& ”(2
+%1"__id*1
+
+__unknown_file (*
+
+url"
+
+raw_pathI
+G
+
+”& ”(9
+%2"__concat*
+
+”& ”(2
+
+%1*
+
+”5 ”(9
+/êç
+
+” ”(:
+%3"httpx._urls.URL.copy_with*#
+
+__unknown_file (
+
+url2	copy_with:.
+raw_path"
+
+__unknown_file (
+
+%2"
+
+” ”(:
+
+%3*&
+5
+“ “("
+
+“ “(
+
+url:
+
+–& –(.
+urlB
+httpx._client.BaseClientH

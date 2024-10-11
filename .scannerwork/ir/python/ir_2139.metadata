@@ -1,0 +1,6 @@
+bs4.tests.test_navigablestring.TestNavigableStringSubclasses.test_cdata
+f2a2295929cedd1ae80d563748f14819
+bs4.element.CData.__init__
+==
+soup
+insert

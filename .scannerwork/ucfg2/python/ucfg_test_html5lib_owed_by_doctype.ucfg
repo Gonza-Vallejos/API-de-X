@@ -1,0 +1,71 @@
+
+Tbs4.tests.test_html5lib.TestHTML5LibBuilder.test_xml_declaration_followed_by_doctyped
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_html5lib.py: :(0"2*»
+2; C(
+¹
+¶
+; C(
+
+markup"__id*™
+
+__unknown_file (}{
+y<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+   <p>foo</p>
+  </body>
+</html>Ž‹
+D D( 
+%1*K
+
+__unknown_file (/-
++bs4.tests.test_html5lib.TestHTML5LibBuilder*&
+
+__unknown_file (
+
+
+markup2soup>
+<
+D D( 
+soup"__id*"
+
+__unknown_file (
+
+%1E
+C
+F  F(&
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+p><
+F  F(/
+%3*"
+
+__unknown_file (
+
+%22encode’
+
+F F(/
+%4"	__compare*"
+
+__unknown_file (
+==**
+
+__unknown_file (
+
+<p>foo</p>*"
+
+__unknown_file (
+
+%3*
+3*6
+3
+test_html5lib.py"
+H H(
+implicit returnB/-
++bs4.tests.test_html5lib.TestHTML5LibBuilderH

@@ -1,0 +1,1 @@
+Ë 2pyX˜hrCenv/lib/python3.12/site-packages/pip/_vendor/requests/exceptions.py

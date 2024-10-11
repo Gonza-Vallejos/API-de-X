@@ -1,0 +1,4 @@
+pip._vendor.urllib3.contrib._appengine_environ.is_appengine
+dd24187629aa169828b64b1ca61e2716
+pip._vendor.urllib3.contrib._appengine_environ.is_local_appengine
+pip._vendor.urllib3.contrib._appengine_environ.is_prod_appengine

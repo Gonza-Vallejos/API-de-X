@@ -1,0 +1,5 @@
+anyio._core._streams.create_memory_object_stream.__new__
+72d8f1783c9f7500681390b08296e99f
+warnings.warn
+anyio.streams.memory.MemoryObjectReceiveStream.__init__
+anyio.streams.memory.MemoryObjectSendStream.__init__

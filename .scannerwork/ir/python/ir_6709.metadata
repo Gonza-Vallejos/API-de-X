@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_replace_last_child
+28b3561b7492b72b6006985d659d113c
+==
+soup
+replace_with

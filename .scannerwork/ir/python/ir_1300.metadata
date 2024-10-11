@@ -1,0 +1,3 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.move_cursor_to
+bb2073e403b19cb55c939ec2d86f3b7a
+pip._vendor.rich._win32_console.SetConsoleCursorPosition

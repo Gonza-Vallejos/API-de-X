@@ -1,0 +1,20 @@
+
+@pip._vendor.resolvelib.providers.AbstractProvider.get_preferencem
+c/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/resolvelib/providers.py ("3*2
+3
+providers.py"
+? ?(
+implicit return:
+ (
+
+identifier:
+ (
+resolutions:
+ (
+
+candidates:
+ (
+information:
+ (
+backtrack_causesB53
+1pip._vendor.resolvelib.providers.AbstractProviderH

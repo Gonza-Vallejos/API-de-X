@@ -1,0 +1,62 @@
+
+client.Client.get_favoritersc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.py™ ™("2*Å
+2
+œ ¸(R
+P
+
+¹J ¹(R
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+gqlN
+L
+
+¹J ¹(]
+%2"__id*2
+
+__unknown_file (*
+
+%1"
+
+favoritersùö
+
+¹ ¹(^
+%3*-
+
+__unknown_file (
+client.Client*(
+
+__unknown_file (
+
+
+tweet_id*%
+
+__unknown_file (	
+
+count*&
+
+__unknown_file (
+
+
+cursor*"
+
+__unknown_file (
+
+%22_get_tweet_engagements"
+
+¹ ¹(^
+
+%3:
+
+š š(
+
+tweet_id:
+
+š š(,
+count:
+
+š. š(G
+cursorB
+client.ClientH

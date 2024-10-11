@@ -1,0 +1,33 @@
+
+[bs4.tests.XMLTreeBuilderSmokeTest.test_tags_are_empty_element_if_and_only_if_they_are_emptya
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py¶ ¶(A"2*Û
+2
+· ·('°­
+
+· ·('
+%1*A
+
+__unknown_file (%#
+!bs4.tests.XMLTreeBuilderSmokeTest*#
+
+__unknown_file (
+<p>*$
+
+__unknown_file (
+<p/>2assert_soup‘Ž
+
+¸ ¸(&
+%2*A
+
+__unknown_file (%#
+!bs4.tests.XMLTreeBuilderSmokeTest**
+
+__unknown_file (
+
+<p>foo</p>2assert_soup*
+3*3
+3
+__init__.py"
+º º(
+implicit returnB%#
+!bs4.tests.XMLTreeBuilderSmokeTestH

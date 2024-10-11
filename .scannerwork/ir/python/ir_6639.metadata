@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestFindAllByAttribute.test_find_all_with_defined_attribute
+68ce3a1a82bdcac3f743a28b0437c943
+==
+soup
+find_all
+assert_selects

@@ -1,0 +1,7 @@
+pip._vendor.pkg_resources.MemoizedZipManifests.load
+69d26d8c9c7bde86512009b334ab127e
+os.path.normpath
+os.stat
+pip._vendor.pkg_resources.MemoizedZipManifests.manifest_mod.__init__
+==
+build

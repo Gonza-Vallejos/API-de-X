@@ -1,0 +1,3 @@
+httpx._models.Response.is_error
+a4f1137600ba3ac836d2e7216ca7aca2
+httpx._status_codes.codes.is_error

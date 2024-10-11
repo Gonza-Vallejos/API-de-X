@@ -1,0 +1,1 @@
+º 2pyXFhr?env/lib/python3.12/site-packages/pip/_vendor/rich/_null_file.py

@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestFindAllByName.test_find_all_by_tag_re
+34a0086771495e09bc05770779eaaae9
+re.compile
+==
+find_all
+assert_selects

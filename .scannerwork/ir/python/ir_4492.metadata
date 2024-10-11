@@ -1,0 +1,8 @@
+h11._events._ResponseBase.__init__
+79f9236d369b0abd356bd8dd0461b79a
+super
+h11._util.LocalProtocolError.__init__
+==
+__setattr__
+__post_init__
+__init__

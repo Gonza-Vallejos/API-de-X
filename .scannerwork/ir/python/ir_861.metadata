@@ -1,0 +1,6 @@
+anyio._backends._trio.Semaphore.__init__
+481f4846587effe1d98353872fca8c89
+super
+==
+Semaphore
+__init__

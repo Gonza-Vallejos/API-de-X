@@ -1,0 +1,9 @@
+pip._vendor.distlib.util.Cache.__init__
+05b7dfde9b4f204ce973900f34aebb6c
+os.stat
+os.path.normpath
+os.path.abspath
+os.path.isdir
+os.makedirs
+==
+warning

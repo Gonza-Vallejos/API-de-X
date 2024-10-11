@@ -1,0 +1,10 @@
+pip._internal.self_outdated_check.pip_self_version_check
+21e3e5203f0290da5ffb3395eb7eeaef
+pip._internal.self_outdated_check._self_version_check_logic
+pip._internal.metadata.get_default_environment
+pip._internal.self_outdated_check.SelfCheckState.__init__
+functools.partial.__init__
+datetime.datetime.now
+==
+get_distribution
+warning

@@ -1,0 +1,6 @@
+pip._internal.vcs.subversion.Subversion.__init__
+3973f38027ba08f4bb689bda80aa7d51
+super
+pip._internal.utils.misc.is_console_interactive
+==
+__init__

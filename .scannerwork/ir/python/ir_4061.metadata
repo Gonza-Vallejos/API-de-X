@@ -1,0 +1,4 @@
+bs4.tests.test_html5lib.TestHTML5LibBuilder.test_correctly_nested_tables
+d5633ec018bfde2f966a6fb48107cecf
+==
+assert_soup

@@ -1,0 +1,37 @@
+
+0anyio.streams.stapled.StapledObjectStream.acloseb
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/streams/stapled.pyR R("2*
+2S S('t
+r
+S S(
+%1"__id*Z
+
+__unknown_file (>*<+
+)anyio.streams.stapled.StapledObjectStream"
+send_stream><
+S S('
+%2*"
+
+__unknown_file (
+
+%12aclosew
+u
+T T(!
+%3"__id*]
+
+__unknown_file (A*?+
+)anyio.streams.stapled.StapledObjectStream"
+receive_stream><
+T T(*
+%4*"
+
+__unknown_file (
+
+%32aclose*
+3*0
+3
+
+stapled.py"
+V V(
+implicit returnB-+
+)anyio.streams.stapled.StapledObjectStreamH

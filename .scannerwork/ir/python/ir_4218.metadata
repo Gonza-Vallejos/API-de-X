@@ -1,0 +1,10 @@
+pip._vendor.rich.progress.wrap_file
+8beef07f549193740360385ded066a90
+pip._vendor.rich.progress.BarColumn.__init__
+pip._vendor.rich.progress.TextColumn.__init__
+pip._vendor.rich.progress.DownloadColumn.__init__
+pip._vendor.rich.progress.TimeRemainingColumn.__init__
+pip._vendor.rich.progress._ReadContext.__init__
+==
+extend
+wrap_file

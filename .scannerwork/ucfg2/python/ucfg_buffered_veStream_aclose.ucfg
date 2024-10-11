@@ -1,0 +1,31 @@
+
+7anyio.streams.buffered.BufferedByteReceiveStream.aclosec
+Y/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/streams/buffered.py ("2*Í
+2 (*~
+|
+ (!
+%1"__id*d
+
+__unknown_file (H*F2
+0anyio.streams.buffered.BufferedByteReceiveStream"
+receive_stream><
+ (*
+%2*"
+
+__unknown_file (
+
+%12aclosey
+w
+ (?2
+0anyio.streams.buffered.BufferedByteReceiveStream"	
+_closed"__id*$
+
+__unknown_file (
+
+True*
+3*1
+3
+buffered.py"
+ (
+implicit returnB42
+0anyio.streams.buffered.BufferedByteReceiveStreamH

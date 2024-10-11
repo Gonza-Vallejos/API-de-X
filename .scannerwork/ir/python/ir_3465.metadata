@@ -1,0 +1,11 @@
+pip._vendor.distlib.locators.DependencyFinder.try_to_replace
+4186b160bab807bee060ceee3bd41e4b
+frozenset.__init__
+set.__init__
+==
+add
+remove_distribution
+setdefault
+get_matcher
+add_distribution
+match

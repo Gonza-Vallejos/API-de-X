@@ -1,0 +1,5 @@
+pip._internal.metadata.get_metadata_distribution
+806dc721db7d23cac0ac0df931d22a4a
+pip._internal.metadata.select_backend
+==
+from_metadata_file_contents

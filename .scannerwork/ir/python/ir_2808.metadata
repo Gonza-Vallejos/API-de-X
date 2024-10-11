@@ -1,0 +1,10 @@
+h11.tests.test_connection.test_pipelined_close
+f4ecf1435b0018403c4fa184497055e5
+h11._events.EndOfMessage.__init__
+h11._events.Response.__init__
+h11._connection.Connection.__init__
+h11._events.ConnectionClosed.__init__
+==
+receive_data
+send
+start_next_cycle

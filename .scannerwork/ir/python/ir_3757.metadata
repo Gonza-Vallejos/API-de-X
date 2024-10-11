@@ -1,0 +1,4 @@
+pip._vendor.rich.color.blend_rgb
+8baf585de43f215eb3bef3747dfbcacc
+pip._vendor.rich.color_triplet.ColorTriplet.__init__
+int.__init__

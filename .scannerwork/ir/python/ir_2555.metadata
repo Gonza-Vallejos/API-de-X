@@ -1,0 +1,12 @@
+pip._internal.req.constructors._get_url_from_path
+5dab73b5214652b608af8ad148979278
+pip._internal.utils.urls.path_to_url
+len
+os.path.isdir
+os.path.isfile
+pip._internal.utils.misc.is_installable_dir
+pip._internal.req.constructors._looks_like_path
+pip._internal.utils.filetypes.is_archive_file
+==
+split
+warning

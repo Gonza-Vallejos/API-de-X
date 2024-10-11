@@ -1,0 +1,1 @@
+³	 2pyXôhrAenv/lib/python3.12/site-packages/pip/_vendor/truststore/_macos.py

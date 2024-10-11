@@ -1,0 +1,10 @@
+anyio._backends._asyncio.AsyncIOTaskInfo.__init__
+e0c4cf5ad0367a43fc69b717bbaaf890
+super
+id
+==
+ref
+get
+get_name
+get_coro
+__init__

@@ -1,0 +1,2 @@
+bs4.tests.test_dammit.TestEntitySubstitution.test_xml_attribute_quoting_uses_single_quotes_when_value_contains_double_quotes
+2e0ad8933ee82cb5f409006ec79a3a2b

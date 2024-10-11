@@ -1,0 +1,66 @@
+
+gql.GQLClient.list_by_rest_id`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py² ²("2*Ì
+2
+³ ³('
+
+³ ³('
+%1"dict”
+‘
+
+³ ³(&
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*&
+
+__unknown_file (
+
+listId*'
+
+__unknown_file (
+	
+list_idE
+C
+
+³ ³('
+	variables"__id*"
+
+__unknown_file (
+
+%1]
+[
+
+´" ´(:
+%3"__id*A
+
+__unknown_file (%*#
+gql.Endpoint"
+LIST_BY_REST_IDËÈ
+
+´ ´(U
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables*-
+
+__unknown_file (
+
+LIST_FEATURES2gql_get"
+
+´ ´(U
+
+%4:
+
+²$ ²(+	
+list_idB
+gql.GQLClientH

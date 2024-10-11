@@ -1,0 +1,5 @@
+pip._vendor.pyproject_hooks._impl.BuildBackendHookCaller.prepare_metadata_for_build_editable
+69e8d67cfe6f39c4e263dcfb74c6e7f3
+os.path.abspath
+==
+_call_hook

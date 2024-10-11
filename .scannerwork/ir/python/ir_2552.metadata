@@ -1,0 +1,12 @@
+pip._internal.req.constructors.parse_editable
+478da3e2020a9af5024b1fbac633731d
+pip._internal.req.constructors._strip_extras
+pip._internal.utils.urls.path_to_url
+pip._internal.models.link.Link.__init__
+os.path.isdir
+pip._internal.utils.packaging.get_requirement
+set.__init__
+==
+startswith
+lower
+join

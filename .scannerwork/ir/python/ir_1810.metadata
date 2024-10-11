@@ -1,0 +1,5 @@
+bs4.tests.test_tag.TestTag.test__should_pretty_print
+22c363396abe07f4e9d2ca52dd777706
+==
+soup
+new_tag

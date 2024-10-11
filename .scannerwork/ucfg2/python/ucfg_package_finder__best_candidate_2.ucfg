@@ -1,0 +1,93 @@
+
+Dpip._internal.index.package_finder.PackageFinder.find_best_candidateq
+e/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/index/package_finder.pyå å("1*ö
+2
+ë ò(ª§
+
+ó ó(;
+%2*P
+
+__unknown_file (42
+0pip._internal.index.package_finder.PackageFinder*,
+
+__unknown_file (
+
+project_name2find_all_candidatesF
+D
+
+ó ó(;
+
+candidates"__id*"
+
+__unknown_file (
+
+%2©¦
+
+ô ø(	
+%3*P
+
+__unknown_file (42
+0pip._internal.index.package_finder.PackageFinder2make_candidate_evaluator:<
+project_name,
+
+__unknown_file (
+
+project_name:6
+	specifier)
+
+__unknown_file (
+
+	specifier:0
+hashes&
+
+__unknown_file (
+
+
+hashesO
+M
+
+ô ø(	
+candidate_evaluator"__id*"
+
+__unknown_file (
+
+%3ÜÙ
+
+ù ù(E
+%4"Lpip._internal.index.package_finder.CandidateEvaluator.compute_best_candidate*3
+
+__unknown_file (
+
+candidate_evaluator**
+
+__unknown_file (
+
+
+candidates2compute_best_candidate"
+
+ù ù(E
+
+%4*o
+1
+é é('Y
+W
+
+è è(4
+%1"__id*=
+
+__unknown_file (!*
+
+
+specifiers"
+BaseSpecifier*
+2:
+
+ç ç(
+project_name:
+
+è è(<
+	specifier:
+
+é é('
+hashesB42
+0pip._internal.index.package_finder.PackageFinderH

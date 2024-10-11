@@ -1,0 +1,5 @@
+pip._vendor.urllib3.connectionpool.ConnectionPool.__init__
+0e02c7ffba17797cf63908ca4e20b314
+pip._vendor.urllib3.connectionpool._normalize_host
+==
+lower

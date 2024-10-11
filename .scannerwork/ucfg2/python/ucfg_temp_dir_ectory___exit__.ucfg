@@ -1,0 +1,103 @@
+
+3pip._internal.utils.temp_dir.TempDirectory.__exit__k
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/utils/temp_dir.py   ("2*Ž
+2
+¡ ¡("r
+p
+
+¡ ¡(
+%5"__id*V
+
+__unknown_file (:*8,
+*pip._internal.utils.temp_dir.TempDirectory"
+delete*	
+6
+7
+8*3
+3
+temp_dir.py"
+« «(
+implicit return*
+4
+© ©(ig
+
+© ©(
+%1*J
+
+__unknown_file (.,
+*pip._internal.utils.temp_dir.TempDirectory2cleanup*
+3*Ï
+6
+¢ ¢( r
+p
+
+¢ ¢( 
+%2"__id*V
+
+__unknown_file (:*8,
+*pip._internal.utils.temp_dir.TempDirectory"
+deleteB
+@
+
+¢ ¢( 
+delete"__id*"
+
+__unknown_file (
+
+%2*
+3
+4*]
+7
+¦ ¦(D
+B
+
+¦ ¦(
+delete"__id*$
+
+__unknown_file (
+
+True*
+3
+4*Æ
+8
+¤ ¤(<p
+n
+
+¤2 ¤(;
+%3"__id*T
+
+__unknown_file (8*6,
+*pip._internal.utils.temp_dir.TempDirectory"
+kindwu
+
+¤ ¤(<
+%4*1
+
+__unknown_file (
+
+_tempdir_registry*"
+
+__unknown_file (
+
+%32
+get_deleteB
+@
+
+¤ ¤(<
+delete"__id*"
+
+__unknown_file (
+
+%4*
+3
+4:
+
+   (
+exc:
+
+ !  (+
+value:
+
+ -  (4
+tbB.,
+*pip._internal.utils.temp_dir.TempDirectoryH

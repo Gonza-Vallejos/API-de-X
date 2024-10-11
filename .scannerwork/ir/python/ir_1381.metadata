@@ -1,0 +1,7 @@
+httpcore._async.socks_proxy.AsyncSOCKSProxy.__init__
+c15e9f4793448937c3d2a7015f3fe7ca
+super
+httpcore._models.enforce_bytes
+httpcore._models.enforce_url
+==
+__init__

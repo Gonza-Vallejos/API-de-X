@@ -1,0 +1,1 @@
+± 2pyXúhr?env/lib/python3.12/site-packages/pip/_internal/commands/list.py

@@ -1,0 +1,4 @@
+pip._internal.utils.misc.hide_url
+01f24caa2166f900f8275fb2549776ff
+pip._internal.utils.misc.redact_auth_from_url
+pip._internal.utils.misc.HiddenText.__init__

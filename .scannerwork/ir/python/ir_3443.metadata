@@ -1,0 +1,4 @@
+pip._vendor.distlib.locators.PyPIJSONLocator.__init__
+836820386c8b1dc0ccd34272154b9cb2
+super
+pip._vendor.distlib.util.ensure_slash

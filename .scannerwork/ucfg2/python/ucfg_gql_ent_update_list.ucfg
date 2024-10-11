@@ -1,0 +1,137 @@
+
+gql.GQLClient.update_list`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py” ”("2*—
+2
+• •('
+
+• •('
+%6"dict”
+‘
+
+• •(&
+%7"__mapSet*"
+
+__unknown_file (
+
+%6*&
+
+__unknown_file (
+
+listId*'
+
+__unknown_file (
+	
+list_idE
+C
+
+• •('
+	variables"__id*"
+
+__unknown_file (
+
+%6*
+4
+5
+7
+9*Ï
+4
+œ œ(RY
+W
+
+œ# œ(7
+%1"__id*=
+
+__unknown_file (!*
+gql.Endpoint"
+UPDATE_LISTÌÉ
+
+œ œ(R
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*-
+
+__unknown_file (
+
+LIST_FEATURES2gql_post"
+
+œ œ(R
+
+%2*Í
+5
+› ›(/¶³
+
+› ›(/
+%3"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*)
+
+__unknown_file (
+	isPrivate**
+
+__unknown_file (
+
+
+is_private2__setitem__*
+4*Ó
+7
+™ ™(2¹¶
+
+™ ™(2
+%4"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*+
+
+__unknown_file (
+description*+
+
+__unknown_file (
+
+description2__setitem__*
+4
+5*È
+9
+— —($«¨
+
+— —($
+%5"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*$
+
+__unknown_file (
+name*$
+
+__unknown_file (
+
+name2__setitem__*	
+4
+5
+7:
+
+”  ”('	
+list_id:
+
+”) ”(-
+name:
+
+”/ ”(:
+description:
+
+”< ”(F
+
+is_privateB
+gql.GQLClientH

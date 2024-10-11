@@ -1,0 +1,43 @@
+
+@bs4.tests.test_lxml.TestLXMLTreeBuilder.test_out_of_range_entity`
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_lxml.py# #( "2* 
+2$ %(>ØÕ
+$ %(>
+%1*G
+
+__unknown_file (+)
+'bs4.tests.test_lxml.TestLXMLTreeBuilder*>
+
+__unknown_file (" 
+<p>foo&#10000000000000;bar</p>*-
+
+__unknown_file (
+<p>foobar</p>2assert_soupÙÖ
+& '(?
+%2*G
+
+__unknown_file (+)
+'bs4.tests.test_lxml.TestLXMLTreeBuilder*?
+
+__unknown_file (#!
+<p>foo&#x10000000000000;bar</p>*-
+
+__unknown_file (
+<p>foobar</p>2assert_soupÔÑ
+( )(:
+%3*G
+
+__unknown_file (+)
+'bs4.tests.test_lxml.TestLXMLTreeBuilder*:
+
+__unknown_file (
+<p>foo&#1000000000;bar</p>*-
+
+__unknown_file (
+<p>foobar</p>2assert_soup*
+3*2
+3
+test_lxml.py"
++ +(
+implicit returnB+)
+'bs4.tests.test_lxml.TestLXMLTreeBuilderH

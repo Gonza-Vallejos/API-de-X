@@ -1,0 +1,11 @@
+pip._vendor.distlib.manifest.Manifest.findall
+ab1254c6e967a4f9c7dab1db5b6d9059
+os.listdir
+os.stat
+stat.S_ISREG
+pip._vendor.distlib.compat.fsdecode
+os.path.join
+stat.S_ISDIR
+stat.S_ISLNK
+==
+append

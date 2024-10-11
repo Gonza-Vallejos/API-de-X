@@ -1,0 +1,1 @@
+Ì 2pyXëhr6env/lib/python3.12/site-packages/bs4/tests/test_tag.py

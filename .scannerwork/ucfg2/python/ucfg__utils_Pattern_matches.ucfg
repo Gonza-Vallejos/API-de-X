@@ -1,0 +1,169 @@
+
+httpx._utils.URLPattern.matches[
+O/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_utils.pyÜ Ü("2*Ω
+2
+á á(6`
+^
+
+á á(
+%10"__id*C
+
+__unknown_file ('*%
+httpx._utils.URLPattern"
+scheme`
+^
+
+á á(&
+%11"__id*C
+
+__unknown_file ('*%
+httpx._utils.URLPattern"
+schemeN
+L
+
+á* á(6
+%12"__id*1
+
+__unknown_file (*
+
+other"
+schemeè
+å
+
+á á(6
+%13"	__compare*"
+
+__unknown_file (
+!=*#
+
+__unknown_file (
+
+%11*#
+
+__unknown_file (
+
+%12*
+8
+9*'
+4
+ë ë("
+
+ë ë(
+
+True*(
+5
+ê ê("
+
+ê ê(	
+
+False*±
+6
+è è(<]
+[
+
+è è(
+%1"__id*A
+
+__unknown_file (%*#
+httpx._utils.URLPattern"
+port]
+[
+
+è% è(.
+%2"__id*A
+
+__unknown_file (%*#
+httpx._utils.URLPattern"
+portK
+I
+
+è2 è(<
+%3"__id*/
+
+__unknown_file (*
+
+other"
+portå
+â
+
+è% è(<
+%4"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+4
+5*(
+7
+é é("
+
+é é(	
+
+False*Ú
+8
+â ç(	]
+[
+
+ä ä(
+%5"__id*A
+
+__unknown_file (%*#
+httpx._utils.URLPattern"
+hostc
+a
+
+ã ã(
+%6"__id*G
+
+__unknown_file (+*)
+httpx._utils.URLPattern"
+
+host_regexc
+a
+
+å å(#
+%7"__id*G
+
+__unknown_file (+*)
+httpx._utils.URLPattern"
+
+host_regexK
+I
+
+å* å(4
+%8"__id*/
+
+__unknown_file (*
+
+other"
+hostca
+
+å å(5
+%9*"
+
+__unknown_file (
+
+%7*"
+
+__unknown_file (
+
+%82match*
+6
+7*(
+9
+à à("
+
+à à(	
+
+False:
+
+Ü Ü( 
+otherB
+httpx._utils.URLPatternH

@@ -1,0 +1,3 @@
+pip._vendor.tomli._parser.parse_literal_str
+83e0415482916c4bc4059ffdcb7140b1
+pip._vendor.tomli._parser.skip_until

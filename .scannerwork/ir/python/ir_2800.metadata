@@ -1,0 +1,3 @@
+h11.tests.test_connection.test_server_talking_to_http10_client
+f197b3da218de4b983e0b931371fe2de
+h11._connection.Connection.__init__

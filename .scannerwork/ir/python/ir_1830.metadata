@@ -1,0 +1,4 @@
+bs4.tests.test_tag.TestMultiValuedAttributes.test_cdata_attribute_applying_only_to_one_tag
+93d25a926bf3984d10e3a0670539128c
+==
+soup

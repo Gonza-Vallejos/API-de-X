@@ -1,0 +1,5 @@
+h11.tests.test_io.test_Http10Reader
+761394cbf47662966719d6a4db0b0abf
+h11._events.EndOfMessage.__init__
+h11._events.Data.__init__
+h11.tests.test_io.t_body_reader

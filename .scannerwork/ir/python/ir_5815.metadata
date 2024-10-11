@@ -1,0 +1,13 @@
+pip._vendor.urllib3.util.retry.Retry.increment
+5a9efe7a03debc47c65199f5587c3287
+type.__init__
+pip._vendor.urllib3.exceptions.MaxRetryError.__init__
+==
+_is_method_retryable
+debug
+_is_connection_error
+_is_read_error
+format
+get_redirect_location
+reraise
+is_exhausted

@@ -1,0 +1,1 @@
+Á 2pyXShr=env/lib/python3.12/site-packages/pip/_internal/req/req_set.py

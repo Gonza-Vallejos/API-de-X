@@ -1,0 +1,7 @@
+pip._vendor.distlib.manifest.Manifest.process_directive
+58d53e6062b1901cccfe657f38a9452a
+==
+_include_pattern
+_exclude_pattern
+warning
+_parse_directive

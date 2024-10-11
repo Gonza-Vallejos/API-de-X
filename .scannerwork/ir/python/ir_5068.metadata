@@ -1,0 +1,8 @@
+httpcore._backends.trio.TrioStream.get_extra_info
+7c35f4765bcd28930e1a2a60b5401b82
+==
+_get_socket_stream
+getsockname
+is_readable
+getpeername
+get_extra_info

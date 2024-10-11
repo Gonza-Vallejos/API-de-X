@@ -1,0 +1,6 @@
+pip._vendor.urllib3.util.url._encode_target
+3087d8ef1e4417a5a5cb95f969fdd0a9
+pip._vendor.urllib3.util.url._encode_invalid_chars
+==
+match
+groups

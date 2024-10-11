@@ -1,0 +1,6 @@
+pip._internal.index.package_finder.PackageFinder.make_link_evaluator
+9e55b9d2ddecfc17e849988c7fa2f1f7
+pip._internal.index.package_finder.LinkEvaluator.__init__
+pip._vendor.packaging.utils.canonicalize_name
+==
+get_allowed_formats

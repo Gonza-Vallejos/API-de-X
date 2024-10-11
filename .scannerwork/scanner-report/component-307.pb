@@ -1,0 +1,1 @@
+³ 2pyXRhr:env/lib/python3.12/site-packages/anyio/_core/_typedattr.py

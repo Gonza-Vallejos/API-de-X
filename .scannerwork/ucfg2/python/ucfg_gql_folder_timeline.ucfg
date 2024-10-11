@@ -1,0 +1,138 @@
+
+&gql.GQLClient.bookmark_folder_timeline`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py§ §(&"2* 
+2
+¨ ¬(	
+
+¨ ¬(	
+%4"dict‘
+Ž
+
+© ©(
+%5"__mapSet*"
+
+__unknown_file (
+
+%4*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+count¡
+ž
+
+ª ª(*
+%6"__mapSet*"
+
+__unknown_file (
+
+%4*6
+
+__unknown_file (
+includePromotedContent*$
+
+__unknown_file (
+
+True¦
+£
+
+« «(/
+%7"__mapSet*"
+
+__unknown_file (
+
+%4*6
+
+__unknown_file (
+bookmark_collection_id*)
+
+__unknown_file (
+
+	folder_idE
+C
+
+¨ ¬(	
+	variables"__id*"
+
+__unknown_file (
+
+%4Â¿
+
+­ ­(7
+%8"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*6
+
+__unknown_file (
+bookmark_collection_id*)
+
+__unknown_file (
+
+	folder_id2__setitem__*
+4
+5*ï
+4
+° °(rf
+d
+
+°" °(C
+%1"__id*J
+
+__unknown_file (.*,
+gql.Endpoint"
+BOOKMARK_FOLDER_TIMELINEßÜ
+
+° °(r
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*A
+
+__unknown_file (%
+#
+!BOOKMARK_FOLDER_TIMELINE_FEATURES2gql_get"
+
+° °(r
+
+%2*Æ
+5
+¯ ¯((¯¬
+
+¯ ¯((
+%3"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+§- §(2
+count:
+
+§4 §(:
+cursor:
+
+§< §(E
+	folder_idB
+gql.GQLClientH

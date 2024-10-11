@@ -1,0 +1,87 @@
+
+Sbs4.tests.test_tree.TestTreeModification.test_append_child_thats_already_at_the_endb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyƒ ƒ(2"2*ÿ
+2
+„ „(L
+J
+
+„ „(
+data"__id*.
+
+__unknown_file (
+<a><b></b></a>‹ˆ
+
+… …(
+%1*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*$
+
+__unknown_file (
+
+data2soup@
+>
+
+… …(
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+† †(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+aG
+E
+
+† †(
+%3"__id*+
+
+__unknown_file (*
+
+soup"
+bdb
+
+† †(
+%4*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%32appendB@
+
+‡ ‡($
+%5*$
+
+__unknown_file (
+
+soup2decodeŽ
+‹
+
+‡ ‡($
+%6"	__compare*"
+
+__unknown_file (
+==*$
+
+__unknown_file (
+
+data*"
+
+__unknown_file (
+
+%5*
+3*4
+3
+test_tree.py"
+‰ ‰(
+implicit returnB,*
+(bs4.tests.test_tree.TestTreeModificationH

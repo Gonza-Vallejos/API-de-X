@@ -1,0 +1,119 @@
+
+Bpip._internal.exceptions.ConfigurationFileCouldNotBeLoaded.__str__g
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/exceptions.pyâ â("2*õ
+2
+ä ä(!Å
+
+
+ä ä(
+%8"__id*e
+
+__unknown_file (I*G<
+:pip._internal.exceptions.ConfigurationFileCouldNotBeLoaded"
+fname*
+5
+6*®
+4
+è è(@É
+Ä
+
+è% è(0
+%1"__id*f
+
+__unknown_file (J*H<
+:pip._internal.exceptions.ConfigurationFileCouldNotBeLoaded"
+reason{
+y
+
+è è(@
+%2"__concat*%
+
+è è($
+Configuration file *
+
+è% è(0
+
+%1*
+
+è2 è(>
+
+message_part"
+
+è è(@
+
+%2*≈
+5
+ã ã(/Å
+
+
+ã" ã(,
+%3"__id*e
+
+__unknown_file (I*G<
+:pip._internal.exceptions.ConfigurationFileCouldNotBeLoaded"
+fnamea
+_
+
+ã ã(/
+%4"__concat*
+
+ã ã(!
+ in *
+
+ã" ã(,
+
+%3*
+
+ã- ã(.
+.H
+F
+
+ã ã(/
+message_part"__id*"
+
+__unknown_file (
+
+%4*
+4*…
+6
+ç ç()Å
+
+
+ç ç(
+%5"__id*e
+
+__unknown_file (I*G<
+:pip._internal.exceptions.ConfigurationFileCouldNotBeLoaded"
+errorÅ
+
+
+é! é(+
+%6"__id*e
+
+__unknown_file (I*G<
+:pip._internal.exceptions.ConfigurationFileCouldNotBeLoaded"
+errora
+_
+
+é é(/
+%7"__concat*
+
+é é( 
+.\n*
+
+é! é(+
+
+%6*
+
+é, é(.
+\nH
+F
+
+é é(/
+message_part"__id*"
+
+__unknown_file (
+
+%7*
+4B><
+:pip._internal.exceptions.ConfigurationFileCouldNotBeLoadedH

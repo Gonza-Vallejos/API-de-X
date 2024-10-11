@@ -6,17 +6,19 @@ from random import randint
 import asyncio
 import os
 
-MINIMUM_TWEETS = 100  # Cambia esto al número deseado de tweets
-QUERY = 'lang:en since:2024-01-16 until:2024-09-25 '
+MINIMUM_TWEETS = 100  # número deseado de tweets
 
-async def get_tweets(client, tweets):
+
+QUERY = 'lang:en since:2024-01-16 until:2024-09-25 geocode:-27.4698,-58.8303,50km'
+
+async def obtener_tweets(client, tweets):
     if tweets is None:
-        print(f'{datetime.now()} - Getting tweets...')
-        tweets = await client.search_tweet(QUERY, product='top')
+        print(f'{datetime.now()} - Obteniendo tweets...')
+        tweets = await client.search_tweet(QUERY, product='Latest')
     else:
-        wait_time = randint(5, 10)
-        print(f'{datetime.now()} - Obteniendo siguientes tweets en {wait_time} segundos...')
-        await asyncio.sleep(wait_time)
+        tiempo_espera = randint(5, 10)
+        print(f'{datetime.now()} - Obteniendo siguientes tweets en {tiempo_espera} segundos...')
+        await asyncio.sleep(tiempo_espera)
         tweets = await tweets.next()
 
     return tweets
@@ -32,10 +34,10 @@ async def main():
     # Crear un archivo CSV para los tweets
     with open('tweets.csv', 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(['Tweet_count', 'Username', 'Text', 'Created At', 'Retweets', 'Likes', 'Location'])
+        writer.writerow(['Número_Tweet', 'Usuario', 'Texto', 'Creado En', 'Retweets', 'Me Gusta', 'Ubicación'])
 
     # Autenticarse en X.com
-    client = Client(language='en-US')
+    client = Client(language='es-ES')
 
     try:
         # Verificar si existe el archivo de cookies
@@ -52,30 +54,31 @@ async def main():
         print(f'Error al iniciar sesión: {e}')
         return
 
-    tweet_count = 0
+    cuenta_tweets = 0
     tweets = None
 
-    while tweet_count < MINIMUM_TWEETS:
+    while cuenta_tweets < MINIMUM_TWEETS:
         try:
-            tweets = await get_tweets(client, tweets)
+            tweets = await obtener_tweets(client, tweets)
         except TooManyRequests as e:
-            rate_limit_reset = datetime.fromtimestamp(e.rate_limit_reset)
-            print(f'{datetime.now()} - Rate limit reached. Waiting until {rate_limit_reset}')
-            wait_time = rate_limit_reset - datetime.now()
-            await asyncio.sleep(wait_time.total_seconds())  # Esperar hasta que se restablezca el límite
+            reinicio_limite = datetime.fromtimestamp(e.rate_limit_reset)
+            print(f'{datetime.now()} - Se alcanzó el límite de solicitudes. Esperando hasta {reinicio_limite}')
+            tiempo_espera = reinicio_limite - datetime.now()
+            await asyncio.sleep(tiempo_espera.total_seconds())  # Esperar hasta que se restablezca el límite
             continue
         except TwitterException as e:
             print(f'Error al obtener tweets: {e}')
             break
 
         if not tweets:
-            print(f'{datetime.now()} - No more tweets found')
+            print(f'{datetime.now()} - No se encontraron más tweets')
             break
 
+        # Recorre y guarda los tweets en el archivo CSV
         for tweet in tweets:
-            tweet_count += 1
-            tweet_data = [
-                tweet_count, 
+            cuenta_tweets += 1
+            datos_tweet = [
+                cuenta_tweets, 
                 tweet.user.name, 
                 tweet.text, 
                 tweet.created_at, 
@@ -86,11 +89,12 @@ async def main():
 
             with open('tweets.csv', 'a', newline='') as file:
                 writer = csv.writer(file)
-                writer.writerow(tweet_data)
+                writer.writerow(datos_tweet)
 
-        print(f'{datetime.now()} - Got {tweet_count} tweets')
+        print(f'{datetime.now()} - Se obtuvieron {cuenta_tweets} tweets')
 
-    print(f'{datetime.now()} - Done! Got {tweet_count} tweets found')
+    print(f'{datetime.now()} - ¡Hecho! Se obtuvieron {cuenta_tweets} tweets')
 
 if __name__ == '__main__':
     asyncio.run(main())
+

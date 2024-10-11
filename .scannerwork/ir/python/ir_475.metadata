@@ -1,0 +1,8 @@
+pip._vendor.urllib3.packages.backports.makefile.backport_makefile
+91ffcaf4bd4043738a68642ca90803b0
+io.BufferedRWPair.__init__
+set.__init__
+io.BufferedWriter.__init__
+socket.SocketIO.__init__
+io.BufferedReader.__init__
+io.TextIOWrapper.__init__

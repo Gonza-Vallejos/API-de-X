@@ -1,0 +1,349 @@
+
+Zbs4.tests.test_lxml.TestLXMLXMLTreeBuilder.test_namespace_interaction_with_select_and_findb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_lxml.py™ ™(7"2*»
+2
+ ¦(	ˆ…
+
+ ¦(	
+%1*J
+
+__unknown_file (.,
+*bs4.tests.test_lxml.TestLXMLXMLTreeBuilder*
+
+__unknown_file (ş
+û<?xml version="1.1"?>\n<root><tag xmlns="http://unprefixed-namespace.com">content</tag><prefix:tag2 xmlns:prefix="http://prefixed-namespace.com">content</tag><subtag xmlns:prefix="http://another-namespace-same-prefix.com"><prefix:tag3></subtag></root>2soup@
+>
+
+ ¦(	
+soup"__id*"
+
+__unknown_file (
+
+%1ki
+
+© ©(%
+%2*$
+
+__unknown_file (
+
+soup*#
+
+__unknown_file (
+tag2
+select_oneH
+F
+
+© ©(*
+%3"__id*,
+
+__unknown_file (*
+
+%2"
+name
+Š
+
+© ©(3
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*#
+
+__unknown_file (
+tagsq
+
+ª ª(-
+%5*$
+
+__unknown_file (
+
+soup*+
+
+__unknown_file (
+prefix|tag22
+select_oneH
+F
+
+ª ª(2
+%6"__id*,
+
+__unknown_file (*
+
+%5"
+name
+‹
+
+ª ª(<
+%7"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%6*$
+
+__unknown_file (
+tag2sq
+
+® ®(-
+%8*$
+
+__unknown_file (
+
+soup*+
+
+__unknown_file (
+prefix|tag32
+select_oneL
+J
+
+²& ²(1
+%9"__id*0
+
+__unknown_file (*
+
+soup"
+subtagP
+N
+
+²& ²(=
+%10"__id*3
+
+__unknown_file (*
+
+%9"
+_namespaces¨¥
+
+± ³(	
+%11*$
+
+__unknown_file (
+
+soup*+
+
+__unknown_file (
+prefix|tag32
+select_one:1
+
+namespaces#
+
+__unknown_file (
+
+%10J
+H
+
+± ³(
+%12"__id*-
+
+__unknown_file (*
+
+%11"
+name
+
+
+± ³(
+%13"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%12*$
+
+__unknown_file (
+tag3M
+K
+
+· ·(
+%14"__id*0
+
+__unknown_file (*
+
+soup"
+subtagsq
+
+· ·(4
+%15*#
+
+__unknown_file (
+
+%14*+
+
+__unknown_file (
+prefix|tag32
+select_oneJ
+H
+
+· ·(9
+%16"__id*-
+
+__unknown_file (*
+
+%15"
+name
+
+
+· ·(A
+%17"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%16*$
+
+__unknown_file (
+tag3fd
+
+» »(
+%18*$
+
+__unknown_file (
+
+soup*#
+
+__unknown_file (
+tag2findJ
+H
+
+» »($
+%19"__id*-
+
+__unknown_file (*
+
+%18"
+name
+Œ
+
+» »(-
+%20"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%19*#
+
+__unknown_file (
+tagnl
+
+¼ ¼('
+%21*$
+
+__unknown_file (
+
+soup*+
+
+__unknown_file (
+prefix:tag22findJ
+H
+
+¼ ¼(,
+%22"__id*-
+
+__unknown_file (*
+
+%21"
+name
+
+
+¼ ¼(6
+%23"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%22*$
+
+__unknown_file (
+tag2nl
+
+½ ½('
+%24*$
+
+__unknown_file (
+
+soup*+
+
+__unknown_file (
+prefix:tag32findJ
+H
+
+½ ½(,
+%25"__id*-
+
+__unknown_file (*
+
+%24"
+name
+
+
+½ ½(6
+%26"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%25*$
+
+__unknown_file (
+tag3M
+K
+
+¾ ¾(
+%27"__id*0
+
+__unknown_file (*
+
+soup"
+subtagmk
+
+¾ ¾(.
+%28*#
+
+__unknown_file (
+
+%27*+
+
+__unknown_file (
+prefix:tag32findJ
+H
+
+¾ ¾(3
+%29"__id*-
+
+__unknown_file (*
+
+%28"
+name
+
+
+¾ ¾(=
+%30"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%29*$
+
+__unknown_file (
+tag3*
+3*4
+3
+test_lxml.py"
+À À(
+implicit returnB.,
+*bs4.tests.test_lxml.TestLXMLXMLTreeBuilderH

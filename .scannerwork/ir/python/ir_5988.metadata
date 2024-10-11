@@ -1,0 +1,4 @@
+pip._vendor.urllib3.contrib.pyopenssl.PyOpenSSLContext.set_default_verify_paths
+65b9f4b46acb6b0eb44d53528f3c5daf
+==
+set_default_verify_paths

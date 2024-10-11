@@ -1,0 +1,5 @@
+httpx._transports.default.ResponseStream.close
+cc741b5bf44c8a17567cab2069167a96
+hasattr
+==
+close

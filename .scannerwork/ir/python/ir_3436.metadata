@@ -1,0 +1,3 @@
+pip._vendor.distlib.locators.Locator.split_filename
+17d1eaa29ab3019b1daf02aa147ea24f
+pip._vendor.distlib.util.split_filename

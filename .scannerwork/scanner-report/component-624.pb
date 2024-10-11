@@ -1,0 +1,1 @@
+ð 2pyXshr0env/lib/python3.12/site-packages/certifi/core.py

@@ -1,0 +1,9 @@
+pip._vendor.distlib.manifest.Manifest._translate_pattern
+e80fd02f29c967090936eaeb440c51ac
+os.path.join
+re.escape
+re.compile
+==
+partition
+join
+_glob_to_re

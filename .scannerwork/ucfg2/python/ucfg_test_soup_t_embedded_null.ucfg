@@ -1,0 +1,62 @@
+
+6bs4.tests.test_soup.TestConstructor.test_embedded_null`
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_soup.py. .("2*Í
+2/ /("M
+K
+/ /("
+data"__id*1
+
+__unknown_file (
+<h1>foo\0bar</h1>„
+0 0(
+%1*C
+
+__unknown_file ('%
+#bs4.tests.test_soup.TestConstructor*$
+
+__unknown_file (
+
+data2soup>
+<
+0 0(
+soup"__id*"
+
+__unknown_file (
+
+%1F
+D
+1 1($
+%2"__id*,
+
+__unknown_file (*
+
+soup"
+h1H
+F
+1 1(+
+%3"__id*.
+
+__unknown_file (*
+
+%2"
+string
+
+1 1(+
+%4"	__compare*"
+
+__unknown_file (
+==*(
+
+__unknown_file (
+
+foo\0bar*"
+
+__unknown_file (
+
+%3*
+3*2
+3
+test_soup.py"
+3 3(
+implicit returnB'%
+#bs4.tests.test_soup.TestConstructorH

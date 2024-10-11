@@ -1,0 +1,4 @@
+httpcore._backends.mock.AsyncMockBackend.connect_tcp
+cad5e2aa88fd3f528cc84e5a453e831a
+httpcore._backends.mock.AsyncMockStream.__init__
+list.__init__

@@ -1,0 +1,1 @@
+§	 2pyXghr@env/lib/python3.12/site-packages/pip/_vendor/urllib3/__init__.py

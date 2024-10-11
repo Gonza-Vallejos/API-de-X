@@ -1,0 +1,7 @@
+pip._vendor.distlib.util.unarchive.check_path
+0efb6f94b043470f6527bda9c08205d4
+os.path.abspath
+os.path.join
+==
+startswith
+decode

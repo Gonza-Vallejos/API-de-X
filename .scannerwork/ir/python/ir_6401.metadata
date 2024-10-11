@@ -1,0 +1,4 @@
+pip._vendor.packaging._parser.parse_marker
+cdca213c0d21e0b244ac7be7058b9bdf
+pip._vendor.packaging._tokenizer.Tokenizer.__init__
+pip._vendor.packaging._parser._parse_full_marker

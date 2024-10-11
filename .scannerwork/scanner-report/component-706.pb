@@ -1,0 +1,1 @@
+Â 2pyXKhr:env/lib/python3.12/site-packages/bs4/tests/test_element.py

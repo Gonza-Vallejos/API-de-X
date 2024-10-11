@@ -1,0 +1,76 @@
+
+*anyio._backends._trio.SocketStream.received
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.py¢ ¢("2*‹
+2
+£ £( r
+p
+
+£ £( 
+%4"__id*V
+
+__unknown_file (:*8$
+"anyio._backends._trio.SocketStream"
+_receive_guard*
+3
+9*0
+3
+
+_trio.py"
+® ®(
+implicit return*'
+4
+ª ª("
+
+ª ª(
+
+data*¯
+7
+§ §(/•’
+
+§ §(/
+%1*B
+
+__unknown_file (&$
+"anyio._backends._trio.SocketStream*#
+
+__unknown_file (
+
+exc2_convert_socket_error*
+3
+4*¹
+9
+¥ ¥(>p
+n
+
+¥ ¥(.
+%2"__id*T
+
+__unknown_file (8*6$
+"anyio._backends._trio.SocketStream"
+_trio_socketig
+
+¥ ¥(>
+%3*"
+
+__unknown_file (
+
+%2*)
+
+__unknown_file (
+
+	max_bytes2recv@
+>
+
+¥ ¥(>
+data"__id*"
+
+__unknown_file (
+
+%3*	
+3
+4
+7:
+
+¢ ¢(2
+	max_bytesB&$
+"anyio._backends._trio.SocketStreamH

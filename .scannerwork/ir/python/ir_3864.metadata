@@ -1,0 +1,2 @@
+bs4.tests.test_builder_registry.TestRegistry.test_lookup_fails_when_cannot_reconcile_requested_features
+238b67aa95bed60c44538e1fa12ea440

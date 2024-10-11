@@ -1,0 +1,7 @@
+pip._vendor.requests.cookies.extract_cookies_to_jar
+099592a5e8918d789ac472de4a3f6bb6
+pip._vendor.requests.cookies.MockRequest.__init__
+hasattr
+pip._vendor.requests.cookies.MockResponse.__init__
+==
+extract_cookies

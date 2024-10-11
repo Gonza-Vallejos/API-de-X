@@ -1,0 +1,1 @@
+Ó 2pyXÉhr0env/lib/python3.12/site-packages/bs4/__init__.py

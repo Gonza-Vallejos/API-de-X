@@ -1,0 +1,6 @@
+pip._vendor.pkg_resources.ZipProvider._get_eager_resources
+9ef3eedb3909a095eabf027092c2b70a
+==
+extend
+has_metadata
+get_metadata_lines

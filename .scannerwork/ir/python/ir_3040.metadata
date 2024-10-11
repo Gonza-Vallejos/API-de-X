@@ -1,0 +1,8 @@
+pip._internal.resolution.legacy.resolver.Resolver._resolve_one.add_req
+dafaf57821ea186647b02ff2f7a6f9d5
+str.__init__
+==
+_add_requirement_to_set
+extend
+_make_install_req
+append

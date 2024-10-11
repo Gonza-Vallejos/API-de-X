@@ -1,0 +1,11 @@
+twikit.guest.client.GuestClient.get_user_highlights_tweets
+74da5bae08ed7a7d77edb78ca31daf05
+twikit.utils.find_entry_by_type
+twikit.guest.client.tweet_from_data
+twikit.utils.Result.__init__
+functools.partial.__init__
+twikit.utils.Result.empty
+==
+startswith
+user_highlights_tweets
+append

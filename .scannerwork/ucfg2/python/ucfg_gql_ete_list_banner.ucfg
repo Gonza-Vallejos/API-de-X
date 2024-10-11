@@ -1,0 +1,66 @@
+
+ gql.GQLClient.delete_list_banner`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyê ê( "2*–
+2
+ë ë('
+
+ë ë('
+%1"dictî
+ë
+
+ë ë(&
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*&
+
+__unknown_file (
+
+listId*'
+
+__unknown_file (
+	
+list_idE
+C
+
+ë ë('
+	variables"__id*"
+
+__unknown_file (
+
+%1`
+^
+
+í# í(>
+%3"__id*D
+
+__unknown_file ((*&
+gql.Endpoint"
+DELETE_LIST_BANNERÃ…
+
+í í(Y
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables*-
+
+__unknown_file (
+
+LIST_FEATURES2gql_post"
+
+í í(Y
+
+%4:
+
+ê' ê(.	
+list_idB
+gql.GQLClientH

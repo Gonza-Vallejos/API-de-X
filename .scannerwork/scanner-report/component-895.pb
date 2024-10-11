@@ -1,0 +1,1 @@
+ÿ 2pyX!hrCenv/lib/python3.12/site-packages/pip/_vendor/rich/_emoji_replace.py

@@ -1,0 +1,9 @@
+httpx._client.BaseClient._build_redirect_request
+d4a4e9286b8b7e25b679eb1bf5071ad1
+httpx._models.Cookies.__init__
+httpx._models.Request.__init__
+==
+_redirect_headers
+_redirect_url
+_redirect_stream
+_redirect_method

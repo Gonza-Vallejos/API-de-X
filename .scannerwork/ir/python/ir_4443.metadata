@@ -1,0 +1,5 @@
+anyio.from_thread.BlockingPortal.__new__
+f16cbdf3a19cf4287ad546782b5ed9da
+anyio._core._eventloop.get_async_backend
+==
+create_blocking_portal

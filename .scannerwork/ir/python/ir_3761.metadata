@@ -1,0 +1,8 @@
+pip._vendor.urllib3.util.proxy.create_proxy_ssl_context
+3b8173ef0c1387ed083369f999aebac1
+pip._vendor.urllib3.util.ssl_.resolve_ssl_version
+hasattr
+pip._vendor.urllib3.util.ssl_.create_urllib3_context
+pip._vendor.urllib3.util.ssl_.resolve_cert_reqs
+==
+load_default_certs

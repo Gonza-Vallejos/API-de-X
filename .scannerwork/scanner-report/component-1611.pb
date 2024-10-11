@@ -1,0 +1,1 @@
+Ë 2pyXƒhrCenv/lib/python3.12/site-packages/pip/_internal/operations/freeze.py

@@ -1,0 +1,6 @@
+pip._vendor.msgpack.fallback.StringIO.write
+41dbaa846c56350957c0fca58f5b7449
+bytes.__init__
+==
+tobytes
+append

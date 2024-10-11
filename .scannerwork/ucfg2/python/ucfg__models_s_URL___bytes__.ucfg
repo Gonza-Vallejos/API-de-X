@@ -1,0 +1,126 @@
+
+httpcore._models.URL.__bytes___
+S/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_models.pyµ µ("2*t
+2
+¶ ¶([
+Y
+
+¶ ¶(
+%10"__id*>
+
+__unknown_file ("* 
+httpcore._models.URL"
+port*
+4
+5*³
+4
+¸ ¸(Q\
+Z
+
+¸" ¸(-
+%1"__id*@
+
+__unknown_file ($*"
+httpcore._models.URL"
+schemeZ
+X
+
+¸/ ¸(8
+%2"__id*>
+
+__unknown_file ("* 
+httpcore._models.URL"
+hostZ
+X
+
+¸: ¸(C
+%3"__id*>
+
+__unknown_file ("* 
+httpcore._models.URL"
+port\
+Z
+
+¸E ¸(P
+%4"__id*@
+
+__unknown_file ($*"
+httpcore._models.URL"
+target—
+”
+
+¸ ¸(Q
+%5"__concat*
+
+¸ ¸(
+%b://%b:%d%b*
+
+¸" ¸(-
+
+%1*
+
+¸/ ¸(8
+
+%2*
+
+¸: ¸(C
+
+%3*
+
+¸E ¸(P
+
+%4"
+
+¸ ¸(Q
+
+%5*¼
+5
+· ·(G\
+Z
+
+·# ·(.
+%6"__id*@
+
+__unknown_file ($*"
+httpcore._models.URL"
+schemeZ
+X
+
+·0 ·(9
+%7"__id*>
+
+__unknown_file ("* 
+httpcore._models.URL"
+host\
+Z
+
+·; ·(F
+%8"__id*@
+
+__unknown_file ($*"
+httpcore._models.URL"
+target}
+{
+
+· ·(G
+%9"__concat*
+
+· ·(
+	%b://%b%b*
+
+·# ·(.
+
+%6*
+
+·0 ·(9
+
+%7*
+
+·; ·(F
+
+%8"
+
+· ·(G
+
+%9B
+httpcore._models.URLH

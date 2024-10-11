@@ -1,0 +1,4 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.erase_end_of_line
+31bcb1ceba0a4a191d537044e5031280
+pip._vendor.rich._win32_console.FillConsoleOutputAttribute
+pip._vendor.rich._win32_console.FillConsoleOutputCharacter

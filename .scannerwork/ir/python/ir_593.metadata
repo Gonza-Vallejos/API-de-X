@@ -1,0 +1,14 @@
+/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/rich/logging.#__main__
+d35467ff824613d211d1e3b76ce3fcc3
+pip._vendor.rich.logging.divide
+logging.basicConfig
+time.sleep
+logging.getLogger
+dict.__init__
+pip._vendor.rich.logging.RichHandler.__init__
+==
+debug
+critical
+warning
+error
+info

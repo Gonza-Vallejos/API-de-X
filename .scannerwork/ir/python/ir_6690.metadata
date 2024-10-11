@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestTreeModification.test_append_to_contents_moves_tag
+f7024ba42dc2966d54fff375e36a0ac6
+==
+soup
+find
+append

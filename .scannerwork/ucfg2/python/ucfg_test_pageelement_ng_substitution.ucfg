@@ -1,0 +1,199 @@
+
+Dbs4.tests.test_pageelement.TestFormatters.test_encoding_substitutioni
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.pyÿ ÿ(""2*ç
+2
+€ ‹(2à
+Ö
+
+€ ‹(2
+
+meta_tag"__id*e
+
+__unknown_file (IG
+E<meta content="text/html; charset=x-sjis" http-equiv="Content-type"/>êç
+
+› ›("
+%1*I
+
+__unknown_file (-+
+)bs4.tests.test_pageelement.TestFormatters*(
+
+__unknown_file (
+
+
+meta_tag2soup@
+>
+
+› ›("
+soup"__id*"
+
+__unknown_file (
+
+%1J
+H
+
+‡ ‡(
+%2"__id*.
+
+__unknown_file (*
+
+soup"
+metaxv
+
+‡ ‡(#
+%3"__mapGet*"
+
+__unknown_file (
+
+%2*'
+
+__unknown_file (	
+content2__getitem__£
+†
+
+‡ ‡(B
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*9
+
+__unknown_file (
+text/html; charset=x-sjisig
+
+‰ ‰($
+%5*$
+
+__unknown_file (
+
+soup*%
+
+__unknown_file (	
+utf-82encodeA
+?
+
+‰ ‰($
+utf_8"__id*"
+
+__unknown_file (
+
+%5xv
+
+Â Â((
+%6*%
+
+__unknown_file (	
+
+utf_8*-
+
+__unknown_file (
+charset=utf-82__contains__jh
+
+Á Á(&
+%7*$
+
+__unknown_file (
+
+soup*&
+
+__unknown_file (
+
+euc_jp2encodeB
+@
+
+Á Á(&
+euc_jp"__id*"
+
+__unknown_file (
+
+%7zx
+
+Ë Ë(*
+%8*&
+
+__unknown_file (
+
+
+euc_jp*.
+
+__unknown_file (
+charset=euc_jp2__contains__mk
+
+Í Í(,
+%9*$
+
+__unknown_file (
+
+soup*)
+
+__unknown_file (
+	shift-jis2encodeE
+C
+
+Í Í(,
+	shift_jis"__id*"
+
+__unknown_file (
+
+%9Å
+
+Î Î(0
+%10*)
+
+__unknown_file (
+
+	shift_jis*1
+
+__unknown_file (
+charset=shift-jis2__contains__ki
+
+Ì Ì((
+%11*$
+
+__unknown_file (
+
+soup*&
+
+__unknown_file (
+
+utf-162encodejh
+
+Ì Ì(9
+%12*#
+
+__unknown_file (
+
+%11*&
+
+__unknown_file (
+
+utf-162decodeE
+C
+
+Ì Ì(9
+
+utf_16_u"__id*#
+
+__unknown_file (
+
+%12}{
+
+Ó Ó(+
+%13*(
+
+__unknown_file (
+
+
+utf_16_u*.
+
+__unknown_file (
+charset=utf-162__contains__*
+3*;
+3
+test_pageelement.py"
+ (
+implicit returnB-+
+)bs4.tests.test_pageelement.TestFormattersH

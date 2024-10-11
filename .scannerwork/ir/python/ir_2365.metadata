@@ -1,0 +1,12 @@
+pip._vendor.distro.distro.LinuxDistribution.info
+4174fc5d44a266d15d1d6ef8ffdbdaad
+pip._vendor.distro.distro.VersionDict.__init__
+pip._vendor.distro.distro.InfoDict.__init__
+==
+major_version
+like
+codename
+build_number
+id
+version
+minor_version

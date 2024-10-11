@@ -1,0 +1,4 @@
+pip._vendor.rich.text.Text.__init__
+0bc4a59c08117de2aece918122b92435
+len
+pip._vendor.rich.control.strip_control_codes

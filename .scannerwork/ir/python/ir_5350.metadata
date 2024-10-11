@@ -1,0 +1,10 @@
+soupsieve.css_match.CSSMatch.match_root
+a6856444eecf4c06ea4e18264a449cdf
+==
+get_next
+strip
+get_previous
+is_content_string
+is_tag
+is_root
+is_cdata

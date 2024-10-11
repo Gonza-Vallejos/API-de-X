@@ -1,0 +1,33 @@
+
+-anyio._backends._asyncio.TaskGroup.__aenter__g
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.pyµ µ("2*ë
+2
+¶ ¶(%p
+n
+
+¶ ¶(
+%1"__id*T
+
+__unknown_file (8*6$
+"anyio._backends._asyncio.TaskGroup"
+cancel_scopeCA
+
+¶ ¶(%
+%2*"
+
+__unknown_file (
+
+%12	__enter__m
+k
+
+· ·(1$
+"anyio._backends._asyncio.TaskGroup"	
+_active"__id*$
+
+__unknown_file (
+
+True"4
+
+¸ ¸(&$
+"anyio._backends._asyncio.TaskGroupB&$
+"anyio._backends._asyncio.TaskGroupH

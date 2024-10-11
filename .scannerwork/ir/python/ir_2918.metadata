@@ -1,0 +1,12 @@
+httpcore._sync.connection_pool.ConnectionPool._assign_requests_to_connections
+5f61ef760a52bc6ce99dedc9eebb4774
+len
+list.__init__
+==
+has_expired
+create_connection
+assign_to_connection
+remove
+append
+is_idle
+is_closed

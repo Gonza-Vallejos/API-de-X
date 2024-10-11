@@ -1,0 +1,5 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.cursor_position
+05c972131b74da37653f863a14de599c
+pip._vendor.rich._win32_console.WindowsCoordinates.__init__
+pip._vendor.rich._win32_console.GetConsoleScreenBufferInfo
+typing.cast

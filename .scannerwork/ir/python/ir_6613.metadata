@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestFindAll.test_find_all_with_self_referential_data_structure_does_not_cause_infinite_recursion
+dcacafb492ae932c7a388cdbf162c92a
+==
+soup
+append

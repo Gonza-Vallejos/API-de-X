@@ -1,0 +1,3 @@
+bs4.tests.test_dammit.TestUnicodeDammit.test_detect_utf8
+baa49c2fa1dd5e52a7d530c77e24b497
+bs4.dammit.UnicodeDammit.__init__

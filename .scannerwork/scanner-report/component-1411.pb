@@ -1,0 +1,1 @@
+ƒ 2pyXèhrBenv/lib/python3.12/site-packages/pip/_internal/cli/base_command.py

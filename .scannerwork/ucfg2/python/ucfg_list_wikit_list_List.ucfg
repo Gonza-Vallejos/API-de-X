@@ -1,0 +1,302 @@
+
+twikit.list.ListX
+N/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/list.py3 3("2*‚
+24 4([
+Y
+4 4(
+twikit.list.List"	
+_client"__id*&
+
+__unknown_file (
+
+
+clientxv
+6 6(%
+%14"__mapGet*$
+
+__unknown_file (
+
+data*&
+
+__unknown_file (
+
+id_str2__getitem__S
+Q
+6 6(%
+twikit.list.List"
+id"__id*#
+
+__unknown_file (
+
+%14|z
+7 7(1
+%15"__mapGet*$
+
+__unknown_file (
+
+data**
+
+__unknown_file (
+
+created_at2__getitem__[
+Y
+7 7(1"
+twikit.list.List"
+
+created_at"__id*#
+
+__unknown_file (
+
+%15‡„
+8$ 8(@
+%16"__mapGet*$
+
+__unknown_file (
+
+data*4
+
+__unknown_file (
+default_banner_media2__getitem__{y
+8$ 8(N
+%17"__mapGet*#
+
+__unknown_file (
+
+%16**
+
+__unknown_file (
+
+media_info2__getitem___
+]
+8 8(N&
+twikit.list.List"
+default_banner"__id*#
+
+__unknown_file (
+
+%17|z
+: :((
+%18*$
+
+__unknown_file (
+
+data*3
+
+__unknown_file (
+custom_banner_media2__contains__*
+5
+6*D
+3	
+list.py" 
+I I(
+%1"twikit.list.List"
+I I(
+
+%1*Ÿ
+4? ?(3|z
+?  ?(3
+%2"__mapGet*$
+
+__unknown_file (
+
+data*+
+
+__unknown_file (
+description2__getitem__[
+Y
+? ?(3#
+twikit.list.List"
+description"__id*"
+
+__unknown_file (
+
+%2zx
+@ @(0
+%3"__mapGet*$
+
+__unknown_file (
+
+data*)
+
+__unknown_file (
+	following2__getitem__Y
+W
+@ @(0!
+twikit.list.List"
+	following"__id*"
+
+__unknown_file (
+
+%3zx
+A A(0
+%4"__mapGet*$
+
+__unknown_file (
+
+data*)
+
+__unknown_file (
+	is_member2__getitem__Y
+W
+A A(0!
+twikit.list.List"
+	is_member"__id*"
+
+__unknown_file (
+
+%4}{
+B" B(6
+%5"__mapGet*$
+
+__unknown_file (
+
+data*,
+
+__unknown_file (
+member_count2__getitem__\
+Z
+B B(6$
+twikit.list.List"
+member_count"__id*"
+
+__unknown_file (
+
+%5us
+C2 C(>
+%6"__mapGet*$
+
+__unknown_file (
+
+data*$
+
+__unknown_file (
+mode2__getitem__T
+R
+C C(>
+twikit.list.List"
+mode"__id*"
+
+__unknown_file (
+
+%6wu
+D D(*
+%7"__mapGet*$
+
+__unknown_file (
+
+data*&
+
+__unknown_file (
+
+muting2__getitem__V
+T
+D D(*
+twikit.list.List"
+muting"__id*"
+
+__unknown_file (
+
+%7us
+E E(%
+%8"__mapGet*$
+
+__unknown_file (
+
+data*$
+
+__unknown_file (
+name2__getitem__T
+R
+E E(%
+twikit.list.List"
+name"__id*"
+
+__unknown_file (
+
+%8xv
+F F(,
+%9"__mapGet*$
+
+__unknown_file (
+
+data*'
+
+__unknown_file (	
+pinning2__getitem__W
+U
+F F(,
+twikit.list.List"	
+pinning"__id*"
+
+__unknown_file (
+
+%9ƒ€
+G% G(=
+%10"__mapGet*$
+
+__unknown_file (
+
+data*0
+
+__unknown_file (
+subscriber_count2__getitem__a
+_
+G G(=(
+twikit.list.List"
+subscriber_count"__id*#
+
+__unknown_file (
+
+%10*
+3*ñ
+5; ;(I†ƒ
+;  ;(;
+%11"__mapGet*$
+
+__unknown_file (
+
+data*3
+
+__unknown_file (
+custom_banner_media2__getitem__{y
+;  ;(I
+%12"__mapGet*#
+
+__unknown_file (
+
+%11**
+
+__unknown_file (
+
+media_info2__getitem__W
+U
+; ;(I
+twikit.list.List"
+banner"__id*#
+
+__unknown_file (
+
+%12*
+4*Ì
+6= =(3_
+]
+=  =(3
+%13"__id*D
+
+__unknown_file ((*&
+twikit.list.List"
+default_bannerW
+U
+= =(3
+twikit.list.List"
+banner"__id*#
+
+__unknown_file (
+
+%13*
+4:
+3 3(%
+client:
+3' 3(1
+dataB
+twikit.list.ListH

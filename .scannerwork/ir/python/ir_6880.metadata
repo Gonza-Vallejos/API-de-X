@@ -1,0 +1,7 @@
+pip._vendor.distlib.manifest.Manifest.add
+373abc5e133a476a1ba7aecad9495049
+os.path.normpath
+os.path.join
+==
+add
+startswith

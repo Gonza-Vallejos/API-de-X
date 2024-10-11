@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestPreviousOperations.test_find_previous_for_text_element
+72b395ceec22292d492b35365e33bad8
+==
+assert_selects
+find
+find_all_previous

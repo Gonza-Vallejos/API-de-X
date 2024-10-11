@@ -1,0 +1,8 @@
+anyio.from_thread.BlockingPortal.start_task.task_done
+bc909b746374cd23927e616e9b04f6b6
+==
+cancel
+exception
+set_exception
+cancelled
+done

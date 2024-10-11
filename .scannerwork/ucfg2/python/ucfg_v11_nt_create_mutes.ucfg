@@ -1,0 +1,114 @@
+
+v11.V11Client.create_mutes`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.pyÒ Ò("2*Ò
+2
+Ó Ó(#
+
+Ó Ó(#
+%1"dict•
+’
+
+Ó Ó("
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (	
+user_id*'
+
+__unknown_file (
+	
+user_id@
+>
+
+Ó Ó(#
+data"__id*"
+
+__unknown_file (
+
+%1S
+Q
+
+Ô Ô(
+%3"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+Ô Ô()
+%4"__id*5
+
+__unknown_file (*
+
+%3"
+_base_headersC
+A
+
+Ô Ô()	
+headers"__id*"
+
+__unknown_file (
+
+%4ÎË
+
+Õ Õ(E
+%5"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*,
+
+__unknown_file (
+content-type*A
+
+__unknown_file (%#
+!application/x-www-form-urlencoded2__setitem__S
+Q
+
+Ö Ö(
+%6"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseZ
+X
+
+× ×(!
+%7"__id*>
+
+__unknown_file ("* 
+v11.Endpoint"
+CREATE_MUTESÅÂ
+
+Ö Ú(	
+%8*"
+
+__unknown_file (
+
+%6*"
+
+__unknown_file (
+
+%72post:,
+data$
+
+__unknown_file (
+
+data:2
+headers'
+
+__unknown_file (
+	
+headers"
+
+Ö Ú(	
+
+%8:
+
+Ò! Ò((	
+user_idB
+v11.V11ClientH

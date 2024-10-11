@@ -1,0 +1,7 @@
+httpcore._models.Request.__init__
+c36eb134d9e7d019355156bd9537b4ff
+httpcore._models.enforce_headers
+httpcore._models.URL.__init__
+httpcore._models.enforce_bytes
+httpcore._models.enforce_stream
+httpcore._models.enforce_url

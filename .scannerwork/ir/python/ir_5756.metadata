@@ -1,0 +1,9 @@
+pip._internal.commands.search.transform_hits
+c49234c1f450bc049ea9b2ce41a0b205
+pip._internal.commands.search.highest_version
+collections.OrderedDict.__init__
+list.__init__
+==
+keys
+values
+append

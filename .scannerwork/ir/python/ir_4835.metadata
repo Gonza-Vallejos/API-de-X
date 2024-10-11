@@ -1,0 +1,7 @@
+pip._internal.models.link._ensure_quoted_url
+f9a36658a67db98ef4cb05421dec4b3a
+urllib.parse.urlparse
+pip._internal.models.link._clean_url_path
+urllib.parse.urlunparse
+==
+_replace

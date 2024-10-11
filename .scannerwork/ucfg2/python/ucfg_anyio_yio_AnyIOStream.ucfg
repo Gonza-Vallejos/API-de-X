@@ -1,0 +1,44 @@
+
+$httpcore._backends.anyio.AnyIOStreame
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_backends/anyio.py ("1*ƒ
+2 (o
+m
+ (3&
+$httpcore._backends.anyio.AnyIOStream"	
+_stream"__id*&
+
+__unknown_file (
+
+
+stream*
+3*Y
+3
+
+anyio.py64
+ (
+%3"$httpcore._backends.anyio.AnyIOStream"
+ (
+
+%3*ª
+1 (3H
+F
+ ((
+%1"__id*.
+
+__unknown_file (*
+
+anyio"
+abcL
+J
+ (3
+%2"__id*2
+
+__unknown_file (*
+
+%1"
+
+ByteStream*
+2:
+ (3
+streamB(&
+$httpcore._backends.anyio.AnyIOStreamH

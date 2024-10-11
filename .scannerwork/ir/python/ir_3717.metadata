@@ -1,0 +1,7 @@
+pip._vendor.urllib3.util.url.Url.__new__
+28e46111576a84778ad42813864fa2bd
+super
+==
+startswith
+lower
+__new__

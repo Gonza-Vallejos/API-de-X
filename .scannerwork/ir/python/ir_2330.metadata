@@ -1,0 +1,4 @@
+bs4.tests.test_soup.TestEncodingConversion.test_unicode_in_unicode_out
+247304a9408aa19228cba08c0c3ad32c
+==
+soup

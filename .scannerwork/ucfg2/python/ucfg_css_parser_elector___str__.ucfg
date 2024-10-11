@@ -1,0 +1,213 @@
+
+&soupsieve.css_parser._Selector.__str__c
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/soupsieve/css_parser.py• •("2*ö
+2
+– –($c
+a
+
+™ ™(%
+%1"__id*G
+
+__unknown_file (+*) 
+soupsieve.css_parser._Selector"
+tagc
+a
+
+™/ ™(7
+%2"__id*G
+
+__unknown_file (+*) 
+soupsieve.css_parser._Selector"
+idsg
+e
+
+™E ™(Q
+%3"__id*K
+
+__unknown_file (/*- 
+soupsieve.css_parser._Selector"	
+classesj
+h
+
+™b ™(q
+%4"__id*N
+
+__unknown_file (2*0 
+soupsieve.css_parser._Selector"
+
+attributesc
+a
+
+š š(
+%5"__id*G
+
+__unknown_file (+*) 
+soupsieve.css_parser._Selector"
+nthi
+g
+
+š+ š(9
+%6"__id*M
+
+__unknown_file (1*/ 
+soupsieve.css_parser._Selector"
+	selectorsi
+g
+
+šI š(W
+%7"__id*M
+
+__unknown_file (1*/ 
+soupsieve.css_parser._Selector"
+	relationsh
+f
+
+› ›(%
+%8"__id*L
+
+__unknown_file (0*. 
+soupsieve.css_parser._Selector"
+
+rel_typeh
+f
+
+›4 ›(A
+%9"__id*L
+
+__unknown_file (0*. 
+soupsieve.css_parser._Selector"
+
+containse
+c
+
+›L ›(U
+%10"__id*H
+
+__unknown_file (,** 
+soupsieve.css_parser._Selector"
+langf
+d
+
+›a ›(k
+%11"__id*I
+
+__unknown_file (-*+ 
+soupsieve.css_parser._Selector"
+flagsi
+g
+
+œ œ(%
+%12"__id*L
+
+__unknown_file (0*. 
+soupsieve.css_parser._Selector"
+
+no_matchå
+â
+
+™ œ(*
+%13"__concat* 
+
+™ ™(
+_Selector(tag=*
+
+™ ™(%
+
+%1*
+
+™( ™(.
+
+, ids=*
+
+™/ ™(7
+
+%2*
+
+™: ™(D
+
+, classes=*
+
+™E ™(Q
+
+%3*
+
+™T ™(a
+, attributes=*
+
+™b ™(q
+
+%4*
+
+™t ™(v
+, *
+
+š š(
+nth=*
+
+š š(
+
+%5*
+
+š š(*
+, selectors=*
+
+š+ š(9
+
+%6*
+
+š< š(H
+, relations=*
+
+šI š(W
+
+%7*
+
+šZ š(\
+, *
+
+› ›(
+	rel_type=*
+
+› ›(%
+
+%8*
+
+›( ›(3
+, contains=*
+
+›4 ›(A
+
+%9*
+
+›D ›(K	
+, lang=*
+
+›L ›(U
+
+%10*
+
+›X ›(`
+
+, flags=*
+
+›a ›(k
+
+%11*
+
+›n ›(p
+, *
+
+œ œ(
+	no_match=*
+
+œ œ(%
+
+%12*
+
+œ( œ()
+)"
+
+˜ (	
+
+%13B" 
+soupsieve.css_parser._SelectorH

@@ -1,0 +1,6 @@
+pip._vendor.urllib3.packages.six.MovedModule.__getattr__
+5c9662b657afe7776619a5fcee41110e
+setattr
+getattr
+==
+_resolve

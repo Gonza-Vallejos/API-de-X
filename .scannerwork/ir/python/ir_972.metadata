@@ -1,0 +1,7 @@
+pip._internal.utils.misc.display_path
+7e6e5a11a6137f318990c76d862026c1
+os.path.normcase
+os.path.abspath
+os.getcwd
+==
+startswith

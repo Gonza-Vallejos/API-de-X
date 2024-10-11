@@ -1,0 +1,8 @@
+pip._vendor.rich.spinner.Spinner.render
+bafe63be04fa6b456fbc47e9a4c2bc41
+len
+pip._vendor.rich.text.Text.__init__
+int.__init__
+==
+add_row
+grid

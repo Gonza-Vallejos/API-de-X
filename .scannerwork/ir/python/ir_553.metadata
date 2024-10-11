@@ -1,0 +1,3 @@
+bs4.tests.test_pageelement.TestPersistence.test_deepcopy_identity
+84a16f8b420037c26221d640f92fb9c0
+copy.deepcopy

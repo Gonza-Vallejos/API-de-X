@@ -1,0 +1,10 @@
+pip._internal.utils.misc.ask
+763d0dbdf6684fab44b8d4565f4852e8
+input
+print
+pip._internal.utils.misc._check_no_input
+==
+strip
+lower
+format
+join

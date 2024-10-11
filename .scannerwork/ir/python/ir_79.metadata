@@ -1,0 +1,4 @@
+bs4.tests.XMLTreeBuilderSmokeTest.test_tags_are_empty_element_if_and_only_if_they_are_empty
+d6103dc5d955d0d7f9e70b54e54a149b
+==
+assert_soup

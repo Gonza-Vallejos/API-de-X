@@ -1,0 +1,7 @@
+h11.tests.test_state.test_ConnectionState_keepalive_protocol_switch_interaction
+95cebdc220434331af62533f432a556c
+h11._state.ConnectionState.__init__
+==
+process_client_switch_proposal
+process_keep_alive_disabled
+process_event

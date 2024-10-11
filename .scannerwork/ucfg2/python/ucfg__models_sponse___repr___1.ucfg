@@ -1,0 +1,47 @@
+
+httpx._models.Response.__repr__\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_models.py™ ™("2*‰
+2
+š š(Fc
+a
+
+š š(-
+%1"__id*G
+
+__unknown_file (+*)
+httpx._models.Response"
+status_codee
+c
+
+š0 š(B
+%2"__id*I
+
+__unknown_file (-*+
+httpx._models.Response"
+reason_phrase•
+’
+
+š š(F
+%3"__concat*
+
+š š(
+<Response [*
+
+š š(-
+
+%1*
+
+š. š(/
+ *
+
+š0 š(B
+
+%2*
+
+šC š(E
+]>"
+
+š š(F
+
+%3B
+httpx._models.ResponseH

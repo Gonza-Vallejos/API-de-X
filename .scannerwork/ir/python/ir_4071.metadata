@@ -1,0 +1,6 @@
+bs4.tests.test_html5lib.TestHTML5LibBuilder.test_empty_comment
+5328e1735a0f29fc960714680a48895a
+==
+extend
+soup
+find_all

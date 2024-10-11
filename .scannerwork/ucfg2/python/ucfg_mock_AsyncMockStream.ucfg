@@ -1,0 +1,52 @@
+
+'httpcore._backends.mock.AsyncMockStreamd
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_backends/mock.pyU U("1*ë
+2V V(r
+p
+V V(6)
+'httpcore._backends.mock.AsyncMockStream"	
+_buffer"__id*&
+
+__unknown_file (
+
+
+bufferp
+n
+W W(5)
+'httpcore._backends.mock.AsyncMockStream"
+_http2"__id*%
+
+__unknown_file (	
+
+http2q
+o
+X X(6)
+'httpcore._backends.mock.AsyncMockStream"	
+_closed"__id*%
+
+__unknown_file (	
+
+False*
+3*[
+3	
+mock.py97
+Z Z(
+%2"'httpcore._backends.mock.AsyncMockStream"
+Z Z(
+
+%2*^
+1U3 U(FJ
+H
+U U(*
+%1"__id*0
+
+__unknown_file (*
+
+typing"
+List*
+2:
+U U(1
+buffer:
+U3 U(F
+http2B+)
+'httpcore._backends.mock.AsyncMockStreamH

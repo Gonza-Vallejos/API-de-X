@@ -1,0 +1,83 @@
+
+Zbs4.tests.test_pageelement.TestFormatters.test_prettify_handles_nested_string_literal_tagsi
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.py≠ ≠(8"2*π
+2
+∏ ∫(ì
+ê
+
+∏ ∫(
+markup"__id*r
+
+__unknown_file (VT
+R<div><pre><code>some
+<script><pre>code</pre></script> for you 
+</code></pre></div>ó
+î
+
+º ¡(
+expect"__id*v
+
+__unknown_file (ZX
+V<div>
+ <pre><code>some
+<script><pre>code</pre></script> for you 
+</code></pre>
+</div>
+éã
+
+¬ ¬( 
+%1*I
+
+__unknown_file (-+
+)bs4.tests.test_pageelement.TestFormatters*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+¬ ¬( 
+soup"__id*"
+
+__unknown_file (
+
+%1I
+G
+
+√ √(!
+%2"__id*-
+
+__unknown_file (*
+
+soup"
+divB@
+
+√ √(,
+%3*"
+
+__unknown_file (
+
+%22prettifyê
+ç
+
+√ √(,
+%4"	__compare*"
+
+__unknown_file (
+==*&
+
+__unknown_file (
+
+
+expect*"
+
+__unknown_file (
+
+%3*
+3*;
+3
+test_pageelement.py"
+≈ ≈(
+implicit returnB-+
+)bs4.tests.test_pageelement.TestFormattersH

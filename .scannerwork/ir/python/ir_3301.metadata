@@ -1,0 +1,8 @@
+pip._internal.cli.parser.PrettyHelpFormatter.format_description
+a5952f6181a01cc2243c75bd6713e522
+textwrap.dedent
+hasattr
+==
+rstrip
+indent_lines
+lstrip

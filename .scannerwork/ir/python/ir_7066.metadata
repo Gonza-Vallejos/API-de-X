@@ -1,0 +1,3 @@
+pip._vendor.requests.utils.add_dict_to_cookiejar
+8b202c765f21a8b9936924304e5fdcab
+pip._vendor.requests.cookies.cookiejar_from_dict

@@ -1,0 +1,6 @@
+pip._internal.req.req_install.InstallRequirement.get_dist
+63a933461c1a4bdca354b345b39b7401
+pip._internal.metadata.get_directory_distribution
+pip._internal.metadata.get_wheel_distribution
+pip._internal.metadata.base.FilesystemWheel.__init__
+pip._vendor.packaging.utils.canonicalize_name

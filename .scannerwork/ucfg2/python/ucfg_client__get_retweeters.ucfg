@@ -1,0 +1,62 @@
+
+client.Client.get_retweetersc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyø ø("2*Å
+2
+û –(R
+P
+
+—J —(R
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+gqlN
+L
+
+—J —(]
+%2"__id*2
+
+__unknown_file (*
+
+%1"
+
+retweetersùö
+
+— —(^
+%3*-
+
+__unknown_file (
+client.Client*(
+
+__unknown_file (
+
+
+tweet_id*%
+
+__unknown_file (	
+
+count*&
+
+__unknown_file (
+
+
+cursor*"
+
+__unknown_file (
+
+%22_get_tweet_engagements"
+
+— —(^
+
+%3:
+
+ù ù(
+
+tweet_id:
+
+ù ù(,
+count:
+
+ù. ù(G
+cursorB
+client.ClientH

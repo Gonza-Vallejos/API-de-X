@@ -1,0 +1,8 @@
+pip._vendor.pygments.formatters.img.ImageFormatter._draw_linenumber
+3c5b62c5f846b287b6fb7fc930510194
+str.__init__
+==
+_get_linenumber_pos
+get_font
+rjust
+_draw_text

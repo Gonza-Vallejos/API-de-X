@@ -1,0 +1,5 @@
+pip._vendor.urllib3.contrib.securetransport.WrappedSocket.recv
+757038991a7d7554e3cde35990e57b02
+ctypes.create_string_buffer
+==
+recv_into

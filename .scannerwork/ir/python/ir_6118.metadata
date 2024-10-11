@@ -1,0 +1,5 @@
+pip._internal.req.req_uninstall.UninstallPathSet.__init__
+cf407b3791ba17c5038180e41263e317
+pip._internal.req.req_uninstall.StashedUninstallPathSet.__init__
+set.__init__
+functools.lru_cache

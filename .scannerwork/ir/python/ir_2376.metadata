@@ -1,0 +1,7 @@
+pip._vendor.distro.distro.LinuxDistribution._parse_uname_content
+636a1a10f7015402750375a570bb2099
+re.search
+==
+strip
+lower
+groups

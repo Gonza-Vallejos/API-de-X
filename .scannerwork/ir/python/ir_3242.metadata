@@ -1,0 +1,3 @@
+pip._vendor.urllib3.fields.guess_content_type
+40773ed8cea7a55c326f20bbffbab2f6
+mimetypes.guess_type

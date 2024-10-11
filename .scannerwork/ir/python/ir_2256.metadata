@@ -1,0 +1,11 @@
+pip._internal.network.session.PipSession.__init__
+1da77a3fe1ae70a2172ff37c71b73cd4
+super
+pip._internal.network.session.user_agent
+pip._internal.network.auth.MultiDomainBasicAuth.__init__
+pip._internal.network.cache.SafeFileCache.__init__
+pip._internal.network.session.LocalFSAdapter.__init__
+==
+add_trusted_host
+Retry
+mount

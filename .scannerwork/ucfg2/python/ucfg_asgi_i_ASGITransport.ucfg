@@ -1,0 +1,54 @@
+
+$httpx._transports.asgi.ASGITransportc
+Y/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_transports/asgi.pyJ J("2*ð
+2Q Q(h
+f
+Q Q(/&
+$httpx._transports.asgi.ASGITransport"
+app"__id*#
+
+__unknown_file (
+
+app‹
+ˆ
+R R(8@&
+$httpx._transports.asgi.ASGITransport"
+raise_app_exceptions"__id*4
+
+__unknown_file (
+
+raise_app_exceptionst
+r
+S S("5&
+$httpx._transports.asgi.ASGITransport"
+	root_path"__id*)
+
+__unknown_file (
+
+	root_pathn
+l
+T T(2&
+$httpx._transports.asgi.ASGITransport"
+client"__id*&
+
+__unknown_file (
+
+
+client*
+3*X
+3	
+asgi.py64
+V V(
+%1"$httpx._transports.asgi.ASGITransport"
+V V(
+
+%1:
+L L(
+app:"
+M M()
+raise_app_exceptions:
+N N(
+	root_path:
+O O(4
+clientB(&
+$httpx._transports.asgi.ASGITransportH

@@ -1,0 +1,117 @@
+
+twikit.message.Message[
+Q/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/message.py ("2*—	
+2! !(a
+_
+! !(%
+twikit.message.Message"	
+_client"__id*&
+
+__unknown_file (
+
+
+clientf
+d
+" "("'
+twikit.message.Message"
+	sender_id"__id*)
+
+__unknown_file (
+
+	sender_idl
+j
+# #((*
+twikit.message.Message"
+recipient_id"__id*,
+
+__unknown_file (
+
+recipient_idsq
+% %(!
+%2"__mapGet*$
+
+__unknown_file (
+
+data*"
+
+__unknown_file (
+id2__getitem__X
+V
+% %(! 
+twikit.message.Message"
+id"__id*"
+
+__unknown_file (
+
+%2us
+& &(%
+%3"__mapGet*$
+
+__unknown_file (
+
+data*$
+
+__unknown_file (
+time2__getitem__Z
+X
+& &(%"
+twikit.message.Message"
+time"__id*"
+
+__unknown_file (
+
+%3us
+' '(%
+%4"__mapGet*$
+
+__unknown_file (
+
+data*$
+
+__unknown_file (
+text2__getitem__Z
+X
+' '(%"
+twikit.message.Message"
+text"__id*"
+
+__unknown_file (
+
+%4sq
+(' ((=
+%5"dict.get*$
+
+__unknown_file (
+
+data**
+
+__unknown_file (
+
+attachment2get`
+^
+( ((=(
+twikit.message.Message"
+
+attachment"__id*"
+
+__unknown_file (
+
+%5*
+3*M
+3
+
+message.py(&
+* *(
+%1"twikit.message.Message"
+* *(
+
+%1:
+ (
+client:
+ (
+data:
+ (
+	sender_id:
+ (
+recipient_idB
+twikit.message.MessageH

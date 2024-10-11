@@ -1,0 +1,100 @@
+
+httpx._config.Limits.__repr__\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_config.py¼ ¼("2*—
+2
+½ ½(,_
+]
+
+½ ½(#
+%1"__id*C
+
+__unknown_file ('*%
+httpx._config.Limits"
+	__class__L
+J
+
+½ ½(,
+%2"__id*0
+
+__unknown_file (*
+
+%1"
+
+__name__F
+D
+
+½ ½(,
+
+class_name"__id*"
+
+__unknown_file (
+
+%2e
+c
+
+¿, ¿(@
+%3"__id*I
+
+__unknown_file (-*+
+httpx._config.Limits"
+max_connectionso
+m
+
+À) À(G
+%4"__id*S
+
+__unknown_file (7*5
+httpx._config.Limits"
+max_keepalive_connectionsf
+d
+
+Á  Á(5
+%5"__id*J
+
+__unknown_file (.*,
+httpx._config.Limits"
+keepalive_expiry¸
+µ
+
+¿ Á(8
+%6"__concat*
+
+¿ ¿(
+
+
+class_name*#
+
+¿ ¿(+
+(max_connections=*
+
+¿, ¿(@
+
+%3*
+
+¿A ¿(C
+, *,
+
+À À((
+max_keepalive_connections=*
+
+À) À(G
+
+%4*
+
+ÀH À(J
+, *#
+
+Á Á(
+keepalive_expiry=*
+
+Á  Á(5
+
+%5*
+
+Á6 Á(7
+)"
+
+¾ Â(	
+
+%6B
+httpx._config.LimitsH

@@ -1,0 +1,4 @@
+pip._vendor.platformdirs.windows.get_win_folder_if_csidl_name_not_env_var
+ab747a61052fae8fef0bff82c6043cee
+os.path.normpath
+os.path.join

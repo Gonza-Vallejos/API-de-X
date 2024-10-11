@@ -1,0 +1,5 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.erase_start_of_line
+a945298b2539f63b0526d677175a2b79
+pip._vendor.rich._win32_console.WindowsCoordinates.__init__
+pip._vendor.rich._win32_console.FillConsoleOutputAttribute
+pip._vendor.rich._win32_console.FillConsoleOutputCharacter

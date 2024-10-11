@@ -1,0 +1,2 @@
+bs4.tests.test_builder_registry.TestRegistry.test_register_with_features_makes_lookup_succeed
+f5b1fdd55b725e40f460101359663f2d

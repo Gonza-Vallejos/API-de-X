@@ -1,0 +1,8 @@
+pip._vendor.pyproject_hooks._impl.norm_and_check
+5d16746c97bb35a526a5bf0b8741300a
+os.path.normcase
+os.path.normpath
+os.path.commonprefix
+os.path.abspath
+os.path.join
+os.path.isabs

@@ -1,0 +1,5 @@
+bs4.builder._htmlparser.BeautifulSoupHTMLParser.handle_startendtag
+14a6999939a096a543956852221ffa09
+==
+handle_starttag
+handle_endtag

@@ -1,0 +1,8 @@
+pip._internal.locations.get_platlib
+2cd48a12233bb6d1524f4791a66b9afc
+pip._internal.locations._looks_like_deb_system_dist_packages
+pip._internal.locations._log_context
+pathlib.Path.__init__
+pip._internal.locations._warn_if_mismatch
+==
+get_platlib

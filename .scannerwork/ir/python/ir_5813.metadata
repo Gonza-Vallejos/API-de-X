@@ -1,0 +1,4 @@
+pip._vendor.urllib3.util.retry.Retry.is_retry
+26b45a53679d1b50da9f5edecafdcc42
+==
+_is_method_retryable

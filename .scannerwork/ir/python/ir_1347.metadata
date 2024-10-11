@@ -1,0 +1,9 @@
+pip._internal.vcs.subversion.Subversion.fetch_new
+7a004e522085e7e3ef3b2ed7603a1e54
+pip._internal.utils.misc.display_path
+==
+get_remote_call_options
+run_command
+to_args
+to_display
+info

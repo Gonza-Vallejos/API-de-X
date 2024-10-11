@@ -1,0 +1,4 @@
+bs4.tests.test_tree.TestTreeModification.test_string_set_does_not_affect_original_string
+2de1743a99ba7e605cbb8dd75391a3e2
+==
+soup

@@ -1,0 +1,12 @@
+h11.tests.test_connection.test_sendfile.setup
+272606c65a641148812c806210434235
+h11._events.Response.__init__
+h11._events.Data.__init__
+h11.tests.helpers.receive_and_get
+h11._connection.Connection.__init__
+==
+encode
+send_with_data_passthrough
+format
+send
+append

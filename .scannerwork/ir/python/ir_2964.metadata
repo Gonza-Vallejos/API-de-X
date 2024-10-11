@@ -1,0 +1,5 @@
+pip._vendor.urllib3.connection.HTTPConnection._prepare_conn
+60c24c648dffe156d12c059dea09661e
+==
+_tunnel
+_is_using_tunnel

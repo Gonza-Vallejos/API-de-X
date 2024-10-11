@@ -1,0 +1,6 @@
+pip._vendor.rich.prompt.Confirm.process_response
+23deb7c37b3c310ba00d971e99f12c1b
+pip._vendor.rich.prompt.InvalidResponse.__init__
+==
+strip
+lower

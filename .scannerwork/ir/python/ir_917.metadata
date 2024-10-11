@@ -1,0 +1,10 @@
+pip._vendor.pygments.formatters.rtf.RtfFormatter._escape_text
+f4662ca2bb50449ec5f65e6d5173ec41
+ord
+str.__init__
+pip._vendor.pygments.util.surrogatepair
+==
+replace
+join
+_escape
+append

@@ -1,0 +1,3 @@
+httpcore._sync.connection_pool.PoolRequest.clear_connection
+81b049a5ab38f867e7a616e1704a0a73
+httpcore._synchronization.Event.__init__

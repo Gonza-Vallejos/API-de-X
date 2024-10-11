@@ -1,0 +1,36 @@
+
+;anyio._backends._trio.TrioTaskInfo.has_pending_cancellationd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.pyÃ Ã( "2*¿
+2
+Å Å(Bi
+g
+
+Å Å(
+%1"__id*M
+
+__unknown_file (1*/$
+"anyio._backends._trio.TrioTaskInfo"
+_taskR
+P
+
+Å Å(,
+%2"__id*6
+
+__unknown_file (*
+
+%1"
+_cancel_statusY
+W
+
+Å Å(B
+%3"__id*=
+
+__unknown_file (!*
+
+%2"
+effectively_cancelled"
+
+Å Å(B
+
+%3B&$
+"anyio._backends._trio.TrioTaskInfoH

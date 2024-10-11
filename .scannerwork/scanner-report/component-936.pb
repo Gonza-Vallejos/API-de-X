@@ -1,0 +1,1 @@
+¨ 2pyXÇhrAenv/lib/python3.12/site-packages/pip/_vendor/rich/_cell_widths.py

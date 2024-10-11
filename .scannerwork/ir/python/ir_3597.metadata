@@ -1,0 +1,3 @@
+pip._vendor.packaging.specifiers.Specifier._get_operator
+a72448f52f8ed4e076c50736d2d53d4b
+getattr

@@ -1,0 +1,5 @@
+anyio._core._eventloop.get_cancelled_exc_class
+f8a1cbddada7c20ec0641234a88a8a11
+anyio._core._eventloop.get_async_backend
+==
+cancelled_exception_class

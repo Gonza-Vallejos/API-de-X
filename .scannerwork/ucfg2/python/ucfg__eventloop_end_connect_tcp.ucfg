@@ -1,0 +1,17 @@
+
+-anyio.abc._eventloop.AsyncBackend.connect_tcpc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/abc/_eventloop.pyÿ ÿ("3*5
+3
+_eventloop.py"
+„ „(
+implicit return:
+
+€ €(
+host:
+
+€ €(!
+port:
+
+€# €(N
+local_addressB%#
+!anyio.abc._eventloop.AsyncBackendH

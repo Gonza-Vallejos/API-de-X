@@ -1,0 +1,8 @@
+pip._vendor.requests.adapters.HTTPAdapter.get_connection
+41aa4d441d1569cd1e6cf59bb7c2a426
+pip._vendor.requests.utils.select_proxy
+warnings.warn
+pip._vendor.requests.utils.prepend_scheme_if_needed
+==
+geturl
+connection_from_url

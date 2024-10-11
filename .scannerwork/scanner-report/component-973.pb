@@ -1,0 +1,1 @@
+Í 2pyX	hrGenv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_compat.py

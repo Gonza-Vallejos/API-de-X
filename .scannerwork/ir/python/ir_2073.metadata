@@ -1,0 +1,7 @@
+pip._internal.utils.logging.BetterRotatingFileHandler._open
+fcdfee4cbaf69aad4fd347334398d83b
+pip._internal.utils.misc.ensure_dir
+super
+os.path.dirname
+==
+_open

@@ -1,0 +1,1 @@
+¥ 2pyXshrDenv/lib/python3.12/site-packages/pip/_internal/commands/uninstall.py

@@ -1,0 +1,8 @@
+pip._internal.commands.search.SearchCommand.run
+20144d2353482608fd18b2f0beb981b8
+pip._internal.commands.search.transform_hits
+pip._internal.commands.search.print_results
+shutil.get_terminal_size
+==
+search
+isatty

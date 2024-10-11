@@ -1,0 +1,4 @@
+bs4.tests.test_dammit.TestEncodingDetector.test_encoding_detector_replaces_junk_in_encoding_name_with_replacement_character
+d5dc97490493bd07f0aa5ea5e435d567
+bs4.dammit.EncodingDetector.__init__
+list.__init__

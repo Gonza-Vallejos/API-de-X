@@ -1,0 +1,1 @@
+ 2pyXğhr;env/lib/python3.12/site-packages/httpcore/_backends/sync.py

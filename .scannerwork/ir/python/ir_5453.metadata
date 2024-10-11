@@ -1,0 +1,4 @@
+pip._vendor.packaging._manylinux._get_glibc_version
+78328c3e0811df2ee83bbed7d1ffbf45
+pip._vendor.packaging._manylinux._glibc_version_string
+pip._vendor.packaging._manylinux._parse_glibc_version

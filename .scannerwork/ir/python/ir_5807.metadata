@@ -1,0 +1,5 @@
+pip._vendor.urllib3.util.retry.Retry.sleep_for_retry
+321950ee715382e3d55571305917c8a5
+time.sleep
+==
+get_retry_after

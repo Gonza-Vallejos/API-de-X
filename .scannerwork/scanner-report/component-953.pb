@@ -1,0 +1,1 @@
+¹ 2pyXñhr9env/lib/python3.12/site-packages/pip/_vendor/rich/ansi.py

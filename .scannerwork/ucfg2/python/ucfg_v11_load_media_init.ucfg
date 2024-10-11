@@ -1,0 +1,128 @@
+
+v11.V11Client.upload_media_init^
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.pyu u("2*¾
+2v z(	
+v z(	
+%5"dict
+
+w w(
+%6"__mapSet*"
+
+__unknown_file (
+
+%5*'
+
+__unknown_file (	
+command*$
+
+__unknown_file (
+INIT›
+˜
+x x(&
+%7"__mapSet*"
+
+__unknown_file (
+
+%5*+
+
+__unknown_file (
+total_bytes*+
+
+__unknown_file (
+
+total_bytes™
+–
+y y($
+%8"__mapSet*"
+
+__unknown_file (
+
+%5**
+
+__unknown_file (
+
+media_type**
+
+__unknown_file (
+
+
+media_type@
+>
+v z(	
+params"__id*"
+
+__unknown_file (
+
+%5*
+4
+5*Õ
+4	~ ƒ(	S
+Q
+
+‚ ‚(
+%1"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+‚ ‚(+
+%2"__id*5
+
+__unknown_file (*
+
+%1"
+_base_headers‡„
+	~ ƒ(	
+%3*-
+
+__unknown_file (
+v11.V11Client*$
+
+__unknown_file (
+POST*-
+
+__unknown_file (
+
+is_long_video2upload_media:0
+params&
+
+__unknown_file (
+
+
+params:-
+headers"
+
+__unknown_file (
+
+%2"
+	~ ƒ(	
+
+%3*Ï
+5| |(5º·
+| |(5
+%4"dict.__setitem__*&
+
+__unknown_file (
+
+
+params*.
+
+__unknown_file (
+media_category*.
+
+__unknown_file (
+
+media_category2__setitem__*
+4:
+u& u(0
+
+media_type:
+u2 u(=
+total_bytes:
+u? u(M
+media_category:
+uO u(b
+is_long_videoB
+v11.V11ClientH

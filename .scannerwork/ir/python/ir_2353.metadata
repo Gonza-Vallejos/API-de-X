@@ -1,0 +1,4 @@
+pip._vendor.distro.distro.LinuxDistribution.__init__
+c404af7c97fd74bd47fb061f8a1bc3fe
+os.path.join
+os.path.isfile

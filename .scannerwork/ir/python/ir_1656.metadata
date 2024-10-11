@@ -1,0 +1,3 @@
+pip._vendor.urllib3.poolmanager.PoolManager._proxy_requires_url_absolute_form
+17bf487c77272e4f0e40dcf103864061
+pip._vendor.urllib3.util.proxy.connection_requires_http_tunnel

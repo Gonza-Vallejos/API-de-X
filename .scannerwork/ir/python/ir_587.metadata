@@ -1,0 +1,4 @@
+pip._internal.utils._log.init_logging
+7a345f2efde5b73e748560c5dcfe233f
+logging.setLoggerClass
+logging.addLevelName

@@ -1,0 +1,6 @@
+pip._vendor.rich.panel.Panel.__rich_console__.align_text
+9479ca9caf3240146ad17cbf69d2d31f
+pip._vendor.rich.cells.cell_len
+==
+truncate
+copy

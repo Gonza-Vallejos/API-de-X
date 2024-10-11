@@ -1,0 +1,134 @@
+
+4pip._internal.configuration.Configuration._load_filej
+^/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/configuration.pyã ã("2*¢
+2
+å å(Qﬂ‹
+
+å å(Q
+%6*&
+
+__unknown_file (
+
+
+logger*G
+
+__unknown_file (+)
+'For variant '%s', will try loading '%s'*'
+
+__unknown_file (
+	
+variant*%
+
+__unknown_file (	
+
+fname2verboseöó
+
+ç ç(.
+%7*I
+
+__unknown_file (-+
+)pip._internal.configuration.Configuration*%
+
+__unknown_file (	
+
+fname2_construct_parserB
+@
+
+ç ç(.
+parser"__id*"
+
+__unknown_file (
+
+%7FD
+
+è è((
+%8*&
+
+__unknown_file (
+
+
+parser2sections*
+4
+6*)
+4
+ì ì("
+
+ì ì(
+
+
+parser*·
+6
+ê ê()lj
+
+ê ê()
+%1*&
+
+__unknown_file (
+
+
+parser*'
+
+__unknown_file (
+	
+section2itemsA
+?
+
+ê ê()
+items"__id*"
+
+__unknown_file (
+
+%1r
+p
+
+ë ë(
+%2"__id*V
+
+__unknown_file (:*8+
+)pip._internal.configuration.Configuration"	
+_configxv
+
+ë ë(!
+%3"__mapGet*"
+
+__unknown_file (
+
+%2*'
+
+__unknown_file (
+	
+variant2__getitem__¬ø
+
+ë) ë(N
+%4*I
+
+__unknown_file (-+
+)pip._internal.configuration.Configuration*'
+
+__unknown_file (
+	
+section*%
+
+__unknown_file (	
+
+items2_normalized_keysdb
+
+ë ë(O
+%5*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%42update*
+4
+6:
+
+ã ã(&	
+variant:
+
+ã( ã(2
+fnameB-+
+)pip._internal.configuration.ConfigurationH

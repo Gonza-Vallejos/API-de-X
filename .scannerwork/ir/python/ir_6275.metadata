@@ -1,0 +1,9 @@
+pip._vendor.pkg_resources.ZipProvider.get_resource_filename
+b7eaebd0b19a4a1da9472fef8b907127
+==
+_resource_to_zip
+_parts
+_get_eager_resources
+_eager_to_zip
+join
+_extract_resource

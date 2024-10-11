@@ -1,0 +1,69 @@
+
+:bs4.tests.XMLTreeBuilderSmokeTest.test_real_xhtml_documenta
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyù ù( "2*ø
+2
+ú ú(U˜
+•
+
+û €(
+
+markup"__id*ö
+
+__unknown_file (ÙÖ
+Ó<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Hello.</title></head>
+<body>Goodbye.</body>
+</html>†ƒ
+
+ ( 
+%1*A
+
+__unknown_file (%#
+!bs4.tests.XMLTreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+ ( 
+soup"__id*"
+
+__unknown_file (
+
+%1ig
+
+‚ ‚(#
+%2*$
+
+__unknown_file (
+
+soup*%
+
+__unknown_file (	
+utf-82encode
+
+
+‚ ‚(-
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+
+markup*
+3*3
+3
+__init__.py"
+„ „(
+implicit returnB%#
+!bs4.tests.XMLTreeBuilderSmokeTestH

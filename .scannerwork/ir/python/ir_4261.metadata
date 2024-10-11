@@ -1,0 +1,11 @@
+pip._internal.distributions.sdist.SourceDistribution.prepare_distribution_metadata
+6c4b922c1d1a0d9109fee57460dcfb99
+==
+_raise_conflicts
+_prepare_build_backend
+isolated_editable_sanity_check
+prepare_metadata
+_raise_missing_reqs
+_install_build_reqs
+load_pyproject_toml
+check_requirements

@@ -1,0 +1,3 @@
+httpcore._async.socks_proxy.AsyncSOCKSProxy.create_connection
+8fba2cb13101e6192a3dafdf5b027cad
+httpcore._async.socks_proxy.AsyncSocks5Connection.__init__

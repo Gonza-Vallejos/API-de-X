@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_insert_string
+249c3006baaa913b4fd4f9192f002c98
+==
+soup
+insert

@@ -1,0 +1,4 @@
+pip._internal.utils.compatibility_tags._get_custom_interpreter
+890494c9dabb029313a4b78d49db0aa1
+pip._vendor.packaging.tags.interpreter_name
+pip._vendor.packaging.tags.interpreter_version

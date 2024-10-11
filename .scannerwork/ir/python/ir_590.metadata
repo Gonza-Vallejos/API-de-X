@@ -1,0 +1,5 @@
+pip._vendor.rich.logging.RichHandler.get_level_text
+588cc0b1e810387bb035b38852c0675e
+pip._vendor.rich.text.Text.styled
+==
+ljust

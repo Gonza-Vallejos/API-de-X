@@ -1,0 +1,4 @@
+pip._vendor.urllib3.response.HTTPResponse._handle_chunk
+dcb7280df5b1a89bb51797087fb31cd7
+==
+_safe_read

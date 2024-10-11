@@ -1,0 +1,159 @@
+
+Jbs4.tests.test_tree.TestTreeModification.test_append_to_contents_moves_tagb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.py› ›()"2*Á
+2
+ﬁ ﬂ(.ì
+ê
+
+ﬁ ﬂ(.
+doc"__id*u
+
+__unknown_file (YW
+U<p id="1">Don't leave me <b>here</b>.</p>
+                <p id="2">Don\'t leave!</p>äá
+
+‡ ‡(
+%1*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*#
+
+__unknown_file (
+
+doc2soup@
+>
+
+‡ ‡(
+soup"__id*"
+
+__unknown_file (
+
+%1ig
+
+· ·('
+%2*$
+
+__unknown_file (
+
+soup2find:'
+id!
+
+__unknown_file (
+2G
+E
+
+· ·('
+second_para"__id*"
+
+__unknown_file (
+
+%2G
+E
+
+‚ ‚(
+%3"__id*+
+
+__unknown_file (*
+
+soup"
+b@
+>
+
+‚ ‚(
+bold"__id*"
+
+__unknown_file (
+
+%3ig
+
+Â Â(
+%4*$
+
+__unknown_file (
+
+soup2find:'
+id!
+
+__unknown_file (
+2G
+E
+
+Â! Â('
+%5"__id*+
+
+__unknown_file (*
+
+soup"
+bdb
+
+Â Â((
+%6*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%52appendL
+J
+
+Ë Ë(
+%7"__id*0
+
+__unknown_file (*
+
+bold"
+parentï
+í
+
+Ë Ë()
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%7*+
+
+__unknown_file (
+
+second_paraB@
+
+Í Í(
+%9*$
+
+__unknown_file (
+
+soup2decode◊‘
+
+Í  Ì(	
+%10*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*g
+
+__unknown_file (KI
+G<p id="1">Don\'t leave me .</p>\n<p id="2">Don\'t leave!<b>here</b></p>2document_foré
+ã
+
+Í Ì(	
+%11"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+
+%10*
+3*4
+3
+test_tree.py"
+Ô Ô(
+implicit returnB,*
+(bs4.tests.test_tree.TestTreeModificationH

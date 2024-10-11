@@ -1,0 +1,5 @@
+pip._internal.network.auth.MultiDomainBasicAuth._get_url_and_credentials
+5460342a2b56d7e5a8f29e7da7b15037
+pip._internal.utils.misc.split_auth_netloc_from_url
+==
+_get_new_credentials

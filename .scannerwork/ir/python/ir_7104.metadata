@@ -1,0 +1,3 @@
+pip._vendor.requests.auth.HTTPBasicAuth.__call__
+74d9891438c47955a22c5b9097dc9aa2
+pip._vendor.requests.auth._basic_auth_str

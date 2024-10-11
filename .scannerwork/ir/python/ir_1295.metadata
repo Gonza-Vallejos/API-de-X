@@ -1,0 +1,4 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.__init__
+a1a0a9aa3823478b2b893185d0c355cf
+pip._vendor.rich._win32_console.GetStdHandle
+pip._vendor.rich._win32_console.GetConsoleScreenBufferInfo

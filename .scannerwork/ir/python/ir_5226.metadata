@@ -1,0 +1,6 @@
+pip._internal.req.req_install.InstallRequirement.warn_on_mismatching_name
+7a902b146c134e1b075a286fa9a174bc
+pip._internal.utils.packaging.get_requirement
+pip._vendor.packaging.utils.canonicalize_name
+==
+warning

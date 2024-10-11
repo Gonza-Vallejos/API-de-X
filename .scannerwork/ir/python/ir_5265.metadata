@@ -1,0 +1,5 @@
+pip._internal.utils.filetypes.is_archive_file
+8d20ecc554f35243575c2ea49d6b104e
+pip._internal.utils.misc.splitext
+==
+lower

@@ -1,0 +1,8 @@
+pip._internal.exceptions.InstallationSubprocessError.__init__
+a976bba9fe69257e5e755af445e039d9
+super
+pip._vendor.rich.text.Text.from_markup
+pip._vendor.rich.text.Text.__init__
+==
+join
+__init__

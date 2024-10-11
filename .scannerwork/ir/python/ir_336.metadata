@@ -1,0 +1,4 @@
+pip._vendor.distlib.scripts.ScriptMaker._get_launcher
+dbf3cf19c154fa521c89662cb33714a0
+struct.calcsize
+pip._vendor.distlib.util.get_platform

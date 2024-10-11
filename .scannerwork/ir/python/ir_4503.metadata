@@ -1,0 +1,5 @@
+httpx._urlparse.validate_path
+8f93005eb5f64e0d96bd2647294a98e2
+httpx._exceptions.InvalidURL.__init__
+==
+startswith

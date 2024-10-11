@@ -1,0 +1,8 @@
+pip._vendor.requests.utils.address_in_network
+36c812fe850b7da2afdf6a1fa36a0d1e
+struct.unpack
+pip._vendor.requests.utils.dotted_netmask
+socket.inet_aton
+int.__init__
+==
+split

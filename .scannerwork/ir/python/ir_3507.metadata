@@ -1,0 +1,5 @@
+pip._vendor.urllib3.connectionpool.HTTPSConnectionPool._prepare_proxy
+a427de4b826b3dfeeb98e9dc3b66a9b8
+==
+set_tunnel
+connect

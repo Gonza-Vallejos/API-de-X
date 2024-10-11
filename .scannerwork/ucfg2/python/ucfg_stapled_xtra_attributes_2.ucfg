@@ -1,0 +1,61 @@
+
+4anyio.streams.stapled.MultiListener.extra_attributesd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/streams/stapled.pyˆ ˆ("2*ë
+2
+‰ ‰(
+
+‰ ‰(
+%3"dictF
+D
+
+‰ ‰(
+
+attributes"__id*"
+
+__unknown_file (
+
+%3n
+l
+
+Š Š(&
+%4"__id*R
+
+__unknown_file (6*4%
+#anyio.streams.stapled.MultiListener"
+	listeners*
+4
+6*-
+4
+ ("
+
+ (
+
+
+attributes*
+6
+‹ ‹(8Z
+X
+
+‹ ‹(7
+%1"__id*>
+
+__unknown_file ("* 
+
+
+listener"
+extra_attributes‹ˆ
+
+‹ ‹(8
+%2"typing.MutableMapping.update**
+
+__unknown_file (
+
+
+attributes*"
+
+__unknown_file (
+
+%12update*
+4
+6B'%
+#anyio.streams.stapled.MultiListenerH

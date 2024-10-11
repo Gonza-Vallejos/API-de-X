@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.api.PlatformDirsABC.user_config_path
+8540f141734529005d31076797560965
+pathlib.Path.__init__

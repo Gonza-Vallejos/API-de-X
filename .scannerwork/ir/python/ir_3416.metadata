@@ -1,0 +1,11 @@
+pip._internal.network.auth.MultiDomainBasicAuth.handle_401
+4a18e2812324bb6aaa6ebfa9cb336c12
+urllib.parse.urlparse
+pip._internal.network.auth.Credentials.__init__
+==
+_should_save_password_to_keyring
+release_conn
+_prompt_for_password
+_get_new_credentials
+register_hook
+append

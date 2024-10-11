@@ -1,0 +1,7 @@
+h11._connection.Connection._extract_next_receive_event
+b61182796a707773751f9d1e1ab755c3
+h11._events.ConnectionClosed.__init__
+hasattr
+==
+_reader
+read_eof

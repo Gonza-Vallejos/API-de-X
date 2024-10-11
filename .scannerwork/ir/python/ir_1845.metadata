@@ -1,0 +1,8 @@
+pip._vendor.distlib.resources.ResourceFinder.find
+22e08f19813b7e0eeb0a334cc4293ca0
+pip._vendor.distlib.resources.ResourceContainer.__init__
+pip._vendor.distlib.resources.Resource.__init__
+==
+_find
+_make_path
+_is_directory

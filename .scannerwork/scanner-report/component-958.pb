@@ -1,0 +1,1 @@
+¾ 2pyX_hr@env/lib/python3.12/site-packages/pip/_vendor/rich/_log_render.py

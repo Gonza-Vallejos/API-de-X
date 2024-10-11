@@ -1,0 +1,6 @@
+anyio._backends._trio.UNIXDatagramSocket.__init__
+d2501adea61aed6fa1b70d65d30c95db
+super
+anyio._core._synchronization.ResourceGuard.__init__
+==
+__init__

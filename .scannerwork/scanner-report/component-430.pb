@@ -1,0 +1,1 @@
+® 2xmlXNhrPenv/lib/python3.12/site-packages/lxml/isoschematron/resources/xsl/XSD2Schtrn.xsl

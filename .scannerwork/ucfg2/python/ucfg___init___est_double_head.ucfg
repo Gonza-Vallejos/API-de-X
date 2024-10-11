@@ -1,0 +1,83 @@
+
+3bs4.tests.HTMLTreeBuilderSmokeTest.test_double_heada
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py† †("2*Ð
+2
+‡ “(ò
+ï
+
+‡ “(
+html"__id*Ò
+
+__unknown_file (µ²
+¯<!DOCTYPE html>
+<html>
+<head>
+<title>Ordinary HEAD element test</title>
+</head>
+<script type="text/javascript">
+alert("Help!");
+</script>
+<body>
+Hello, world!
+</body>
+</html>
+…‚
+
+” ”(
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*$
+
+__unknown_file (
+
+html2soup@
+>
+
+” ”(
+soup"__id*"
+
+__unknown_file (
+
+%1hf
+
+•$ •(7
+%2*$
+
+__unknown_file (
+
+soup*&
+
+__unknown_file (
+
+script2findus
+
+•$ •(?
+%3"__mapGet*"
+
+__unknown_file (
+
+%2*$
+
+__unknown_file (
+type2__getitem__™
+–
+
+• •(?
+%4"	__compare*"
+
+__unknown_file (
+==*/
+
+__unknown_file (
+text/javascript*"
+
+__unknown_file (
+
+%3*
+3*3
+3
+__init__.py"
+— —(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

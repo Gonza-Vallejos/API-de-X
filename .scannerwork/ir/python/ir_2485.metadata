@@ -1,0 +1,5 @@
+httpx._client.BaseClient._enforce_trailing_slash
+fa398ac6f1203f68803d3c37f675d59a
+==
+copy_with
+endswith

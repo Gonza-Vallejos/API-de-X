@@ -1,0 +1,11 @@
+pip._internal.configuration.Configuration.set_value
+640d0935b9edcbea35de9385df640c39
+pip._internal.configuration._disassemble_key
+pip._internal.configuration._normalize_name
+==
+set
+_ensure_have_load_only
+add_section
+_mark_as_modified
+_get_parser_to_modify
+has_section

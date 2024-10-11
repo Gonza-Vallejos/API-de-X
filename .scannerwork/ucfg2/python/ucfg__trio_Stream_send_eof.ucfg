@@ -1,0 +1,40 @@
+
++anyio._backends._trio.SocketStream.send_eofd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.py¹ ¹("2*¿
+2
+º º(2p
+n
+
+º º(
+%1"__id*T
+
+__unknown_file (8*6$
+"anyio._backends._trio.SocketStream"
+_trio_socketO
+M
+
+º# º(1
+%2"__id*3
+
+__unknown_file (*
+
+socket"	
+SHUT_WRfd
+
+º º(2
+%3*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22shutdown*
+3*.
+3
+
+_trio.py"
+½ ½
+implicit returnB&$
+"anyio._backends._trio.SocketStreamH

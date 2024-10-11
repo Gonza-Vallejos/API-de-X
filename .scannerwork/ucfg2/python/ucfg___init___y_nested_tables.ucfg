@@ -1,0 +1,41 @@
+
+?bs4.tests.HTMLTreeBuilderSmokeTest.test_correctly_nested_tablesa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py   ($"2*◊
+2
+À À(2ú
+ô
+
+Ã —("
+markup"__id*{
+
+__unknown_file (_]
+[<table id="1"><tr><td>Here's another table:<table id="2"><tr><td>foo</td></tr></table></td>öó
+
+” ◊(!
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup*â
+
+__unknown_file (mk
+i<table id="1"><tr><td>Here\'s another table:<table id="2"><tr><td>foo</td></tr></table></td></tr></table>2assert_soupÑÅ
+
+Ÿ ‹(;
+%2*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*õ
+
+__unknown_file (}
+{<table><thead><tr><td>Foo</td></tr></thead><tbody><tr><td>Bar</td></tr></tbody><tfoot><tr><td>Baz</td></tr></tfoot></table>2assert_soup*
+3*3
+3
+__init__.py"
+ﬁ ﬁ(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

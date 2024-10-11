@@ -1,0 +1,12 @@
+
+/anyio.abc._sockets.UNIXSocketStream.receive_fds_
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/abc/_sockets.pys s("3*/
+3
+_sockets.py"
+} }
+implicit return:
+s  s(+
+msglen:
+s- s(8
+maxfdsB'%
+#anyio.abc._sockets.UNIXSocketStreamH

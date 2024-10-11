@@ -1,0 +1,2 @@
+anyio._backends._asyncio.Semaphore.acquire_nowait
+c176b193d5a0195bf6acd013a109a4de

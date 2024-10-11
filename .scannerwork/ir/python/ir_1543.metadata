@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.unix.Unix.user_documents_dir
+714c77c3af3ee27c6305d99d6e076dbd
+pip._vendor.platformdirs.unix._get_user_media_dir

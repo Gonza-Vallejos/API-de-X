@@ -1,0 +1,5 @@
+httpcore._sync.http_proxy.TunnelHTTPConnection.__init__
+eb083edb76bd51bd909cc622bd7ab93a
+httpcore._sync.connection.HTTPConnection.__init__
+httpcore._models.enforce_headers
+httpcore._synchronization.Lock.__init__

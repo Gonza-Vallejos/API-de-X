@@ -1,0 +1,108 @@
+
+#httpx._client.AsyncClient.__aexit__\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.pyÜ Ü("2*±
+2
+å å((a
+_
+
+å å((
+%2"__id*E
+
+__unknown_file ()*'
+httpx._client.ClientState"
+CLOSEDa
+_
+
+å å(('
+httpx._client.AsyncClient"
+_state"__id*"
+
+__unknown_file (
+
+%2e
+c
+
+é é(
+%3"__id*I
+
+__unknown_file (-*+
+httpx._client.AsyncClient"
+
+_transportƒ¡
+
+é é(G
+%4*"
+
+__unknown_file (
+
+%3*(
+
+__unknown_file (
+
+
+exc_type*)
+
+__unknown_file (
+
+	exc_value*)
+
+__unknown_file (
+
+	traceback2	__aexit__b
+`
+
+è è(!
+%5"__id*F
+
+__unknown_file (**(
+httpx._client.AsyncClient"	
+_mounts@>
+
+è è(*
+%6*"
+
+__unknown_file (
+
+%52values*
+3
+6*0
+3
+
+_client.py"
+í í
+implicit return*·
+6
+ë ë(E«ƒ
+
+ë ë(E
+%1*%
+
+__unknown_file (	
+
+proxy*(
+
+__unknown_file (
+
+
+exc_type*)
+
+__unknown_file (
+
+	exc_value*)
+
+__unknown_file (
+
+	traceback2	__aexit__*
+3
+6:
+
+à à(3
+
+exc_type:
+
+â â(.
+	exc_value:
+
+ä ä(.
+	tracebackB
+httpx._client.AsyncClientH

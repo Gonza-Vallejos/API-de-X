@@ -1,0 +1,9 @@
+pip._vendor.typing_extensions._ProtocolMeta.__subclasscheck__
+6bcbcc85d4b2042d27117fa3df74c162
+pip._vendor.typing_extensions._allow_reckless_class_checks
+sorted
+pip._vendor.typing_extensions._type_check_issubclass_arg_1
+getattr
+==
+__subclasscheck__
+get

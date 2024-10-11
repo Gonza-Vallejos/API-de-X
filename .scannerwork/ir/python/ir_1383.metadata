@@ -1,0 +1,4 @@
+httpcore._async.socks_proxy.AsyncSocks5Connection.__init__
+238b83adb62e8c3e3eaafb6410c71f3e
+httpcore._synchronization.AsyncLock.__init__
+httpcore._backends.auto.AutoBackend.__init__

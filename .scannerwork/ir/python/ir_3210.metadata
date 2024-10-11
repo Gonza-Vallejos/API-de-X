@@ -1,0 +1,5 @@
+bs4.builder._html5lib.HTML5TreeBuilder.feed
+547d6f0b58776f3602e3591825819674
+warnings.warn
+dict.__init__
+html5lib.html5parser.HTMLParser.__init__

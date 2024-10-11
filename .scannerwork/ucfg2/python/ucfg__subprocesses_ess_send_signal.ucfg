@@ -1,0 +1,10 @@
+
++anyio.abc._subprocesses.Process.send_signald
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/abc/_subprocesses.py, ,("3*6
+3
+_subprocesses.py"
+5 5(
+implicit return:
+, ,()
+signalB#!
+anyio.abc._subprocesses.ProcessH

@@ -1,0 +1,7 @@
+bs4.builder._html5lib.Element.insertText
+243c70d4e4779365a481a26478d2674d
+bs4.builder._html5lib.TextNode.__init__
+==
+appendChild
+new_string
+insertBefore

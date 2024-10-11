@@ -1,0 +1,4 @@
+pip._vendor.requests.adapters.HTTPAdapter.proxy_headers
+2147d69821c38508e4e9e727dfdf499d
+pip._vendor.requests.utils.get_auth_from_url
+pip._vendor.requests.auth._basic_auth_str

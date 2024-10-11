@@ -1,0 +1,4 @@
+pip._vendor.requests.models.PreparedRequest.prepare_cookies
+be3749c9b773af211fb8c45e45e6b953
+pip._vendor.requests.cookies.get_cookie_header
+pip._vendor.requests.cookies.cookiejar_from_dict

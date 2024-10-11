@@ -1,0 +1,7 @@
+pip._vendor.pkg_resources._is_unpacked_egg
+8d68ac012707f6d4c8f700bec3659a65
+os.path.join
+os.path.isfile
+==
+lower
+endswith

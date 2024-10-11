@@ -1,0 +1,9 @@
+lxml.ElementInclude.default_loader
+9929795bd58f65d2c54ae495928c8146
+open
+==
+read
+parse
+getroot
+decode
+close

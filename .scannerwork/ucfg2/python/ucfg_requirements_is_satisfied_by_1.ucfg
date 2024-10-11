@@ -1,0 +1,122 @@
+
+Upip._internal.resolution.resolvelib.requirements.SpecifierRequirement.is_satisfied_by}
+s/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/requirements.pym m("2*”
+2n q(	M
+K
+n n(
+%1"__id*3
+
+__unknown_file (*
+
+	candidate"
+nameŠ
+‡
+n! n(*
+%2"__id*o
+
+__unknown_file (S*QG
+Epip._internal.resolution.resolvelib.requirements.SpecifierRequirement"
+nameŠ
+‡
+n n(*
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%2M
+K
+p p(
+%4"__id*3
+
+__unknown_file (*
+
+	candidate"
+nameŠ
+‡
+p# p(,
+%5"__id*o
+
+__unknown_file (S*QG
+Epip._internal.resolution.resolvelib.requirements.SpecifierRequirement"
+name‹
+ˆ
+u u(
+%6"__id*p
+
+__unknown_file (T*RG
+Epip._internal.resolution.resolvelib.requirements.SpecifierRequirement"
+_ireqE
+C
+u u(
+%7"__id*+
+
+__unknown_file (*
+
+%6"
+req‹
+ˆ
+v v(
+%8"__id*p
+
+__unknown_file (T*RG
+Epip._internal.resolution.resolvelib.requirements.SpecifierRequirement"
+_ireqE
+C
+v v(
+%9"__id*+
+
+__unknown_file (*
+
+%8"
+reqL
+J
+v v('
+%10"__id*1
+
+__unknown_file (*
+
+%9"
+	specifier?
+=
+v v('
+spec"__id*#
+
+__unknown_file (
+
+%10Q
+O
+w w(.
+%11"__id*6
+
+__unknown_file (*
+
+	candidate"	
+versionž›
+w w(A
+%12*$
+
+__unknown_file (
+
+spec*#
+
+__unknown_file (
+
+%112contains:3
+prereleases$
+
+__unknown_file (
+
+True"
+w w(A
+
+%12:
+m m(2
+	candidateBIG
+Epip._internal.resolution.resolvelib.requirements.SpecifierRequirementH

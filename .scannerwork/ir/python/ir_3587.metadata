@@ -1,0 +1,11 @@
+pip._internal.commands.completion.CompletionCommand.run
+c30e74309834dfcd2096885a4c9dfba7
+textwrap.dedent
+print
+pip._internal.utils.misc.get_prog
+==
+keys
+get
+format
+join
+write

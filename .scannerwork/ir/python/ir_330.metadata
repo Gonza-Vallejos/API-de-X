@@ -1,0 +1,7 @@
+pip._vendor.distlib.scripts.ScriptMaker._fix_jython_executable
+2bc5c43277353abf07ec64af44d05fb4
+==
+getProperty
+_is_shell
+lower
+endswith

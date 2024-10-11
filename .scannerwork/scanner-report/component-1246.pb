@@ -1,0 +1,1 @@
+Þ	 2pyXÄhr>env/lib/python3.12/site-packages/pip/_vendor/pygments/lexer.py

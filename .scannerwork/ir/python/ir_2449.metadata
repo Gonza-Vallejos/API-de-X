@@ -1,0 +1,2 @@
+pip._vendor.requests.adapters.HTTPAdapter.init_poolmanager
+6a3e602e6f3047a08c1727d9d0608a24

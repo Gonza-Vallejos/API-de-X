@@ -1,0 +1,7 @@
+anyio._backends._trio.TrioTaskInfo.__init__
+be0a29222b0f0e2648f0a5c21bfd7a99
+super
+weakref.proxy
+id
+==
+__init__

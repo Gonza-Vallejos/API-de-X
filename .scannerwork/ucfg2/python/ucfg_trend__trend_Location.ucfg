@@ -1,0 +1,148 @@
+
+twikit.trend.LocationY
+O/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/trend.pyH H("2*Ù
+2I I(`
+^
+I I($
+twikit.trend.Location"	
+_client"__id*&
+
+__unknown_file (
+
+
+clientvt
+K K('
+%2"__mapGet*$
+
+__unknown_file (
+
+data*%
+
+__unknown_file (	
+woeid2__getitem__Z
+X
+K K('"
+twikit.trend.Location"
+woeid"__id*"
+
+__unknown_file (
+
+%2xv
+L L(+
+%3"__mapGet*$
+
+__unknown_file (
+
+data*'
+
+__unknown_file (	
+country2__getitem__\
+Z
+L L(+$
+twikit.trend.Location"	
+country"__id*"
+
+__unknown_file (
+
+%3|z
+M! M(4
+%4"__mapGet*$
+
+__unknown_file (
+
+data*+
+
+__unknown_file (
+countryCode2__getitem__a
+_
+M M(4)
+twikit.trend.Location"
+country_code"__id*"
+
+__unknown_file (
+
+%4us
+N N(%
+%5"__mapGet*$
+
+__unknown_file (
+
+data*$
+
+__unknown_file (
+name2__getitem__Y
+W
+N N(%!
+twikit.trend.Location"
+name"__id*"
+
+__unknown_file (
+
+%5yw
+O O(-
+%6"__mapGet*$
+
+__unknown_file (
+
+data*(
+
+__unknown_file (
+
+parentid2__getitem__]
+[
+O O(-%
+twikit.trend.Location"
+
+parentid"__id*"
+
+__unknown_file (
+
+%6zx
+P P(0
+%7"__mapGet*$
+
+__unknown_file (
+
+data*)
+
+__unknown_file (
+	placeType2__getitem__^
+\
+P P(0&
+twikit.trend.Location"
+	placeType"__id*"
+
+__unknown_file (
+
+%7tr
+Q Q(#
+%8"__mapGet*$
+
+__unknown_file (
+
+data*#
+
+__unknown_file (
+url2__getitem__X
+V
+Q Q(# 
+twikit.trend.Location"
+url"__id*"
+
+__unknown_file (
+
+%8*
+3*J
+3
+
+trend.py'%
+S S(
+%1"twikit.trend.Location"
+S S(
+
+%1:
+H H(%
+client:
+H' H(1
+dataB
+twikit.trend.LocationH

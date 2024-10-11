@@ -1,0 +1,3 @@
+pip._internal.models.link.Link.url_without_fragment
+d9e374a919d83ca1a98f06ff514f84e7
+urllib.parse.urlunsplit

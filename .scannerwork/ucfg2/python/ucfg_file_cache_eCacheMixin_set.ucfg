@@ -1,0 +1,45 @@
+
+>pip._vendor.cachecontrol.caches.file_cache._FileCacheMixin.setw
+m/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/file_cache.pyr r("2*µ
+2u u(™–
+u u(
+%1*Z
+
+__unknown_file (><
+:pip._vendor.cachecontrol.caches.file_cache._FileCacheMixin*#
+
+__unknown_file (
+
+key2_fn>
+<
+u u(
+name"__id*"
+
+__unknown_file (
+
+%1ÄÁ
+v v( 
+%2*Z
+
+__unknown_file (><
+:pip._vendor.cachecontrol.caches.file_cache._FileCacheMixin*$
+
+__unknown_file (
+
+name*%
+
+__unknown_file (	
+
+value2_write*
+3*3
+3
+file_cache.py"
+x x(
+implicit return:
+s s(
+key:
+s s($
+value:
+s& s(K	
+expiresB><
+:pip._vendor.cachecontrol.caches.file_cache._FileCacheMixinH

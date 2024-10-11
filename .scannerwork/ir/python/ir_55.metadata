@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_entities_in_strings_converted_during_parsing
+64e79b25e0a63e03d8e4c665f2499692
+==
+assert_soup

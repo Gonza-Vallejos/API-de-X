@@ -1,0 +1,7 @@
+pip._vendor.rich.text.Text.highlight_regex
+adbcd5a4a5a8871b53c7d157e3c29fb8
+callable
+re.finditer
+==
+keys
+groupdict

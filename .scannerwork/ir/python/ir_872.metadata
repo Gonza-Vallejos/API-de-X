@@ -1,0 +1,4 @@
+anyio._backends._trio.CapacityLimiter.acquire_nowait
+1b220b4692ff55787057782b70dec0e0
+==
+acquire_nowait

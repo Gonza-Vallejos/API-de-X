@@ -1,0 +1,6 @@
+pip._vendor.rich.syntax.Syntax._process_code
+eb4a7042c317d5e10978a09cc5e059ee
+textwrap.dedent
+==
+expandtabs
+endswith

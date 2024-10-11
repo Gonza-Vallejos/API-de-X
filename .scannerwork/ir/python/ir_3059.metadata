@@ -1,0 +1,15 @@
+pip._vendor.distlib.markers.default_context
+e311bcfd2a94595978bf6f21b4fc9c93
+platform.version
+pip._vendor.distlib.util.in_venv
+pip._vendor.distlib.markers.default_context.format_full_version
+platform.system
+platform.machine
+platform.release
+str.__init__
+hasattr
+platform.python_version
+platform.python_implementation
+==
+match
+group

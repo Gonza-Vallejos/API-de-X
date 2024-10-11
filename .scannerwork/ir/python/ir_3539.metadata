@@ -1,0 +1,10 @@
+pip._vendor.pygments.formatters.img.FontManager.__init__
+f0727a8daa2fdd7ff0dcb3ff9951407f
+os.path.isfile
+hasattr
+==
+startswith
+truetype
+_create_mac
+_create_nix
+_create_win

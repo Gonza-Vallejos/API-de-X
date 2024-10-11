@@ -1,0 +1,6 @@
+pip._vendor.rich.syntax.Syntax._apply_stylized_ranges
+62f8047443c0dc13e4d1b5b07b371e4a
+len
+pip._vendor.rich.syntax._get_code_index_for_syntax_position
+==
+stylize

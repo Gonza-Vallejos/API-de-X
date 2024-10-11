@@ -1,0 +1,11 @@
+pip._internal.resolution.legacy.resolver.Resolver._get_dist_for
+b2817488cc902ef2dc37434d7ec332a9
+==
+prepare_editable_requirement
+_check_skip_installed
+_populate_link
+_set_req_to_reinstall
+prepare_installed_requirement
+prepare_linked_requirement
+check_if_exists
+info

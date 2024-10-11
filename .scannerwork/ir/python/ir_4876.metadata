@@ -1,0 +1,11 @@
+/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/rich/tree.#__main__
+7b741120e944ef32eb13c24f8b388313
+pip._vendor.rich.panel.Panel.__init__
+pip._vendor.rich.syntax.Syntax.__init__
+pip._vendor.rich.panel.Panel.fit
+pip._vendor.rich.tree.Tree.__init__
+pip._vendor.rich.console.Console.__init__
+==
+add
+add_row
+add_column

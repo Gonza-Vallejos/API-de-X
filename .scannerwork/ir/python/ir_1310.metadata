@@ -1,0 +1,5 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.show_cursor
+43b3a2693c9f5344703b3d1725f07bc1
+pip._vendor.rich._win32_console.SetConsoleCursorInfo
+==
+_get_cursor_size

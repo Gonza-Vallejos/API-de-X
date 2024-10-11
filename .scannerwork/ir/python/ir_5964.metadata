@@ -1,0 +1,7 @@
+pip._vendor.rich.console.Console.update_screen
+2692671ec661f215b4068ec219b8c974
+==
+update_screen_lines
+NoAltScreen
+render_lines
+update_dimensions

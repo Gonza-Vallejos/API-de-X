@@ -1,0 +1,11 @@
+lxml.doctestcompare.LXMLOutputChecker.compare_docs
+0fee08d88a14c30b22201684276b88c0
+sorted
+len
+list.__init__
+==
+pop
+tag_compare
+keys
+compare_docs
+text_compare

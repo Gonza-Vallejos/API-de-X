@@ -1,0 +1,1 @@
+û 2pyX7hr?env/lib/python3.12/site-packages/pip/_vendor/distro/__init__.py

@@ -1,0 +1,6 @@
+pip._vendor.urllib3.connectionpool._normalize_host
+f7485d9ad6f15e3612496ecf5fb8fd5b
+pip._vendor.urllib3.util.url._normalize_host
+==
+startswith
+endswith

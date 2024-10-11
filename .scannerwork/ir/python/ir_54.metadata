@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_escaped_ampersand_in_attribute_value_is_left_alone
+3598942e6a980d1866891e0cc514953b
+==
+assert_soup

@@ -1,0 +1,8 @@
+pip._internal.utils.compat.get_path_uid
+531ea4f8e968781f713ae6ae14f521e3
+os.path.islink
+os.fstat
+os.stat
+os.open
+hasattr
+os.close

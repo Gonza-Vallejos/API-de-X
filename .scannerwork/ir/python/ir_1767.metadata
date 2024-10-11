@@ -1,0 +1,4 @@
+httpcore._sync.socks_proxy.Socks5Connection.__init__
+ac042b4bd747c6046313984dc99e7a74
+httpcore._backends.sync.SyncBackend.__init__
+httpcore._synchronization.Lock.__init__

@@ -1,0 +1,7 @@
+pip._vendor.distlib.manifest.Manifest._exclude_pattern
+47a068c0c482dc1aeebd6bcd21841e35
+list.__init__
+==
+search
+_translate_pattern
+remove

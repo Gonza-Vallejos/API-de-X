@@ -1,0 +1,4 @@
+httpcore._sync.http_proxy.HTTPProxy.create_connection
+872edb20fcc0d09661e3092350dd40c6
+httpcore._sync.http_proxy.ForwardHTTPConnection.__init__
+httpcore._sync.http_proxy.TunnelHTTPConnection.__init__

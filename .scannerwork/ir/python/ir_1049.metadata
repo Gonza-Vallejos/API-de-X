@@ -1,0 +1,7 @@
+pip._internal.cli.spinners.InteractiveSpinner.__init__
+df59e6b9cbffe6e55cb2bbe125ed5a84
+pip._internal.utils.logging.get_indentation
+pip._internal.cli.spinners.RateLimiter.__init__
+itertools.cycle.__init__
+==
+write

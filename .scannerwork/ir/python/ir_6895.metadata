@@ -1,0 +1,3 @@
+pip._internal.cli.cmdoptions._package_name_option_check
+130058952772da57c47280c38f7f72fc
+pip._vendor.packaging.utils.canonicalize_name

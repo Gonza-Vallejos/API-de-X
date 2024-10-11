@@ -1,0 +1,10 @@
+pip._internal.network.download._prepare_download
+430b262d58c86413570558446eacb0c2
+pip._internal.utils.misc.redact_auth_from_url
+pip._internal.network.download._get_http_response_size
+pip._internal.cli.progress_bars.get_download_progress_renderer
+pip._internal.network.utils.response_chunks
+pip._internal.network.cache.is_from_cache
+==
+getEffectiveLevel
+info

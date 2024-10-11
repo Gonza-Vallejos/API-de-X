@@ -1,0 +1,6 @@
+h11.tests.test_state.test_ConnectionState_switch_denied
+fc0475d8e95c82775bd11fb5b768f65e
+h11._state.ConnectionState.__init__
+==
+process_client_switch_proposal
+process_event

@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_replace_first_child
+cb0d1897e96d1aabbb65ab16bb840714
+==
+soup
+replace_with

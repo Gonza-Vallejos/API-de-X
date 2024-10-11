@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_nested_inline_elements
+419ab28f8424c78cbbe5c8d270c06aef
+==
+assert_soup

@@ -1,0 +1,23 @@
+
+Zbs4.tests.HTMLTreeBuilderSmokeTest.test_single_quote_attribute_values_become_double_quotesa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyÅ Å(?"2*Ì
+2
+Ç É(7÷”
+
+Ç É(7
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*6
+
+__unknown_file (
+<foo attr='bar'></foo>*6
+
+__unknown_file (
+<foo attr="bar"></foo>2assert_soup*
+3*3
+3
+__init__.py"
+Ö Ö(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

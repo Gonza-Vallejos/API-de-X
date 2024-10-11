@@ -1,0 +1,8 @@
+pip._vendor.requests.cookies._copy_cookie_jar
+dc15aa2d8fc09be3cba6c57cbf7c0b12
+copy.copy
+hasattr
+==
+set_cookie
+clear
+copy

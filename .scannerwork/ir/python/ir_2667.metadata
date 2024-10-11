@@ -1,0 +1,4 @@
+pip._vendor.typing_extensions._ProtocolMeta.__init__
+945afaf9411a282fe61f19d2b9d1ca14
+getattr
+pip._vendor.typing_extensions._get_protocol_attrs

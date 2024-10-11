@@ -1,0 +1,7 @@
+pip._internal.index.collector._ensure_api_header
+5789acc3a6cd81b5882d160e1349eb2a
+pip._internal.index.collector._NotAPIContent.__init__
+==
+startswith
+get
+lower

@@ -1,0 +1,63 @@
+
+Abs4.tests.test_html5lib.TestHTML5LibBuilder.test_foster_parentingd
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_html5lib.py} }("2*ê
+2~ ~(,R
+P
+~ ~(,
+markup"__id*4
+
+__unknown_file (
+<table><td></tbody>Aéã
+ ( 
+%1*K
+
+__unknown_file (/-
++bs4.tests.test_html5lib.TestHTML5LibBuilder*&
+
+__unknown_file (
+
+
+markup2soup>
+<
+ ( 
+soup"__id*"
+
+__unknown_file (
+
+%1J
+H
+
+ÄS Ä(\
+%2"__id*.
+
+__unknown_file (*
+
+soup"
+body@>
+
+ÄS Ä(e
+%3*"
+
+__unknown_file (
+
+%22decode»
+≈
+
+Ä Ä(e
+%4"	__compare*"
+
+__unknown_file (
+==*^
+
+__unknown_file (B@
+><body>A<table><tbody><tr><td></td></tr></tbody></table></body>*"
+
+__unknown_file (
+
+%3*
+3*8
+3
+test_html5lib.py"
+Ç Ç(
+implicit returnB/-
++bs4.tests.test_html5lib.TestHTML5LibBuilderH

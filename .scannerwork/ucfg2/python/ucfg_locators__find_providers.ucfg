@@ -1,0 +1,153 @@
+
+<pip._vendor.distlib.locators.DependencyFinder.find_providersk
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/locators.pyë ë("2*˜
+2
+ì ò(—”
+
+ó ó((
+%3*M
+
+__unknown_file (1/
+-pip._vendor.distlib.locators.DependencyFinder*$
+
+__unknown_file (
+
+reqt2get_matcherC
+A
+
+ó ó((	
+matcher"__id*"
+
+__unknown_file (
+
+%3L
+J
+
+ô ô(
+%4"__id*0
+
+__unknown_file (*
+	
+matcher"
+key@
+>
+
+ô ô(
+name"__id*"
+
+__unknown_file (
+
+%4
+
+õ õ(
+%5"setB
+@
+
+õ õ(
+result"__id*"
+
+__unknown_file (
+
+%5w
+u
+
+ö ö( 
+%6"__id*[
+
+__unknown_file (?*=/
+-pip._vendor.distlib.locators.DependencyFinder"
+
+providedD
+B
+
+ö ö( 
+
+provided"__id*"
+
+__unknown_file (
+
+%6rp
+
+÷ ÷(
+%7*(
+
+__unknown_file (
+
+
+provided*$
+
+__unknown_file (
+
+name2__contains__*
+4
+6*3
+3
+locators.py"
+ƒ	 ƒ	(
+implicit return*)
+4
+	 	("
+
+	 	(
+
+
+result*Ò
+6
+ú ú(2mk
+
+ú ú(2
+%2*'
+
+__unknown_file (
+	
+matcher*'
+
+__unknown_file (
+	
+version2matchA
+?
+
+ú ú(2
+match"__id*"
+
+__unknown_file (
+
+%2*
+3
+4
+6
+7
+9*Š
+7
+ÿ ÿ((tr
+
+ÿ ÿ((
+%1"set.add*&
+
+__unknown_file (
+
+
+result*(
+
+__unknown_file (
+
+
+provider2add*
+4*`
+9
+ü ü(!D
+B
+
+ü ü(!
+match"__id*%
+
+__unknown_file (	
+
+False*	
+4
+6
+7:
+
+ë ë(!
+reqtB1/
+-pip._vendor.distlib.locators.DependencyFinderH

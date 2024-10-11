@@ -1,0 +1,64 @@
+
+gql.GQLClient.favorite_tweet`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyÙ Ù("2*†
+2
+ı ı(*
+
+ı ı(*
+%1"dictó
+î
+
+ı ı()
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*(
+
+__unknown_file (
+
+tweet_id*(
+
+__unknown_file (
+
+
+tweet_idE
+C
+
+ı ı(*
+	variables"__id*"
+
+__unknown_file (
+
+%1\
+Z
+
+ˆ# ˆ(:
+%3"__id*@
+
+__unknown_file ($*"
+gql.Endpoint"
+FAVORITE_TWEETùö
+
+ˆ ˆ(F
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+ˆ ˆ(F
+
+%4:
+
+Ù# Ù(+
+
+tweet_idB
+gql.GQLClientH

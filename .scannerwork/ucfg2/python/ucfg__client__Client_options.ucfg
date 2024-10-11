@@ -1,0 +1,86 @@
+
+httpx._client.Client.options\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.py¶ ¶("2*Æ
+2
+Â Æ(ž›
+
+Ç Ñ(	
+%1*4
+
+__unknown_file (
+httpx._client.Client*'
+
+__unknown_file (	
+OPTIONS*#
+
+__unknown_file (
+
+url2request:0
+params&
+
+__unknown_file (
+
+
+params:2
+headers'
+
+__unknown_file (
+	
+headers:2
+cookies'
+
+__unknown_file (
+	
+cookies:,
+auth$
+
+__unknown_file (
+
+auth:D
+follow_redirects0
+
+__unknown_file (
+
+follow_redirects:2
+timeout'
+
+__unknown_file (
+	
+timeout:8
+
+extensions*
+
+__unknown_file (
+
+
+extensions"
+
+Ç Ñ(	
+
+%1:
+
+¸ ¸(
+url:
+
+º º(-
+params:
+
+» »(*	
+headers:
+
+¼ ¼(*	
+cookies:
+
+½ ½(?
+auth: 
+
+¾ ¾(F
+follow_redirects:
+
+¿ ¿(E	
+timeout:
+
+À À(3
+
+extensionsB
+httpx._client.ClientH

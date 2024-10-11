@@ -1,0 +1,11 @@
+h11.tests.test_connection.test_automatic_transfer_encoding_in_response
+b470583c94a95d9eab7a80670c7407c2
+h11._events.EndOfMessage.__init__
+h11._events.Request.__init__
+h11._events.Response.__init__
+h11.tests.helpers.ConnectionPair.__init__
+h11.tests.helpers.receive_and_get
+h11._connection.Connection.__init__
+typing.cast
+==
+send

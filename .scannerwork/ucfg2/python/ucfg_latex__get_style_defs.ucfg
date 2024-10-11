@@ -1,0 +1,169 @@
+
+Cpip._vendor.pygments.formatters.latex.LatexFormatter.get_style_defst
+h/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/latex.pyÁ Á("2*ƒ
+2
+Â Å(„
+
+
+Æ Æ(
+%9"__id*g
+
+__unknown_file (K*I6
+4pip._vendor.pygments.formatters.latex.LatexFormatter"
+commandprefix>
+<
+
+Æ Æ(
+cp"__id*"
+
+__unknown_file (
+
+%9
+
+Ç Ç(
+%10"listC
+A
+
+Ç Ç(
+styles"__id*#
+
+__unknown_file (
+
+%10~
+|
+
+È  È(,
+%11"__id*a
+
+__unknown_file (E*C6
+4pip._vendor.pygments.formatters.latex.LatexFormatter"	
+cmd2defA?
+
+È  È(4
+%12*#
+
+__unknown_file (
+
+%112items*
+4
+6*²
+4
+Ê Ë(=
+
+Ê  Ë(=
+%1"dict„
+
+
+Ê' Ê(9
+%2"__id*g
+
+__unknown_file (K*I6
+4pip._vendor.pygments.formatters.latex.LatexFormatter"
+commandprefix‹
+ˆ
+
+Ê! Ê(9
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+cp*"
+
+__unknown_file (
+
+%2pn
+
+Ë+ Ë(<
+%4"str.join*"
+
+__unknown_file (
+\n*&
+
+__unknown_file (
+
+
+styles2join
+Œ
+
+Ë! Ë(<
+%5"__mapSet*"
+
+__unknown_file (
+
+%1*&
+
+__unknown_file (
+
+styles*"
+
+__unknown_file (
+
+%4V
+T
+
+Ê Ë(=
+%6"__concat* 
+
+Ê Ê(
+
+STYLE_TEMPLATE*
+
+Ê  Ë(=
+
+%1"
+
+Ê Ë(=
+
+%6*â
+6
+É É(KÑ
+Î
+
+É É(J
+%7"__concat*
+
+É É((
+\@namedef{{*
+
+É) É(+
+
+cp*
+
+É, É(1	
+@tok@*
+
+É2 É(6
+
+name*
+
+É7 É(;
+}}{{*
+
+É< É(F
+
+
+definition*
+
+ÉG É(I
+}}us
+
+É É(K
+%8"list.append*&
+
+__unknown_file (
+
+
+styles*"
+
+__unknown_file (
+
+%72append*
+4
+6:
+
+Á Á(#
+argB86
+4pip._vendor.pygments.formatters.latex.LatexFormatterH

@@ -1,0 +1,8 @@
+pip._vendor.packaging._parser._parse_requirement_marker
+3c219d6dbcedb6fcc1845b7a5f8b54ac
+pip._vendor.packaging._parser._parse_marker
+==
+raise_syntax_error
+read
+consume
+check

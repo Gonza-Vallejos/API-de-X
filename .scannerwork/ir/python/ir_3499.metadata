@@ -1,0 +1,5 @@
+pip._vendor.urllib3.connectionpool.HTTPConnectionPool._get_timeout
+81f8df7ba23fa4789259df20d69502ee
+pip._vendor.urllib3.util.timeout.Timeout.from_float
+==
+clone

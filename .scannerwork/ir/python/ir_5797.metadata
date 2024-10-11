@@ -1,0 +1,6 @@
+pip._vendor.requests.structures.CaseInsensitiveDict.__repr__
+f2f9542aaea41052079ccde3c7f7fd6f
+dict.__init__
+str.__init__
+==
+items

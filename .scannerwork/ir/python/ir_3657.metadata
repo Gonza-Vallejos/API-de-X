@@ -1,0 +1,5 @@
+pip._internal.configuration.Configuration.load
+f0c1120cb19425f5f7dc2cb3e409ceeb
+==
+_load_environment_vars
+_load_config_files

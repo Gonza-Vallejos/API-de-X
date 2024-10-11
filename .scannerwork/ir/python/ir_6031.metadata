@@ -1,0 +1,5 @@
+pip._internal.commands.cache.CacheCommand.add_options
+d6574642b3a6374afc2e8061da01e740
+==
+insert_option_group
+add_option

@@ -1,0 +1,57 @@
+
+v11.V11Client.followers_list`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.py‘ ‘("2*¡
+2
+’ ’(d\
+Z
+
+’D ’([
+%1"__id*@
+
+__unknown_file ($*"
+v11.Endpoint"
+FOLLOWERS_LIST›˜
+
+’ ’(d
+%2*-
+
+__unknown_file (
+v11.V11Client*'
+
+__unknown_file (
+	
+user_id*+
+
+__unknown_file (
+
+screen_name*%
+
+__unknown_file (	
+
+count*"
+
+__unknown_file (
+
+%1*&
+
+__unknown_file (
+
+
+cursor2_friendships"
+
+’ ’(d
+
+%2:
+
+‘# ‘(*	
+user_id:
+
+‘, ‘(7
+screen_name:
+
+‘9 ‘(>
+count:
+
+‘@ ‘(F
+cursorB
+v11.V11ClientH

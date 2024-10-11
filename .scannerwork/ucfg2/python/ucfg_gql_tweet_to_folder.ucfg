@@ -1,0 +1,82 @@
+
+&gql.GQLClient.bookmark_tweet_to_folder`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyà à(&"2*Õ
+2
+â å(	
+
+â å(	
+%1"dictó
+î
+
+ä ä( 
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*(
+
+__unknown_file (
+
+tweet_id*(
+
+__unknown_file (
+
+
+tweet_id¶
+£
+
+ã ã(/
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*6
+
+__unknown_file (
+bookmark_collection_id*)
+
+__unknown_file (
+
+	folder_idE
+C
+
+â å(	
+	variables"__id*"
+
+__unknown_file (
+
+%1`
+^
+
+ç# ç(>
+%4"__id*D
+
+__unknown_file ((*&
+gql.Endpoint"
+BOOKMARK_TO_FOLDERùö
+
+ç ç(J
+%5*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%4*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+ç ç(J
+
+%5:
+
+à- à(5
+
+tweet_id:
+
+à7 à(@
+	folder_idB
+gql.GQLClientH

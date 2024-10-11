@@ -1,0 +1,2 @@
+pip._vendor.requests.sessions.Session.patch
+8baede6580ea1aead8102c92b6fe6de7

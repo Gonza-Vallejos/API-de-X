@@ -1,0 +1,5 @@
+pip._internal.operations.install.wheel._raise_for_invalid_entrypoint
+a1264bec8ecf9eb1cc7b770ff4955109
+pip._internal.operations.install.wheel.MissingCallableSuffix.__init__
+str.__init__
+pip._vendor.distlib.util.get_export_entry

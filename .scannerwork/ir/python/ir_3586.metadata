@@ -1,0 +1,5 @@
+pip._internal.commands.completion.CompletionCommand.add_options
+fabddea26216a6ac2acc57125ba43c57
+==
+insert_option_group
+add_option

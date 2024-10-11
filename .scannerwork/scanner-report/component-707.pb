@@ -1,0 +1,1 @@
+Ã 2pyXrhr<env/lib/python3.12/site-packages/bs4/tests/test_formatter.py

@@ -1,0 +1,10 @@
+pip._internal.req.req_uninstall.StashedUninstallPathSet.stash
+af562991108e265cd445b321242a7624
+os.path.islink
+os.path.isdir
+pip._internal.utils.misc.renames
+os.rmdir
+==
+_get_file_stash
+append
+_get_directory_stash

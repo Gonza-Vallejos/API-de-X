@@ -1,0 +1,3 @@
+httpx._utils.Timer.sync_elapsed
+2bd5114e65f11b536f40e78df7ba3dde
+time.perf_counter

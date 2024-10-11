@@ -1,0 +1,7 @@
+anyio._backends._trio.UNIXSocketListener.__init__
+0b0bb02a2ae3b1e54bdfa240b24ac26b
+super
+anyio._core._synchronization.ResourceGuard.__init__
+==
+from_stdlib_socket
+__init__

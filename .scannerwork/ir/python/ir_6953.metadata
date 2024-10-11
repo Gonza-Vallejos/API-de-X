@@ -1,0 +1,3 @@
+httpx._models.Response.is_client_error
+11b566762439fbbe98dbb845f45f17bd
+httpx._status_codes.codes.is_client_error

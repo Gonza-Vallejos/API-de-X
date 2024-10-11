@@ -1,0 +1,5 @@
+pip._vendor.pygments.formatters.html.HtmlFormatter.get_token_style_defs
+72cdc9f3a20d99804cae2c14504e9e97
+==
+sort
+get_css_prefix

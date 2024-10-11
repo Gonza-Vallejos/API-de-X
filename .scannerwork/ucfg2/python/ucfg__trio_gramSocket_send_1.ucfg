@@ -1,0 +1,60 @@
+
+6anyio._backends._trio.ConnectedUNIXDatagramSocket.sendd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.pyï ï("2*—
+2
+ð ð(~
+|
+
+ð ð(
+%4"__id*b
+
+__unknown_file (F*D3
+1anyio._backends._trio.ConnectedUNIXDatagramSocket"
+_send_guard*
+3
+6*.
+3
+
+_trio.py"
+ü ü
+implicit return*»
+4
+ô ô(/¤¡
+
+ô ô(/
+%1*Q
+
+__unknown_file (53
+1anyio._backends._trio.ConnectedUNIXDatagramSocket*#
+
+__unknown_file (
+
+exc2_convert_socket_error*
+3*þ
+6
+ò ò(2
+}
+
+ò ò('
+%2"__id*c
+
+__unknown_file (G*E3
+1anyio._backends._trio.ConnectedUNIXDatagramSocket"
+_trio_socketdb
+
+ò ò(2
+%3*"
+
+__unknown_file (
+
+%2*$
+
+__unknown_file (
+
+item2send*
+3
+4:
+
+ï ï($
+itemB53
+1anyio._backends._trio.ConnectedUNIXDatagramSocketH

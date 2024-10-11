@@ -1,0 +1,5 @@
+pip._internal.commands.hash.HashCommand.run
+46d7f5b9589eae69d80fa215d917956b
+pip._internal.commands.hash._hash_of_file
+==
+print_usage

@@ -1,0 +1,2 @@
+httpcore._backends.trio.TrioStream._get_socket_stream
+4f93c9bf9de09807cd14a2fa884d7eca

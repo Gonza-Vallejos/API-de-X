@@ -1,0 +1,6 @@
+bs4.tests.test_lxml.TestLXMLXMLTreeBuilder.test_pickle_restores_builder
+6c1d20d18b863b56e7005f630e2feb12
+pickle.loads
+pickle.dumps
+==
+soup

@@ -1,0 +1,4 @@
+anyio._backends._asyncio.UNIXSocketListener.__init__
+d98574419e491c4be13dab17e249a0d9
+anyio._core._synchronization.ResourceGuard.__init__
+asyncio.events.get_running_loop

@@ -1,0 +1,16 @@
+pip._vendor.cachecontrol.adapter.CacheControlAdapter.build_response
+c432fc62f6181a2c003f867438079ae7
+pip._vendor.cachecontrol.filewrapper.CallbackFileWrapper.__init__
+super
+functools.partial.__init__
+types.MethodType.__init__
+int.__init__
+==
+read
+cache_url
+apply
+cache_response
+release_conn
+update_cached_response
+delete
+build_response

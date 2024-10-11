@@ -1,0 +1,4 @@
+pip._vendor.packaging.markers._normalize_extra_values
+75f75a6b19cd5aed737e8ce58614f725
+pip._vendor.packaging._parser.Value.__init__
+pip._vendor.packaging.utils.canonicalize_name

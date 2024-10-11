@@ -1,0 +1,14 @@
+h11._connection.Connection._process_event
+ec2ddd2ce69279633bade6c5a113c04b
+type.__init__
+dict.__init__
+h11._connection._keep_alive
+h11._headers.get_comma_header
+typing.cast
+h11._headers.has_expect_100_continue
+==
+process_client_switch_proposal
+_server_switch_event
+_respond_to_state_changes
+process_keep_alive_disabled
+process_event

@@ -1,0 +1,183 @@
+
+httpx._client.Client.stream\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.pyÈ È("1*Î
+2
+Ù â(€ý
+
+ã ï(	
+%3*4
+
+__unknown_file (
+httpx._client.Client2build_request:0
+method&
+
+__unknown_file (
+
+
+method:*
+url#
+
+__unknown_file (
+
+url:2
+content'
+
+__unknown_file (
+	
+content:,
+data$
+
+__unknown_file (
+
+data:.
+files%
+
+__unknown_file (	
+
+files:,
+json$
+
+__unknown_file (
+
+json:0
+params&
+
+__unknown_file (
+
+
+params:2
+headers'
+
+__unknown_file (
+	
+headers:2
+cookies'
+
+__unknown_file (
+	
+cookies:2
+timeout'
+
+__unknown_file (
+	
+timeout:8
+
+extensions*
+
+__unknown_file (
+
+
+extensionsC
+A
+
+ã ï(		
+request"__id*"
+
+__unknown_file (
+
+%3©¦
+
+ð õ(	
+%4*4
+
+__unknown_file (
+httpx._client.Client2send:2
+request'
+
+__unknown_file (
+	
+request:,
+auth$
+
+__unknown_file (
+
+auth:D
+follow_redirects0
+
+__unknown_file (
+
+follow_redirects:.
+stream$
+
+__unknown_file (
+
+TrueD
+B
+
+ð õ(	
+
+response"__id*"
+
+__unknown_file (
+
+%4*
+4*2
+3
+
+_client.py"
+û û(
+implicit return*y
+4
+ù ù(ca
+
+ù ù(
+%2"httpx._models.Response.close*(
+
+__unknown_file (
+
+
+response2close*
+3*a
+1
+× ×(3K
+I
+
+Ð Ð(
+%1"__id*/
+
+__unknown_file (*
+
+typing"
+Any*
+2:
+
+Ê Ê(
+method:
+
+Ë Ë(
+url:
+
+Í Í(-	
+content:
+
+Î Î('
+data:
+
+Ï Ï()
+files:
+
+Ð Ð(&
+json:
+
+Ñ Ñ(-
+params:
+
+Ò Ò(*	
+headers:
+
+Ó Ó(*	
+cookies:
+
+Ô Ô(F
+auth: 
+
+Õ Õ(F
+follow_redirects:
+
+Ö Ö(E	
+timeout:
+
+× ×(3
+
+extensionsB
+httpx._client.ClientH

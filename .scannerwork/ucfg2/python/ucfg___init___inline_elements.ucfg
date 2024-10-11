@@ -1,0 +1,62 @@
+
+>bs4.tests.HTMLTreeBuilderSmokeTest.test_nested_inline_elementsa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py∏ ∏(#"2*è
+2
+π π(9T
+R
+
+∫ ∫('
+b_tag"__id*5
+
+__unknown_file (
+<b>Inside a B tag</b>çä
+
+ª ª(
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*%
+
+__unknown_file (	
+
+b_tag2assert_soupg
+e
+
+Ω Ω(:
+nested_b_tag"__id*A
+
+__unknown_file (%#
+!<p>A <i>nested <b>tag</b></i></p>îë
+
+æ æ(&
+%2*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*,
+
+__unknown_file (
+
+nested_b_tag2assert_soup|
+z
+
+¿ ¿(O
+double_nested_b_tag"__id*O
+
+__unknown_file (31
+/<p>A <a>doubly <i>nested <b>tag</b></i></a></p>îë
+
+¡ ¡(&
+%3*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*,
+
+__unknown_file (
+
+nested_b_tag2assert_soup*
+3*3
+3
+__init__.py"
+√ √(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

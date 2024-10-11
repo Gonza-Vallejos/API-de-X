@@ -1,0 +1,111 @@
+
+)gql.GQLClient.list_latest_tweets_timeline`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py¶ ¶()"2*¥
+2
+· ·(7
+
+· ·(7
+%4"dict”
+‘
+
+· ·(&
+%5"__mapSet*"
+
+__unknown_file (
+
+%4*&
+
+__unknown_file (
+
+listId*'
+
+__unknown_file (
+	
+list_id‘
+Ž
+
+·( ·(6
+%6"__mapSet*"
+
+__unknown_file (
+
+%4*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+countE
+C
+
+· ·(7
+	variables"__id*"
+
+__unknown_file (
+
+%4*
+4
+5*Ù
+4
+º º(\i
+g
+
+º" º(F
+%1"__id*M
+
+__unknown_file (1*/
+gql.Endpoint"
+LIST_LATEST_TWEETS_TIMELINEÆÃ
+
+º º(\
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*(
+
+__unknown_file (
+
+
+FEATURES2gql_get"
+
+º º(\
+
+%2*Æ
+5
+¹ ¹((¯¬
+
+¹ ¹((
+%3"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+¶0 ¶(7	
+list_id:
+
+¶9 ¶(>
+count:
+
+¶@ ¶(F
+cursorB
+gql.GQLClientH

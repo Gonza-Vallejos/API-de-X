@@ -1,0 +1,5 @@
+httpx._models.Cookies.set_cookie_header
+462a3779d177b77c2ea71ffb203284d1
+httpx._models.Cookies._CookieCompatRequest.__init__
+==
+add_cookie_header

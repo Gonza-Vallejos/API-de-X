@@ -1,0 +1,8 @@
+pip._vendor.distlib.metadata.Metadata.add_requirements
+43884ff3496d4c7c261b272dfaae894b
+sorted
+set.__init__
+==
+add_requirements
+setdefault
+insert

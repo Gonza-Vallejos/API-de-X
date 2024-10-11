@@ -1,0 +1,2 @@
+bs4.tests.test_soup.TestNewTag.test_tag_inherits_self_closing_rules_from_builder
+383fecfe5f91db6021b04e7f18539d34

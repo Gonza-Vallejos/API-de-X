@@ -1,0 +1,5 @@
+pip._vendor.msgpack.fallback.Unpacker.read_bytes
+824b479540cb0e1875b0fc2719696e35
+==
+_read
+_consume

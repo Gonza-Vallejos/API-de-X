@@ -1,0 +1,1 @@
+Ë 2pyXùhrCenv/lib/python3.12/site-packages/pip/_vendor/urllib3/poolmanager.py

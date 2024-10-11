@@ -1,0 +1,7 @@
+pip._vendor.distlib.locators.Locator.score_url
+2124fd0ef2bfddfcd32525e340232994
+posixpath.basename
+pip._vendor.distlib.wheel.Wheel.__init__
+pip._vendor.distlib.wheel.is_compatible
+==
+endswith

@@ -1,0 +1,4 @@
+pip._vendor.urllib3.contrib.securetransport.SecureTransportContext.load_default_certs
+75ad36e8de46052688e5330f68a911ca
+==
+set_default_verify_paths

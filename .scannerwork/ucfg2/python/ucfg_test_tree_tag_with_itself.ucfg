@@ -1,0 +1,105 @@
+
+Ebs4.tests.test_tree.TestTreeModification.test_replace_tag_with_itselfb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyá á($"2*ˆ
+2
+à à(>k
+i
+
+à à(>
+text"__id*M
+
+__unknown_file (1/
+-<a><b></b><c>Foo<d></d></c></a><a><e></e></a>ãà
+
+â â(
+%1*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*$
+
+__unknown_file (
+
+text2soup@
+>
+
+â â(
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+ä ä(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+c=
+;
+
+ä ä(
+c"__id*"
+
+__unknown_file (
+
+%2G
+E
+
+ã ã(
+%3"__id*+
+
+__unknown_file (*
+
+soup"
+cig
+
+ã ã(
+%4*"
+
+__unknown_file (
+
+%3*!
+
+__unknown_file (
+
+c2replace_withB@
+
+å å(
+%5*$
+
+__unknown_file (
+
+soup2decodeìê
+
+å  å(7
+%6*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*$
+
+__unknown_file (
+
+text2document_forå
+â
+
+å å(7
+%7"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5*"
+
+__unknown_file (
+
+%6*
+3*4
+3
+test_tree.py"
+é é(
+implicit returnB,*
+(bs4.tests.test_tree.TestTreeModificationH

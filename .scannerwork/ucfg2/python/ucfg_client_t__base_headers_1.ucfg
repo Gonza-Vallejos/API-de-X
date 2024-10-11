@@ -1,0 +1,271 @@
+
+client.Client._base_headersc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyã ã("2*°
+2
+ä æ(
+
+ç î(	
+%10"dictV
+T
+
+è' è(2
+%11"__id*9
+
+__unknown_file (*
+client.Client"
+_tokenQ
+O
+
+è è(4
+%12"__concat*
+
+è è(&	
+Bearer *
+
+è' è(2
+
+%11™
+–
+
+è è(4
+%13"__mapSet*#
+
+__unknown_file (
+
+%10*-
+
+__unknown_file (
+authorization*#
+
+__unknown_file (
+
+%12¥
+¢
+
+é é(.
+%14"__mapSet*#
+
+__unknown_file (
+
+%10*,
+
+__unknown_file (
+content-type*0
+
+__unknown_file (
+application/json©
+¦
+
+ê ê(2
+%15"__mapSet*#
+
+__unknown_file (
+
+%10*3
+
+__unknown_file (
+X-Twitter-Auth-Type*-
+
+__unknown_file (
+OAuth2Session¡
+ž
+
+ë ë(*
+%16"__mapSet*#
+
+__unknown_file (
+
+%10*5
+
+__unknown_file (
+X-Twitter-Active-User*#
+
+__unknown_file (
+yes¤
+¡
+
+ì ì(-
+%17"__mapSet*#
+
+__unknown_file (
+
+%10*'
+
+__unknown_file (	
+Referer*4
+
+__unknown_file (
+https://twitter.com/[
+Y
+
+í í(*
+%18"__id*>
+
+__unknown_file ("* 
+client.Client"
+_user_agent–
+“
+
+í í(*
+%19"__mapSet*#
+
+__unknown_file (
+
+%10**
+
+__unknown_file (
+
+User-Agent*#
+
+__unknown_file (
+
+%18D
+B
+
+ç î(		
+headers"__id*#
+
+__unknown_file (
+
+%10X
+V
+
+ð ð(
+%20"__id*;
+
+__unknown_file (*
+client.Client"
+
+language*
+8
+9**
+4
+ù ù("
+
+ù ù(
+	
+headers*¢
+5
+ø ø(6V
+T
+
+ø* ø(6
+%1"__id*:
+
+__unknown_file (*
+client.Client"	
+_act_as³°
+
+ø ø(6
+%2"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*0
+
+__unknown_file (
+X-Act-As-User-Id*"
+
+__unknown_file (
+
+%12__setitem__*
+4*o
+6
+÷ ÷(#V
+T
+
+÷ ÷(
+%3"__id*:
+
+__unknown_file (*
+client.Client"	
+_act_as*
+4
+5*Î
+7
+ö ö(0·´
+
+ö ö(0
+%4"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*,
+
+__unknown_file (
+X-Csrf-Token**
+
+__unknown_file (
+
+
+csrf_token2__setitem__*
+6*µ
+8
+ô ô(+TR
+
+ô ô(+
+%5*-
+
+__unknown_file (
+client.Client2_get_csrf_tokenF
+D
+
+ô ô(+
+
+csrf_token"__id*"
+
+__unknown_file (
+
+%5*
+6
+7*º
+9
+ñ ñ(6W
+U
+
+ñ) ñ(6
+%6"__id*;
+
+__unknown_file (*
+client.Client"
+
+language²¯
+
+ñ ñ(6
+%7"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*/
+
+__unknown_file (
+Accept-Language*"
+
+__unknown_file (
+
+%62__setitem__W
+U
+
+ò3 ò(@
+%8"__id*;
+
+__unknown_file (*
+client.Client"
+
+language¼¹
+
+ò ò(@
+%9"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*9
+
+__unknown_file (
+X-Twitter-Client-Language*"
+
+__unknown_file (
+
+%82__setitem__*
+8B
+client.ClientH

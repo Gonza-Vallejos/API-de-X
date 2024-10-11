@@ -1,0 +1,95 @@
+
+Xbs4.tests.test_tree.TestTreeModification.test_string_set_does_not_affect_original_stringb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyð	 ð	(7"2*Ô
+2
+ñ	 ñ	(3ž›
+
+ñ	 ñ	(3
+%1*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*7
+
+__unknown_file (
+<a><b>foo</b><c>bar</c>2soup@
+>
+
+ñ	 ñ	(3
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+ò	 ò	(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+cJ
+H
+
+ò	 ò	(%
+%3"__id*.
+
+__unknown_file (*
+
+%2"
+stringG
+E
+
+ò	 ò	(
+%4"__id*+
+
+__unknown_file (*
+
+soup"
+bJ
+H
+
+ò	 ò	(%
+
+%4"
+string"__id*"
+
+__unknown_file (
+
+%3G
+E
+
+ó	 ó	(
+%5"__id*+
+
+__unknown_file (*
+
+soup"
+a@>
+
+ó	 ó	(
+%6*"
+
+__unknown_file (
+
+%52encode¥
+¢
+
+ó	 ó	(@
+%7"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%6*;
+
+__unknown_file (
+<a><b>bar</b><c>bar</c></a>*
+3*4
+3
+test_tree.py"
+õ	 õ	(
+implicit returnB,*
+(bs4.tests.test_tree.TestTreeModificationH

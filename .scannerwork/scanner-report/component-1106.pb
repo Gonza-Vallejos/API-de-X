@@ -1,0 +1,1 @@
+Ò 2pyXÐhrAenv/lib/python3.12/site-packages/pip/_vendor/requests/adapters.py

@@ -1,0 +1,80 @@
+
+/httpcore._backends.auto.AutoBackend.connect_tcpd
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_backends/auto.py ("1*¿
+2 ("fd
+ ("
+%3*C
+
+__unknown_file ('%
+#httpcore._backends.auto.AutoBackend2_init_backendk
+i
+ ("
+%4"__id*Q
+
+__unknown_file (5*3%
+#httpcore._backends.auto.AutoBackend"
+
+_backendÆÃ
+ $(	
+%5*"
+
+__unknown_file (
+
+%4*$
+
+__unknown_file (
+
+host*$
+
+__unknown_file (
+
+port2connect_tcp:2
+timeout'
+
+__unknown_file (
+	
+timeout:>
+local_address-
+
+__unknown_file (
+
+local_address:@
+socket_options.
+
+__unknown_file (
+
+socket_options"
+ $(	
+
+%5*²
+1 (NN
+L
+ ('
+%1"__id*4
+
+__unknown_file (*
+
+typing"
+
+OptionalN
+L
+( (7
+%2"__id*4
+
+__unknown_file (*
+
+typing"
+
+Iterable*
+2:
+ (
+host:
+ (
+port:
+ ('	
+timeout:
+ (+
+local_address:
+ (N
+socket_optionsB'%
+#httpcore._backends.auto.AutoBackendH

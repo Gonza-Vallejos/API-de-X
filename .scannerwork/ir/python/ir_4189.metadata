@@ -1,0 +1,6 @@
+httpcore._ssl.default_ssl_context
+1bd5727ae5e50157dc694274c0cc1ffd
+ssl.create_default_context
+==
+where
+load_verify_locations

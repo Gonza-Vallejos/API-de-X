@@ -1,0 +1,6 @@
+pip._vendor.pkg_resources.WorkingSet.run_script
+2cb6bf6e2f3d6e7037ce511a4ac9f0b8
+sys._getframe
+==
+clear
+run_script

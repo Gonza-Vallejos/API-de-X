@@ -1,0 +1,5 @@
+pip._internal.utils.misc._transform_url
+2ad0cf761ce745072fcd2a6eba43a390
+urllib.parse.urlsplit
+urllib.parse.urlunsplit
+typing.cast

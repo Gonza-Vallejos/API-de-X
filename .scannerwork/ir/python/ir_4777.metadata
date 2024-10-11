@@ -1,0 +1,6 @@
+pip._internal.utils.deprecation._showwarning
+a6755a60c723a4ffda969478cd7606fc
+logging.getLogger
+issubclass
+==
+warning

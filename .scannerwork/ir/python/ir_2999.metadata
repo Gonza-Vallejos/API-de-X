@@ -1,0 +1,8 @@
+httpx._utils.get_environment_proxies
+bc86198994043c2dc3ac71df1a22cf93
+httpx._utils.is_ipv6_hostname
+urllib.request.getproxies
+httpx._utils.is_ipv4_hostname
+==
+get
+lower

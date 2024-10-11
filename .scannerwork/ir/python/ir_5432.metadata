@@ -1,0 +1,6 @@
+pip._internal.utils.urls.path_to_url
+c07fc8a9cf4de563b2814a54eb3b0ebd
+os.path.normpath
+urllib.request.pathname2url
+os.path.abspath
+urllib.parse.urljoin

@@ -1,0 +1,5 @@
+httpcore._async.http2.AsyncHTTP2Connection.__init__
+ec87669d764e0257fac4c8c0c6335c3d
+httpcore._synchronization.AsyncLock.__init__
+==
+H2Connection

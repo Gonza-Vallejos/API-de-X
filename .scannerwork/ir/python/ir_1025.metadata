@@ -1,0 +1,6 @@
+pip._internal.utils.virtualenv.virtualenv_no_global
+3c70d62accfb04c2cc8fb5ec425d3196
+pip._internal.utils.virtualenv._running_under_venv
+pip._internal.utils.virtualenv._running_under_legacy_virtualenv
+pip._internal.utils.virtualenv._no_global_under_venv
+pip._internal.utils.virtualenv._no_global_under_legacy_virtualenv

@@ -1,0 +1,67 @@
+
+Sbs4.tests.XMLTreeBuilderSmokeTest.test_can_parse_unicode_document_begining_with_boma
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py   (9"2*Ì
+2¡ ¡(†¶
+³
+¡ ¡(†
+markup"__id*“
+
+__unknown_file (wu
+s\N{BYTE ORDER MARK}<?xml version="1.0" encoding="euc-jp"><root>Sacr\N{LATIN SMALL LETTER E WITH ACUTE} bleu!</root>†ƒ
+
+¢ ¢( 
+%1*A
+
+__unknown_file (%#
+!bs4.tests.XMLTreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+¢ ¢( 
+soup"__id*"
+
+__unknown_file (
+
+%1J
+H
+
+£# £(,
+%2"__id*.
+
+__unknown_file (*
+
+soup"
+rootJ
+H
+
+£# £(3
+%3"__id*.
+
+__unknown_file (*
+
+%2"
+string˜
+•
+
+£ £(3
+%4"	__compare*"
+
+__unknown_file (
+==*.
+
+__unknown_file (
+Sacr\xe9 bleu!*"
+
+__unknown_file (
+
+%3*
+3*3
+3
+__init__.py"
+¥ ¥(
+implicit returnB%#
+!bs4.tests.XMLTreeBuilderSmokeTestH

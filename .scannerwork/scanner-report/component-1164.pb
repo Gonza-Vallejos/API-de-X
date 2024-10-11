@@ -1,0 +1,1 @@
+å	 2pyXêhrDenv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/timeout.py

@@ -1,0 +1,5 @@
+anyio._backends._asyncio.ConnectedUDPSocket.aclose
+a8e05ac4577c1f762cd545a3b5b3683c
+==
+is_closing
+close

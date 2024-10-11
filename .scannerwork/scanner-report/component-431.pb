@@ -1,0 +1,1 @@
+¯ 2xmlXLhrPenv/lib/python3.12/site-packages/lxml/isoschematron/resources/xsl/RNG2Schtrn.xsl

@@ -1,0 +1,1 @@
+— 2pyXohr8env/lib/python3.12/site-packages/twikit/_captcha/base.py

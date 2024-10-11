@@ -1,0 +1,68 @@
+
+Lbs4.tests.HTMLTreeBuilderSmokeTest.test_smart_quotes_converted_on_the_way_ina
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py£ £(1"2*”
+2
+¦ ¦(%Q
+O
+
+¦ ¦(%
+quote"__id*2
+
+__unknown_file (
+<p>\x91Foo\x92</p>†ƒ
+
+§ §(
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*%
+
+__unknown_file (	
+
+quote2soup@
+>
+
+§ §(
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+¨ ¨(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+pJ
+H
+
+¨ ¨(
+%3"__id*.
+
+__unknown_file (*
+
+%2"
+stringÊ
+Ç
+
+¨ ¨(b
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*`
+
+__unknown_file (DB
+@\N{LEFT SINGLE QUOTATION MARK}Foo\N{RIGHT SINGLE QUOTATION MARK}*
+3*3
+3
+__init__.py"
+ª ª(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

@@ -1,0 +1,5 @@
+httpx._transports.default.AsyncResponseStream.aclose
+449ddc5b85190e3c12bd94a9e212a54d
+hasattr
+==
+aclose

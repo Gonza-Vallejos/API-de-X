@@ -1,0 +1,4 @@
+pip._internal.req.req_install.InstallRequirement._get_archive_name
+f681a110b7705268d3d7169f6c8953b5
+pip._internal.req.req_install.InstallRequirement._get_archive_name._clean_zip_name
+os.path.join

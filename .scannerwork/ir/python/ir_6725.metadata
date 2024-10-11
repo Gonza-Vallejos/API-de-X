@@ -1,0 +1,5 @@
+pip._internal.utils.egg_link.egg_link_path_from_sys_path
+ad01ba70b20db25af56267452fbc5c49
+os.path.join
+os.path.isfile
+pip._internal.utils.egg_link._egg_link_names

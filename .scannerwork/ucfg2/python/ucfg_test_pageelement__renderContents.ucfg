@@ -1,0 +1,75 @@
+
+Fbs4.tests.test_pageelement.TestEncoding.test_deprecated_renderContentsg
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.py? ?(&"2*Ž
+2@ @(#N
+L
+@ @(#
+html"__id*2
+
+__unknown_file (
+<b>\N{SNOWMAN}</b>ˆ…
+A A(
+%1*G
+
+__unknown_file (+)
+'bs4.tests.test_pageelement.TestEncoding*$
+
+__unknown_file (
+
+html2soup>
+<
+A A(
+soup"__id*"
+
+__unknown_file (
+
+%1HF
+B B(
+%2*$
+
+__unknown_file (
+
+soup2renderContentsyw
+C C(+
+%3"
+str.encode*+
+
+__unknown_file (
+\N{SNOWMAN}*$
+
+__unknown_file (
+utf82encodeE
+C
+C/ C(5
+%4"__id*+
+
+__unknown_file (*
+
+soup"
+bFD
+C/ C(F
+%5*"
+
+__unknown_file (
+
+%42renderContentsŠ
+‡
+C C(F
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%5*
+3*9
+3
+test_pageelement.py"
+E E(
+implicit returnB+)
+'bs4.tests.test_pageelement.TestEncodingH

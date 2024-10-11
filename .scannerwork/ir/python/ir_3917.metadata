@@ -1,0 +1,6 @@
+pip._internal.utils.filesystem.test_writable_dir
+a1281615a4ebbf2673d8390ee2daaa68
+pip._internal.utils.filesystem._test_writable_dir_win
+os.path.isdir
+os.access
+os.path.dirname

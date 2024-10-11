@@ -1,0 +1,4 @@
+pip._internal.resolution.resolvelib.factory.Factory.make_requires_python_requirement
+ae1b26de9001d25b849a6a83daa940d8
+pip._internal.resolution.resolvelib.requirements.RequiresPythonRequirement.__init__
+str.__init__

@@ -1,0 +1,6 @@
+pip._internal.cli.parser.PrettyHelpFormatter.format_usage
+2ed02ad5df4a9e0e6d547434df440021
+textwrap.dedent
+==
+format
+indent_lines

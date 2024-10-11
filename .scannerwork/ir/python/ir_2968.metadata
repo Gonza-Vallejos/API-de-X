@@ -1,0 +1,4 @@
+pip._vendor.urllib3.connection.HTTPSConnection.set_cert
+7983e4c0f18212fba76f0fc9706c43a0
+pip._vendor.urllib3.util.ssl_.resolve_cert_reqs
+os.path.expanduser

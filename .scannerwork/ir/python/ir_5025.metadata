@@ -1,0 +1,7 @@
+pip._vendor.urllib3.util.wait.select_wait_for_socket
+affea3f6e23d6a9b40c7f6a5e81f2ead
+pip._vendor.urllib3.util.wait._retry_on_intr
+bool.__init__
+functools.partial.__init__
+==
+append

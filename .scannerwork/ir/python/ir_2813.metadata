@@ -1,0 +1,3 @@
+h11.tests.test_connection.test_idle_receive_nothing
+08cdb3fa8d095473e2ae451ccf030d9f
+h11._connection.Connection.__init__

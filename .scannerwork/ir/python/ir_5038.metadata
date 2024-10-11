@@ -1,0 +1,8 @@
+pip._internal.vcs.git.Git.is_immutable_rev_checkout
+d7b1b9c0e736c759955c5971eb718aa1
+pip._internal.vcs.git.Git.is_commit_id_equal
+pip._internal.vcs.git.Git.get_revision_sha
+pip._internal.utils.misc.hide_url
+bool.__init__
+==
+get_url_rev_options

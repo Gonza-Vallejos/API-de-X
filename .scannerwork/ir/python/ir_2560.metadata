@@ -1,0 +1,3 @@
+pip._internal.req.constructors.install_req_from_link_and_ireq
+fe4323eba66e7e143f6b8c83d4a222b2
+pip._internal.req.req_install.InstallRequirement.__init__

@@ -1,0 +1,12 @@
+pip._internal.req.req_uninstall.UninstallPathSet.add
+ac6f1e82cbeaa33945f9e404189cf1aa
+os.path.normcase
+importlib.util.cache_from_source
+os.path.join
+os.path.split
+os.path.exists
+os.path.splitext
+==
+_normalize_path_cached
+add
+_permitted

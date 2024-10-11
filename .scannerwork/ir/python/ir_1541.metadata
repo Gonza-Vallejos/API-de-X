@@ -1,0 +1,7 @@
+pip._vendor.platformdirs.unix.Unix.user_state_dir
+a4689bfbb21d1e35237d41fcfc143b71
+os.path.expanduser
+==
+strip
+get
+_append_app_name_and_version

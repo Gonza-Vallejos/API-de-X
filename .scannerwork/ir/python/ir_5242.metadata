@@ -1,0 +1,5 @@
+pip._internal.req.req_install.InstallRequirement.ensure_pristine_source_checkout
+b1c0767c9cf01ccd91bd0bad0036be2a
+pip._internal.utils.unpacking.unpack_file
+str.__init__
+pip._internal.utils.misc.is_installable_dir

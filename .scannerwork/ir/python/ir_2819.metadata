@@ -1,0 +1,8 @@
+pip._internal.vcs.versioncontrol.find_path_to_project_root_from_repo_root
+f65683c11d655e462d3cc39b48572b58
+os.path.samefile
+os.path.dirname
+pip._internal.utils.misc.is_installable_dir
+os.path.relpath
+==
+warning

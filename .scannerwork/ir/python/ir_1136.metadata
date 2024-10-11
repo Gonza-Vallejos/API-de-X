@@ -1,0 +1,6 @@
+httpcore._backends.sync.TLSinTLSStream.get_extra_info
+b97cd02aea74f7e5378c243156bc9572
+httpcore._utils.is_socket_readable
+==
+getsockname
+getpeername

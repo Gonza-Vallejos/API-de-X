@@ -1,0 +1,3 @@
+pip._internal.utils.setuptools_build.make_setuptools_develop_args
+dd3ace48f3465020a3fd6d7387b969b3
+pip._internal.utils.setuptools_build.make_setuptools_shim_args

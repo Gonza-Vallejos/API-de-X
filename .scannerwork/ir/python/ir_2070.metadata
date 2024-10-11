@@ -1,0 +1,8 @@
+pip._internal.utils.logging.IndentingFormatter.format
+1d5a751fab1f4e561617445d2bdb5b30
+super
+pip._internal.utils.logging.get_indentation
+==
+format
+join
+get_message_start

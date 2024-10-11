@@ -1,0 +1,6 @@
+bs4.tests.test_navigablestring.TestNavigableStringSubclasses.test_doctype_ends_in_newline
+f7b7c095354f1d52294ae79b484e4bc7
+bs4.element.Doctype.__init__
+==
+soup
+insert

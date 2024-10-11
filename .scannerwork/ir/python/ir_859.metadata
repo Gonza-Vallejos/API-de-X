@@ -1,0 +1,5 @@
+anyio._backends._trio.Lock.statistics
+430a830b8a7435f5efe7d3c15bdab1b7
+anyio._backends._trio.TrioTaskInfo.__init__
+==
+statistics

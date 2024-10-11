@@ -1,0 +1,12 @@
+pip._internal.configuration.Configuration.unset_value
+87d267ae6189a2c553e77d3149c73cb4
+pip._internal.configuration._disassemble_key
+pip._internal.configuration._normalize_name
+==
+remove_section
+remove_option
+_ensure_have_load_only
+_mark_as_modified
+_get_parser_to_modify
+has_section
+items

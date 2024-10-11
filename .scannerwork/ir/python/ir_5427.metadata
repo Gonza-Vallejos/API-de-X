@@ -1,0 +1,3 @@
+pip._vendor.urllib3.response.HTTPResponse.supports_chunked_reads
+7519b73ff277ebdf9529393d04d2233c
+hasattr

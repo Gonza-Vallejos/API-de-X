@@ -1,0 +1,173 @@
+
+Abs4.tests.test_html5lib.TestHTML5LibBuilder.test_html5_attributesf
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_html5lib.pyæ æ("3"5*6
+3
+test_html5lib.py"
+· ·
+implicit return*û
+5
+ÿ ÿ(4`
+^
+
+ÿ ÿ(4
+%1"__concat*
+
+ÿ ÿ($
+<div>%s</div>*
+
+ÿ' ÿ(4
+
+input_elementB
+@
+
+ÿ ÿ(4
+markup"__id*"
+
+__unknown_file (
+
+%1êç
+
+Ÿ Ÿ(#
+%2*K
+
+__unknown_file (/-
++bs4.tests.test_html5lib.TestHTML5LibBuilder*&
+
+__unknown_file (
+
+
+markup2soupG
+E
+
+Ÿ Ÿ('
+%3"__id*+
+
+__unknown_file (*
+
+%2"
+div?
+=
+
+Ÿ Ÿ('
+div"__id*"
+
+__unknown_file (
+
+%3A?
+
+⁄ ⁄(*
+%4*#
+
+__unknown_file (
+
+div2encodeK
+I
+
+⁄ ⁄(*
+without_element"__id*"
+
+__unknown_file (
+
+%4rp
+
+€( €(E
+%5*.
+
+__unknown_file (
+
+output_unicode*$
+
+__unknown_file (
+utf82encodeU
+S
+
+€ €(E
+%6"__concat*
+
+€ €(%
+<div>%s</div>*
+
+€( €(E
+
+%5B
+@
+
+€ €(E
+expect"__id*"
+
+__unknown_file (
+
+%6ù
+ö
+
+‹ ‹(,
+%7"	__compare*"
+
+__unknown_file (
+==*/
+
+__unknown_file (
+
+without_element*&
+
+__unknown_file (
+
+
+expecttr
+
+ﬁ ﬁ(7
+%8*#
+
+__unknown_file (
+
+div2encode:1
+	formatter$
+
+__unknown_file (
+htmlH
+F
+
+ﬁ ﬁ(7
+with_element"__id*"
+
+__unknown_file (
+
+%8a
+_
+
+ﬂ ﬂ(6
+%9"__concat*
+
+ﬂ ﬂ(%
+<div>%s</div>* 
+
+ﬂ( ﬂ(6
+
+output_elementB
+@
+
+ﬂ ﬂ(6
+expect"__id*"
+
+__unknown_file (
+
+%9õ
+ò
+
+‡ ‡()
+%10"	__compare*"
+
+__unknown_file (
+==*,
+
+__unknown_file (
+
+with_element*&
+
+__unknown_file (
+
+
+expect*
+3
+5B/-
++bs4.tests.test_html5lib.TestHTML5LibBuilderH

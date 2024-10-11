@@ -1,0 +1,5 @@
+anyio.lowlevel.checkpoint
+4c963398c8ee922c5ac8f876dc6dcc72
+anyio._core._eventloop.get_async_backend
+==
+checkpoint

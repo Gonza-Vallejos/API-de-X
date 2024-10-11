@@ -1,0 +1,27 @@
+
+.anyio._backends._asyncio.SocketStream.send_eofg
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.pyÜ	 Ü	("2*Ì
+2
+Þ	 Þ	('q
+o
+
+Þ	 Þ	(
+%1"__id*U
+
+__unknown_file (9*7'
+%anyio._backends._asyncio.SocketStream"
+
+_transportCA
+
+Þ	 Þ	('
+%2*"
+
+__unknown_file (
+
+%12	write_eof*
+3*3
+3
+_asyncio.py"
+â	 â	(
+implicit returnB)'
+%anyio._backends._asyncio.SocketStreamH

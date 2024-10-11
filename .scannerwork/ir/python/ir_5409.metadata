@@ -1,0 +1,6 @@
+pip._vendor.urllib3.response._get_decoder
+67befd834f2ec558f8eee485baeb1eed
+pip._vendor.urllib3.response.DeflateDecoder.__init__
+pip._vendor.urllib3.response.BrotliDecoder.__init__
+pip._vendor.urllib3.response.GzipDecoder.__init__
+pip._vendor.urllib3.response.MultiDecoder.__init__

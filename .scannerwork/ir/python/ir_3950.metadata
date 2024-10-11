@@ -1,0 +1,7 @@
+httpx._auth.BasicAuth._build_auth_header
+c16acf40ef5dda102b0b8d5a90998895
+httpx._utils.to_bytes
+base64.b64encode
+==
+join
+decode

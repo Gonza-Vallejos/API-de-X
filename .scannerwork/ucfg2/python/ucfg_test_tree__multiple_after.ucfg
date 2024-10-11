@@ -1,0 +1,172 @@
+
+Cbs4.tests.test_tree.TestTreeModification.test_insert_multiple_afterb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyÓ Ó(""2*∫
+2
+Ô Ô(0õò
+
+Ô Ô(0
+%1*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*4
+
+__unknown_file (
+<a>foo</a><b>bar</b>2soup@
+>
+
+Ô Ô(0
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+ (
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+bµ≤
+
+ (/
+%3*"
+
+__unknown_file (
+
+%2*#
+
+__unknown_file (
+BAZ*!
+
+__unknown_file (
+ *$
+
+__unknown_file (
+QUUX2insert_afterG
+E
+
+Ò Ò(
+%4"__id*+
+
+__unknown_file (*
+
+soup"
+aµ≤
+
+Ò Ò(/
+%5*"
+
+__unknown_file (
+
+%4*$
+
+__unknown_file (
+QUUX*!
+
+__unknown_file (
+ *#
+
+__unknown_file (
+BAZ2insert_afterB@
+
+Ú Ú(
+%6*$
+
+__unknown_file (
+
+soup2decode≥∞
+
+Ú  Ù(	
+%7*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*D
+
+__unknown_file ((&
+$<a>foo</a>QUUX BAZ<b>bar</b>BAZ QUUX2document_forå
+â
+
+Ú Ù(	
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%6*"
+
+__unknown_file (
+
+%7G
+E
+
+ı ı(
+%9"__id*+
+
+__unknown_file (*
+
+soup"
+bH
+F
+
+ı ı("
+%10"__id*+
+
+__unknown_file (*
+
+soup"
+aìê
+
+ı ı(+
+%11*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+
+%10*$
+
+__unknown_file (
+FOO 2insert_afterCA
+
+ˆ ˆ(
+%12*$
+
+__unknown_file (
+
+soup2decode∏µ
+
+ˆ  ¯(	
+%13*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*H
+
+__unknown_file (,*
+(QUUX BAZ<b>bar</b><a>foo</a>FOO BAZ QUUX2document_forè
+å
+
+ˆ ¯(	
+%14"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%12*#
+
+__unknown_file (
+
+%13*
+3*4
+3
+test_tree.py"
+˙ ˙(
+implicit returnB,*
+(bs4.tests.test_tree.TestTreeModificationH

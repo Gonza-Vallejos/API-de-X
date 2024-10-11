@@ -1,0 +1,50 @@
+
+-gql.GQLClient.moderators_slice_timeline_query`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyç ç(-"2*í
+2
+é é(um
+k
+
+é/ é(W
+%1"__id*Q
+
+__unknown_file (5*3
+gql.Endpoint"!
+MODERATORS_SLICE_TIMELINE_QUERY˚¯
+
+é é(u
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*,
+
+__unknown_file (
+
+community_id*%
+
+__unknown_file (	
+
+count*&
+
+__unknown_file (
+
+
+cursor2_get_community_users"
+
+é é(u
+
+%2:
+
+ç4 ç(@
+community_id:
+
+çB ç(G
+count:
+
+çI ç(O
+cursorB
+gql.GQLClientH

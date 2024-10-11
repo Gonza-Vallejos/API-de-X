@@ -1,0 +1,6 @@
+pip._internal.utils.misc.is_local
+da6c11f28ae704d3c9936b58fb5d5941
+pip._internal.utils.virtualenv.running_under_virtualenv
+pip._internal.utils.misc.normalize_path
+==
+startswith

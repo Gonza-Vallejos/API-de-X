@@ -1,0 +1,6 @@
+pip._vendor.packaging.tags.platform_tags
+1fc890ec1e12e5679a18aabae2c06569
+pip._vendor.packaging.tags._linux_platforms
+platform.system
+pip._vendor.packaging.tags.mac_platforms
+pip._vendor.packaging.tags._generic_platforms

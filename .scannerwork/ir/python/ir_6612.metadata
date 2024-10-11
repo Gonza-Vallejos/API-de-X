@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestFindAll.test_calling_a_tag_is_calling_findall
+7ed7473b8d83c548a1f43db721e2a997
+==
+soup
+b
+assert_selects

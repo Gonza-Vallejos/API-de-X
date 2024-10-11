@@ -1,0 +1,22 @@
+
+-httpx._transports.base.BaseTransport.__exit__c
+Y/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_transports/base.py ("2*s
+2 (_]
+ (
+%1*D
+
+__unknown_file ((&
+$httpx._transports.base.BaseTransport2close*
+3*-
+3	
+base.py"
+ (
+implicit return:
+ (3
+
+exc_type:
+ (.
+	exc_value:
+ (.
+	tracebackB(&
+$httpx._transports.base.BaseTransportH

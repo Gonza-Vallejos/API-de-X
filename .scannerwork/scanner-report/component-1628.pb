@@ -1,0 +1,1 @@
+Ü 2pyXÝhrDenv/lib/python3.12/site-packages/pip/_internal/operations/prepare.py

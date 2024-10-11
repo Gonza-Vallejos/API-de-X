@@ -1,0 +1,8 @@
+pip._internal.locations.get_purelib
+8dae274761fa769ef6c23d8a46c463b1
+pip._internal.locations._looks_like_deb_system_dist_packages
+pip._internal.locations._log_context
+pathlib.Path.__init__
+pip._internal.locations._warn_if_mismatch
+==
+get_purelib

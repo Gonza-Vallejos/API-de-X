@@ -1,0 +1,53 @@
+
+6pip._vendor.truststore._api.SSLContext.load_cert_chainj
+^/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/truststore/_api.pyã ã("2*Ä
+2
+ë ì(	l
+j
+
+ë ë(
+%1"__id*P
+
+__unknown_file (4*2(
+&pip._vendor.truststore._api.SSLContext"
+_ctxÍÁ
+
+ë ì(	
+%2*"
+
+__unknown_file (
+
+%12load_cert_chain:4
+certfile(
+
+__unknown_file (
+
+
+certfile:2
+keyfile'
+
+__unknown_file (
+	
+keyfile:4
+password(
+
+__unknown_file (
+
+
+password"
+
+ë ì(	
+
+%2:
+
+ç ç(!
+
+certfile:
+
+é é(.	
+keyfile:
+
+è è(-
+
+passwordB*(
+&pip._vendor.truststore._api.SSLContextH

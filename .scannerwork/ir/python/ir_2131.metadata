@@ -1,0 +1,12 @@
+soupsieve.css_parser.CSSParser.parse_pseudo_class_custom
+b63f83d77b9c7314b77849b5f27e8029
+soupsieve.css_parser.css_unescape
+soupsieve.css_parser.CSSParser.__init__
+soupsieve.util.SelectorSyntaxError.__init__
+==
+process_selectors
+lower
+get
+end
+append
+group

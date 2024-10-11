@@ -1,0 +1,6 @@
+bs4.tests.test_formatter.TestFormatter.test_sort_attributes
+90187411390a22c111bdaff1881ff430
+bs4.tests.test_formatter.TestFormatter.test_sort_attributes.UnsortedFormatter.__init__
+==
+soup
+decode

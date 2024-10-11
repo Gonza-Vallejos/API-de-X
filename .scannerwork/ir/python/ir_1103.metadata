@@ -1,0 +1,10 @@
+pip._internal.network.lazy_wheel.LazyZipOverHTTP.__init__
+e6e8b2cf914b197dcac19991a6ad1631
+pip._internal.network.utils.raise_for_status
+tempfile.NamedTemporaryFile
+int.__init__
+==
+head
+_check_zip
+truncate
+get

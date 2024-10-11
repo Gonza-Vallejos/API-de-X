@@ -1,0 +1,1 @@
+Ô 2pyXÍChr2env/lib/python3.12/site-packages/idna/uts46data.py

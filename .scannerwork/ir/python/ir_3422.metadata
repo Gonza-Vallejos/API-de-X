@@ -1,0 +1,6 @@
+pip._vendor.pygments.formatters._automodule.__getattr__
+406d1c775088259dbea10591c1d14287
+setattr
+pip._vendor.pygments.formatters._load_formatters
+==
+get

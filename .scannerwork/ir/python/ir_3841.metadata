@@ -1,0 +1,6 @@
+pip._vendor.pygments.lexer.RegexLexerMeta.__call__
+763b8b99515736139be799cd661bfe8d
+hasattr
+==
+get_tokendefs
+process_tokendef

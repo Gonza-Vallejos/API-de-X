@@ -1,0 +1,9 @@
+pip._internal.utils.egg_link.egg_link_path_from_location
+c0e75f692d92d2a2e2e88c4836a2235c
+pip._internal.utils.virtualenv.running_under_virtualenv
+os.path.join
+os.path.isfile
+pip._internal.utils.virtualenv.virtualenv_no_global
+pip._internal.utils.egg_link._egg_link_names
+==
+append

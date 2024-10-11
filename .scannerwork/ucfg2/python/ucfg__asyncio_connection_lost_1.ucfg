@@ -1,0 +1,45 @@
+
+9anyio._backends._asyncio.DatagramProtocol.connection_lostg
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.py‡	 ‡	("2*
+2
+ˆ	 ˆ	(u
+s
+
+ˆ	 ˆ	(
+%1"__id*Y
+
+__unknown_file (=*;+
+)anyio._backends._asyncio.DatagramProtocol"
+
+read_event=;
+
+ˆ	 ˆ	(
+%2*"
+
+__unknown_file (
+
+%12setv
+t
+
+‰	 ‰	(
+%3"__id*Z
+
+__unknown_file (>*<+
+)anyio._backends._asyncio.DatagramProtocol"
+write_event=;
+
+‰	 ‰	(
+%4*"
+
+__unknown_file (
+
+%32set*
+3*3
+3
+_asyncio.py"
+‹	 ‹	(
+implicit return:
+
+‡	 ‡	(3
+excB-+
+)anyio._backends._asyncio.DatagramProtocolH

@@ -1,0 +1,4 @@
+bs4.tests.XMLTreeBuilderSmokeTest.test_closing_namespaced_tag
+15c8552580d80757bdf2e9eb29446677
+==
+soup

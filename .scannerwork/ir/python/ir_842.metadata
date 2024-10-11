@@ -1,0 +1,4 @@
+anyio._backends._trio.SocketStream.send_eof
+aa48560f560d897f9d1cea97b1ca9c85
+==
+shutdown

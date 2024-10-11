@@ -1,0 +1,1 @@
+Ã 2pyXºhr;env/lib/python3.12/site-packages/pip/_internal/pyproject.py

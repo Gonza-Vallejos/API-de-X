@@ -1,0 +1,6 @@
+anyio._backends._asyncio._SignalReceiver.__anext__
+fd4d6ab29dd0c6f9c60620b82b1593aa
+asyncio.futures.Future.__init__
+anyio._backends._asyncio.AsyncIOBackend.checkpoint
+==
+popleft

@@ -1,0 +1,63 @@
+
+7bs4.tests.test_pageelement.TestPersistence.setup_methodi
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.pyÿ ÿ("2*õ
+2
+€ (
+ì
+é
+
+€ (
+6,
+*bs4.tests.test_pageelement.TestPersistence"
+page"__id*œ
+
+__unknown_file (ÿü
+ù<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Beautiful Soup: We called him Tortoise because he taught us.</title>
+<link rev="made" href="mailto:leonardr@segfault.org">
+<meta name="Description" content="Beautiful Soup: an HTML parser optimized for screen-scraping.">
+<meta name="generator" content="Markov Approximation 1.4 (module: leonardr)">
+<meta name="author" content="Leonard Richardson">
+</head>
+<body>
+<a href="foo">foo</a>
+<a href="foo"><b>bar</b></a>
+</body>
+</html>p
+n
+
+ ('
+%1"__id*T
+
+__unknown_file (8*6,
+*bs4.tests.test_pageelement.TestPersistence"
+page‹ˆ
+
+ ((
+%2*J
+
+__unknown_file (.,
+*bs4.tests.test_pageelement.TestPersistence*"
+
+__unknown_file (
+
+%12soupp
+n
+
+ ((6,
+*bs4.tests.test_pageelement.TestPersistence"
+tree"__id*"
+
+__unknown_file (
+
+%2*
+3*;
+3
+test_pageelement.py"
+’ ’(
+implicit returnB.,
+*bs4.tests.test_pageelement.TestPersistenceH

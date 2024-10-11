@@ -1,0 +1,9 @@
+pip._vendor.distlib.locators.SimpleScrapingLocator._should_queue
+3dfb9986f9de32690a0da7f8338c8ca5
+==
+startswith
+split
+debug
+lower
+endswith
+_is_platform_dependent

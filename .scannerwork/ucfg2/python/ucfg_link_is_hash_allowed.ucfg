@@ -1,0 +1,45 @@
+
+2pip._internal.models.link.LinkHash.is_hash_allowedf
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/models/link.pyX X("4"5*Ê
+4^ ^(Gf
+d
+^& ^(/
+%1"__id*L
+
+__unknown_file (0*.$
+"pip._internal.models.link.LinkHash"
+nameg
+e
+^< ^(F
+%2"__id*M
+
+__unknown_file (1*/$
+"pip._internal.models.link.LinkHash"
+valueÕÒ
+^ ^(G
+%3"1pip._internal.utils.hashes.Hashes.is_hash_allowed*&
+
+__unknown_file (
+
+
+hashes*"
+
+__unknown_file (
+
+%12is_hash_allowed:0
+
+hex_digest"
+
+__unknown_file (
+
+%2"
+^ ^(G
+
+%3*$
+5] ]("
+] ](	
+
+False:
+X X(6
+hashesB&$
+"pip._internal.models.link.LinkHashH

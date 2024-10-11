@@ -1,0 +1,3 @@
+pip._internal.locations._sysconfig._infer_prefix
+01c56da0a9ffa5e2d79482409a980bfd
+pip._internal.locations._sysconfig._should_use_osx_framework_prefix

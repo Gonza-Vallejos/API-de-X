@@ -1,0 +1,150 @@
+
+0v11.V11Client.live_pipeline_update_subscriptions`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.pyë ë(0"2*Ï
+2
+ì ï(	
+
+ì ï(	
+%1"dictš
+—
+
+í í(#
+%2"__mapSet*"
+
+__unknown_file (
+
+%1**
+
+__unknown_file (
+
+sub_topics*)
+
+__unknown_file (
+
+	subscribež
+›
+
+î î('
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*,
+
+__unknown_file (
+unsub_topics*+
+
+__unknown_file (
+
+unsubscribe@
+>
+
+ì ï(	
+data"__id*"
+
+__unknown_file (
+
+%1S
+Q
+
+ð ð(
+%4"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+ð ð()
+%5"__id*5
+
+__unknown_file (*
+
+%4"
+_base_headersC
+A
+
+ð ð()	
+headers"__id*"
+
+__unknown_file (
+
+%5ÎË
+
+ñ ñ(E
+%6"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*,
+
+__unknown_file (
+content-type*A
+
+__unknown_file (%#
+!application/x-www-form-urlencoded2__setitem__¼¹
+
+ò ò(1
+%7"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*4
+
+__unknown_file (
+LivePipeline-Session*'
+
+__unknown_file (
+	
+session2__setitem__S
+Q
+
+ó ó(
+%8"__id*7
+
+__unknown_file (*
+v11.V11Client"
+basep
+n
+
+ô ô(7
+%9"__id*T
+
+__unknown_file (8*6
+v11.Endpoint"$
+"LIVE_PIPELINE_UPDATE_SUBSCRIPTIONSÆÃ
+
+ó õ(	
+%10*"
+
+__unknown_file (
+
+%8*"
+
+__unknown_file (
+
+%92post:,
+data$
+
+__unknown_file (
+
+data:2
+headers'
+
+__unknown_file (
+	
+headers"
+
+ó õ(	
+
+%10:
+
+ë7 ë(>	
+session:
+
+ë@ ë(I
+	subscribe:
+
+ëK ë(V
+unsubscribeB
+v11.V11ClientH

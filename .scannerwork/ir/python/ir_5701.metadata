@@ -1,0 +1,12 @@
+pip._vendor.urllib3.contrib.ntlmpool.NTLMConnectionPool._new_conn
+2ebf5483c501a2f30451dbf3fe94382e
+dict.__init__
+==
+request
+getresponse
+debug
+read
+split
+parse_NTLM_CHALLENGE_MESSAGE
+create_NTLM_NEGOTIATE_MESSAGE
+create_NTLM_AUTHENTICATE_MESSAGE

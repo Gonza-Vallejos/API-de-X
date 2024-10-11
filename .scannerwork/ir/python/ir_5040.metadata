@@ -1,0 +1,17 @@
+pip._internal.vcs.git.Git.fetch_new
+d3ab22854b2ac746bd28b6b881f00688
+pip._internal.vcs.git.Git.resolve_revision
+pip._internal.vcs.git.Git.is_commit_id_equal
+pip._internal.utils.misc.display_path
+pip._internal.vcs.git.Git.get_current_branch
+getattr
+pip._internal.vcs.git.Git.get_revision
+pip._internal.vcs.git.Git.update_submodules
+==
+make_new
+run_command
+debug
+to_args
+to_display
+info
+get_git_version

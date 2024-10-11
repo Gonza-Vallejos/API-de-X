@@ -1,0 +1,6 @@
+pip._vendor.requests.models.PreparedRequest.prepare_headers
+f01fa3e03dd74d4b4f3225869bef4130
+pip._vendor.requests._internal_utils.to_native_string
+pip._vendor.requests.utils.check_header_validity
+==
+items

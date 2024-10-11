@@ -1,0 +1,5 @@
+httpx._client.BaseClient._build_auth
+e8e9ab408dca434ac829f5898c184d89
+httpx._auth.FunctionAuth.__init__
+callable
+httpx._auth.BasicAuth.__init__

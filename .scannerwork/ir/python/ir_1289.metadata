@@ -1,0 +1,3 @@
+pip._vendor.rich._win32_console.SetConsoleTextAttribute
+d38e520820620fcd429f29fdbf20a756
+bool.__init__

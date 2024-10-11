@@ -1,0 +1,4 @@
+anyio._backends._asyncio.BlockingPortal._spawn_task_from_thread
+8c6c9df2947bec1508b4bf5e5e16ec5f
+anyio._backends._asyncio.AsyncIOBackend.run_sync_from_thread
+functools.partial.__init__

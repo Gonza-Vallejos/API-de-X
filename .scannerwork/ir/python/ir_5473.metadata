@@ -1,0 +1,12 @@
+pip._vendor.distlib.metadata.LegacyMetadata.set
+31f350d7f0bb33b6b969bbd533c3be85
+pip._vendor.distlib.version.get_scheme
+==
+is_valid_matcher
+is_valid_version
+split
+is_valid_constraint_list
+_convert_name
+isEnabledFor
+warning
+_remove_line_prefix

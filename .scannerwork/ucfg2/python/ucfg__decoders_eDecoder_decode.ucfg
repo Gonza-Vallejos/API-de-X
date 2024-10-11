@@ -1,0 +1,52 @@
+
+%httpx._decoders.DeflateDecoder.decode\
+R/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_decoders.py1 1("2*¼
+22 2(.k
+i
+2 2(.
+%9"__id*Q
+
+__unknown_file (5*3 
+httpx._decoders.DeflateDecoder"
+first_attemptK
+I
+2 2(.
+was_first_attempt"__id*"
+
+__unknown_file (
+
+%9n
+l
+3 3("3 
+httpx._decoders.DeflateDecoder"
+first_attempt"__id*%
+
+__unknown_file (	
+
+False*
+9*÷
+95 5(5j
+h
+5 5($
+%7"__id*P
+
+__unknown_file (4*2 
+httpx._decoders.DeflateDecoder"
+decompressorhf
+5 5(5
+%8*"
+
+__unknown_file (
+
+%7*$
+
+__unknown_file (
+
+data2
+decompress"
+5 5(5
+
+%8:
+1 1( 
+dataB" 
+httpx._decoders.DeflateDecoderH

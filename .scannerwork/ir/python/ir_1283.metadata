@@ -1,0 +1,9 @@
+pyotp.utils.build_uri
+813f062bb673c9cd1a9e5f43a2ac0fe4
+urllib.parse.urlparse
+urllib.parse.quote
+urllib.parse.urlencode
+==
+upper
+format
+replace

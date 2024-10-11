@@ -1,0 +1,1 @@
+° 2xmlXÍhrmenv/lib/python3.12/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_svrl_for_xslt1.xsl

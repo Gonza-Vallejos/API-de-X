@@ -1,0 +1,5 @@
+pip._vendor.requests.sessions.Session.close
+ec4c6601c81a0069408c69aa31c78e23
+==
+values
+close

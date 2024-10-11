@@ -1,0 +1,8 @@
+pip._vendor.distlib.util.SubprocessMixin.reader
+c1a1e2f46406e6703bb99bd3723069e5
+==
+flush
+decode
+write
+close
+readline

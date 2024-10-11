@@ -1,0 +1,12 @@
+pip._vendor.rich._log_render.LogRender.__call__
+61881c0e1cb41b8ef78a575232a00f44
+callable
+len
+pip._vendor.rich.containers.Renderables.__init__
+pip._vendor.rich.text.Text.__init__
+==
+strftime
+grid
+add_column
+get_datetime
+append

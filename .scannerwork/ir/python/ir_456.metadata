@@ -1,0 +1,5 @@
+pip._vendor.distlib.version.NormalizedMatcher._match_eq
+530ab77c90ca141a9b66f5e0ee505b26
+pip._vendor.distlib.version._match_prefix
+==
+_adjust_local

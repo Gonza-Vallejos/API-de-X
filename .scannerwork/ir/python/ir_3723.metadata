@@ -1,0 +1,11 @@
+pip._vendor.urllib3.util.url._normalize_host
+315e835a7fc48be5a77eda28a98acc44
+pip._vendor.urllib3.util.url._encode_invalid_chars
+==
+startswith
+search
+ensure_str
+lower
+match
+join
+span

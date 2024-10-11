@@ -1,0 +1,8 @@
+pip._internal.resolution.legacy.resolver.Resolver._populate_link
+c6713d08fa0b728fd6d99ddb66f33d5e
+pip._internal.utils.compatibility_tags.get_supported
+pip._internal.utils.direct_url_helpers.direct_url_from_link
+==
+get_cache_entry
+debug
+_find_requirement_link

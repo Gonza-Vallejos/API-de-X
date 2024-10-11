@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.windows.Windows.user_documents_dir
+1e1758505dd99132468da4094ef28233
+os.path.normpath

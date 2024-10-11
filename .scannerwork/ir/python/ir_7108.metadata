@@ -1,0 +1,11 @@
+pip._vendor.requests.auth.HTTPDigestAuth.build_digest_header
+8aa74446fa7f0f023efaf680092f4b2a
+hashlib.sha1
+time.ctime
+os.urandom
+==
+encode
+hexdigest
+split
+get
+upper

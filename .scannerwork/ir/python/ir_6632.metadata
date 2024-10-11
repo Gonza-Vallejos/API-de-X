@@ -1,0 +1,7 @@
+bs4.tests.test_tree.TestFindAllByAttribute.test_find_by_class_when_multiple_classes_present
+0c97ed4c6ca67392227ff5b023029797
+re.compile
+==
+soup
+find_all
+assert_selects

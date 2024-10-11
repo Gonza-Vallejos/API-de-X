@@ -1,0 +1,8 @@
+lxml.html.diff.htmldiff
+bb9e2737ce50c1d4cb333320231bee3a
+lxml.html.diff.htmldiff_tokens
+lxml.html.diff.fixup_ins_del_tags
+lxml.html.diff.tokenize
+==
+strip
+join

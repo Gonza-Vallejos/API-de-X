@@ -1,0 +1,8 @@
+pip._vendor.distlib.resources.ResourceCache.__init__
+4d6d8f58ab6c4c953bf9e3f2df061c0d
+super
+os.path.join
+str.__init__
+pip._vendor.distlib.util.get_cache_base
+==
+__init__

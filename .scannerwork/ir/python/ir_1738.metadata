@@ -1,0 +1,4 @@
+anyio._core._synchronization.CapacityLimiterAdapter.acquire_on_behalf_of_nowait
+8730fc37d827fbebf767be3f69c5a176
+==
+acquire_on_behalf_of_nowait

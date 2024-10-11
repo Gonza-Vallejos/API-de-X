@@ -1,0 +1,8 @@
+pip._vendor.packaging.specifiers.Specifier._compare_equal
+edfce1ec5ff67948a42bddd3263869c5
+pip._vendor.packaging.utils.canonicalize_version
+pip._vendor.packaging.specifiers._version_split
+pip._vendor.packaging.version.Version.__init__
+pip._vendor.packaging.specifiers._pad_version
+==
+endswith

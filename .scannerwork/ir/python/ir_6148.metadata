@@ -1,0 +1,8 @@
+lxml.doctestcompare.LXMLOutputChecker.get_parser
+d2e504a131bf4e3719e5dcadb8a4d947
+==
+startswith
+strip
+_looks_like_markup
+get_default_parser
+lower

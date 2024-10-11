@@ -1,0 +1,1 @@
+² 2pyXáhrCenv/lib/python3.12/site-packages/pip/_internal/models/direct_url.py

@@ -1,0 +1,5 @@
+anyio._backends._trio._SignalReceiver.__anext__
+03029f4db31e25c64594a4cfe8312de4
+signal.Signals.__init__
+==
+__anext__

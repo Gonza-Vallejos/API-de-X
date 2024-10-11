@@ -1,0 +1,5 @@
+anyio._backends._asyncio.CancelScope.cancel
+b718be0a2a5f8e9097c476f96822a892
+==
+cancel
+_deliver_cancellation

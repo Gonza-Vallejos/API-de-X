@@ -1,0 +1,6 @@
+pip._vendor.urllib3.util.retry.Retry.__init__
+1e909cb096b9ec70b9a0b5f40d440446
+tuple.__init__
+warnings.warn
+frozenset.__init__
+set.__init__

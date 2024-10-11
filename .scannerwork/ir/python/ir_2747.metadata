@@ -1,0 +1,10 @@
+pip._vendor.typing_extensions._collect_parameters
+f685e8ed9ea00b177ac10ddd162ea99a
+tuple.__init__
+pip._vendor.typing_extensions._collect_parameters
+pip._vendor.typing_extensions._has_generic_or_protocol_as_origin
+pip._vendor.typing_extensions._is_unpacked_typevartuple
+hasattr
+getattr
+==
+append

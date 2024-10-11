@@ -1,0 +1,41 @@
+
+$anyio.streams.text.TextStream.aclosea
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/streams/text.pyŠ Š("2*õ
+2
+‹ ‹((k
+i
+
+‹ ‹(
+%1"__id*O
+
+__unknown_file (3*1
+anyio.streams.text.TextStream"
+_send_stream@>
+
+‹ ‹((
+%2*"
+
+__unknown_file (
+
+%12aclosen
+l
+
+Œ Œ("
+%3"__id*R
+
+__unknown_file (6*4
+anyio.streams.text.TextStream"
+_receive_stream@>
+
+Œ Œ(+
+%4*"
+
+__unknown_file (
+
+%32aclose*
+3*/
+3	
+text.py"
+Ž Ž(
+implicit returnB!
+anyio.streams.text.TextStreamH

@@ -1,0 +1,8 @@
+bs4.element.Tag.__init__
+f5f03bb636b9c7226f6512f59d11f099
+dict.__init__
+==
+can_be_empty_element
+set_up_substitutions
+setup
+_replace_cdata_list_attribute_values

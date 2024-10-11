@@ -1,0 +1,52 @@
+
+,httpx._multipart.MultipartStream.iter_chunks_
+S/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_multipart.py„ „("2*Å
+2
+‰ ‰( h
+f
+
+‰ ‰( 
+%4"__id*L
+
+__unknown_file (0*."
+ httpx._multipart.MultipartStream"
+fields*
+4
+6*5
+3
+_multipart.py"
+Í Í(
+implicit return*Ä
+4
+Ë Ë(+j
+h
+
+Ë Ë(+
+%1"__id*N
+
+__unknown_file (2*0"
+ httpx._multipart.MultipartStream"
+
+boundary*
+3*»
+6
+Â Â(-j
+h
+
+Â  Â(-
+%2"__id*N
+
+__unknown_file (2*0"
+ httpx._multipart.MultipartStream"
+
+boundaryCA
+
+Ê Ê(%
+%3*%
+
+__unknown_file (	
+
+field2render*
+4
+6B$"
+ httpx._multipart.MultipartStreamH

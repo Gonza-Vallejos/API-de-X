@@ -1,0 +1,4 @@
+pip._vendor.urllib3.util.ssltransport.SSLTransport.recv
+a49e9014cd16076f7f7ae14e77d296dd
+==
+_wrap_ssl_read

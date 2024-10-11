@@ -1,0 +1,4 @@
+pip._internal.resolution.resolvelib.candidates.make_install_req_from_link
+61d2b014cf6dcbb31fe1aa7a0f8c2c03
+str.__init__
+pip._internal.req.constructors.install_req_from_line

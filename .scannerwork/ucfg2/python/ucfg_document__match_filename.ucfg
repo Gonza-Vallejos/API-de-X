@@ -1,0 +1,144 @@
+
+4filetype.types.document.OfficeOpenXml.match_filenamed
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/filetype/types/document.pyT T("2*õ
+2U U(4ÝÚ
+U U(4
+%9*E
+
+__unknown_file ()'
+%filetype.types.document.OfficeOpenXml*#
+
+__unknown_file (
+
+buf*%
+
+__unknown_file (	
+word/*&
+
+__unknown_file (
+
+
+offset2compare_bytes*
+7
+8*/
+3
+document.py"
+f f
+implicit return*Ø
+4` c(i
+g
+a a(
+%1"__id*O
+
+__unknown_file (3*1'
+%filetype.types.document.OfficeOpenXml"
+mimeÉ
+Æ
+a b(V
+%2"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%1*a
+
+__unknown_file (EC
+Aapplication/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+` c(
+
+%2*ó
+5_ _(2ÛØ
+_ _(2
+%3*E
+
+__unknown_file ()'
+%filetype.types.document.OfficeOpenXml*#
+
+__unknown_file (
+
+buf*#
+
+__unknown_file (
+xl/*&
+
+__unknown_file (
+
+
+offset2compare_bytes*
+3
+4*à
+6[ ^(i
+g
+\ \(
+%4"__id*O
+
+__unknown_file (3*1'
+%filetype.types.document.OfficeOpenXml"
+mimeÑ
+Î
+\ ](^
+%5"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%4*i
+
+__unknown_file (MK
+Iapplication/vnd.openxmlformats-officedocument.presentationml.presentation"
+[ ^(
+
+%5*ô
+7Z Z(3ÜÙ
+Z Z(3
+%6*E
+
+__unknown_file ()'
+%filetype.types.document.OfficeOpenXml*#
+
+__unknown_file (
+
+buf*$
+
+__unknown_file (
+ppt/*&
+
+__unknown_file (
+
+
+offset2compare_bytes*
+5
+6*Þ
+8V Y(i
+g
+W W(
+%7"__id*O
+
+__unknown_file (3*1'
+%filetype.types.document.OfficeOpenXml"
+mimeÏ
+Ì
+W X(\
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%7*g
+
+__unknown_file (KI
+Gapplication/vnd.openxmlformats-officedocument.wordprocessingml.document"
+V Y(
+
+%8:
+T T( 
+buf:
+T" T((
+offsetB)'
+%filetype.types.document.OfficeOpenXmlH

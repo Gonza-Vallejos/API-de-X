@@ -1,0 +1,101 @@
+
+2anyio._backends._trio.ReceiveStreamWrapper.received
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.pyá á("2*≈
+2
+â â(=s
+q
+
+â â(%
+%5"__id*W
+
+__unknown_file (;*9,
+*anyio._backends._trio.ReceiveStreamWrapper"	
+_streamqo
+
+â â(=
+%6*"
+
+__unknown_file (
+
+%5*)
+
+__unknown_file (
+
+	max_bytes2receive_some@
+>
+
+â â(=
+data"__id*"
+
+__unknown_file (
+
+%6*
+
+3
+4
+10*0
+3
+
+_trio.py"
+î î(
+implicit return*'
+4
+ê ê("
+
+ê ê(
+
+data*d
+7
+ç ç(8N
+L
+
+ç+ ç(8
+%1"__id*2
+
+__unknown_file (*
+
+exc"
+	__cause__*
+3*r
+8
+å å('Y
+W
+
+å å('
+%2"__id*=
+
+__unknown_file (!*
+
+trio"
+BrokenResourceError*
+3
+7*d
+9
+ã ã(8N
+L
+
+ã+ ã(8
+%3"__id*2
+
+__unknown_file (*
+
+exc"
+	__cause__*
+3*s
+10
+ä ä('Y
+W
+
+ä ä('
+%4"__id*=
+
+__unknown_file (!*
+
+trio"
+ClosedResourceError*
+8
+9:
+
+á á(8
+	max_bytesB.,
+*anyio._backends._trio.ReceiveStreamWrapperH

@@ -1,0 +1,7 @@
+pip._vendor.rich._win32_console.FillConsoleOutputCharacter
+3784644c45e52f380f234b703b6a870e
+ctypes.c_char.__init__
+ctypes.byref
+==
+encode
+DWORD

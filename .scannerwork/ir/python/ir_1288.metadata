@@ -1,0 +1,6 @@
+pip._vendor.rich._win32_console.FillConsoleOutputAttribute
+70bd029e7ea3d4398e58b867a59dc554
+ctypes.byref
+==
+WORD
+DWORD

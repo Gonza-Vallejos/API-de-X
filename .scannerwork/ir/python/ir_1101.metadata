@@ -1,0 +1,5 @@
+pip._internal.utils.direct_url_helpers.direct_url_for_editable
+c9a3f591f9b6004d7b83caf9d39fc96f
+pip._internal.utils.urls.path_to_url
+pip._internal.models.direct_url.DirectUrl.__init__
+pip._internal.models.direct_url.DirInfo.__init__

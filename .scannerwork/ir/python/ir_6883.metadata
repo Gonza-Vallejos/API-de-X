@@ -1,0 +1,3 @@
+pip._vendor.distlib.manifest.Manifest.clear
+bb9a954d35d6b145d07dec196bc4bfab
+set.__init__

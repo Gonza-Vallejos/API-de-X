@@ -1,0 +1,8 @@
+pip._vendor.distlib.database.EggInfoDistribution.__init__
+c65d8a558424d887d1c33bd0cd0cd70d
+super
+pip._vendor.distlib.database.EggInfoDistribution.__init__.set_name_and_version
+==
+add
+_get_metadata
+__init__

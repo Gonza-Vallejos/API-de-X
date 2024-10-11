@@ -1,0 +1,8 @@
+pip._vendor.urllib3.connectionpool.HTTPConnectionPool.__init__
+ac0306f7a3461904300e3cbb9fb6ed1a
+pip._vendor.urllib3.util.timeout.Timeout.from_float
+==
+setdefault
+QueueCls
+__init__
+put

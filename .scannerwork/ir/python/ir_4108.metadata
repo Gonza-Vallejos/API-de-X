@@ -1,0 +1,8 @@
+pip._internal.vcs.bazaar.Bazaar.fetch_new
+b884fe32dcebb570a02e2757fbea145f
+pip._internal.utils.misc.display_path
+==
+run_command
+to_args
+to_display
+info

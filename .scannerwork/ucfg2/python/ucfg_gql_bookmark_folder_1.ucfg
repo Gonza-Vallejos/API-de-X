@@ -1,0 +1,61 @@
+
+$gql.GQLClient.delete_bookmark_folder`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyÃ Ã($"2*·
+2
+Ä Ä(9
+
+Ä Ä(9
+%1"dict¦
+£
+
+Ä Ä(8
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*6
+
+__unknown_file (
+bookmark_collection_id*)
+
+__unknown_file (
+
+	folder_idE
+C
+
+Ä Ä(9
+	variables"__id*"
+
+__unknown_file (
+
+%1d
+b
+
+Å# Å(B
+%3"__id*H
+
+__unknown_file (,**
+gql.Endpoint"
+DELETE_BOOKMARK_FOLDERš
+
+Å Å(N
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+Å Å(N
+
+%4:
+
+Ã+ Ã(4
+	folder_idB
+gql.GQLClientH

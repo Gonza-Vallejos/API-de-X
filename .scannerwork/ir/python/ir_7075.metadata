@@ -1,0 +1,8 @@
+pip._vendor.requests.utils.resolve_proxies
+8f4c5dde6d8eea65587760192b9e70b5
+pip._vendor.requests.utils.should_bypass_proxies
+pip._vendor.requests.utils.get_environ_proxies
+==
+setdefault
+get
+copy

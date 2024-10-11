@@ -1,0 +1,14 @@
+anyio._backends._asyncio.TaskGroup._spawn
+1b539eef639c99ad784f0d7d53e7629c
+anyio._backends._asyncio._AsyncioTaskStatus.__init__
+asyncio.tasks.current_task
+anyio._backends._asyncio.get_callable_name
+anyio._backends._asyncio.TaskState.__init__
+str.__init__
+asyncio.tasks.create_task
+inspect.iscoroutine
+id
+hasattr
+==
+add
+add_done_callback

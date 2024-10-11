@@ -1,0 +1,5 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_html5_style_meta_tag_reflects_current_encoding
+2a3a026fed234c67731d76731e65ab95
+==
+soup
+find

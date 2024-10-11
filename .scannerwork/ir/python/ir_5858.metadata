@@ -1,0 +1,6 @@
+pip._internal.exceptions.MetadataGenerationFailed.__init__
+32a26e638f767dbd671512d53754ca5e
+super
+pip._vendor.rich.markup.escape
+==
+__init__

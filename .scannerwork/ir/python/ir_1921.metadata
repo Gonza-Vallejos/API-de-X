@@ -1,0 +1,4 @@
+anyio._backends._asyncio._RawSocketMixin._wait_until_readable.callback
+c063db7d63eec974dc15db8e3941c6f1
+==
+remove_reader

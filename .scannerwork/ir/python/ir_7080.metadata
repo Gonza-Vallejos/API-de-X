@@ -1,0 +1,3 @@
+pip._vendor.requests.utils.check_header_validity
+d0c36f51bb01d06c204f47e0d5c2f491
+pip._vendor.requests.utils._validate_header_part

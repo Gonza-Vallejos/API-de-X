@@ -1,0 +1,78 @@
+
+3httpcore._sync.connection_pool.ConnectionPool.closem
+a/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py³ ³("2*Ÿ
+2
+¶ ¶('…
+‚
+
+¶ ¶('
+%6"__id*h
+
+__unknown_file (L*J/
+-httpcore._sync.connection_pool.ConnectionPool"
+_optional_thread_lock*
+4
+5*:
+3
+connection_pool.py"
+» »(
+implicit return*Ä
+4
+¹ ¹(4­ª
+
+¹ ¹(4
+%1*M
+
+__unknown_file (1/
+-httpcore._sync.connection_pool.ConnectionPool*3
+
+__unknown_file (
+
+closing_connections2_close_connections*
+3*ÿ
+5
+· ·(9
+
+·" ·(9
+%2"list{
+y
+
+·' ·(8
+%3"__id*_
+
+__unknown_file (C*A/
+-httpcore._sync.connection_pool.ConnectionPool"
+_connectionsfd
+
+·" ·(9
+%4*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%32__init__O
+M
+
+· ·(9
+closing_connections"__id*"
+
+__unknown_file (
+
+%2
+
+¸  ¸("
+%5"list{
+y
+
+¸ ¸("A/
+-httpcore._sync.connection_pool.ConnectionPool"
+_connections"__id*"
+
+__unknown_file (
+
+%5*
+4B1/
+-httpcore._sync.connection_pool.ConnectionPoolH

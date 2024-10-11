@@ -1,0 +1,25 @@
+
+&pip._vendor.rich.prompt.PromptBase.askd
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/rich/prompt.pyM M("3*/
+3
+	prompt.py"
+[ [(
+implicit return:
+O O(
+prompt:
+Q Q()	
+console:
+R R(
+
+password:
+S S(+	
+choices:
+T T(!
+show_default:
+U U(!
+show_choices:
+V V(	
+default:
+W W('
+streamB&$
+"pip._vendor.rich.prompt.PromptBaseH

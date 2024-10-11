@@ -1,0 +1,15 @@
+
+=anyio.abc._eventloop.AsyncBackend.create_unix_datagram_socketc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/abc/_eventloop.py¬ ¬()"3*5
+3
+_eventloop.py"
+± ±(
+implicit return:
+
+­ ­(
+
+raw_socket:
+
+­! ­(@
+remote_pathB%#
+!anyio.abc._eventloop.AsyncBackendH

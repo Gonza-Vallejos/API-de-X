@@ -1,0 +1,9 @@
+pip._vendor.distlib.metadata.Metadata.__setattr__
+387ea5b8ffb7130200ffcec59da2bb43
+==
+strip
+split
+setdefault
+__setattr__
+_validate_value
+__getattribute__

@@ -1,0 +1,73 @@
+
+$httpx._transports.wsgi.WSGITransportc
+Y/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_transports/wsgi.pyM M("1*ø
+2U U(h
+f
+U U(/&
+$httpx._transports.wsgi.WSGITransport"
+app"__id*#
+
+__unknown_file (
+
+app‹
+ˆ
+V V(8@&
+$httpx._transports.wsgi.WSGITransport"
+raise_app_exceptions"__id*4
+
+__unknown_file (
+
+raise_app_exceptionsx
+v
+W W(&7&
+$httpx._transports.wsgi.WSGITransport"
+script_name"__id*+
+
+__unknown_file (
+
+script_namex
+v
+X X(&7&
+$httpx._transports.wsgi.WSGITransport"
+remote_addr"__id*+
+
+__unknown_file (
+
+remote_addrx
+v
+Y Y(&7&
+$httpx._transports.wsgi.WSGITransport"
+wsgi_errors"__id*+
+
+__unknown_file (
+
+wsgi_errors*
+3*X
+3	
+wsgi.py64
+[ [(
+%2"$httpx._transports.wsgi.WSGITransport"
+[ [(
+
+%2*`
+1S S(0L
+J
+S S("
+%1"__id*2
+
+__unknown_file (*
+
+typing"
+TextIO*
+2:
+O O(
+app:"
+P P()
+raise_app_exceptions:
+Q Q(
+script_name:
+R R(&
+remote_addr:
+S S(0
+wsgi_errorsB(&
+$httpx._transports.wsgi.WSGITransportH

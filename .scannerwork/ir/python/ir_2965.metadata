@@ -1,0 +1,5 @@
+pip._vendor.urllib3.connection.HTTPConnection.connect
+998e2f231c161a47775a2d233fd54720
+==
+_prepare_conn
+_new_conn

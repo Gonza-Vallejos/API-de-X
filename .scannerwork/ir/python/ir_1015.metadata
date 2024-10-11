@@ -1,0 +1,5 @@
+pip._internal.utils.misc.ConfiguredBuildBackendHookCaller.get_requires_for_build_editable
+56e65fc7d2066b521d9f020829039e67
+super
+==
+get_requires_for_build_editable

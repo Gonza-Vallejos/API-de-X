@@ -1,0 +1,5 @@
+pip._vendor.urllib3.connectionpool.connection_from_url
+370c6e1ec72ab67db8c665a989df9443
+pip._vendor.urllib3.util.url.get_host
+==
+get

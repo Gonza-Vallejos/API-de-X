@@ -1,0 +1,196 @@
+
+Pbs4.tests.HTMLTreeBuilderSmokeTest.test_preserved_whitespace_in_pre_and_textareaa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py¦ ¦(5"2*ž
+2
+§ ©(V
+T
+
+ª ª()
+
+pre_markup"__id*2
+
+__unknown_file (
+<pre>a   z</pre>\nk
+i
+
+« «(>
+textarea_markup"__id*B
+
+__unknown_file (&$
+"<textarea> woo\nwoo  </textarea>\n’
+
+¬ ¬($
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest**
+
+__unknown_file (
+
+
+pre_markup2assert_soup—”
+
+­ ­()
+%2*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*/
+
+__unknown_file (
+
+textarea_markup2assert_soup‹ˆ
+
+¯ ¯($
+%3*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest**
+
+__unknown_file (
+
+
+pre_markup2soup@
+>
+
+¯ ¯($
+soup"__id*"
+
+__unknown_file (
+
+%3I
+G
+
+° °(
+%4"__id*-
+
+__unknown_file (*
+
+soup"
+preB@
+
+° °("
+%5*"
+
+__unknown_file (
+
+%42prettify”
+‘
+
+° °(0
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5**
+
+__unknown_file (
+
+
+pre_markup
+
+² ²()
+%7*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*/
+
+__unknown_file (
+
+textarea_markup2soup@
+>
+
+² ²()
+soup"__id*"
+
+__unknown_file (
+
+%7N
+L
+
+³ ³(
+%8"__id*2
+
+__unknown_file (*
+
+soup"
+
+textareaB@
+
+³ ³('
+%9*"
+
+__unknown_file (
+
+%82prettifyš
+—
+
+³ ³(:
+%10"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%9*/
+
+__unknown_file (
+
+textarea_markup—”
+
+µ µ(1
+%11*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*5
+
+__unknown_file (
+<textarea></textarea>2soupA
+?
+
+µ µ(1
+soup"__id*#
+
+__unknown_file (
+
+%11O
+M
+
+¶ ¶(
+%12"__id*2
+
+__unknown_file (*
+
+soup"
+
+textareaDB
+
+¶ ¶('
+%13*#
+
+__unknown_file (
+
+%122prettify£
+ 
+
+¶ ¶(D
+%14"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%13*7
+
+__unknown_file (
+<textarea></textarea>\n*
+3*3
+3
+__init__.py"
+¸ ¸(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

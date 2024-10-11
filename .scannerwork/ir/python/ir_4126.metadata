@@ -1,0 +1,5 @@
+httpcore._synchronization.AsyncShieldCancellation.__init__
+ae656db9856faf1945e7b7ab69a7a009
+httpcore._synchronization.current_async_library
+==
+CancelScope

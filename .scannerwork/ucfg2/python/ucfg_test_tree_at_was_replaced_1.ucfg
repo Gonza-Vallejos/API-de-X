@@ -1,0 +1,83 @@
+
+Tbs4.tests.test_tree.TestTreeModification.test_unwrap_returns_thing_that_was_replacedb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyö ö(3"2*Ö
+2
+÷ ÷(&S
+Q
+
+÷ ÷(&
+text"__id*5
+
+__unknown_file (
+<a><b></b><c></c></a>‹ˆ
+
+ø ø(
+%1*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*$
+
+__unknown_file (
+
+text2soup@
+>
+
+ø ø(
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+ù ù(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+a=
+;
+
+ù ù(
+a"__id*"
+
+__unknown_file (
+
+%2?=
+
+ú ú(
+%3*!
+
+__unknown_file (
+
+a2unwrapA
+?
+
+ú ú(
+new_a"__id*"
+
+__unknown_file (
+
+%3Ž
+‹
+
+û û(
+%4"	__compare*"
+
+__unknown_file (
+==*!
+
+__unknown_file (
+
+a*%
+
+__unknown_file (	
+
+new_a*
+3*4
+3
+test_tree.py"
+ý ý(
+implicit returnB,*
+(bs4.tests.test_tree.TestTreeModificationH

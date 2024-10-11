@@ -1,0 +1,6 @@
+pip._vendor.packaging._elffile.ELFFile._read
+2af1eb8d73250ab80e74f8f3bdc8fc67
+struct.unpack
+struct.calcsize
+==
+read

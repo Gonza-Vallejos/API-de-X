@@ -1,0 +1,5 @@
+pip._vendor.distlib.util.get_resources_dests.get_rel_path
+6b5664b808530d58f6949e25cf0a8ebe
+==
+replace
+lstrip

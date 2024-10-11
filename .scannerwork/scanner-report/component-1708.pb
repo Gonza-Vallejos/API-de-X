@@ -1,0 +1,1 @@
+¨ 2pyXç!hr8env/lib/python3.12/site-packages/twikit/client/client.py

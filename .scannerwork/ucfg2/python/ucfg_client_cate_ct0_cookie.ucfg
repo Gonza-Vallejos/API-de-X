@@ -1,0 +1,167 @@
+
+*client.Client._remove_duplicate_ct0_cookiec
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.py¿ ¿($"2*Í
+2
+¡ ¡(
+
+¡ ¡(
+%11"dictD
+B
+
+¡ ¡(	
+cookies"__id*#
+
+__unknown_file (
+
+%11T
+R
+
+¬ ¬(
+%12"__id*7
+
+__unknown_file (*
+client.Client"
+httpM
+K
+
+¬ ¬('
+%13"__id*0
+
+__unknown_file (*
+
+%12"	
+cookiesI
+G
+
+¬ ¬(+
+%14"__id*,
+
+__unknown_file (*
+
+%13"
+jar*
+4
+6*1
+3
+	client.py"
+» »(
+implicit return*å
+4
+∆ ∆(1
+
+∆ ∆(1
+%1"listPN
+
+∆! ∆(0
+%2"
+dict.items*'
+
+__unknown_file (
+	
+cookies2itemsfd
+
+∆ ∆(1
+%3*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22__init__S
+Q
+
+∆ ∆(
+%4"__id*7
+
+__unknown_file (*
+client.Client"
+httpK
+I
+
+∆ ∆(1
+
+%4"	
+cookies"__id*"
+
+__unknown_file (
+
+%1*
+3*Ä
+6
+√ √(8ÑÅ
+
+√ √(
+%8"dict.__contains__*'
+
+__unknown_file (
+	
+cookies*#
+
+__unknown_file (
+ct02__contains__L
+J
+
+√$ √(/
+%9"__id*0
+
+__unknown_file (*
+
+cookie"
+nameé
+ã
+
+√$ √(8
+%10"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+ct0*	
+4
+6
+7*‹
+7
+≈ ≈(/M
+K
+
+≈# ≈(/
+%5"__id*1
+
+__unknown_file (*
+
+cookie"
+valueL
+J
+
+≈ ≈(
+%7"__id*0
+
+__unknown_file (*
+
+cookie"
+name•¢
+
+≈ ≈(/
+%6"dict.__setitem__*'
+
+__unknown_file (
+	
+cookies*"
+
+__unknown_file (
+
+%7*"
+
+__unknown_file (
+
+%52__setitem__*
+4
+6B
+client.ClientH

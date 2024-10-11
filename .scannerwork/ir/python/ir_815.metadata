@@ -1,0 +1,2 @@
+anyio._backends._trio.CancelScope.cancel_called
+799eaa8b54c29b4aa6e8b2deb47d9728

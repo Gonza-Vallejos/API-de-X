@@ -1,0 +1,6 @@
+pip._internal.metadata.base.BaseDistribution.installed_with_setuptools_egg_info
+fbc3da2d3908df3f72db4165414d8b7e
+pathlib.Path.__init__
+==
+is_dir
+endswith

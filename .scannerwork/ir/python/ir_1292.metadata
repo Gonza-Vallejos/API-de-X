@@ -1,0 +1,4 @@
+pip._vendor.rich._win32_console.GetConsoleCursorInfo
+b79a0a0c84f7d45091af599c2432b9f1
+bool.__init__
+ctypes.byref

@@ -1,0 +1,3 @@
+pip._vendor.distlib.util.get_process_umask
+468e05ae2a7b0b3e13f8418373d3bc90
+os.umask

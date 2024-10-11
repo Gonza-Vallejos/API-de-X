@@ -1,0 +1,8 @@
+pip._vendor.requests.sessions.Session.request
+73e19a3ae668a557fb0ac89f110525a9
+pip._vendor.requests.models.Request.__init__
+==
+prepare_request
+merge_environment_settings
+upper
+update

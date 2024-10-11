@@ -1,0 +1,1 @@
+¢ 2pyXhrBenv/lib/python3.12/site-packages/lxml/includes/libxslt/__init__.py

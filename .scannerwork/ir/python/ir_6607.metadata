@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestFind.test_unicode_attribute_find
+18fe421f87ea090ba5a679da8a303dec
+str.__init__
+==
+soup

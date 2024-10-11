@@ -1,0 +1,5 @@
+bs4.tests.test_pageelement.TestFormatters.test_html_entity_substitution_off_by_default
+77f4dd66e2316531c9e7bcd702118281
+==
+encode
+soup

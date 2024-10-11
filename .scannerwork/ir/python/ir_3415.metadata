@@ -1,0 +1,3 @@
+pip._internal.network.auth.MultiDomainBasicAuth._should_save_password_to_keyring
+b0b02e42de607d514b0095dc4f9f2af0
+pip._internal.utils.misc.ask

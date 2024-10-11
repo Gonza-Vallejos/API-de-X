@@ -1,0 +1,95 @@
+
+$gql.GQLClient.bookmark_folders_slice`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyµ µ($"2*z
+2
+¶ ¶(
+
+¶ ¶(
+%6"dictE
+C
+
+¶ ¶(
+	variables"__id*"
+
+__unknown_file (
+
+%6*
+4
+5*©
+4
+¹ ¹(,
+
+¹ ¹(,
+%1"dict™
+–
+
+¹ ¹(+
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+	variables*)
+
+__unknown_file (
+
+	variablesE
+C
+
+¹ ¹(,
+	variables"__id*"
+
+__unknown_file (
+
+%1d
+b
+
+º" º(A
+%3"__id*H
+
+__unknown_file (,**
+gql.Endpoint"
+BOOKMARK_FOLDERS_SLICEœ™
+
+º º(M
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables2gql_get"
+
+º º(M
+
+%4*Æ
+5
+¸ ¸((¯¬
+
+¸ ¸((
+%5"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+µ+ µ(1
+cursorB
+gql.GQLClientH

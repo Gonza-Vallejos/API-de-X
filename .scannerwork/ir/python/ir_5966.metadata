@@ -1,0 +1,3 @@
+pip._vendor.rich.console.Console.print_exception
+2afb9dbcc57faaf518571f7d5d5d8d4d
+pip._vendor.rich.traceback.Traceback.__init__

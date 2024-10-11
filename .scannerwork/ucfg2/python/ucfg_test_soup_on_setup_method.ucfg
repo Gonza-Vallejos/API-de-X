@@ -1,0 +1,66 @@
+
+7bs4.tests.test_soup.TestEncodingConversion.setup_methodb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_soup.pyÌ Ì("2*À
+2Í Í(”ï
+ì
+Í Í(”>,
+*bs4.tests.test_soup.TestEncodingConversion"
+unicode_data"__id*–
+
+__unknown_file (zx
+v<html><head><meta charset="utf-8"/></head><body><foo>Sacr\N{LATIN SMALL LETTER E WITH ACUTE} bleu!</foo></body></html>x
+v
+
+Î Î(*
+%1"__id*\
+
+__unknown_file (@*>,
+*bs4.tests.test_soup.TestEncodingConversion"
+unicode_datage
+
+Î Î(:
+%2*"
+
+__unknown_file (
+
+%1*%
+
+__unknown_file (	
+utf-82encodeu
+s
+
+Î Î(:;,
+*bs4.tests.test_soup.TestEncodingConversion"
+	utf8_data"__id*"
+
+__unknown_file (
+
+%2u
+s
+
+Ð Ð(
+%3"__id*Y
+
+__unknown_file (=*;,
+*bs4.tests.test_soup.TestEncodingConversion"
+	utf8_dataå
+â
+
+Ð Ð(
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*{
+
+__unknown_file (_]
+[<html><head><meta charset="utf-8"/></head><body><foo>Sacr\xc3\xa9 bleu!</foo></body></html>*
+3*4
+3
+test_soup.py"
+Ò Ò(
+implicit returnB.,
+*bs4.tests.test_soup.TestEncodingConversionH

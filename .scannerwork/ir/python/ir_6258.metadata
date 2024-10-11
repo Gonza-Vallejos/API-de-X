@@ -1,0 +1,7 @@
+pip._vendor.pkg_resources.NullProvider._validate_resource_path
+e25730e3e57cc006fbfcd22a1fbcbe8f
+posixpath.isabs
+ntpath.isabs
+==
+startswith
+split

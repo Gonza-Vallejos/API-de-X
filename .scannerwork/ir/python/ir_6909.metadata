@@ -1,0 +1,4 @@
+pip._internal.cli.cmdoptions._handle_python_version
+9526d9492903dc2ba4f7e424b629d11c
+pip._internal.cli.cmdoptions._convert_python_version
+pip._internal.cli.cmdoptions.raise_option_error

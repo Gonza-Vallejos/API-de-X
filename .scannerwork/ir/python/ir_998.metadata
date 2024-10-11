@@ -1,0 +1,6 @@
+pip._internal.utils.misc.redact_auth_from_requirement
+c1b0ba542281a3b9fc99a0da5b7ac415
+pip._internal.utils.misc.redact_auth_from_url
+str.__init__
+==
+replace

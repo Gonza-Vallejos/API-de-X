@@ -1,0 +1,6 @@
+httpcore._sync.http2.HTTP2Connection._wait_for_outgoing_flow
+fdeb2a6b077e9a799cee33ecd5689243
+min
+==
+local_flow_control_window
+_receive_events

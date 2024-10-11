@@ -1,0 +1,7 @@
+pip._internal.commands.list.ListCommand.output_package_listing
+1e903b0424339038220e3614b726d456
+sorted
+pip._internal.commands.list.format_for_columns
+pip._internal.commands.list.format_for_json
+==
+output_package_listing_columns

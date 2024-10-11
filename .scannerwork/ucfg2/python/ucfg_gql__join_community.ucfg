@@ -1,0 +1,65 @@
+
+gql.GQLClient.join_community`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyô ô("2*à
+2
+õ õ(1
+
+õ õ(1
+%1"dictž
+›
+
+õ õ(0
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*+
+
+__unknown_file (
+communityId*,
+
+__unknown_file (
+
+community_idE
+C
+
+õ õ(1
+	variables"__id*"
+
+__unknown_file (
+
+%1\
+Z
+
+ö# ö(:
+%3"__id*@
+
+__unknown_file ($*"
+gql.Endpoint"
+JOIN_COMMUNITYÖÓ
+
+ö ö(_
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%3*)
+
+__unknown_file (
+
+	variables*7
+
+__unknown_file (
+
+JOIN_COMMUNITY_FEATURES2gql_post"
+
+ö ö(_
+
+%4:
+
+ô# ô(/
+community_idB
+gql.GQLClientH

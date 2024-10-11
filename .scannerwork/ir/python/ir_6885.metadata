@@ -1,0 +1,7 @@
+pip._vendor.distlib.manifest.Manifest._parse_directive
+a746c4dce3f45f89dc5bccd9ce3118bc
+len
+pip._vendor.distlib.util.convert_path
+==
+split
+insert

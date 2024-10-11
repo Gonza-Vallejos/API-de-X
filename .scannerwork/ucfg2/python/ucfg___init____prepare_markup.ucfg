@@ -1,0 +1,20 @@
+
+&bs4.builder.TreeBuilder.prepare_markupc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/builder/__init__.pyï ï("3*3
+3
+__init__.py"
+‹ ‹(
+implicit return:
+
+ï ï(#
+markup:'
+
+ï% ï(A
+user_specified_encoding:*
+
+ð ð(6
+document_declared_encoding:!
+
+ð8 ð(N
+exclude_encodingsB
+bs4.builder.TreeBuilderH

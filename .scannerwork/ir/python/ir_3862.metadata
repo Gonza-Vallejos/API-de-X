@@ -1,0 +1,2 @@
+bs4.tests.test_builder_registry.TestRegistry.test_lookup_fails_when_no_tree_builders_registered
+2bf6eed71117ef66f6c6f9fcf334bf50

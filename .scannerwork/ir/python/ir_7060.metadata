@@ -1,0 +1,4 @@
+pip._vendor.requests.utils.guess_filename
+58a3cb2b4c517b262650e8dfe5448c08
+os.path.basename
+getattr

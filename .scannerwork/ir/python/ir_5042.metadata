@@ -1,0 +1,8 @@
+pip._internal.vcs.git.Git.update
+17f8ba649950ebe9bcf2a5151848bd81
+pip._internal.vcs.git.Git.resolve_revision
+pip._internal.vcs.git.Git.update_submodules
+==
+run_command
+to_args
+get_git_version

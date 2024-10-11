@@ -1,0 +1,1 @@
+Ì 2pyXOhr?env/lib/python3.12/site-packages/pip/_vendor/requests/compat.py

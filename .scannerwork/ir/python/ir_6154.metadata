@@ -1,0 +1,12 @@
+lxml.doctestcompare.LXMLOutputChecker.format_doc
+6a16ca324aee85208ba423a0b08f755b
+len
+lxml.doctestcompare.strip
+==
+format_tag
+format_doc
+format_text
+format_end_tag
+join
+append
+html_empty_tag

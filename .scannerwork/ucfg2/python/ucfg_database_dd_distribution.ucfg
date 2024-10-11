@@ -1,0 +1,66 @@
+
+=pip._vendor.distlib.database.DependencyGraph.add_distributionk
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/database.pyÞ Þ("2* 
+2
+ß ã(
+
+ä, ä(.
+%1"list|
+z
+
+ä ä(
+%3"__id*`
+
+__unknown_file (D*B.
+,pip._vendor.distlib.database.DependencyGraph"
+adjacency_listª§
+
+ä ä(.
+%2"dict.__setitem__*"
+
+__unknown_file (
+
+%3*,
+
+__unknown_file (
+
+distribution*"
+
+__unknown_file (
+
+%12__setitem__
+
+å* å(,
+%4"listz
+x
+
+å å(
+%6"__id*^
+
+__unknown_file (B*@.
+,pip._vendor.distlib.database.DependencyGraph"
+reverse_listª§
+
+å å(,
+%5"dict.__setitem__*"
+
+__unknown_file (
+
+%6*,
+
+__unknown_file (
+
+distribution*"
+
+__unknown_file (
+
+%42__setitem__*
+3*3
+3
+database.py"
+è è(
+implicit return:
+
+Þ Þ(+
+distributionB0.
+,pip._vendor.distlib.database.DependencyGraphH

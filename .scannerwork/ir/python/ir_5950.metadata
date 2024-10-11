@@ -1,0 +1,4 @@
+pip._vendor.rich.console.Console.clear
+273db30e9aabd455c1aa1b0b40cf72e0
+pip._vendor.rich.control.Control.home
+pip._vendor.rich.control.Control.clear

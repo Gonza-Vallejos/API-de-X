@@ -1,0 +1,4 @@
+pip._vendor.pygments.lexers.python.PythonConsoleLexer.__init__
+77ef1d3968ed2ef7776526d3b196dfb6
+super
+pip._vendor.pygments.util.get_bool_opt

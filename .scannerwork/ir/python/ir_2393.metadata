@@ -1,0 +1,8 @@
+bs4.diagnose.profile
+41186c8b8836b6d98a35b47d365bbf53
+dict.__init__
+tempfile.NamedTemporaryFile
+cProfile.runctx
+bs4.diagnose.rdoc
+==
+sort_stats

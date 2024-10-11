@@ -1,0 +1,3 @@
+bs4.tests.test_formatter.TestFormatter.test_default_indent_value
+75424299e396714a3dc15d2b903678b9
+bs4.formatter.Formatter.__init__

@@ -1,0 +1,4 @@
+pip._vendor.distlib.resources.ResourceFinder.__init__
+a4a5ce3242dcca955ee63c0d2b2dec21
+os.path.dirname
+getattr

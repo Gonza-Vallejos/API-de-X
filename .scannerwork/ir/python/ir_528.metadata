@@ -1,0 +1,4 @@
+bs4.tests.test_pageelement.TestEncoding.test_encoding_substitutes_unrecognized_characters_by_default
+8ffd1a43acd5334667822b9c1e2fa907
+==
+soup

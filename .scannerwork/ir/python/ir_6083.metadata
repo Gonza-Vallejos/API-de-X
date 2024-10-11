@@ -1,0 +1,2 @@
+pip._vendor.urllib3.util.timeout.Timeout.get_connect_duration
+1805c089fe59e6137084473a3a4ae277

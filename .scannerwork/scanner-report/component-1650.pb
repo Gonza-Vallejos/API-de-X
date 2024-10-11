@@ -1,0 +1,1 @@
+ò 2pyXhr5env/lib/python3.12/site-packages/idna/package_data.py

@@ -1,0 +1,8 @@
+pip._internal.operations.build.wheel_legacy.get_legacy_build_wheel_path
+4bc94af0d49bb37be44c945d2fbb7e34
+sorted
+pip._internal.operations.build.wheel_legacy.format_command_result
+len
+os.path.join
+==
+warning

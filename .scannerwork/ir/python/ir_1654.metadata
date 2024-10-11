@@ -1,0 +1,7 @@
+pip._vendor.urllib3.poolmanager.PoolManager.connection_from_context
+3d0609d8312b50d7210f6ce839bcef0f
+pip._vendor.urllib3.exceptions.URLSchemeUnknown.__init__
+==
+lower
+get
+connection_from_pool_key

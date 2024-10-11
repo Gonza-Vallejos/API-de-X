@@ -1,0 +1,1 @@
+„	 2pyXˆhrYenv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py

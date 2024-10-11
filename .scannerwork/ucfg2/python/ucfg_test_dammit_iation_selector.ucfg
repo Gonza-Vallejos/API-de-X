@@ -1,0 +1,109 @@
+
+Vbs4.tests.test_dammit.TestEntitySubstitution.test_html5_entity_with_variation_selectord
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_dammit.py√ √(1"2*Á
+2
+« «('T
+R
+
+« «('
+data"__id*6
+
+__unknown_file (
+fjords \u2294 penguinsW
+U
+
+» »(*
+markup"__id*7
+
+__unknown_file (
+fjords &sqcup; penguinsq
+o
+
+… …(
+%1"__id*U
+
+__unknown_file (9*7.
+,bs4.tests.test_dammit.TestEntitySubstitution"
+subom
+
+… …(-
+%2*"
+
+__unknown_file (
+
+%1*$
+
+__unknown_file (
+
+data2substitute_htmlê
+ç
+
+… …(7
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+
+markupZ
+X
+
+À À(-
+data"__id*<
+
+__unknown_file ( 
+fjords \u2294\ufe00 penguinsX
+V
+
+Ã Ã(+
+markup"__id*8
+
+__unknown_file (
+fjords &sqcups; penguinsq
+o
+
+Õ Õ(
+%4"__id*U
+
+__unknown_file (9*7.
+,bs4.tests.test_dammit.TestEntitySubstitution"
+subom
+
+Õ Õ(-
+%5*"
+
+__unknown_file (
+
+%4*$
+
+__unknown_file (
+
+data2substitute_htmlê
+ç
+
+Õ Õ(7
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5*&
+
+__unknown_file (
+
+
+markup*
+3*6
+3
+test_dammit.py"
+œ œ(
+implicit returnB0.
+,bs4.tests.test_dammit.TestEntitySubstitutionH

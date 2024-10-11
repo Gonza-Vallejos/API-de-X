@@ -1,0 +1,4 @@
+pip._vendor.packaging._parser.parse_requirement
+21d706cbdfce52b594ca31998b2c3f93
+pip._vendor.packaging._tokenizer.Tokenizer.__init__
+pip._vendor.packaging._parser._parse_requirement

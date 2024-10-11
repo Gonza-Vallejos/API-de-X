@@ -1,0 +1,38 @@
+
+httpx._models.Response.elapsed\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_models.pyé é("1*{
+2
+è è(e
+c
+
+è è(&
+httpx._models.Response"
+
+_elapsed"__id*'
+
+__unknown_file (
+	
+elapsed*
+3*2
+3
+
+_models.py"
+ë ë(
+implicit return*i
+1
+é é(1S
+Q
+
+é é(1
+%1"__id*7
+
+__unknown_file (*
+
+
+datetime"
+	timedelta*
+2:
+
+é é(1	
+elapsedB
+httpx._models.ResponseH

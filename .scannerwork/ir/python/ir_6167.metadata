@@ -1,0 +1,5 @@
+lxml.doctestcompare._RestoreChecker.uninstall_module
+55bdc9e5c80fd0a65c04387d0f4652ce
+delattr
+==
+rsplit

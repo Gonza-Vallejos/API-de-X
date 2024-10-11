@@ -1,0 +1,5 @@
+pip._vendor.distlib.util.FileOperator.newer
+12d1b5184b405be709e55c7a60c7fbdf
+os.stat
+os.path.abspath
+os.path.exists

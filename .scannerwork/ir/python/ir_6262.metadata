@@ -1,0 +1,4 @@
+pip._vendor.pkg_resources.EggProvider._set_egg
+31a787f4b9d72fc31bbd777a0f51cdd2
+os.path.basename
+os.path.join

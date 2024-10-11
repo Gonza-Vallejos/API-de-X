@@ -1,0 +1,1 @@
+é 2pyXPhr>env/lib/python3.12/site-packages/pip/_internal/utils/compat.py

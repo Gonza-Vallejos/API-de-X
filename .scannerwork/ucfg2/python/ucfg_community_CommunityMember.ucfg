@@ -1,0 +1,328 @@
+
+ twikit.community.CommunityMember]
+S/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/community.py ("2*Ï 
+2 (k
+i
+ (/"
+ twikit.community.CommunityMember"	
+_client"__id*&
+
+__unknown_file (
+
+
+clientxv
+ (&
+%2"__mapGet*$
+
+__unknown_file (
+
+data*'
+
+__unknown_file (	
+rest_id2__getitem__b
+`
+ (&*"
+ twikit.community.CommunityMember"
+id"__id*"
+
+__unknown_file (
+
+%2}
+# (9
+%3"__mapGet*$
+
+__unknown_file (
+
+data*.
+
+__unknown_file (
+community_role2__getitem__n
+l
+ (96"
+ twikit.community.CommunityMember"
+community_role"__id*"
+
+__unknown_file (
+
+%3€~
+% (<
+%4"__mapGet*$
+
+__unknown_file (
+
+data*/
+
+__unknown_file (
+super_following2__getitem__o
+m
+ (<7"
+ twikit.community.CommunityMember"
+super_following"__id*"
+
+__unknown_file (
+
+%4‡„
++ (H
+%5"__mapGet*$
+
+__unknown_file (
+
+data*5
+
+__unknown_file (
+super_follow_eligible2__getitem__u
+s
+ (H="
+ twikit.community.CommunityMember"
+super_follow_eligible"__id*"
+
+__unknown_file (
+
+%5ƒ€
+ '  (@
+%6"__mapGet*$
+
+__unknown_file (
+
+data*1
+
+__unknown_file (
+super_followed_by2__getitem__q
+o
+   (@9"
+ twikit.community.CommunityMember"
+super_followed_by"__id*"
+
+__unknown_file (
+
+%6}
+!$ !(:
+%7"__mapGet*$
+
+__unknown_file (
+
+data*.
+
+__unknown_file (
+smart_blocking2__getitem__n
+l
+! !(:6"
+ twikit.community.CommunityMember"
+smart_blocking"__id*"
+
+__unknown_file (
+
+%7
+"& "(>
+%8"__mapGet*$
+
+__unknown_file (
+
+data*0
+
+__unknown_file (
+is_blue_verified2__getitem__p
+n
+" "(>8"
+ twikit.community.CommunityMember"
+is_blue_verified"__id*"
+
+__unknown_file (
+
+%8wu
+$ $(
+%9"__mapGet*$
+
+__unknown_file (
+
+data*&
+
+__unknown_file (
+
+legacy2__getitem__@
+>
+$ $(
+legacy"__id*"
+
+__unknown_file (
+
+%9}
+%  %(5
+%10"__mapGet*&
+
+__unknown_file (
+
+
+legacy*+
+
+__unknown_file (
+screen_name2__getitem__l
+j
+% %(53"
+ twikit.community.CommunityMember"
+screen_name"__id*#
+
+__unknown_file (
+
+%10xv
+& &('
+%11"__mapGet*&
+
+__unknown_file (
+
+
+legacy*$
+
+__unknown_file (
+name2__getitem__e
+c
+& &(',"
+ twikit.community.CommunityMember"
+name"__id*#
+
+__unknown_file (
+
+%11ˆ…
+') '(F
+%12"__mapGet*&
+
+__unknown_file (
+
+
+legacy*3
+
+__unknown_file (
+follow_request_sent2__getitem__t
+r
+' '(F;"
+ twikit.community.CommunityMember"
+follow_request_sent"__id*#
+
+__unknown_file (
+
+%12}{
+( ((2
+%13"__mapGet*&
+
+__unknown_file (
+
+
+legacy*)
+
+__unknown_file (
+	protected2__getitem__j
+h
+( ((21"
+ twikit.community.CommunityMember"
+	protected"__id*#
+
+__unknown_file (
+
+%13}{
+) )(2
+%14"__mapGet*&
+
+__unknown_file (
+
+
+legacy*)
+
+__unknown_file (
+	following2__getitem__j
+h
+) )(21"
+ twikit.community.CommunityMember"
+	following"__id*#
+
+__unknown_file (
+
+%14}
+*! *(6
+%15"__mapGet*&
+
+__unknown_file (
+
+
+legacy*+
+
+__unknown_file (
+followed_by2__getitem__l
+j
+* *(63"
+ twikit.community.CommunityMember"
+followed_by"__id*#
+
+__unknown_file (
+
+%15|z
++ +(0
+%16"__mapGet*&
+
+__unknown_file (
+
+
+legacy*(
+
+__unknown_file (
+
+blocking2__getitem__i
+g
++ +(00"
+ twikit.community.CommunityMember"
+
+blocking"__id*#
+
+__unknown_file (
+
+%16Œ‰
+,, ,(M
+%17"__mapGet*&
+
+__unknown_file (
+
+
+legacy*7
+
+__unknown_file (
+profile_image_url_https2__getitem__x
+v
+, ,(M?"
+ twikit.community.CommunityMember"
+profile_image_url_https"__id*#
+
+__unknown_file (
+
+%17|z
+- -(0
+%18"__mapGet*&
+
+__unknown_file (
+
+
+legacy*(
+
+__unknown_file (
+
+verified2__getitem__i
+g
+- -(00"
+ twikit.community.CommunityMember"
+
+verified"__id*#
+
+__unknown_file (
+
+%18*
+3*Y
+3
+community.py20
+/ /(
+%1" twikit.community.CommunityMember"
+/ /(
+
+%1:
+ (%
+client:
+' (1
+dataB$"
+ twikit.community.CommunityMemberH

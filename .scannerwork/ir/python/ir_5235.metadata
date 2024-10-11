@@ -1,0 +1,3 @@
+pip._internal.req.req_install.InstallRequirement.isolated_editable_sanity_check
+fb02cf2cabd0718aae0820a43702f60a
+os.path.isfile

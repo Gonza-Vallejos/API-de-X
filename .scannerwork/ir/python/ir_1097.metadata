@@ -1,0 +1,6 @@
+bs4.builder.DetectsXMLParsedAsHTML._root_tag_encountered
+53e172155f78c0c144548b5c3ec3e58c
+bs4.builder.DetectsXMLParsedAsHTML._warn
+==
+startswith
+lower

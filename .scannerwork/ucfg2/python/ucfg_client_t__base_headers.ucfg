@@ -1,0 +1,196 @@
+
+-twikit.guest.client.GuestClient._base_headersb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/guest/client.py¢ ¢("2*™
+2
+£ •(
+
+¶ ´(	
+%8"dictg
+e
+
+ß' ß(2
+%9"__id*K
+
+__unknown_file (/*-!
+twikit.guest.client.GuestClient"
+_tokenP
+N
+
+ß ß(4
+%10"__concat*
+
+ß ß(&	
+Bearer *
+
+ß' ß(2
+
+%9ò
+ï
+
+ß ß(4
+%11"__mapSet*"
+
+__unknown_file (
+
+%8*-
+
+__unknown_file (
+authorization*#
+
+__unknown_file (
+
+%10§
+°
+
+® ®(.
+%12"__mapSet*"
+
+__unknown_file (
+
+%8*,
+
+__unknown_file (
+content-type*0
+
+__unknown_file (
+application/json†
+ù
+
+© ©(*
+%13"__mapSet*"
+
+__unknown_file (
+
+%8*5
+
+__unknown_file (
+X-Twitter-Active-User*#
+
+__unknown_file (
+yes£
+†
+
+™ ™(-
+%14"__mapSet*"
+
+__unknown_file (
+
+%8*'
+
+__unknown_file (	
+Referer*4
+
+__unknown_file (
+https://twitter.com/C
+A
+
+¶ ´(		
+headers"__id*"
+
+__unknown_file (
+
+%8j
+h
+
+≠ ≠(
+%15"__id*M
+
+__unknown_file (1*/!
+twikit.guest.client.GuestClient"
+
+language*
+6
+7**
+4
+¥ ¥("
+
+¥ ¥(
+	
+headers*∂
+5
+≤ ≤(8m
+k
+
+≤' ≤(8
+%1"__id*Q
+
+__unknown_file (5*3!
+twikit.guest.client.GuestClient"
+_guest_token∞≠
+
+≤ ≤(8
+%2"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*-
+
+__unknown_file (
+X-Guest-Token*"
+
+__unknown_file (
+
+%12__setitem__*
+4*Ü
+6
+± ±((m
+k
+
+± ±(
+%3"__id*Q
+
+__unknown_file (5*3!
+twikit.guest.client.GuestClient"
+_guest_token*
+4
+5*ﬁ
+7
+Æ Æ(6i
+g
+
+Æ) Æ(6
+%4"__id*M
+
+__unknown_file (1*/!
+twikit.guest.client.GuestClient"
+
+language≤Ø
+
+Æ Æ(6
+%5"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*/
+
+__unknown_file (
+Accept-Language*"
+
+__unknown_file (
+
+%42__setitem__i
+g
+
+Ø3 Ø(@
+%6"__id*M
+
+__unknown_file (1*/!
+twikit.guest.client.GuestClient"
+
+languageºπ
+
+Ø Ø(@
+%7"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*9
+
+__unknown_file (
+X-Twitter-Client-Language*"
+
+__unknown_file (
+
+%62__setitem__*
+6B#!
+twikit.guest.client.GuestClientH

@@ -1,0 +1,100 @@
+
+?bs4.tests.XMLTreeBuilderSmokeTest.test_namespaces_are_preserveda
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py∫ ∫(%"2*í	
+2ª ª(∂È
+Ê
+ª ª(∂
+markup"__id*∆
+
+__unknown_file (©¶
+£<root xmlns:a="http://example.com/" xmlns:b="http://example.net/"><a:foo>This tag is in the a namespace</a:foo><b:foo>This tag is in the b namespace</b:foo></root>ÜÉ
+
+º º( 
+%1*A
+
+__unknown_file (%#
+!bs4.tests.XMLTreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+º º( 
+soup"__id*"
+
+__unknown_file (
+
+%1J
+H
+
+Ω Ω(
+%2"__id*.
+
+__unknown_file (*
+
+soup"
+root@
+>
+
+Ω Ω(
+root"__id*"
+
+__unknown_file (
+
+%2zx
+
+æ( æ(7
+%3"__mapGet*$
+
+__unknown_file (
+
+root*'
+
+__unknown_file (	
+xmlns:a2__getitem__ù
+ö
+
+æ æ(7
+%4"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+http://example.com/*"
+
+__unknown_file (
+
+%3zx
+
+ø( ø(7
+%5"__mapGet*$
+
+__unknown_file (
+
+root*'
+
+__unknown_file (	
+xmlns:b2__getitem__ù
+ö
+
+ø ø(7
+%6"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+http://example.net/*"
+
+__unknown_file (
+
+%5*
+3*3
+3
+__init__.py"
+¡ ¡(
+implicit returnB%#
+!bs4.tests.XMLTreeBuilderSmokeTestH

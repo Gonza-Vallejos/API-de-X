@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestTreeModification.test_insert_beautifulsoup_object_inserts_children
+36d10480c46c336dd176b1c21d787227
+list.__init__
+==
+soup
+insert

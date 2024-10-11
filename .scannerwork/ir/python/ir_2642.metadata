@@ -1,0 +1,10 @@
+BaseConfigurator.convert
+07d7b4f579ad722f66f3e4fb4033a0d1
+pip._vendor.distlib.compat.ConvertingDict.__init__
+getattr
+pip._vendor.distlib.compat.ConvertingTuple.__init__
+pip._vendor.distlib.compat.ConvertingList.__init__
+==
+groupdict
+get
+match

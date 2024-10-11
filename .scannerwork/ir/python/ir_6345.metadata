@@ -1,0 +1,5 @@
+pip._internal.commands.configuration.ConfigurationCommand.add_options
+62b1725b6b4861b2dd473ccc037eeb79
+==
+insert_option_group
+add_option

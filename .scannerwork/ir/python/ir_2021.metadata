@@ -1,0 +1,8 @@
+pip._vendor.packaging.tags.parse_tag
+b78e93d74b5ba3f691f2a7da0ad97d7e
+pip._vendor.packaging.tags.Tag.__init__
+frozenset.__init__
+set.__init__
+==
+add
+split

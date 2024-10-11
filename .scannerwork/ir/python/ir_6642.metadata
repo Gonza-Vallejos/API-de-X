@@ -1,0 +1,7 @@
+bs4.tests.test_tree.TestFindAllByAttribute.test_find_all_with_regular_expression_attribute_value
+9ae8b8e6f62683777bf7e6aff7478890
+re.compile
+==
+soup
+find_all
+assert_selects

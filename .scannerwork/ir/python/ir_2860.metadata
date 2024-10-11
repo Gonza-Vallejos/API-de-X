@@ -1,0 +1,7 @@
+pip._vendor.rich.text.Text.__getitem__
+ab24b96c03e66eb2de50aef0f6f4f409
+len
+pip._vendor.rich.text.Text.__getitem__.get_text_at
+==
+indices
+divide

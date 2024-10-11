@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestTreeModification.test_replace_with_maintains_next_element_throughout
+f5f983683a3eb1dd7fa535734240b5cf
+==
+soup
+insert
+replaceWith

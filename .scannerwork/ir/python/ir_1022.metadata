@@ -1,0 +1,4 @@
+pip._internal.utils.virtualenv.running_under_virtualenv
+776f94a5b07d0d1644b13d7905714251
+pip._internal.utils.virtualenv._running_under_venv
+pip._internal.utils.virtualenv._running_under_legacy_virtualenv

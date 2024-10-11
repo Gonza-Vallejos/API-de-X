@@ -1,0 +1,14 @@
+
+Ypip._internal.distributions.installed.InstalledDistribution.prepare_distribution_metadatar
+h/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/distributions/installed.py (%"3*0
+3
+installed.py"
+ 
+implicit return:
+ (
+finder:
+ (
+build_isolation:
+ (
+check_build_depsB?=
+;pip._internal.distributions.installed.InstalledDistributionH

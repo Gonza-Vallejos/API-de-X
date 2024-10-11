@@ -1,0 +1,4 @@
+pip._internal.req.constructors.install_req_from_editable
+87ac229fb4fa96feb45b4c6b50bbd00e
+pip._internal.req.constructors.parse_req_from_editable
+pip._internal.req.req_install.InstallRequirement.__init__

@@ -1,0 +1,7 @@
+anyio._core._sockets.create_connected_unix_datagram_socket
+f115bde9e4a2739af79fc134ebd952d1
+anyio._core._sockets.setup_unix_local_socket
+os.fspath
+anyio._core._eventloop.get_async_backend
+==
+create_unix_datagram_socket

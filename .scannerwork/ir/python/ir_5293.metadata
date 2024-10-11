@@ -1,0 +1,6 @@
+pip._internal.operations.prepare.unpack_url
+1f2c91883c07b4211c215746e93ca9fc
+pip._internal.utils.unpacking.unpack_file
+pip._internal.operations.prepare.get_file_url
+pip._internal.operations.prepare.unpack_vcs_link
+pip._internal.operations.prepare.get_http_url

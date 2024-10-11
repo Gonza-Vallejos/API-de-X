@@ -1,0 +1,7 @@
+pip._internal.utils.logging.RichPipStreamHandler.handleError
+c5eace314769fec1c0a07caa7ad85ec2
+super
+sys.exc_info
+pip._internal.utils.logging._is_broken_pipe_error
+==
+handleError

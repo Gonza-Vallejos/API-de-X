@@ -1,0 +1,7 @@
+bs4.tests.test_tree.TestNextSibling.test_next_sibling_for_text_element
+504e9c3278fd1ed31685691782a20383
+==
+soup
+find_next_siblings
+assert_selects
+find

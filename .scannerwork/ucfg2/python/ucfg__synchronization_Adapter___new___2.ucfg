@@ -1,0 +1,30 @@
+
+5anyio._core._synchronization.SemaphoreAdapter.__new__k
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_core/_synchronization.py¬ ¬("2*Ë
+2
+³ ³("£ 
+
+³ ³("
+%1"type.__new__*&
+
+__unknown_file (
+
+
+object*M
+
+__unknown_file (1/
+-anyio._core._synchronization.SemaphoreAdapter2__new__"
+
+³ ³("
+
+%1:
+
+® ®(
+initial_value:
+
+° °($
+	max_value:
+
+± ±("
+fast_acquireB1/
+-anyio._core._synchronization.SemaphoreAdapterH

@@ -1,0 +1,6 @@
+h11.tests.test_connection.test_408_request_timeout
+5fc72ca842235a93c2d68f1bcc8f268b
+h11._events.Response.__init__
+h11.tests.helpers.ConnectionPair.__init__
+==
+send

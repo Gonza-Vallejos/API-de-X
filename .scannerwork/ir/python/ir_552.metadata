@@ -1,0 +1,4 @@
+bs4.tests.test_pageelement.TestPersistence.test_pickle_and_unpickle_identity
+276918914737a79541ce10bfae8f7949
+pickle.loads
+pickle.dumps

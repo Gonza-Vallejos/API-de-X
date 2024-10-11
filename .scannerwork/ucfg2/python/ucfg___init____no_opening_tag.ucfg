@@ -1,0 +1,58 @@
+
+Gbs4.tests.HTMLTreeBuilderSmokeTest.test_closing_tag_with_no_opening_taga
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py¾ ¾(,"2*Î
+2
+Ã Ã(L±®
+
+Ã Ã(L
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*P
+
+__unknown_file (42
+0<body><div><p>text1</p></span>text2</div></body>2soup@
+>
+
+Ã Ã(L
+soup"__id*"
+
+__unknown_file (
+
+%1J
+H
+
+Ä> Ä(G
+%2"__id*.
+
+__unknown_file (*
+
+soup"
+body@>
+
+Ä> Ä(P
+%3*"
+
+__unknown_file (
+
+%22decode³
+°
+
+Ä Ä(P
+%4"	__compare*"
+
+__unknown_file (
+==*I
+
+__unknown_file (-+
+)<body><div><p>text1</p>text2</div></body>*"
+
+__unknown_file (
+
+%3*
+3*3
+3
+__init__.py"
+Æ Æ(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

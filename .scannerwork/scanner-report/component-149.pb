@@ -1,0 +1,1 @@
+• 2pyXúhr3env/lib/python3.12/site-packages/httpx/_urlparse.py

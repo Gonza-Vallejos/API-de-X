@@ -1,0 +1,3 @@
+pip._vendor.distlib.resources.ResourceFinder._adjust_path
+c0226fb42d33743ea1694ebb3b66d089
+os.path.realpath

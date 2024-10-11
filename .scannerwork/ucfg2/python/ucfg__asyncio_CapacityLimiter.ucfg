@@ -1,0 +1,51 @@
+
+(anyio._backends._asyncio.CapacityLimiterg
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.pyÖ Ö("2*Î
+2
+× ×()
+
+×$ ×()
+%2"sett
+r
+
+× ×():*
+(anyio._backends._asyncio.CapacityLimiter"
+
+_borrowers"__id*"
+
+__unknown_file (
+
+%2-+
+
+Ø< Ø(I
+%3"collections.OrderedDictu
+s
+
+Ø Ø(I;*
+(anyio._backends._asyncio.CapacityLimiter"
+_wait_queue"__id*"
+
+__unknown_file (
+
+%3€
+~
+
+Ù Ù((<*
+(anyio._backends._asyncio.CapacityLimiter"
+total_tokens"__id*,
+
+__unknown_file (
+
+total_tokens*
+3*d
+3
+_asyncio.py<:
+Û Û(
+%1"(anyio._backends._asyncio.CapacityLimiter"
+Û Û(
+
+%1:
+
+Ö Ö(*
+total_tokensB,*
+(anyio._backends._asyncio.CapacityLimiterH

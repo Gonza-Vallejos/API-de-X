@@ -1,0 +1,26 @@
+
+-anyio.abc._eventloop.AsyncBackend.getaddrinfoc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/abc/_eventloop.py³ ³("3*5
+3
+_eventloop.py"
+Ç Ç(
+implicit return:
+
+µ µ( 
+host:
+
+¶ ¶(
+port:
+
+¸ ¸('
+family:
+
+¹ ¹("
+type:
+
+º º(
+proto:
+
+» »(
+flagsB%#
+!anyio.abc._eventloop.AsyncBackendH

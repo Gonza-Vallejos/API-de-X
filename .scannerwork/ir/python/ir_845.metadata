@@ -1,0 +1,6 @@
+anyio._backends._trio.UDPSocket.__init__
+8694534bbabe1d02c784a108783c2622
+super
+anyio._core._synchronization.ResourceGuard.__init__
+==
+__init__

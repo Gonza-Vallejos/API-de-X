@@ -1,0 +1,4 @@
+bs4.tests.test_htmlparser.TestHTMLParserTreeBuilder.test_redundant_empty_element_closing_tags
+e4a9b7db3a49c68092ab777ed39e9310
+==
+assert_soup

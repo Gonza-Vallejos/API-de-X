@@ -1,0 +1,6 @@
+pip._internal.vcs.versioncontrol.VersionControl.unpack
+6b52d2eceba2a1e6e9bb0a18966764ec
+pip._internal.utils.misc.rmtree
+os.path.exists
+==
+obtain

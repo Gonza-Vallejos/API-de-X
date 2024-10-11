@@ -1,0 +1,6 @@
+pip._vendor.requests.auth.HTTPDigestAuth.build_digest_header.sha_utf8
+52a0d6c15e6db18db24a0981f4395f11
+hashlib.sha1
+==
+encode
+hexdigest

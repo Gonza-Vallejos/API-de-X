@@ -1,0 +1,4 @@
+pip._vendor.rich.json.JSON.__init__
+ff20574378574a55e1006f25686143c9
+pip._vendor.rich.highlighter.JSONHighlighter.__init__
+pip._vendor.rich.highlighter.NullHighlighter.__init__

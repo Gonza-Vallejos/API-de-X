@@ -1,0 +1,5 @@
+anyio._core._tasks.current_effective_deadline
+6368c3eb2465ff1cb1bb9c786d4603da
+anyio._core._eventloop.get_async_backend
+==
+current_effective_deadline

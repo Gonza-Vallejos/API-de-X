@@ -1,0 +1,4 @@
+bs4.tests.test_formatter.TestFormatter.test_default_attributes
+b8083fb00c9e58e6857f9b7b343b8117
+bs4.formatter.Formatter.__init__
+bs4.element.Tag.__init__

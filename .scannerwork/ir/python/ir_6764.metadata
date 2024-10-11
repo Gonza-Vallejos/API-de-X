@@ -1,0 +1,7 @@
+pip._vendor.platformdirs.macos.MacOS.site_data_dir
+83b2e343ae7d208c2ab42b02374f6815
+==
+startswith
+_append_app_name_and_version
+join
+append

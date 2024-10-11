@@ -1,0 +1,6 @@
+pip._vendor.rich.progress.TextColumn.__init__
+b6437b43b1ada1fc2b5d7bcdd0014e95
+super
+pip._vendor.rich.table.Column.__init__
+==
+__init__

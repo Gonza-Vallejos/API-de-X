@@ -1,0 +1,9 @@
+pip._internal.cli.base_command.Command.__init__
+c1eb58ecefcb9ce15db1cf1e02a0212d
+super
+optparse.OptionGroup.__init__
+==
+add_option_group
+add_options
+__init__
+make_option_group

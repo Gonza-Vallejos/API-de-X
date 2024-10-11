@@ -1,0 +1,6 @@
+anyio._core._synchronization.Condition.statistics
+95586bbbbc8bd50015acb0ba9c24215f
+len
+anyio._core._synchronization.ConditionStatistics.__init__
+==
+statistics

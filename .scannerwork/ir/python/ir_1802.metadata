@@ -1,0 +1,5 @@
+pip._vendor.rich.syntax.Syntax.stylize_range
+8183a9eab15aafc3eced0f0a2d6eadd7
+pip._vendor.rich.syntax._SyntaxHighlightRange.__init__
+==
+append

@@ -1,0 +1,6 @@
+pip._vendor.requests.sessions.SessionRedirectMixin.rebuild_auth
+9da4ec28b84800c0862fbf398f9ddf10
+pip._vendor.requests.utils.get_netrc_auth
+==
+prepare_auth
+should_strip_auth

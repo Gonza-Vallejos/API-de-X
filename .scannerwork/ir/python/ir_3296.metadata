@@ -1,0 +1,4 @@
+pip._internal.cli.parser.PrettyHelpFormatter.__init__
+5f1ce66092c3b9fe2f246118a5a77e48
+super
+shutil.get_terminal_size

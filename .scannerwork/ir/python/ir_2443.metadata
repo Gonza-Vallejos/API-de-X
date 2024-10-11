@@ -1,0 +1,8 @@
+pip._vendor.requests.adapters._urllib3_request_context
+a0846f39f3fe469a0a91bc53f0c2f0cd
+len
+os.path.isdir
+getattr
+==
+lower
+get

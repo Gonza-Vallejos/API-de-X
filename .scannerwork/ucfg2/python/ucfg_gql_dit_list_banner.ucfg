@@ -1,0 +1,86 @@
+
+gql.GQLClient.edit_list_banner`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyâ â("2*Á
+2
+ä ç(	
+
+ä ç(	
+%1"dictî
+ë
+
+ã ã(
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*&
+
+__unknown_file (
+
+listId*'
+
+__unknown_file (
+	
+list_idñ
+ì
+
+å å(
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (	
+mediaId*(
+
+__unknown_file (
+
+
+media_idE
+C
+
+ä ç(	
+	variables"__id*"
+
+__unknown_file (
+
+%1^
+\
+
+é# é(<
+%4"__id*B
+
+__unknown_file (&*$
+gql.Endpoint"
+EDIT_LIST_BANNERÃ…
+
+é é(W
+%5*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%4*)
+
+__unknown_file (
+
+	variables*-
+
+__unknown_file (
+
+LIST_FEATURES2gql_post"
+
+é é(W
+
+%5:
+
+â% â(,	
+list_id:
+
+â. â(6
+
+media_idB
+gql.GQLClientH

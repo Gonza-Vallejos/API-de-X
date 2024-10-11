@@ -1,0 +1,5 @@
+pip._internal.network.cache.SafeFileCache.set
+5978ba13a2992e4edd39ed74ee17bab6
+==
+_get_cache_path
+_write

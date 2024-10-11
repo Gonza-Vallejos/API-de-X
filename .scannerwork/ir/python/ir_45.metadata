@@ -1,0 +1,5 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_multiple_copies_of_a_tag
+020f5d9dd863a2de7cd4e078621f83c2
+==
+soup
+assertConnectedness

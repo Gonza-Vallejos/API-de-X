@@ -1,0 +1,5 @@
+pip._internal.resolution.resolvelib.factory.Factory.__init__
+39a97374c144afe8ddf3709e584b3cc1
+pip._internal.utils.compatibility_tags.get_supported
+pip._internal.resolution.resolvelib.candidates.RequiresPythonCandidate.__init__
+pip._internal.metadata.get_default_environment

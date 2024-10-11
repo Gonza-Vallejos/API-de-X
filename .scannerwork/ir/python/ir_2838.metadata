@@ -1,0 +1,7 @@
+pip._internal.vcs.versioncontrol.VersionControl.get_url_rev_options
+35624679ba874cd84dd1044f2421bdd2
+pip._internal.vcs.versioncontrol.VersionControl.get_url_rev_and_auth
+pip._internal.vcs.versioncontrol.VersionControl.make_rev_options
+pip._internal.utils.misc.hide_url
+pip._internal.vcs.versioncontrol.VersionControl.make_rev_args
+pip._internal.utils.misc.hide_value

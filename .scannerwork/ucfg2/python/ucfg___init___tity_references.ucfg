@@ -1,0 +1,23 @@
+
+Vbs4.tests.HTMLTreeBuilderSmokeTest.test_strings_resembling_character_entity_referencesa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyý ý(;"2*‘
+2
+€ ƒ(	ú÷
+
+€ ƒ(	
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*D
+
+__unknown_file ((&
+$<p>&bull; AT&T is in the s&p 500</p>*L
+
+__unknown_file (0.
+,<p>\u2022 AT&amp;T is in the s&amp;p 500</p>2assert_soup*
+3*3
+3
+__init__.py"
+… …(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

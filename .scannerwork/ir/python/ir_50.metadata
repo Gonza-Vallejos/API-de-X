@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_single_quote_attribute_values_become_double_quotes
+fd482a7beab6aa27d9c0f1144facc71d
+==
+assert_soup

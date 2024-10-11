@@ -1,0 +1,70 @@
+
+tbs4.tests.test_tree.TestFindAll.test_find_all_with_self_referential_data_structure_does_not_cause_infinite_recursion`
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyg g(\"2*¬
+2h h(#ƒ€
+h h(#
+%1*?
+
+__unknown_file (#!
+bs4.tests.test_tree.TestFindAll*'
+
+__unknown_file (	
+<a></a>2soup>
+<
+h h(#
+soup"__id*"
+
+__unknown_file (
+
+%1
+j j(
+%2"list;
+9
+j j(
+l"__id*"
+
+__unknown_file (
+
+%2mk
+k k(
+%3"list.append*!
+
+__unknown_file (
+
+l*!
+
+__unknown_file (
+
+l2append
+o o(
+%4"listec
+o o(%
+%5*$
+
+__unknown_file (
+
+soup*!
+
+__unknown_file (
+
+l2find_allŠ
+‡
+o o(%
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%5*
+3*2
+3
+test_tree.py"
+q q(
+implicit returnB#!
+bs4.tests.test_tree.TestFindAllH

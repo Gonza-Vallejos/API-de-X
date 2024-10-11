@@ -1,0 +1,6 @@
+pip._internal.operations.install.wheel._install_wheel.root_scheme_file_maker.make_root_scheme_file
+3d4edeb1bdee9dae7d1c239f6a8d20e0
+os.path.normpath
+pip._internal.operations.install.wheel._install_wheel.assert_no_path_traversal
+pip._internal.operations.install.wheel.ZipBackedFile.__init__
+os.path.join

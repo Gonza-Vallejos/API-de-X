@@ -1,0 +1,7 @@
+pip._internal.utils.virtualenv._no_global_under_venv
+d2577c203b137111414d8d219880efb9
+pip._internal.utils.virtualenv._get_pyvenv_cfg_lines
+==
+match
+warning
+group

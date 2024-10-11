@@ -1,0 +1,5 @@
+pip._internal.vcs.versioncontrol.VersionControl.normalize_url
+d5a21df2db1213ea3ecfa00aebdb2e47
+urllib.parse.unquote
+==
+rstrip

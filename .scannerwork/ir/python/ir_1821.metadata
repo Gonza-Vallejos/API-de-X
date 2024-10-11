@@ -1,0 +1,4 @@
+bs4.tests.test_tag.TestTag.test_get_text_ignores_special_string_containers
+ff850d63400fea087bae43cd84a02836
+==
+soup

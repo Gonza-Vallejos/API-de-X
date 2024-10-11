@@ -1,0 +1,4 @@
+pip._vendor.urllib3.packages.six.MovedAttribute._resolve
+c1b48a15a9b2f7aed02d9936cf5db7f5
+pip._vendor.urllib3.packages.six._import_module
+getattr

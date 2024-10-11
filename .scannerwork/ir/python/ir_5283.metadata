@@ -1,0 +1,6 @@
+pip._vendor.tomli._parser.parse_multiline_str
+2fbab6c4c2834e07ef6fc6147ad7f479
+pip._vendor.tomli._parser.parse_basic_str
+pip._vendor.tomli._parser.skip_until
+==
+startswith

@@ -1,0 +1,8 @@
+anyio._core._typedattr.TypedAttributeSet.__init_subclass__
+22cb5e41aaae362ed6e0e5b4073de7e5
+super
+getattr
+dir
+==
+startswith
+__init_subclass__

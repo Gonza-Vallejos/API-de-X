@@ -1,0 +1,5 @@
+pip._vendor.urllib3.contrib._securetransport.low_level._is_identity
+048d9e4b2d41bac0b8b14a57744bff17
+==
+CFGetTypeID
+SecIdentityGetTypeID

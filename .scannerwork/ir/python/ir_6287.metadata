@@ -1,0 +1,5 @@
+pip._vendor.pkg_resources.FileMetadata.get_metadata_lines
+ef24a954c14ba2eaa58fd1b67af0ea66
+pip._internal.utils._jaraco_text.yield_lines
+==
+get_metadata

@@ -1,0 +1,5 @@
+pip._internal.metadata.base.BaseDistribution.iter_declared_entries
+531de8703d2287b7e62a5080efae5b25
+==
+_iter_declared_entries_from_legacy
+_iter_declared_entries_from_record

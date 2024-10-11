@@ -1,0 +1,1 @@
+þ 2pyX4hr;env/lib/python3.12/site-packages/httpcore/_backends/auto.py

@@ -1,0 +1,6 @@
+pip._internal.req.req_uninstall.UninstallPathSet._permitted
+28b4653173c279b2ffd1f03296795af1
+pip._internal.utils.virtualenv.running_under_virtualenv
+==
+_normalize_path_cached
+startswith

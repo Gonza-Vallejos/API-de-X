@@ -1,0 +1,57 @@
+
+)anyio._backends._asyncio.UDPSocket.acloseg
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.pyÄ Ä("2*Õ
+2
+Å Å(+n
+l
+
+Å Å(
+%3"__id*R
+
+__unknown_file (6*4$
+"anyio._backends._asyncio.UDPSocket"
+
+_transportDB
+
+Å Å(+
+%4*"
+
+__unknown_file (
+
+%32
+is_closing*
+3
+4*3
+3
+_asyncio.py"
+Ö Ö(
+implicit return*¥
+4
+Ç Ç(m
+k
+
+Ç Ç(1$
+"anyio._backends._asyncio.UDPSocket"	
+_closed"__id*$
+
+__unknown_file (
+
+Truen
+l
+
+É É(
+%1"__id*R
+
+__unknown_file (6*4$
+"anyio._backends._asyncio.UDPSocket"
+
+_transport?=
+
+É É(#
+%2*"
+
+__unknown_file (
+
+%12close*
+3B&$
+"anyio._backends._asyncio.UDPSocketH

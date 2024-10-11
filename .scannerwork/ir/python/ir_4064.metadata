@@ -1,0 +1,4 @@
+bs4.tests.test_html5lib.TestHTML5LibBuilder.test_reparented_markup_ends_with_whitespace
+6b2187d27d419e02f3f772077ee786e3
+==
+soup

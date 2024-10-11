@@ -1,0 +1,7 @@
+pip._vendor.distlib.locators.DirectoryLocator.__init__
+71d0019990869ba916003ff49d79e0fd
+super
+os.path.abspath
+os.path.isdir
+==
+pop

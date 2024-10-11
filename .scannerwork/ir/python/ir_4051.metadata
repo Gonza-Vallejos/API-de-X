@@ -1,0 +1,5 @@
+httpcore._async.connection_pool.AsyncConnectionPool.__init__
+971e2774b8a399eec5f94bb1de5aff5a
+httpcore._synchronization.AsyncThreadLock.__init__
+min
+httpcore._backends.auto.AutoBackend.__init__

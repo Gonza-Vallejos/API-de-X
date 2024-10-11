@@ -1,0 +1,12 @@
+lxml.html.html5parser.fromstring
+9abfce73b6f2bd0ed4d369ec708bd933
+lxml.html.html5parser.document_fromstring
+len
+lxml.html._contains_block_level_tag
+lxml.html.html5parser._find_tag
+==
+startswith
+strip
+lower
+lstrip
+decode

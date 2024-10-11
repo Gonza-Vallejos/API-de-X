@@ -1,0 +1,5 @@
+pip._vendor.urllib3.poolmanager.PoolManager.connection_from_url
+769914e5dcab7157e6b2ae3c7a364dd6
+pip._vendor.urllib3.util.url.parse_url
+==
+connection_from_host

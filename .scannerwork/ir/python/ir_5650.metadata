@@ -1,0 +1,7 @@
+lxml.html.HtmlMixin.resolve_base_href
+0b4de0f604e80d2458a1c2759f587695
+==
+xpath
+get
+make_links_absolute
+drop_tree

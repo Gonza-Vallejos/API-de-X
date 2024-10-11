@@ -1,0 +1,1 @@
+Û 2pyX*hrTenv/lib/python3.12/site-packages/pip/_internal/operations/build/metadata_editable.py

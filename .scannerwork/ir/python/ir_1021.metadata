@@ -1,0 +1,3 @@
+pip._internal.utils.virtualenv._running_under_legacy_virtualenv
+270890db19d1dbb8a55a88422c19143b
+hasattr

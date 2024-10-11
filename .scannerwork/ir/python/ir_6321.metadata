@@ -1,0 +1,5 @@
+pip._vendor.pkg_resources.Distribution._get_version
+b5b30ef260ee7004b92ff631346dd345
+pip._vendor.pkg_resources._version_from_file
+==
+_get_metadata

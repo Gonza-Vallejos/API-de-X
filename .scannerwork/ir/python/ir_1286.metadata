@@ -1,0 +1,5 @@
+pip._vendor.rich._win32_console.GetConsoleMode
+13cf48bcf31b0addc244cb57a8b23443
+bool.__init__
+==
+DWORD

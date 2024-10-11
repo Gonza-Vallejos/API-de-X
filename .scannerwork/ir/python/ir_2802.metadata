@@ -1,0 +1,8 @@
+h11.tests.test_connection.test_automagic_connection_close_handling
+eb4c4d49b16835967c8218d34078fa1d
+h11._events.EndOfMessage.__init__
+h11._events.Request.__init__
+h11._events.Response.__init__
+h11.tests.helpers.ConnectionPair.__init__
+==
+send

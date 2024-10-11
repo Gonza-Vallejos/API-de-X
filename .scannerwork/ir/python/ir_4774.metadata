@@ -1,0 +1,6 @@
+pip._internal.commands.show.ShowCommand.run
+f7dcde9461edfa2dbcfd773234a960ac
+pip._internal.commands.show.search_packages_info
+pip._internal.commands.show.print_results
+==
+warning

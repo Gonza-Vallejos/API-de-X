@@ -1,0 +1,97 @@
+
+Nbs4.tests.test_tree.TestTreeModification.test_wrap_extracts_tag_from_elsewhereb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyú ú(-"2*¿
+2
+û û(5 
+
+û û(5
+%1*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*9
+
+__unknown_file (
+<b></b>I wish I was bold.2soup@
+>
+
+û û(5
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+ü ü(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+bP
+N
+
+ü ü(
+%3"__id*4
+
+__unknown_file (*
+
+%2"
+next_siblingG
+E
+
+ü! ü('
+%4"__id*+
+
+__unknown_file (*
+
+soup"
+bb`
+
+ü ü((
+%5*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%42wrapB@
+
+ı ı(
+%6*$
+
+__unknown_file (
+
+soup2decode¨¥
+
+ı  ı(N
+%7*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*9
+
+__unknown_file (
+<b>I wish I was bold.</b>2document_forŒ
+‰
+
+ı ı(N
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%6*"
+
+__unknown_file (
+
+%7*
+3*4
+3
+test_tree.py"
+ÿ ÿ(
+implicit returnB,*
+(bs4.tests.test_tree.TestTreeModificationH

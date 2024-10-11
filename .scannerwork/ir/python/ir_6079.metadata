@@ -1,0 +1,3 @@
+pip._vendor.urllib3.util.timeout.Timeout.__init__
+048cf0ff51e70d72c91c73947d3169be
+pip._vendor.urllib3.util.timeout.Timeout._validate_timeout

@@ -1,0 +1,12 @@
+/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/rich/ansi.#__main__
+1a2cc0860c8128ae91449f6db2be6daf
+pty.spawn
+print
+io.BytesIO.__init__
+pip._vendor.rich.ansi.AnsiDecoder.__init__
+re.compile
+pip._vendor.rich.console.Console.__init__
+==
+getvalue
+save_html
+decode

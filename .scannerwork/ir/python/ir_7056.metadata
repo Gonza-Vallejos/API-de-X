@@ -1,0 +1,7 @@
+pip._internal.models.search_scope.SearchScope.get_index_urls_locations.mkurl_pypi_url
+945fe6847d9b307cc5df5bf0ab990809
+urllib.parse.quote
+posixpath.join
+pip._vendor.packaging.utils.canonicalize_name
+==
+endswith

@@ -1,0 +1,8 @@
+pip._vendor.rich.progress.TaskProgressColumn.render
+4a4b9b93ef9ceae33e038bedbeba7018
+pip._vendor.rich.text.Text.from_markup
+pip._vendor.rich.progress.TaskProgressColumn.render_speed
+pip._vendor.rich.text.Text.__init__
+==
+highlight
+format

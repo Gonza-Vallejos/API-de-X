@@ -1,0 +1,8 @@
+h11._readers.maybe_read_from_IDLE_client
+e5a9be3c93cd7c7b22f5982ebb0128d0
+h11._readers._decode_header_lines
+h11._util.LocalProtocolError.__init__
+list.__init__
+==
+is_next_line_obviously_invalid_request_line
+maybe_extract_lines

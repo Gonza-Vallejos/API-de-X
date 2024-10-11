@@ -1,0 +1,99 @@
+
+Cbs4.tests.test_soup.TestEncodingConversion.test_utf8_in_unicode_outb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_soup.pyî î( "2*ø
+2
+ñ ñ(2u
+s
+
+ñ# ñ(1
+%1"__id*Y
+
+__unknown_file (=*;,
+*bs4.tests.test_soup.TestEncodingConversion"
+	utf8_data‹ˆ
+
+ñ ñ(2
+%2*J
+
+__unknown_file (.,
+*bs4.tests.test_soup.TestEncodingConversion*"
+
+__unknown_file (
+
+%12soupJ
+H
+
+ñ ñ(2
+soup_from_utf8"__id*"
+
+__unknown_file (
+
+%2LJ
+
+ò ò(&
+%3*.
+
+__unknown_file (
+
+soup_from_utf82decodex
+v
+
+ò* ò(;
+%4"__id*\
+
+__unknown_file (@*>,
+*bs4.tests.test_soup.TestEncodingConversion"
+unicode_dataŒ
+‰
+
+ò ò(;
+%5"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4S
+Q
+
+ó ó(!
+%6"__id*7
+
+__unknown_file (*
+
+soup_from_utf8"
+fooJ
+H
+
+ó ó((
+%7"__id*.
+
+__unknown_file (*
+
+%6"
+string˜
+•
+
+ó ó(<
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%7*.
+
+__unknown_file (
+Sacr\xe9 bleu!*
+3*4
+3
+test_soup.py"
+õ õ(
+implicit returnB.,
+*bs4.tests.test_soup.TestEncodingConversionH

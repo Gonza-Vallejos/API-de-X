@@ -1,0 +1,4 @@
+anyio._backends._trio.TaskGroup.__init__
+817136fc2f29fa4c04482b8eb9f3931b
+==
+open_nursery

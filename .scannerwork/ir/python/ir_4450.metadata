@@ -1,0 +1,6 @@
+anyio.from_thread.BlockingPortal._call_func.callback
+95c30b1d9e43331c76b424ebb40b7716
+threading.get_ident
+==
+call
+cancelled

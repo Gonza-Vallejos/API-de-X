@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestPreviousOperations.test_find_all_previous
+e8f5122dac60551b17122649365bbade
+==
+assert_selects
+find_all_previous

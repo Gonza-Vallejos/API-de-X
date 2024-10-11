@@ -1,0 +1,3 @@
+pip._vendor.urllib3.connection.HTTPConnection._is_using_tunnel
+b1a5a0822ca766242275e44cf0ab7f5c
+getattr

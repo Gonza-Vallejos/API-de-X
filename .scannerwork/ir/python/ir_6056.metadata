@@ -1,0 +1,5 @@
+pip._vendor.requests.models.PreparedRequest.prepare_method
+7b87c5aa3a9c925b49e1fd9e5938c9ae
+pip._vendor.requests._internal_utils.to_native_string
+==
+upper

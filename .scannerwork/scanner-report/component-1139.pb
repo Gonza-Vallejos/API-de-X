@@ -1,0 +1,1 @@
+ó 2pyXœhr[env/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/weakref_finalize.py

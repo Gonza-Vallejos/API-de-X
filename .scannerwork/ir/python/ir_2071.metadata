@@ -1,0 +1,7 @@
+pip._internal.utils.logging.RichPipStreamHandler.__init__
+3fc8f6f78fdb46d43380ab83c22ce445
+super
+pip._vendor.rich.console.Console.__init__
+pip._vendor.rich.highlighter.NullHighlighter.__init__
+==
+__init__

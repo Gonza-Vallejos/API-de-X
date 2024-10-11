@@ -1,0 +1,77 @@
+
+5pip._vendor.distlib.database.DependencyGraph.__repr__k
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/database.pyÑ	 Ñ	("2*¶
+2
+Ò	 Ò	()
+
+Ó	 Ó	(
+%4"listB
+@
+
+Ó	 Ó	(
+output"__id*"
+
+__unknown_file (
+
+%4|
+z
+
+Ô	 Ô	(-
+%5"__id*`
+
+__unknown_file (D*B.
+,pip._vendor.distlib.database.DependencyGraph"
+adjacency_list?=
+
+Ô	 Ô	(5
+%6*"
+
+__unknown_file (
+
+%52items*
+4
+6*—
+4
+Ö	 Ö	( pn
+
+Ö	 Ö	( 
+%1"str.join*"
+
+__unknown_file (
+\n*&
+
+__unknown_file (
+
+
+output2join"
+
+Ö	 Ö	( 
+
+%1*¥
+6
+Õ	 Õ	(/”‘
+
+Õ	 Õ	(.
+%2*L
+
+__unknown_file (0.
+,pip._vendor.distlib.database.DependencyGraph*$
+
+__unknown_file (
+
+dist2	repr_nodeus
+
+Õ	 Õ	(/
+%3"list.append*&
+
+__unknown_file (
+
+
+output*"
+
+__unknown_file (
+
+%22append*
+4
+6B0.
+,pip._vendor.distlib.database.DependencyGraphH

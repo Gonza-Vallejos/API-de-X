@@ -1,0 +1,6 @@
+pip._internal.metadata.base.BaseDistribution.editable_project_location
+e0d7fdac18a1ee77d976e37adb84786d
+pip._internal.utils.egg_link.egg_link_path_from_sys_path
+pip._internal.utils.urls.url_to_path
+==
+is_local_editable

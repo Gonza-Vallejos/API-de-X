@@ -1,0 +1,7 @@
+h11.tests.test_connection.test_protocol_switch.setup
+565c178d6b41f7c0cc8d98a1506c717e
+h11._events.EndOfMessage.__init__
+h11._events.Data.__init__
+h11.tests.helpers.ConnectionPair.__init__
+==
+send

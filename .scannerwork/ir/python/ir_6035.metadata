@@ -1,0 +1,9 @@
+pip._internal.commands.cache.CacheCommand.format_for_human
+bcd525b51b79742745bcf91012142f50
+sorted
+os.path.basename
+==
+format_file_size
+join
+append
+info

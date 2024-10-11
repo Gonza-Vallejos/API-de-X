@@ -1,0 +1,178 @@
+
+/bs4.tests.HTMLTreeBuilderSmokeTest.test_commenta
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyó ó("2*ß
+2
+ô ô(-Z
+X
+
+ô ô(-
+markup"__id*:
+
+__unknown_file (
+<p>foo<!--foobar-->baz</p>éã
+
+ö ö( 
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2assert_soupáÑ
+
+ú ú( 
+%2*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+ú ú( 
+soup"__id*"
+
+__unknown_file (
+
+%2rp
+
+ù ù(,
+%3*$
+
+__unknown_file (
+
+soup2find:0
+string&
+
+__unknown_file (
+
+foobarC
+A
+
+ù ù(,	
+comment"__id*"
+
+__unknown_file (
+
+%3R
+P
+
+û û( 
+%4"__id*6
+
+__unknown_file (*
+	
+comment"
+	__class__ë
+é
+
+û û(+
+%5"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%4*'
+
+__unknown_file (
+	
+Commentom
+
+° °(%
+%6*$
+
+__unknown_file (
+
+soup2find:-
+string#
+
+__unknown_file (
+foo?
+=
+
+° °(%
+foo"__id*"
+
+__unknown_file (
+
+%6Q
+O
+
+¢ ¢(*
+%7"__id*5
+
+__unknown_file (*
+
+foo"
+next_elementë
+é
+
+¢ ¢(*
+%8"	__compare*"
+
+__unknown_file (
+==*'
+
+__unknown_file (
+	
+comment*"
+
+__unknown_file (
+
+%7om
+
+£ £(%
+%9*$
+
+__unknown_file (
+
+soup2find:-
+string#
+
+__unknown_file (
+baz?
+=
+
+£ £(%
+baz"__id*"
+
+__unknown_file (
+
+%9V
+T
+
+§ §(.
+%10"__id*9
+
+__unknown_file (*
+
+baz"
+previous_elementì
+ê
+
+§ §(.
+%11"	__compare*"
+
+__unknown_file (
+==*'
+
+__unknown_file (
+	
+comment*#
+
+__unknown_file (
+
+%10*
+3*3
+3
+__init__.py"
+¶ ¶(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

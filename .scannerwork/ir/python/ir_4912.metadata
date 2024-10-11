@@ -1,0 +1,6 @@
+httpcore._backends.auto.AutoBackend._init_backend
+8448d885f5afec745e931a0fa38ec2f5
+httpcore._synchronization.current_async_library
+hasattr
+httpcore._backends.trio.TrioBackend.__init__
+httpcore._backends.anyio.AnyIOBackend.__init__

@@ -1,0 +1,1 @@
+Ã	 2pyX7hr>env/lib/python3.12/site-packages/pip/_vendor/idna/intranges.py

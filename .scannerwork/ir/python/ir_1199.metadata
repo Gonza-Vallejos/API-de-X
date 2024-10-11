@@ -1,0 +1,3 @@
+pip._internal.cli.index_command._pip_self_version_check
+919d30f70de45d5d6c18c44538472ab7
+pip._internal.self_outdated_check.pip_self_version_check

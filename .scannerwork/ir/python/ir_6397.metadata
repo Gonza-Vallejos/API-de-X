@@ -1,0 +1,9 @@
+pip._vendor.packaging._parser._parse_requirement_details
+e84e25d0b1ec3559185ae882984465fc
+pip._vendor.packaging._parser._parse_requirement_marker
+pip._vendor.packaging._parser._parse_specifier
+==
+expect
+read
+consume
+check

@@ -1,0 +1,9 @@
+pip._vendor.rich.syntax.Syntax._get_line_numbers_color
+66260a30b56219b2caf2b7ec3b2b8a74
+pip._vendor.rich.color.Color.default
+pip._vendor.rich.color.Color.from_triplet
+pip._vendor.rich.color.blend_rgb
+==
+_get_token_color
+get_background_style
+get_truecolor

@@ -1,0 +1,6 @@
+h11.tests.test_connection.test_close_simple.setup
+1e7accb0e99f911310b7994bbe9dac96
+h11.tests.helpers.ConnectionPair.__init__
+h11._events.ConnectionClosed.__init__
+==
+send

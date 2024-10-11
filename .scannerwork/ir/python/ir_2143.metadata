@@ -1,0 +1,3 @@
+bs4.tests.test_navigablestring.TestNavigableStringSubclasses.test_declaration
+165da732d2674897b128401333d1cf98
+bs4.element.Declaration.__init__

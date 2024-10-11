@@ -1,0 +1,5 @@
+httpcore._synchronization.AsyncSemaphore.setup
+95865f4b1eb0d5499ed39cca62e05e63
+httpcore._synchronization.current_async_library
+==
+Semaphore

@@ -1,0 +1,5 @@
+pip._vendor.pkg_resources.ResourceManager.resource_filename
+59be63ab5b9e11a3da5d43f3d9416667
+pip._vendor.pkg_resources.get_provider
+==
+get_resource_filename

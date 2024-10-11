@@ -1,0 +1,5 @@
+bs4.tests.test_dammit.TestUnicodeDammit.test_ignore_invalid_codecs
+24d8c968a0c8a25a9ad30764f60e8971
+bs4.dammit.UnicodeDammit.__init__
+==
+encode

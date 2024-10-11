@@ -1,0 +1,7 @@
+httpx._auth.NetRCAuth._build_auth_header
+857579f7238275a5853acd5c9ca0c593
+httpx._utils.to_bytes
+base64.b64encode
+==
+join
+decode

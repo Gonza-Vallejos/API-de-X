@@ -1,0 +1,7 @@
+pip._vendor.cachecontrol.controller.CacheController.update_cached_response
+8dbe690ccd77b752f5764940fc75ab33
+pip._vendor.cachecontrol.controller.CacheController.cache_url
+==
+_cache_set
+update
+_load_from_cache

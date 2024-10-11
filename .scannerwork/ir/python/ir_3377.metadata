@@ -1,0 +1,4 @@
+pip._internal.metadata.pkg_resources.Distribution.installed_location
+e1a911d23e7e3bb37f8dda06dfbb5450
+pip._internal.utils.egg_link.egg_link_path_from_location
+pip._internal.utils.misc.normalize_path

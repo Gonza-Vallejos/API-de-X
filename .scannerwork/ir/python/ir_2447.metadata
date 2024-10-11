@@ -1,0 +1,7 @@
+pip._vendor.requests.adapters.HTTPAdapter.__init__
+066168b7c11baaa1a66d199cba8dde60
+super
+pip._vendor.urllib3.util.retry.Retry.__init__
+pip._vendor.urllib3.util.retry.Retry.from_int
+==
+__init__

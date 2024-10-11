@@ -1,0 +1,59 @@
+
+"client.Client.get_list_subscribersc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyú ú(""2*Ã
+2
+ý •(R
+P
+
+–* –(2
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+gqlT
+R
+
+–* –(C
+%2"__id*8
+
+__unknown_file (*
+
+%1"
+list_subscribersñî
+
+– –(\
+%3*-
+
+__unknown_file (
+client.Client*"
+
+__unknown_file (
+
+%2*'
+
+__unknown_file (
+	
+list_id*%
+
+__unknown_file (	
+
+count*&
+
+__unknown_file (
+
+
+cursor2_get_list_users"
+
+– –(\
+
+%3:
+
+û û(	
+list_id:
+
+û û(+
+count:
+
+û- û(F
+cursorB
+client.ClientH

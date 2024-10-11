@@ -1,0 +1,5 @@
+pip._internal.utils.entrypoints.get_best_invocation_for_this_python
+cd2f6e184d05307a7856185bff58f587
+os.path.samefile
+os.path.basename
+shutil.which

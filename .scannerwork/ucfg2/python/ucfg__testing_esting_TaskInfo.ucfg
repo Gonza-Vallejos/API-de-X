@@ -1,0 +1,96 @@
+
+anyio._core._testing.TaskInfoa
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_core/_testing.py ("2*Ù
+2 (L
+J
+ (
+func"__id*0
+
+__unknown_file (
+
+get_current_taskN
+L
+ ('
+%2"__id*4
+
+__unknown_file (*
+
+func"
+
+__module__P
+N
+* (;
+%3"__id*6
+
+__unknown_file (*
+
+func"
+__qualname__W
+U
+ (=
+%4"__concat*
+ ('
+
+%2*
+( ()
+.*
+* (;
+
+%3b
+`
+ (=*
+anyio._core._testing.TaskInfo"
+_name"__id*"
+
+__unknown_file (
+
+%4_
+]
+ ('
+anyio._core._testing.TaskInfo"
+id"__id*"
+
+__unknown_file (
+
+idm
+k
+   (..
+anyio._core._testing.TaskInfo"
+	parent_id"__id*)
+
+__unknown_file (
+
+	parent_idc
+a
+! !($)
+anyio._core._testing.TaskInfo"
+name"__id*$
+
+__unknown_file (
+
+namec
+a
+" "(C)
+anyio._core._testing.TaskInfo"
+coro"__id*$
+
+__unknown_file (
+
+coro*
+3*U
+3
+_testing.py/-
+$ $(
+%1"anyio._core._testing.TaskInfo"
+$ $(
+
+%1:
+ (
+id:
+ (
+	parent_id:
+ (
+name:
+ (7
+coroB!
+anyio._core._testing.TaskInfoH

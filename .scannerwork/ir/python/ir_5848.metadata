@@ -1,0 +1,6 @@
+pip._internal.exceptions.NetworkConnectionError.__init__
+3f2fc4c8ca4641dad29d03dcceadaaef
+super
+hasattr
+==
+__init__

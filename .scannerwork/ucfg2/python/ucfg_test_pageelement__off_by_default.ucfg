@@ -1,0 +1,91 @@
+
+Vbs4.tests.test_pageelement.TestFormatters.test_html_entity_substitution_off_by_defaulti
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.pyÒ Ò(4"2*á
+2
+Ó Ó(Gt
+r
+
+Ó Ó(G
+markup"__id*T
+
+__unknown_file (86
+4<b>Sacr\N{LATIN SMALL LETTER E WITH ACUTE} bleu!</b>Ž‹
+
+Ô Ô( 
+%1*I
+
+__unknown_file (-+
+)bs4.tests.test_pageelement.TestFormatters*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+Ô Ô( 
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+Õ Õ(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+bge
+
+Õ Õ((
+%3*"
+
+__unknown_file (
+
+%2*%
+
+__unknown_file (	
+utf-82encodeC
+A
+
+Õ Õ((	
+encoded"__id*"
+
+__unknown_file (
+
+%3wu
+
+Ö Ö(0
+%4"
+str.encode*&
+
+__unknown_file (
+
+
+markup*%
+
+__unknown_file (	
+utf-82encode‘
+Ž
+
+Ö Ö(0
+%5"	__compare*"
+
+__unknown_file (
+==*'
+
+__unknown_file (
+	
+encoded*"
+
+__unknown_file (
+
+%4*
+3*;
+3
+test_pageelement.py"
+Ø Ø(
+implicit returnB-+
+)bs4.tests.test_pageelement.TestFormattersH

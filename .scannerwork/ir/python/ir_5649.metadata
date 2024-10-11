@@ -1,0 +1,5 @@
+lxml.html.HtmlMixin.make_links_absolute
+efac6c417f4caf39a5e564a47a83c4e5
+==
+resolve_base_href
+rewrite_links

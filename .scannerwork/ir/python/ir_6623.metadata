@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestFindAllByName.test_find_all_by_tag_dict
+6b451f86cafa13439203b64db1471ec9
+==
+find_all
+assert_selects

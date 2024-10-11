@@ -1,0 +1,7 @@
+pip._internal.utils.misc.check_externally_managed
+c009ae08813da6ea13ccf01de1010d51
+pip._internal.utils.virtualenv.running_under_virtualenv
+os.path.join
+os.path.isfile
+pip._internal.exceptions.ExternallyManagedEnvironment.from_config
+sysconfig.get_path

@@ -1,0 +1,5 @@
+pip._vendor.pyproject_hooks._in_process._in_process.contained_in
+8bb514f8d54cf5b5e64026aa5ef023d0
+os.path.normcase
+os.path.commonprefix
+os.path.abspath

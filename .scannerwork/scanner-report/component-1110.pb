@@ -1,0 +1,1 @@
+Ö 2pyX´hrAenv/lib/python3.12/site-packages/pip/_vendor/requests/__init__.py

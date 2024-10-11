@@ -1,0 +1,313 @@
+
+twikit.tweet.CommunityNote[
+O/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/tweet.pyê ê("2*Ò
+2
+ë ë(g
+e
+
+ë ë()
+twikit.tweet.CommunityNote"	
+_client"__id*&
+
+__unknown_file (
+
+
+clientzx
+
+í í(&
+%2"__mapGet*$
+
+__unknown_file (
+
+data*'
+
+__unknown_file (	
+rest_id2__getitem__^
+\
+
+í í(&$
+twikit.tweet.CommunityNote"
+id"__id*"
+
+__unknown_file (
+
+%2zx
+
+î î(!
+%3"__mapGet*$
+
+__unknown_file (
+
+data*'
+
+__unknown_file (	
+data_v12__getitem__C
+A
+
+î î(!	
+data_v1"__id*"
+
+__unknown_file (
+
+%3}{
+
+ï ï(+
+%4"__mapGet*'
+
+__unknown_file (
+	
+data_v1*'
+
+__unknown_file (	
+summary2__getitem__us
+
+ï ï(3
+%5"__mapGet*"
+
+__unknown_file (
+
+%4*$
+
+__unknown_file (
+text2__getitem__`
+^
+
+ï ï(3&
+twikit.tweet.CommunityNote"
+text"__id*"
+
+__unknown_file (
+
+%5sq
+
+ñ* ñ(H
+%6*'
+
+__unknown_file (
+	
+data_v1*/
+
+__unknown_file (
+misleading_tags2getk
+i
+
+ñ ñ(H1
+twikit.tweet.CommunityNote"
+misleading_tags"__id*"
+
+__unknown_file (
+
+%6wu
+
+ó) ó(K
+%7*'
+
+__unknown_file (
+	
+data_v1*3
+
+__unknown_file (
+trustworthy_sources2geto
+m
+
+ó ó(K5
+twikit.tweet.CommunityNote"
+trustworthy_sources"__id*"
+
+__unknown_file (
+
+%7wu
+
+ò' ò(?
+%8"dict.get*$
+
+__unknown_file (
+
+data*,
+
+__unknown_file (
+helpful_tags2geth
+f
+
+ò ò(?.
+twikit.tweet.CommunityNote"
+helpful_tags"__id*"
+
+__unknown_file (
+
+%8us
+
+ô ô(5
+%9"dict.get*$
+
+__unknown_file (
+
+data**
+
+__unknown_file (
+
+created_at2getf
+d
+
+ô ô(5,
+twikit.tweet.CommunityNote"
+
+created_at"__id*"
+
+__unknown_file (
+
+%9vt
+
+ö  ö(6
+%10"dict.get*$
+
+__unknown_file (
+
+data**
+
+__unknown_file (
+
+can_appeal2getg
+e
+
+ö ö(6,
+twikit.tweet.CommunityNote"
+
+can_appeal"__id*#
+
+__unknown_file (
+
+%10yw
+
+õ" õ(;
+%11"dict.get*$
+
+__unknown_file (
+
+data*-
+
+__unknown_file (
+appeal_status2getj
+h
+
+õ õ(;/
+twikit.tweet.CommunityNote"
+appeal_status"__id*#
+
+__unknown_file (
+
+%11yw
+
+ú# ú(<
+%12"dict.get*$
+
+__unknown_file (
+
+data*-
+
+__unknown_file (
+is_media_note2getj
+h
+
+ú ú(</
+twikit.tweet.CommunityNote"
+is_media_note"__id*#
+
+__unknown_file (
+
+%12~|
+
+ù' ù(E
+%13"dict.get*$
+
+__unknown_file (
+
+data*2
+
+__unknown_file (
+media_note_matches2geto
+m
+
+ù ù(E4
+twikit.tweet.CommunityNote"
+media_note_matches"__id*#
+
+__unknown_file (
+
+%13}{
+
+û' û(D
+%14"dict.get*$
+
+__unknown_file (
+
+data*1
+
+__unknown_file (
+birdwatch_profile2getn
+l
+
+û û(D3
+twikit.tweet.CommunityNote"
+birdwatch_profile"__id*#
+
+__unknown_file (
+
+%14Å
+
+ü ü(2
+%15"__mapGet*$
+
+__unknown_file (
+
+data*-
+
+__unknown_file (
+tweet_results2__getitem__yw
+
+ü ü(<
+%16"__mapGet*#
+
+__unknown_file (
+
+%15*&
+
+__unknown_file (
+
+result2__getitem__zx
+
+ü ü(G
+%17"__mapGet*#
+
+__unknown_file (
+
+%16*'
+
+__unknown_file (	
+rest_id2__getitem__e
+c
+
+ü ü(G*
+twikit.tweet.CommunityNote"
+
+tweet_id"__id*#
+
+__unknown_file (
+
+%17*
+3*S
+3
+
+tweet.py.,
+° °(
+%1"twikit.tweet.CommunityNote"
+° °(
+
+%1:
+
+ê ê(%
+client:
+
+ê' ê(1
+dataB
+twikit.tweet.CommunityNoteH

@@ -1,0 +1,3 @@
+bs4.tests.test_element.TestNamedspacedAttribute.test_attribute_is_equivalent_to_colon_separated_string
+1d28e61116340d3a54f030e4f2b84f1c
+bs4.element.NamespacedAttribute.__init__

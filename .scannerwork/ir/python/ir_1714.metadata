@@ -1,0 +1,4 @@
+anyio._core._synchronization.SemaphoreAdapter.acquire_nowait
+362cd47306c2c89f84877e4f07c31947
+==
+acquire_nowait

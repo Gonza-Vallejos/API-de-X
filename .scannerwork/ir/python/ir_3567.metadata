@@ -1,0 +1,10 @@
+pip._internal.operations.install.wheel.get_console_script_specs
+6dde65b6dcf7f8ec8d49daf02ceeca0b
+itertools.starmap.__init__
+==
+pop
+extend
+get
+copy
+items
+append

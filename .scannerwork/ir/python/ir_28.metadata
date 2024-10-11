@@ -1,0 +1,5 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_preserved_whitespace_in_pre_and_textarea
+68898eb40875ef822679264ebc7acfb8
+==
+soup
+assert_soup

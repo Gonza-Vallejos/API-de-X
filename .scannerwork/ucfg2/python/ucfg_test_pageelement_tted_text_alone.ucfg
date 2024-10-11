@@ -1,0 +1,56 @@
+
+Vbs4.tests.test_pageelement.TestFormatters.test_prettify_leaves_preformatted_text_alonei
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.py§ §(4"2*­
+2
+¨ ¨(oÛØ
+
+¨ ¨(o
+%1*I
+
+__unknown_file (-+
+)bs4.tests.test_pageelement.TestFormatters*s
+
+__unknown_file (WU
+S<div>  foo  <pre>  \tbar\n  \n  </pre>  baz  <textarea> eee\nfff\t</textarea></div>2soup@
+>
+
+¨ ¨(o
+soup"__id*"
+
+__unknown_file (
+
+%1I
+G
+
+«p «(x
+%2"__id*-
+
+__unknown_file (*
+
+soup"
+divCA
+«p «(ƒ
+%3*"
+
+__unknown_file (
+
+%22prettifyæ
+ã
+« «(ƒ
+%4"	__compare*"
+
+__unknown_file (
+==*{
+
+__unknown_file (_]
+[<div>\n foo\n <pre>  \tbar\n  \n  </pre>\n baz\n <textarea> eee\nfff\t</textarea>\n</div>\n*"
+
+__unknown_file (
+
+%3*
+3*;
+3
+test_pageelement.py"
+­ ­(
+implicit returnB-+
+)bs4.tests.test_pageelement.TestFormattersH

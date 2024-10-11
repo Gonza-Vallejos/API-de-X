@@ -1,0 +1,14 @@
+/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/wheel.#__main__
+1d48a60563c7b8dde8b10af477631a91
+logging.getLogger
+pip._vendor.distlib.wheel._derive_abi
+re.compile
+hasattr
+pip._vendor.distlib.wheel.compatible_tags
+pip._vendor.distlib.util.get_platform
+pip._vendor.distlib.wheel.Mounter.__init__
+==
+startswith
+split
+replace
+get_config_var

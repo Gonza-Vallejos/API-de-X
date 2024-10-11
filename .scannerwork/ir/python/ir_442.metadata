@@ -1,0 +1,3 @@
+pip._vendor.distlib.version.Matcher.parse_requirement
+bffab3f7e5f4844d1048d63fa315fb5b
+pip._vendor.distlib.util.parse_requirement

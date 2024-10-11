@@ -1,0 +1,1 @@
+‹ 2pyXÊhrAenv/lib/python3.12/site-packages/pip/_internal/cli/req_command.py

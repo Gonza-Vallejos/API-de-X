@@ -1,0 +1,64 @@
+
+twikit.utils.ResultY
+O/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/utils.py" "("2*Å
+2* *( a
+_
+* *( $
+twikit.utils.Result"
+	__results"__id*'
+
+__unknown_file (
+	
+resultsg
+e
++ +(&&
+twikit.utils.Result"
+next_cursor"__id*+
+
+__unknown_file (
+
+next_cursoru
+s
+, ,(4.
+twikit.utils.Result"
+__fetch_next_result"__id*1
+
+__unknown_file (
+
+fetch_next_resulto
+m
+- -(.*
+twikit.utils.Result"
+previous_cursor"__id*/
+
+__unknown_file (
+
+previous_cursor}
+{
+. .(<2
+twikit.utils.Result"
+__fetch_previous_result"__id*5
+
+__unknown_file (
+
+fetch_previous_result*
+3*H
+3
+
+utils.py%#
+0 0(
+%1"twikit.utils.Result"
+0 0(
+
+%1:
+$ $(	
+results:
+% %(2
+fetch_next_result:
+& &(&
+next_cursor:#
+' '(6
+fetch_previous_result:
+( ((*
+previous_cursorB
+twikit.utils.ResultH

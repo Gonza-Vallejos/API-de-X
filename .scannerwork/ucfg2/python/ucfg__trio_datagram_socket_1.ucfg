@@ -1,0 +1,29 @@
+
+=anyio._backends._trio.TrioBackend.create_unix_datagram_socketd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.py´	 ´	()"1*2
+3
+
+_trio.py"!
+
+¶	, ¶	(-
+implicit return*d
+1
+µ	( µ	(@N
+L
+
+µ	 µ	(&
+%1"__id*2
+
+__unknown_file (*
+
+socket"
+socket*
+3:
+
+µ	 µ	(&
+
+raw_socket:
+
+µ	( µ	(@
+remote_pathB%#
+!anyio._backends._trio.TrioBackendH

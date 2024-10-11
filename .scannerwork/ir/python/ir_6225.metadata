@@ -1,0 +1,5 @@
+pip._vendor.pkg_resources.ResourceManager.resource_isdir
+e31b416d4349ebb86ce96ecd9a41e2a9
+pip._vendor.pkg_resources.get_provider
+==
+resource_isdir

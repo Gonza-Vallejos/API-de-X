@@ -1,0 +1,1 @@
+²	 2pyX hrIenv/lib/python3.12/site-packages/pip/_vendor/truststore/_ssl_constants.py

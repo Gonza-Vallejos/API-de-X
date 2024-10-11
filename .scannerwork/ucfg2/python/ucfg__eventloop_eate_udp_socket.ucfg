@@ -1,0 +1,21 @@
+
+3anyio.abc._eventloop.AsyncBackend.create_udp_socketc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/abc/_eventloop.py• •("3*5
+3
+_eventloop.py"
+ž ž(
+implicit return:
+
+— —(
+family:
+
+˜ ˜(,
+local_address:
+
+™ ™(-
+remote_address:
+
+š š(
+
+reuse_portB%#
+!anyio.abc._eventloop.AsyncBackendH

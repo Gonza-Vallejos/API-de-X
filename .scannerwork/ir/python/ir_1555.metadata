@@ -1,0 +1,7 @@
+pip._vendor.platformdirs.unix._get_user_media_dir
+9dbbfefeda5d580b0c54570ae0c32b41
+os.path.expanduser
+pip._vendor.platformdirs.unix._get_user_dirs_folder
+==
+strip
+get

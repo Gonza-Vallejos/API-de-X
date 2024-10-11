@@ -1,0 +1,110 @@
+
+Cbs4.tests.HTML5TreeBuilderSmokeTest.test_mathml_tags_have_namespacea
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyç	 ç	('"2*ä
+2
+é	 é	(0]
+[
+
+é	 é	(0
+markup"__id*=
+
+__unknown_file (!
+<math><msqrt>5</msqrt></math>àÖ
+
+è	 è	( 
+%1*C
+
+__unknown_file ('%
+#bs4.tests.HTML5TreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+è	 è	( 
+soup"__id*"
+
+__unknown_file (
+
+%1e
+c
+
+ê	 ê	(8
+	namespace"__id*B
+
+__unknown_file (&$
+"http://www.w3.org/1998/Math/MathMLJ
+H
+
+ë	 ë	(%
+%2"__id*.
+
+__unknown_file (*
+
+soup"
+mathM
+K
+
+ë	 ë	(/
+%3"__id*1
+
+__unknown_file (*
+
+%2"
+	namespaceì
+ê
+
+ë	 ë	(/
+%4"	__compare*"
+
+__unknown_file (
+==*)
+
+__unknown_file (
+
+	namespace*"
+
+__unknown_file (
+
+%3K
+I
+
+í	 í	(&
+%5"__id*/
+
+__unknown_file (*
+
+soup"
+msqrtM
+K
+
+í	 í	(0
+%6"__id*1
+
+__unknown_file (*
+
+%5"
+	namespaceì
+ê
+
+í	 í	(0
+%7"	__compare*"
+
+__unknown_file (
+==*)
+
+__unknown_file (
+
+	namespace*"
+
+__unknown_file (
+
+%6*
+3*3
+3
+__init__.py"
+î	 î	(
+implicit returnB'%
+#bs4.tests.HTML5TreeBuilderSmokeTestH

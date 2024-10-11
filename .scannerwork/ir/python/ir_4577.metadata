@@ -1,0 +1,7 @@
+pip._vendor.pygments.lexers._automodule.__getattr__
+c71a3ac9cca2b2b6d4b7c570f9c41d19
+setattr
+pip._vendor.pygments.lexers._load_lexers
+getattr
+==
+get

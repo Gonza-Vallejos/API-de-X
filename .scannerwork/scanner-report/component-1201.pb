@@ -1,0 +1,1 @@
+±	 2pyXChrCenv/lib/python3.12/site-packages/pip/_vendor/truststore/_openssl.py

@@ -1,0 +1,3 @@
+httpx._models.Response.is_server_error
+f81ae912ffd1b0dc9bbf7c0f26c7a991
+httpx._status_codes.codes.is_server_error

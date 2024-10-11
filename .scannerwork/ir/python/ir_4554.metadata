@@ -1,0 +1,5 @@
+pip._vendor.msgpack.fallback.Packer.pack_map_header
+90c2634aeccde096eea381f4f6cfa342
+==
+getvalue
+_pack_map_header

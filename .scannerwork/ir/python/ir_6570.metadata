@@ -1,0 +1,12 @@
+pip._vendor.packaging.markers.default_environment
+017b0e58490451683d3dfa899b010df2
+pip._vendor.packaging.markers.format_full_version
+platform.version
+platform.system
+platform.machine
+platform.release
+platform.python_version_tuple
+platform.python_version
+platform.python_implementation
+==
+join

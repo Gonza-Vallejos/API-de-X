@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestNextOperations.test_find_next_for_text_element
+ffaddb9ec4e7124b80a73ba194b2ed19
+==
+assert_selects
+find
+find_all_next

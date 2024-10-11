@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestTreeModification.test_consecutive_text_nodes
+f64a8acb185419ecfd7323603ec75008
+==
+soup
+find
+insert

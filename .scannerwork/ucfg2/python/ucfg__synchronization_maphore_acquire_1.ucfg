@@ -1,0 +1,120 @@
+
+0httpcore._synchronization.AsyncSemaphore.acquireh
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_synchronization.py­ ­("2*Œ
+2
+® ®(s
+q
+
+® ®(
+%10"__id*V
+
+__unknown_file (:*8*
+(httpcore._synchronization.AsyncSemaphore"
+
+_backend*
+7
+8*;
+3
+_synchronization.py"
+¶ ¶(
+implicit return*Ò
+4
+² ²(0y
+w
+
+² ²(&
+%1"__id*]
+
+__unknown_file (A*?*
+(httpcore._synchronization.AsyncSemaphore"
+_trio_semaphoreA?
+
+² ²(0
+%2*"
+
+__unknown_file (
+
+%12acquire*
+3*Ó
+5
+´ ´(1z
+x
+
+´ ´('
+%3"__id*^
+
+__unknown_file (B*@*
+(httpcore._synchronization.AsyncSemaphore"
+_anyio_semaphoreA?
+
+´ ´(1
+%4*"
+
+__unknown_file (
+
+%32acquire*
+3*Ÿ
+6
+³ ³('r
+p
+
+³ ³(
+%5"__id*V
+
+__unknown_file (:*8*
+(httpcore._synchronization.AsyncSemaphore"
+
+_backend‘
+Ž
+
+³ ³('
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5*'
+
+__unknown_file (	
+asyncio*
+3
+5*œ
+7
+± ±("r
+p
+
+± ±(
+%7"__id*V
+
+__unknown_file (:*8*
+(httpcore._synchronization.AsyncSemaphore"
+
+_backendŽ
+‹
+
+± ±("
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%7*$
+
+__unknown_file (
+trio*
+4
+6*{
+8
+¯ ¯(ec
+
+¯ ¯(
+%9*H
+
+__unknown_file (,*
+(httpcore._synchronization.AsyncSemaphore2setup*
+7B,*
+(httpcore._synchronization.AsyncSemaphoreH

@@ -1,0 +1,68 @@
+
+httpx._config.SSLConfigZ
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_config.pyC C("2*á
+2K K(]
+[
+K K(#
+httpx._config.SSLConfig"
+cert"__id*$
+
+__unknown_file (
+
+certa
+_
+L L(%
+httpx._config.SSLConfig"
+verify"__id*&
+
+__unknown_file (
+
+
+verifyg
+e
+M M("(
+httpx._config.SSLConfig"
+	trust_env"__id*)
+
+__unknown_file (
+
+	trust_env_
+]
+N N($
+httpx._config.SSLConfig"
+http2"__id*%
+
+__unknown_file (	
+
+http2][
+O O(2
+%2*7
+
+__unknown_file (
+httpx._config.SSLConfig2load_ssl_contextb
+`
+O O(2*
+httpx._config.SSLConfig"
+ssl_context"__id*"
+
+__unknown_file (
+
+%2*
+3*N
+3
+
+_config.py)'
+Q Q(
+%1"httpx._config.SSLConfig"
+Q Q(
+
+%1:
+F F(%
+cert:
+G G("
+verify:
+H H(
+	trust_env:
+I I(
+http2B
+httpx._config.SSLConfigH

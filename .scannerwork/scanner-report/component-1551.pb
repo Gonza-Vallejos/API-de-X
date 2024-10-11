@@ -1,0 +1,1 @@
+è 2pyXåhrLenv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/base.py

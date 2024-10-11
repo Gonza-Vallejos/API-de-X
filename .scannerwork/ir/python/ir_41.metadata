@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_quot_entity_converted_to_quotation_mark
+bd9c1588b817f050a7cc924f1ea748ca
+==
+assert_soup

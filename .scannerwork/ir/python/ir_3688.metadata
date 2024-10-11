@@ -1,0 +1,5 @@
+anyio.lowlevel.checkpoint_if_cancelled
+6a898ccb999f2586780e6e6ce05f4575
+anyio._core._eventloop.get_async_backend
+==
+checkpoint_if_cancelled

@@ -1,0 +1,4 @@
+pip._vendor.pkg_resources.Distribution.__init__
+a9633e45ede600f3abcd92854cf4003c
+pip._vendor.pkg_resources.safe_name
+pip._vendor.pkg_resources.safe_version

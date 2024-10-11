@@ -1,0 +1,11 @@
+pip._internal.index.package_finder.PackageFinder.find_requirement
+26462e3bb2a37fed1db3822b6a7a5411
+pip._internal.index.package_finder.PackageFinder.find_requirement._format_versions
+pip._internal.index.package_finder.PackageFinder.find_requirement._should_install_candidate
+==
+iter_all
+debug
+critical
+iter_applicable
+hashes
+find_best_candidate

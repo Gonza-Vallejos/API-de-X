@@ -1,0 +1,9 @@
+bs4.tests.test_tree.TestSmooth.test_smooth
+852a7d884bc870833d1ab51c062f8c24
+bs4.element.Tag.__init__
+bs4.element.Comment.__init__
+==
+soup
+default_builder
+append
+smooth

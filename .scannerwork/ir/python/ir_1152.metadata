@@ -1,0 +1,6 @@
+pip._vendor.pygments.formatters.html.HtmlFormatter.get_background_style_defs
+3ae7942a206df21c562c997fb3751c85
+==
+format
+insert
+get_css_prefix

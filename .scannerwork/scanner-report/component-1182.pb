@@ -1,0 +1,1 @@
+ž	 2pyXðhrAenv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/ssl_.py

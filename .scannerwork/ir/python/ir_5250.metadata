@@ -1,0 +1,7 @@
+pip._internal.req.req_install.check_legacy_setup_py_options
+bfff1574b3e86afa8ddd3280697d5e92
+pip._internal.req.req_install._has_option
+pip._internal.utils.deprecation.deprecated
+==
+disallow_binaries
+warning

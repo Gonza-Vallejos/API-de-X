@@ -1,0 +1,6 @@
+pip._vendor.rich.pretty.pprint
+d646f52a528295cb32ffc155dba4bb70
+pip._vendor.rich.pretty.Pretty.__init__
+pip._vendor.rich.get_console
+==
+print

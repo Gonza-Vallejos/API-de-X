@@ -1,0 +1,87 @@
+
+]bs4.tests.HTMLTreeBuilderSmokeTest.test_attribute_values_with_double_nested_quotes_get_quoteda
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyâ â(B"2*«
+2
+ä ä(<e
+c
+
+ä ä(<
+text"__id*G
+
+__unknown_file (+)
+'<foo attr='bar "brawls" happen'>a</foo>ÖÇ
+
+ã ã(
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*$
+
+__unknown_file (
+
+text2soup@
+>
+
+ã ã(
+soup"__id*"
+
+__unknown_file (
+
+%1I
+G
+
+å å(
+%3"__id*-
+
+__unknown_file (*
+
+soup"
+fooΩ∫
+
+å å(:
+%2"dict.__setitem__*"
+
+__unknown_file (
+
+%3*$
+
+__unknown_file (
+attr*=
+
+__unknown_file (!
+Brawls happen at "Bob\'s Bar"2__setitem__I
+G
+
+é é(
+%4"__id*-
+
+__unknown_file (*
+
+soup"
+foo@>
+
+é é(
+%5*"
+
+__unknown_file (
+
+%42decodeÁ‰
+
+ç è(N
+%6*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*"
+
+__unknown_file (
+
+%5*[
+
+__unknown_file (?=
+;<foo attr="Brawls happen at &quot;Bob\'s Bar&quot;">a</foo>2assert_soup*
+3*3
+3
+__init__.py"
+ë ë(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

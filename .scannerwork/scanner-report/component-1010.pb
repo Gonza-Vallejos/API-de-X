@@ -1,0 +1,1 @@
+ò 2pyX1hrBenv/lib/python3.12/site-packages/pip/_vendor/msgpack/exceptions.py

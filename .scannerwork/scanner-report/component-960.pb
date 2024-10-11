@@ -1,0 +1,1 @@
+À 2pyXähr;env/lib/python3.12/site-packages/pip/_vendor/rich/pretty.py

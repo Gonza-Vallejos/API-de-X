@@ -1,0 +1,9 @@
+pip._vendor.rich._inspect.Inspect._make_title
+c8de5ded11bf6f0c2e7592fea014519f
+type.__init__
+callable
+str.__init__
+inspect.isclass
+inspect.ismodule
+==
+highlighter

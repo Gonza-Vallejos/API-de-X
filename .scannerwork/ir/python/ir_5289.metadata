@@ -1,0 +1,6 @@
+pip._internal.operations.prepare.unpack_vcs_link
+07dc0407001d66f36f865c473a9f7b87
+pip._internal.utils.misc.hide_url
+==
+unpack
+get_backend_for_scheme

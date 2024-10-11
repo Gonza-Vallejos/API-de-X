@@ -1,0 +1,5 @@
+pip._internal.utils.misc.ConfiguredBuildBackendHookCaller.get_requires_for_build_wheel
+5668529357a3ea76e8507b9037abe349
+super
+==
+get_requires_for_build_wheel

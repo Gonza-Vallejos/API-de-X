@@ -1,0 +1,11 @@
+pip._internal.operations.prepare.RequirementPreparer.save_linked_requirement
+40b765a5f779a3b9b4de4fa5523e7af6
+os.path.join
+pip._internal.utils.misc.display_path
+shutil.copy
+os.path.exists
+==
+debug
+is_existing_dir
+archive
+info

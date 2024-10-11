@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_replace_with_returns_thing_that_was_replaced
+9840e0908520011f7e3620817a542971
+==
+soup
+replace_with

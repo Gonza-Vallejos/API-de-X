@@ -1,0 +1,6 @@
+pip._vendor.pkg_resources._find_adapter
+2fc29ba42b1bf4b87d0dc4ffcdb64bcd
+type.__init__
+pip._vendor.pkg_resources._always_object
+getattr
+inspect.getmro

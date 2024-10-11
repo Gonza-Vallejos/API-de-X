@@ -1,0 +1,11 @@
+pip._vendor.rich.traceback.Traceback.__init__
+338ab98baccd10df0ece2bf069330105
+os.path.normpath
+os.path.abspath
+sys.exc_info
+pip._vendor.rich.syntax.Syntax.get_theme
+max
+pip._vendor.rich.traceback.Traceback.extract
+os.path.dirname
+==
+append

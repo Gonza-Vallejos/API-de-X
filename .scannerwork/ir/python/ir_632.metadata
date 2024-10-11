@@ -1,0 +1,3 @@
+bs4.tests.test_dammit.TestUnicodeDammit.test_dont_see_smart_quotes_where_there_are_none
+0e08bc25f10b4abd9a4f3cd06bbdbf92
+bs4.dammit.UnicodeDammit.__init__

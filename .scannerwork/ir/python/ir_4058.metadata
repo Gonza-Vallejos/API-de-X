@@ -1,0 +1,10 @@
+pip._vendor.urllib3.add_stderr_logger
+3c6790581258606e736faa5e7123b321
+logging.getLogger
+logging.StreamHandler.__init__
+logging.Formatter.__init__
+==
+addHandler
+setFormatter
+debug
+setLevel

@@ -1,0 +1,7 @@
+pip._internal.operations.prepare.get_http_url
+8b6553873a1416eefa9f558a907466ac
+pip._internal.utils.temp_dir.TempDirectory.__init__
+pip._internal.operations.prepare._check_download_dir
+pip._internal.operations.prepare.File.__init__
+==
+check_against_path

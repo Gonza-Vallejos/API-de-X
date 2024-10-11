@@ -1,0 +1,10 @@
+pip._internal.self_outdated_check._self_version_check_logic
+0cd716f080a11b0dde499ffceddebd09
+pip._internal.self_outdated_check.UpgradePrompt.__init__
+str.__init__
+pip._internal.self_outdated_check.was_installed_by_pip
+pip._vendor.packaging.version.parse
+==
+debug
+set
+get

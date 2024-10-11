@@ -1,0 +1,5 @@
+anyio._core._synchronization.SemaphoreAdapter.statistics
+358f2c3d5442cd7061950bcb62498424
+anyio._core._synchronization.SemaphoreStatistics.__init__
+==
+statistics

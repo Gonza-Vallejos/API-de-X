@@ -1,0 +1,3 @@
+pip._vendor.rich._win32_console.GetConsoleScreenBufferInfo
+efefbd74d5320dae12db6d601982a76d
+ctypes.byref

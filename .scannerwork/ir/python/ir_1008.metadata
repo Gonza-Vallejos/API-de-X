@@ -1,0 +1,5 @@
+pip._internal.utils.misc.partition
+4e9317d29de87c3d76192ef9563bdfc5
+itertools.tee
+filter.__init__
+itertools.filterfalse.__init__

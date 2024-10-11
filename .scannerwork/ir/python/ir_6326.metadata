@@ -1,0 +1,3 @@
+pip._vendor.pkg_resources.Distribution.as_requirement
+3d5eeecd6aab9d69869ba71dcd0179df
+pip._vendor.pkg_resources.Requirement.parse

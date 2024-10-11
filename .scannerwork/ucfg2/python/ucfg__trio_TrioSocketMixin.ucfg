@@ -1,0 +1,36 @@
+
+&anyio._backends._trio._TrioSocketMixind
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.pyþ þ("2*‡
+2
+ÿ ÿ('}
+{
+
+ÿ ÿ(':(
+&anyio._backends._trio._TrioSocketMixin"
+_trio_socket"__id*+
+
+__unknown_file (
+
+trio_socketr
+p
+
+€ €(5(
+&anyio._backends._trio._TrioSocketMixin"	
+_closed"__id*%
+
+__unknown_file (	
+
+False*
+3*_
+3
+
+_trio.py:8
+‚ ‚(
+%1"&anyio._backends._trio._TrioSocketMixin"
+‚ ‚(
+
+%1:
+
+þ þ(2
+trio_socketB*(
+&anyio._backends._trio._TrioSocketMixinH

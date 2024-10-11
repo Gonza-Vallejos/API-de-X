@@ -1,0 +1,12 @@
+pip._vendor.pygments.lexers.guess_lexer_for_filename
+e914aaca5464b28219a8ccfdb679bcfb
+os.path.basename
+len
+set.__init__
+pip._vendor.pygments.lexers._fn_matches
+pip._vendor.pygments.lexers._iter_lexerclasses
+==
+add
+analyse_text
+sort
+append

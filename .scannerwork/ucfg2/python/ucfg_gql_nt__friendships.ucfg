@@ -1,0 +1,123 @@
+
+gql.GQLClient._friendships`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyË Ë("2*Ê
+2
+Ì Ð(	
+
+Ì Ð(	
+%3"dict”
+‘
+
+Í Í(
+%4"__mapSet*"
+
+__unknown_file (
+
+%3*&
+
+__unknown_file (
+
+userId*'
+
+__unknown_file (
+	
+user_id‘
+Ž
+
+Î Î(
+%5"__mapSet*"
+
+__unknown_file (
+
+%3*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+count¢
+Ÿ
+
+Ï Ï(+
+%6"__mapSet*"
+
+__unknown_file (
+
+%3*6
+
+__unknown_file (
+includePromotedContent*%
+
+__unknown_file (	
+
+FalseE
+C
+
+Ì Ð(	
+	variables"__id*"
+
+__unknown_file (
+
+%3*
+4
+5*ô
+4
+Ó Ó(@ÌÉ
+
+Ó Ó(@
+%1*-
+
+__unknown_file (
+gql.GQLClient*(
+
+__unknown_file (
+
+
+endpoint*)
+
+__unknown_file (
+
+	variables*(
+
+__unknown_file (
+
+
+FEATURES2gql_get"
+
+Ó Ó(@
+
+%1*Æ
+5
+Ò Ò((¯¬
+
+Ò Ò((
+%2"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+Ë! Ë((	
+user_id:
+
+Ë* Ë(/
+count:
+
+Ë1 Ë(9
+
+endpoint:
+
+Ë; Ë(A
+cursorB
+gql.GQLClientH

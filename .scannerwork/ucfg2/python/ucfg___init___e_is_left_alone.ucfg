@@ -1,0 +1,20 @@
+
+Zbs4.tests.HTMLTreeBuilderSmokeTest.test_escaped_ampersand_in_attribute_value_is_left_alonea
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py™ ™(?"2*Î
+2
+š š(K·´
+
+š š(K
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*O
+
+__unknown_file (31
+/<a href="http://example.org?a=1&amp;b=2;3"></a>2assert_soup*
+3*3
+3
+__init__.py"
+œ œ(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

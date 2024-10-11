@@ -1,0 +1,1 @@
+è 2pyX8hr<env/lib/python3.12/site-packages/pip/_internal/utils/urls.py

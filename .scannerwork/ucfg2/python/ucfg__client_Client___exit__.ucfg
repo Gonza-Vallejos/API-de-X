@@ -1,0 +1,136 @@
+
+httpx._client.Client.__exit__\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.pyö
+ ö
+("2*°
+2
+†
+ †
+((a
+_
+
+†
+ †
+((
+%2"__id*E
+
+__unknown_file ()*'
+httpx._client.ClientState"
+CLOSED\
+Z
+
+†
+ †
+(("
+httpx._client.Client"
+_state"__id*"
+
+__unknown_file (
+
+%2`
+^
+
+¢
+ ¢
+(
+%3"__id*D
+
+__unknown_file ((*&
+httpx._client.Client"
+
+_transport√¿
+
+¢
+ ¢
+(@
+%4*"
+
+__unknown_file (
+
+%3*(
+
+__unknown_file (
+
+
+exc_type*)
+
+__unknown_file (
+
+	exc_value*)
+
+__unknown_file (
+
+	traceback2__exit__]
+[
+
+£
+ £
+(%
+%5"__id*A
+
+__unknown_file (%*#
+httpx._client.Client"	
+_mounts@>
+
+£
+ £
+(.
+%6*"
+
+__unknown_file (
+
+%52values*
+3
+6*0
+3
+
+_client.py"
+®
+ ®
+
+implicit return*‰
+6
+•
+ •
+(B «
+
+•
+ •
+(B
+%1*)
+
+__unknown_file (
+
+	transport*(
+
+__unknown_file (
+
+
+exc_type*)
+
+__unknown_file (
+
+	exc_value*)
+
+__unknown_file (
+
+	traceback2__exit__*
+3
+6:
+
+ú
+ ú
+(3
+
+exc_type:
+
+ù
+ ù
+(.
+	exc_value:
+
+û
+ û
+(.
+	tracebackB
+httpx._client.ClientH

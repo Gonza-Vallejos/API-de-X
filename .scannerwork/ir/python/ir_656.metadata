@@ -1,0 +1,4 @@
+pip._vendor.platformdirs._set_platform_dir_class
+a999f20901d4b7028a423e2d5d959355
+pip._vendor.platformdirs.android._android_folder
+os.getenv

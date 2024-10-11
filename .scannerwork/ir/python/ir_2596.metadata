@@ -1,0 +1,14 @@
+pip._vendor.distlib.compat._dnsname_match
+eb43ed0ceb3c36ec4b403a3e65344d54
+repr
+re.escape
+re.compile
+==
+startswith
+split
+lower
+count
+replace
+match
+join
+append

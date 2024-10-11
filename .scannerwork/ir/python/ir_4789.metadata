@@ -1,0 +1,8 @@
+pip._vendor.packaging.metadata._Validator._process_description_content_type
+dfd578bac29957252d01c98007216e75
+email.message.EmailMessage.__init__
+==
+_invalid_metadata
+lower
+get
+get_content_type

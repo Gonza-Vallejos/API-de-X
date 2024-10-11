@@ -1,0 +1,5 @@
+pip._internal.metadata.get_directory_distribution
+208b08644709aba73684abef4cf32df9
+pip._internal.metadata.select_backend
+==
+from_directory

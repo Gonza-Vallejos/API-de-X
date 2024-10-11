@@ -1,0 +1,7 @@
+pip._vendor.platformdirs.unix.Unix.user_cache_dir
+0ff1ce4c0416fb4675a74e0546375f3d
+os.path.expanduser
+==
+strip
+get
+_append_app_name_and_version

@@ -1,0 +1,1 @@
+Í 2pyX‘hrBenv/lib/python3.12/site-packages/bs4/tests/test_navigablestring.py

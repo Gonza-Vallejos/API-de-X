@@ -1,0 +1,6 @@
+pip._vendor.packaging.metadata._Validator._invalid_metadata
+ed0896e11199bce78e5b07e89a014310
+repr
+pip._vendor.packaging.metadata.InvalidMetadata.__init__
+==
+format_map

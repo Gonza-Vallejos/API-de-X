@@ -1,0 +1,1 @@
+¥ 2pyXéhr:env/lib/python3.12/site-packages/pip/_vendor/rich/table.py

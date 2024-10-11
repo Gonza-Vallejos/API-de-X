@@ -1,0 +1,7 @@
+pip._vendor.truststore._macos._cf_string_ref_to_str
+1bab6429d448db1ba5752528d6b539db
+ctypes.create_string_buffer
+==
+CFStringGetCStringPtr
+CFStringGetCString
+decode

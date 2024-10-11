@@ -1,0 +1,5 @@
+pip._vendor.pkg_resources.parse_requirements
+e68d0741daf2156dfbeb1b22a4fd1c6e
+map.__init__
+pip._internal.utils._jaraco_text.join_continuation
+pip._internal.utils._jaraco_text.yield_lines

@@ -1,0 +1,5 @@
+pip._vendor.urllib3.connectionpool.HTTPConnectionPool._raise_timeout
+fc42f16a17b7092d4d32cda5282f7a83
+pip._vendor.urllib3.exceptions.ReadTimeoutError.__init__
+str.__init__
+hasattr

@@ -1,0 +1,7 @@
+pip._internal.metadata.pkg_resources.Distribution.read_text
+647ceebdbc3cf7f61798d851237e3fff
+str.__init__
+pip._internal.exceptions.NoneMetadataError.__init__
+==
+get_metadata
+has_metadata

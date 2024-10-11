@@ -1,0 +1,71 @@
+
+pbs4.tests.test_builder_registry.TestRegistry.test_lookup_gets_most_recent_registration_when_no_feature_specifiedl
+b/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_builder_registry.pyo o(K"2*¡
+2p p(3œ™
+p p(3
+%1*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+foo2builder_for_featuresB
+@
+p p(3
+
+builder1"__id*"
+
+__unknown_file (
+
+%1œ™
+q q(3
+%2*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+bar2builder_for_featuresB
+@
+q q(3
+
+builder2"__id*"
+
+__unknown_file (
+
+%2t
+r
+r r(
+%3"__id*Z
+
+__unknown_file (>*<.
+,bs4.tests.test_builder_registry.TestRegistry"
+
+registry><
+r r(%
+%4*"
+
+__unknown_file (
+
+%32lookup
+
+r r(1
+%5"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%4*(
+
+__unknown_file (
+
+
+builder2*
+3*>
+3
+test_builder_registry.py"
+t t(
+implicit returnB0.
+,bs4.tests.test_builder_registry.TestRegistryH

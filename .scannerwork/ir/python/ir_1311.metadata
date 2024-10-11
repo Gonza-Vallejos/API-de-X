@@ -1,0 +1,3 @@
+pip._vendor.rich._win32_console.LegacyWindowsTerm.set_title
+2adcd96039232265fce0d2461001d627
+pip._vendor.rich._win32_console.SetConsoleTitle

@@ -1,0 +1,5 @@
+anyio._core._sockets.getnameinfo
+41a19b68aa22cf5f751d4acd2769f488
+anyio._core._eventloop.get_async_backend
+==
+getnameinfo

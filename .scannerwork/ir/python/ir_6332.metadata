@@ -1,0 +1,11 @@
+pip._vendor.pkg_resources.DistInfoDistribution._compute_dependencies
+34bccd57ab0cd5baaa5e059c4bccaf21
+pip._vendor.pkg_resources.safe_extra
+dict.fromkeys
+pip._vendor.pkg_resources.parse_requirements
+pip._vendor.pkg_resources.DistInfoDistribution._compute_dependencies.reqs_for_extra
+types.MappingProxyType.__init__
+==
+extend
+get_all
+strip

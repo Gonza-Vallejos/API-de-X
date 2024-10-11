@@ -1,0 +1,8 @@
+lxml.cssselect.CSSSelector.__init__
+3f73c996f7f34bb0beb38ee160ac8c3c
+super
+lxml.cssselect.LxmlHTMLTranslator.__init__
+lxml.cssselect.LxmlTranslator.__init__
+==
+__init__
+css_to_xpath

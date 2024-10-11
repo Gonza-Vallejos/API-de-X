@@ -1,0 +1,212 @@
+
+v11.V11Client.reverse_geocode`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.py‚ ‚("2*—
+2
+„ È(	
+
+„ È(	
+%7"dictç
+ä
+
+‰ ‰(
+%8"__mapSet*"
+
+__unknown_file (
+
+%7*#
+
+__unknown_file (
+lat*#
+
+__unknown_file (
+
+latè
+å
+
+Â Â(
+%9"__mapSet*"
+
+__unknown_file (
+
+%7*$
+
+__unknown_file (
+long*$
+
+__unknown_file (
+
+longò
+ï
+
+Ê Ê( 
+%10"__mapSet*"
+
+__unknown_file (
+
+%7*(
+
+__unknown_file (
+
+accuracy*(
+
+__unknown_file (
+
+
+accuracyû
+õ
+
+Á Á(&
+%11"__mapSet*"
+
+__unknown_file (
+
+%7*+
+
+__unknown_file (
+granularity*+
+
+__unknown_file (
+
+granularityû
+õ
+
+Ë Ë(&
+%12"__mapSet*"
+
+__unknown_file (
+
+%7*+
+
+__unknown_file (
+max_results*+
+
+__unknown_file (
+
+max_resultsB
+@
+
+„ È(	
+params"__id*"
+
+__unknown_file (
+
+%7
+
+Í Í()
+%13"tuplePN
+
+Í Í((
+%14"
+dict.items*&
+
+__unknown_file (
+
+
+params2itemsig
+
+Í Í()
+%15*#
+
+__unknown_file (
+
+%13*#
+
+__unknown_file (
+
+%142__init__*
+4
+7*«
+4
+Ì Ò(	S
+Q
+
+Ì Ì(
+%1"__id*7
+
+__unknown_file (*
+v11.V11Client"
+base]
+[
+
+Ó Ó($
+%2"__id*A
+
+__unknown_file (%*#
+v11.Endpoint"
+REVERSE_GEOCODES
+Q
+
+ (
+%3"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+ (+
+%4"__id*5
+
+__unknown_file (*
+
+%3"
+_base_headers√¿
+
+Ì Ò(	
+%5*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22get:0
+params&
+
+__unknown_file (
+
+
+params:-
+headers"
+
+__unknown_file (
+
+%4"
+
+Ì Ò(	
+
+%5*á
+7
+Ï Ï(nl
+
+Ï Ï(
+%6"dict.pop*&
+
+__unknown_file (
+
+
+params*!
+
+__unknown_file (
+
+k2pop*
+4
+7:
+
+‚$ ‚('
+lat:
+
+‚) ‚(-
+long:
+
+‚/ ‚(7
+
+accuracy:
+
+‚9 ‚(D
+granularity:
+
+‚F ‚(Q
+max_resultsB
+v11.V11ClientH

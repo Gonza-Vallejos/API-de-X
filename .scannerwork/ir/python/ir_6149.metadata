@@ -1,0 +1,6 @@
+lxml.doctestcompare.LXMLOutputChecker._looks_like_markup
+7ef78844324b63b74f9a8ef6ba19fa72
+==
+startswith
+search
+strip

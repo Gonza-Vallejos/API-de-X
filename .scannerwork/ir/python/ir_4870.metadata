@@ -1,0 +1,5 @@
+pip._vendor.cachecontrol.caches.redis_cache.RedisCache.clear
+9239f48c8c8070f117d0de8f1dfdd7b3
+==
+keys
+delete

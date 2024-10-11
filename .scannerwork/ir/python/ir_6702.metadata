@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_move_tag_to_beginning_of_parent
+53986de675ce51e2cf0b7cdc3ea2fc5b
+==
+soup
+insert

@@ -1,0 +1,5 @@
+pip._vendor.distlib.util._load_pypirc
+a2fd4fa4bc5a77cd332595c3cbe068cf
+pip._vendor.distlib.util.PyPIRCFile.__init__
+==
+read

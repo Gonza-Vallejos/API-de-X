@@ -1,0 +1,1 @@
+Ñ 2pyXŠhrCenv/lib/python3.12/site-packages/bs4/tests/test_builder_registry.py

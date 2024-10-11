@@ -1,0 +1,14 @@
+pip._internal.commands.debug.DebugCommand.run
+2293f39823900a1faa2731e09e90093a
+pip._internal.commands.debug.ca_bundle_info
+pip._internal.commands.debug.show_tags
+sys.getdefaultencoding
+sys.getfilesystemencoding
+pip._internal.utils.misc.get_pip_version
+pip._internal.commands.debug.show_sys_implementation
+locale.getpreferredencoding
+pip._internal.commands.debug.show_value
+pip._internal.commands.debug.show_vendor_versions
+==
+get
+warning

@@ -1,0 +1,5 @@
+httpcore._backends.anyio.AnyIOStream.get_extra_info
+6948ddb2f1fc627d283dddf2fbc0b9c8
+httpcore._utils.is_socket_readable
+==
+extra

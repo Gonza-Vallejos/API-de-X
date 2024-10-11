@@ -1,0 +1,2 @@
+bs4.tests.test_dammit.TestEntitySubstitution.test_xml_attribute_quoting_escapes_single_quotes_when_value_contains_both_single_and_double_quotes
+1d4f8a84925e988d916f39b89d1d1558

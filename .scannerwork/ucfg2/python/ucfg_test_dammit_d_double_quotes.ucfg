@@ -1,0 +1,55 @@
+
+èbs4.tests.test_dammit.TestEntitySubstitution.test_xml_attribute_quoting_escapes_single_quotes_when_value_contains_both_single_and_double_quotesd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_dammit.py€ €(j"2*†
+2
+‹ ‹(%R
+P
+
+‹ ‹(%
+s"__id*7
+
+__unknown_file (
+Welcome to "Bob\'s Bar"q
+o
+
+› ›(
+%1"__id*U
+
+__unknown_file (9*7.
+,bs4.tests.test_dammit.TestEntitySubstitution"
+subíè
+
+› ›(/
+%2*"
+
+__unknown_file (
+
+%1*!
+
+__unknown_file (
+
+s*$
+
+__unknown_file (
+
+True2substitute_xml≠
+™
+
+› ›(X
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*C
+
+__unknown_file ('%
+#"Welcome to &quot;Bob\'s Bar&quot;"*
+3*6
+3
+test_dammit.py"
+ﬂ ﬂ(
+implicit returnB0.
+,bs4.tests.test_dammit.TestEntitySubstitutionH

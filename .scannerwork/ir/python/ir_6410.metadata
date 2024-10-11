@@ -1,0 +1,6 @@
+pip._internal.commands.inspect.InspectCommand.add_options
+c134f42e793bee84449e7ed91f2df67a
+==
+insert_option_group
+add_option
+list_path

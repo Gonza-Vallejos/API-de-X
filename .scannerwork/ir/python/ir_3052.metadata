@@ -1,0 +1,5 @@
+pip._vendor.rich.spinner.Spinner.__rich_measure__
+43550c2fff7a482a0f04006435fc5fa2
+pip._vendor.rich.measure.Measurement.get
+==
+render

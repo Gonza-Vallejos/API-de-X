@@ -1,0 +1,3 @@
+anyio._core._fileio.AsyncFile.__getattr__
+85b43d819fd931efce4074cde7ff08a3
+getattr

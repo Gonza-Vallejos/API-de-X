@@ -1,0 +1,89 @@
+
+Mpip._internal.resolution.resolvelib.factory.Factory._make_candidate_from_linkz
+n/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/factory.py² ²(!"2*…
+2
+º ¼(	©¦
+
+º( ¼(	
+%2*S
+
+__unknown_file (75
+3pip._internal.resolution.resolvelib.factory.Factory*$
+
+__unknown_file (
+
+link*(
+
+__unknown_file (
+
+
+template*$
+
+__unknown_file (
+
+name*'
+
+__unknown_file (
+	
+version2_make_base_candidate_from_link@
+>
+
+º ¼(	
+base"__id*"
+
+__unknown_file (
+
+%2*
+4
+5*°
+4
+¿ ¿(Mˆ…
+
+¿ ¿(M
+%1*S
+
+__unknown_file (75
+3pip._internal.resolution.resolvelib.factory.Factory*$
+
+__unknown_file (
+
+base*&
+
+__unknown_file (
+
+
+extras2_make_extras_candidate:6
+
+comes_from(
+
+__unknown_file (
+
+
+template"
+
+¿ ¿(M
+
+%1*'
+5
+¾ ¾("
+
+¾ ¾(
+
+base:
+
+´ ´(
+link:
+
+µ µ(
+extras:
+
+¶ ¶($
+
+template:
+
+· ·(&
+name:
+
+¸ ¸("	
+versionB75
+3pip._internal.resolution.resolvelib.factory.FactoryH

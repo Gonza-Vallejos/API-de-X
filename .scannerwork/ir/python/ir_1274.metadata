@@ -1,0 +1,11 @@
+pip._internal.utils.compatibility_tags.get_supported
+e3d74bc6211c23a9e60474a0525358ff
+pip._vendor.packaging.tags.interpreter_name
+pip._internal.utils.compatibility_tags._get_python_version
+pip._vendor.packaging.tags.generic_tags
+pip._internal.utils.compatibility_tags._expand_allowed_platforms
+pip._internal.utils.compatibility_tags._get_custom_interpreter
+pip._vendor.packaging.tags.cpython_tags
+pip._vendor.packaging.tags.compatible_tags
+==
+extend

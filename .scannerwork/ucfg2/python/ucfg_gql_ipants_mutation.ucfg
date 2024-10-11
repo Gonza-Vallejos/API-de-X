@@ -1,0 +1,83 @@
+
+'gql.GQLClient.add_participants_mutation`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyú ú('"2*Ô
+2
+û ş(	
+
+û ş(	
+%1"dict 
+
+
+ü ü()
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*1
+
+__unknown_file (
+addedParticipants*(
+
+__unknown_file (
+
+
+user_ids
+š
+
+ı ı(&
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*.
+
+__unknown_file (
+conversationId*(
+
+__unknown_file (
+
+
+group_idE
+C
+
+û ş(	
+	variables"__id*"
+
+__unknown_file (
+
+%1g
+e
+
+ÿ# ÿ(E
+%4"__id*K
+
+__unknown_file (/*-
+gql.Endpoint"
+ADD_PARTICIPANTS_MUTATIONš
+
+ÿ ÿ(Q
+%5*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%4*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+ÿ ÿ(Q
+
+%5:
+
+ú. ú(6
+
+group_id:
+
+ú8 ú(@
+
+user_idsB
+gql.GQLClientH

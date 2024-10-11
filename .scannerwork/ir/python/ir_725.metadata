@@ -1,0 +1,6 @@
+bs4.tests.test_css.TestCSSSelectors.test_select_on_element
+86c8a2dde696101f12043ff156de2374
+==
+select
+assert_selects_ids
+find

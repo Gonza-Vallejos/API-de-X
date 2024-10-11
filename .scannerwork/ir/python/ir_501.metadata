@@ -1,0 +1,5 @@
+httpcore._async.http_proxy.AsyncTunnelHTTPConnection.__init__
+db9e240b5e9e434df91f1c3af91d1129
+httpcore._models.enforce_headers
+httpcore._synchronization.AsyncLock.__init__
+httpcore._async.connection.AsyncHTTPConnection.__init__

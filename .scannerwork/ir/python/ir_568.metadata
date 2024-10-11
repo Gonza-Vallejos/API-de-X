@@ -1,0 +1,3 @@
+httpx._content.UnattachedStream.__iter__
+6b70f3954d11ba946229285b542a70f5
+httpx._exceptions.StreamClosed.__init__

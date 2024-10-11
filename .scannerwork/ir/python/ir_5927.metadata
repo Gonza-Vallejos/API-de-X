@@ -1,0 +1,3 @@
+pip._vendor.rich.console.detect_legacy_windows
+a6fba3f646d0e5e9df13a473eede54e0
+pip._vendor.rich.console.get_windows_console_features

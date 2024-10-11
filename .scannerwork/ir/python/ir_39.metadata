@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_entities_in_attributes_converted_to_unicode
+fae9e3fd16dae8303b10f1b754b7871d
+==
+assert_soup

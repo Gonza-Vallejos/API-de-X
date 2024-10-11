@@ -1,0 +1,4 @@
+httpcore._sync.connection.HTTPConnection.__init__
+2719d266db69779ad241945fb69f74b2
+httpcore._backends.sync.SyncBackend.__init__
+httpcore._synchronization.Lock.__init__

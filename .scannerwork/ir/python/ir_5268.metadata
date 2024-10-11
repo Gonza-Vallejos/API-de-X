@@ -1,0 +1,13 @@
+filetype.utils.get_bytes
+fc39b28f64d0343065463675d32fd51f
+type.__init__
+filetype.utils.signature
+filetype.utils.get_signature_bytes
+hasattr
+filetype.utils.get_bytes
+bytearray.__init__
+==
+read
+tell
+tolist
+seek

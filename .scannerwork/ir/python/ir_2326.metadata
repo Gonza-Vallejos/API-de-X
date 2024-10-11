@@ -1,0 +1,6 @@
+bs4.tests.test_soup.TestPickle.test_normal_pickle
+95178d6ad2343fdd8d493f1c659a643c
+pickle.loads
+pickle.dumps
+==
+soup

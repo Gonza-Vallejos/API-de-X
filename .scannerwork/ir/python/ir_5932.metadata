@@ -1,0 +1,8 @@
+pip._vendor.rich.console.Console._detect_color_system
+02e67dd0255190bf87eefcdeaccf166d
+pip._vendor.rich.console.get_windows_console_features
+==
+strip
+rpartition
+get
+lower

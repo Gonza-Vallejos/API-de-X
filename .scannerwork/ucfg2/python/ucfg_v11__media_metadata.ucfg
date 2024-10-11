@@ -1,0 +1,163 @@
+
+#v11.V11Client.create_media_metadata`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.py≥ ≥(#"2*ñ
+2
+¥ ¥(%
+
+¥ ¥(%
+%10"dictô
+ñ
+
+¥ ¥($
+%11"__mapSet*#
+
+__unknown_file (
+
+%10*(
+
+__unknown_file (
+
+media_id*(
+
+__unknown_file (
+
+
+media_idA
+?
+
+¥ ¥(%
+data"__id*#
+
+__unknown_file (
+
+%10*	
+4
+5
+7* 
+4
+π Ω(	S
+Q
+
+π π(
+%1"__id*7
+
+__unknown_file (*
+v11.V11Client"
+basec
+a
+
+∫ ∫(*
+%2"__id*G
+
+__unknown_file (+*)
+v11.Endpoint"
+CREATE_MEDIA_METADATAS
+Q
+
+º º(
+%3"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+º º(+
+%4"__id*5
+
+__unknown_file (*
+
+%3"
+_base_headers¿Ω
+
+π Ω(	
+%5*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22post:,
+json$
+
+__unknown_file (
+
+data:-
+headers"
+
+__unknown_file (
+
+%4"
+
+π Ω(	
+
+%5*›
+5
+∏ ∏(?∆√
+
+∏ ∏(?
+%6"dict.__setitem__*$
+
+__unknown_file (
+
+data*7
+
+__unknown_file (
+sensitive_media_warning*1
+
+__unknown_file (
+
+sensitive_warning2__setitem__*
+4*Ù
+7
+∂ ∂(1
+
+∂ ∂(1
+%7"dictì
+ê
+
+∂  ∂(0
+%8"__mapSet*"
+
+__unknown_file (
+
+%7*$
+
+__unknown_file (
+text*(
+
+__unknown_file (
+
+
+alt_text®•
+
+∂ ∂(1
+%9"dict.__setitem__*$
+
+__unknown_file (
+
+data*(
+
+__unknown_file (
+
+alt_text*"
+
+__unknown_file (
+
+%72__setitem__*
+4
+5:
+
+≥* ≥(2
+
+media_id:
+
+≥4 ≥(<
+
+alt_text:!
+
+≥> ≥(O
+sensitive_warningB
+v11.V11ClientH

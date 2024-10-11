@@ -1,0 +1,48 @@
+
+-pip._internal.exceptions.InvalidWheel.__str__g
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/exceptions.pyÊ Ê("2*­
+2
+Ë Ë(Lk
+i
+
+Ë Ë("
+%1"__id*O
+
+__unknown_file (3*1'
+%pip._internal.exceptions.InvalidWheel"
+nameo
+m
+
+Ë1 Ë(>
+%2"__id*S
+
+__unknown_file (7*5'
+%pip._internal.exceptions.InvalidWheel"
+
+location§
+¤
+
+Ë Ë(L
+%3"__concat*
+
+Ë Ë(	
+Wheel '*
+
+Ë Ë("
+
+%1*
+
+Ë# Ë(0
+' located at *
+
+Ë1 Ë(>
+
+%2*
+
+Ë? Ë(K
+ is invalid."
+
+Ë Ë(L
+
+%3B)'
+%pip._internal.exceptions.InvalidWheelH

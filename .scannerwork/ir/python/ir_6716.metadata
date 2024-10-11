@@ -1,0 +1,7 @@
+bs4.tests.test_tree.TestTreeModification.test_extract_distinguishes_between_identical_strings
+46149c41d24378e58b6a047dd0ed4f14
+==
+soup
+extract
+append
+new_string

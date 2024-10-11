@@ -1,0 +1,42 @@
+
+)anyio._backends._trio.Lock.acquire_nowaitd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.py¥ ¥("2*É
+2
+§ §(,f
+d
+
+§ §(
+%2"__id*J
+
+__unknown_file (.*,
+anyio._backends._trio.Lock"
+
+__originalHF
+
+§ §(,
+%3*"
+
+__unknown_file (
+
+%22acquire_nowait*
+3
+5*0
+3
+
+_trio.py"
+« «(
+implicit return*f
+5
+¨ ¨(P
+N
+
+¨ ¨(
+%1"__id*4
+
+__unknown_file (*
+
+trio"
+
+WouldBlock*
+3B
+anyio._backends._trio.LockH

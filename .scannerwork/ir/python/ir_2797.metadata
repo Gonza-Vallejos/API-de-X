@@ -1,0 +1,9 @@
+h11.tests.test_connection.test_chunked
+d057d93322039fb40187b819c77b6d84
+h11._events.EndOfMessage.__init__
+h11._events.Request.__init__
+h11._events.Response.__init__
+h11._events.Data.__init__
+h11.tests.helpers.ConnectionPair.__init__
+==
+send

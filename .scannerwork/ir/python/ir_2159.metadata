@@ -1,0 +1,5 @@
+socksio.socks5.SOCKS5Connection.receive_data
+da915585de3dd8c2cc999159c1807140
+socksio.socks5.SOCKS5AuthReply.loads
+socksio.socks5.SOCKS5Reply.loads
+socksio.socks5.SOCKS5UsernamePasswordReply.loads

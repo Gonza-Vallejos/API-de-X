@@ -1,0 +1,2 @@
+bs4.tests.test_builder_registry.TestRegistry.test_lookup_fails_when_no_builder_implements_feature
+78aa191a959a762050252104ab0f189b

@@ -1,0 +1,5 @@
+pip._internal.locations.base.change_root
+41b5807bc245df44551d627fdee965ff
+os.path.join
+os.path.isabs
+os.path.splitdrive

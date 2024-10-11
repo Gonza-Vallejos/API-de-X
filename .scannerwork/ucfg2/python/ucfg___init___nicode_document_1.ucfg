@@ -1,0 +1,69 @@
+
+Abs4.tests.XMLTreeBuilderSmokeTest.test_can_parse_unicode_documenta
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyõ õ('"2*∑
+2
+ú ú(s¢
+ü
+
+ú ú(s
+markup"__id*Ä
+
+__unknown_file (db
+`<?xml version="1.0" encoding="euc-jp"><root>Sacr\N{LATIN SMALL LETTER E WITH ACUTE} bleu!</root>ÜÉ
+
+ù ù( 
+%1*A
+
+__unknown_file (%#
+!bs4.tests.XMLTreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+ù ù( 
+soup"__id*"
+
+__unknown_file (
+
+%1J
+H
+
+û# û(,
+%2"__id*.
+
+__unknown_file (*
+
+soup"
+rootJ
+H
+
+û# û(3
+%3"__id*.
+
+__unknown_file (*
+
+%2"
+stringò
+ï
+
+û û(3
+%4"	__compare*"
+
+__unknown_file (
+==*.
+
+__unknown_file (
+Sacr\xe9 bleu!*"
+
+__unknown_file (
+
+%3*
+3*3
+3
+__init__.py"
+† †(
+implicit returnB%#
+!bs4.tests.XMLTreeBuilderSmokeTestH

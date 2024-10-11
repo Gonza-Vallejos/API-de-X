@@ -1,0 +1,62 @@
+
+dbs4.tests.test_pageelement.TestEncoding.test_encoding_substitutes_unrecognized_characters_by_defaultg
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.py (D"2*ô
+2 (#N
+L
+ (#
+html"__id*2
+
+__unknown_file (
+<b>\N{SNOWMAN}</b>ˆ…
+   (
+%1*G
+
+__unknown_file (+)
+'bs4.tests.test_pageelement.TestEncoding*$
+
+__unknown_file (
+
+html2soup>
+<
+   (
+soup"__id*"
+
+__unknown_file (
+
+%1E
+C
+! !(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+bec
+! !(%
+%3*"
+
+__unknown_file (
+
+%2*%
+
+__unknown_file (	
+ascii2encode–
+“
+! !(:
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*.
+
+__unknown_file (
+<b>&#9731;</b>*
+3*9
+3
+test_pageelement.py"
+# #(
+implicit returnB+)
+'bs4.tests.test_pageelement.TestEncodingH

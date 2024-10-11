@@ -1,0 +1,4 @@
+anyio._backends._asyncio.CancelScope._restart_cancellation_in_parent
+8e740490e779beca8a577eb331681e2e
+==
+_deliver_cancellation

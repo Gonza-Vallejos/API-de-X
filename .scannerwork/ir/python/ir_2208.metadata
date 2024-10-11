@@ -1,0 +1,5 @@
+pip._vendor.requests.cookies.MockRequest.get_full_url
+f2f09dace6c0d75a496115a6b948b186
+pip._vendor.requests._internal_utils.to_native_string
+==
+get

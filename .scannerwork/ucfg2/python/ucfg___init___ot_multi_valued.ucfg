@@ -1,0 +1,78 @@
+
+>bs4.tests.TreeBuilderSmokeTest.test_attribute_not_multi_valueda
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyû û('"2*ä
+2
+ü ü(VÑ
+Å
+
+ü ü(V
+markup"__id*c
+
+__unknown_file (GE
+C<html xmlns="http://www.w3.org/1999/xhtml"><a class="a b c"></html>◊‘
+
+† †(Q
+%1*>
+
+__unknown_file (" 
+bs4.tests.TreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup:R
+multi_valued_attributes7
+
+__unknown_file (
+
+multi_valued_attributes@
+>
+
+† †(Q
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+° °(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+avt
+
+° °(
+%3"__mapGet*"
+
+__unknown_file (
+
+%2*%
+
+__unknown_file (	
+class2__getitem__è
+å
+
+° °()
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*%
+
+__unknown_file (	
+a b c*
+3*3
+3
+__init__.py"
+£ £(
+implicit return:'
+
+û. û(E
+multi_valued_attributesB" 
+bs4.tests.TreeBuilderSmokeTestH

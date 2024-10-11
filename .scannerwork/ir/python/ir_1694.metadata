@@ -1,0 +1,3 @@
+anyio._core._synchronization.Condition._check_acquired
+7b0349d27a7b1bf0e0f4ffab8f1016fb
+anyio._core._testing.get_current_task

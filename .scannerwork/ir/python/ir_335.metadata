@@ -1,0 +1,10 @@
+pip._vendor.distlib.scripts.ScriptMaker._make_script
+06eea00ebe7e451c7525ff864977b6c9
+==
+encode
+_get_script_text
+_write_script
+get
+join
+_get_shebang
+get_script_filenames

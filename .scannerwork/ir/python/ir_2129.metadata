@@ -1,0 +1,14 @@
+soupsieve.css_parser.CSSParser.parse_attribute_selector
+8597f76773a53398c85daf91ce0bf9a8
+re.escape
+re.compile
+soupsieve.css_parser.css_unescape
+==
+startswith
+search
+freeze
+lower
+SelectorList
+SelectorAttribute
+append
+group

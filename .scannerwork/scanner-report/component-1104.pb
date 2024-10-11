@@ -1,0 +1,1 @@
+Ð 2pyXŽhr?env/lib/python3.12/site-packages/pip/_vendor/requests/models.py

@@ -1,0 +1,12 @@
+pip._internal.resolution.resolvelib.candidates.LinkCandidate.__init__
+0fdf9a449c8f53097392266df5234d48
+super
+pip._internal.resolution.resolvelib.candidates.make_install_req_from_link
+pip._internal.utils.direct_url_helpers.direct_url_from_link
+pip._vendor.packaging.utils.canonicalize_name
+pip._vendor.packaging.version.Version.__init__
+pip._internal.models.wheel.Wheel.__init__
+==
+debug
+get_wheel_cache_entry
+__init__

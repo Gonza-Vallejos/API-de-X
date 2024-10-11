@@ -1,0 +1,3 @@
+anyio._backends._asyncio.Lock.acquire_nowait
+b746403484f1f480288b04cb2606cc09
+asyncio.tasks.current_task

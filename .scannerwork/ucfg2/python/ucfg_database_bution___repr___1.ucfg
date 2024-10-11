@@ -1,0 +1,53 @@
+
+;pip._vendor.distlib.database.InstalledDistribution.__repr__k
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/database.pyÆ Æ("2*±
+2
+Ç È(/x
+v
+
+È È(
+%1"__id*\
+
+__unknown_file (@*>4
+2pip._vendor.distlib.database.InstalledDistribution"
+name{
+y
+
+È È(#
+%2"__id*_
+
+__unknown_file (C*A4
+2pip._vendor.distlib.database.InstalledDistribution"	
+versionx
+v
+
+È% È(.
+%3"__id*\
+
+__unknown_file (@*>4
+2pip._vendor.distlib.database.InstalledDistribution"
+path˜
+•
+
+Ç È(/
+%4"__concat*5
+
+Ç Ç(4'%
+#<InstalledDistribution %r %s at %r>*
+
+È È(
+
+%1*
+
+È È(#
+
+%2*
+
+È% È(.
+
+%3"
+
+Ç È(/
+
+%4B64
+2pip._vendor.distlib.database.InstalledDistributionH

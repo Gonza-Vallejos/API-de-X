@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.unix.Unix.user_downloads_dir
+2c9a739864e74ea8acb33a7331e47e8e
+pip._vendor.platformdirs.unix._get_user_media_dir

@@ -1,0 +1,142 @@
+
+'gql.GQLClient.community_tweets_timeline`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyà à('"2*ë
+2
+á æ(	
+
+á æ(	
+%4"dictž
+›
+
+â â('
+%5"__mapSet*"
+
+__unknown_file (
+
+%4*+
+
+__unknown_file (
+communityId*,
+
+__unknown_file (
+
+community_id‘
+Ž
+
+ã ã(
+%6"__mapSet*"
+
+__unknown_file (
+
+%4*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+count˜
+•
+
+ä ä(!
+%7"__mapSet*"
+
+__unknown_file (
+
+%4*-
+
+__unknown_file (
+withCommunity*$
+
+__unknown_file (
+
+Truež
+›
+
+å å('
+%8"__mapSet*"
+
+__unknown_file (
+
+%4*+
+
+__unknown_file (
+rankingMode*,
+
+__unknown_file (
+
+ranking_modeE
+C
+
+á æ(	
+	variables"__id*"
+
+__unknown_file (
+
+%4*
+4
+5*è
+4
+é é(kg
+e
+
+é" é(D
+%1"__id*K
+
+__unknown_file (/*-
+gql.Endpoint"
+COMMUNITY_TWEETS_TIMELINE×Ô
+
+é é(k
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*9
+
+__unknown_file (
+
+COMMUNITY_TWEETS_FEATURES2gql_get"
+
+é é(k
+
+%2*Æ
+5
+è è((¯¬
+
+è è((
+%3"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+à. à(:
+community_id:
+
+à< à(H
+ranking_mode:
+
+àJ à(O
+count:
+
+àQ à(W
+cursorB
+gql.GQLClientH

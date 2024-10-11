@@ -1,0 +1,1 @@
+Ä 2pyXÜhr?env/lib/python3.12/site-packages/pip/_internal/utils/logging.py

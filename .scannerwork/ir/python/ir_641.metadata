@@ -1,0 +1,3 @@
+bs4.tests.test_dammit.TestEncodingDetector.test_deprecated_override_encodings
+d2709ae82aaba6dc56e4fe742072dd1e
+bs4.dammit.UnicodeDammit.__init__

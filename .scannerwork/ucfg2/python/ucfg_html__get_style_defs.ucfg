@@ -1,0 +1,93 @@
+
+Apip._vendor.pygments.formatters.html.HtmlFormatter.get_style_defss
+g/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/html.pyü ü("2*Ë
+2
+ý (
+
+‚ ‚(
+%1"listG
+E
+
+‚ ‚(
+style_lines"__id*"
+
+__unknown_file (
+
+%1€~
+
+„ „(8
+%2*R
+
+__unknown_file (64
+2pip._vendor.pygments.formatters.html.HtmlFormatter2get_linenos_style_defszx
+
+„ „(9
+%3"list.extend*+
+
+__unknown_file (
+
+style_lines*"
+
+__unknown_file (
+
+%22extend©¦
+
+… …(>
+%4*R
+
+__unknown_file (64
+2pip._vendor.pygments.formatters.html.HtmlFormatter*#
+
+__unknown_file (
+
+arg2get_background_style_defszx
+
+… …(?
+%5"list.extend*+
+
+__unknown_file (
+
+style_lines*"
+
+__unknown_file (
+
+%42extend¤¡
+
+† †(9
+%6*R
+
+__unknown_file (64
+2pip._vendor.pygments.formatters.html.HtmlFormatter*#
+
+__unknown_file (
+
+arg2get_token_style_defszx
+
+† †(:
+%7"list.extend*+
+
+__unknown_file (
+
+style_lines*"
+
+__unknown_file (
+
+%62extendus
+
+ˆ ˆ(%
+%8"str.join*"
+
+__unknown_file (
+\n*+
+
+__unknown_file (
+
+style_lines2join"
+
+ˆ ˆ(%
+
+%8:
+
+ü ü(%
+argB64
+2pip._vendor.pygments.formatters.html.HtmlFormatterH

@@ -1,0 +1,7 @@
+pip._vendor.requests.cookies.RequestsCookieJar.copy
+68f24c0c15e9450cf02aae978be91fdd
+pip._vendor.requests.cookies.RequestsCookieJar.__init__
+==
+get_policy
+update
+set_policy

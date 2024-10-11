@@ -1,0 +1,8 @@
+pip._internal.metadata.importlib._envs._looks_like_wheel
+d036c61f6b2ceefb892f1c148be1cc5c
+zipfile.is_zipfile
+os.path.basename
+os.path.isfile
+==
+match
+endswith

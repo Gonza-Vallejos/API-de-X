@@ -1,0 +1,68 @@
+
+Fbs4.tests.HTMLTreeBuilderSmokeTest.test_head_tag_between_head_and_bodya
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py½ ½(+"2*‘
+2
+¾ ¾(B€
+~
+
+¿ Ã(	
+content"__id*_
+
+__unknown_file (CA
+?<html><head></head>
+  <link></link>
+  <body>foo</body>
+</html>
+ˆ…
+
+Ä Ä(!
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*'
+
+__unknown_file (
+	
+content2soup@
+>
+
+Ä Ä(!
+soup"__id*"
+
+__unknown_file (
+
+%1J
+H
+
+Å Å(
+%2"__id*.
+
+__unknown_file (*
+
+soup"
+htmlH
+F
+
+Å Å(
+%3"__id*,
+
+__unknown_file (*
+
+%2"
+body”‘
+
+Æ Æ(&
+%4*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*$
+
+__unknown_file (
+
+soup2assertConnectedness*
+3*3
+3
+__init__.py"
+È È(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

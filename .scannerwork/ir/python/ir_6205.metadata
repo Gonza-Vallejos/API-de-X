@@ -1,0 +1,7 @@
+pip._vendor.pkg_resources.WorkingSet.add_entry
+8ecf2ae53623515c7abcb1a0c44d0420
+pip._vendor.pkg_resources.find_distributions
+==
+add
+setdefault
+append

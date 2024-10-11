@@ -1,0 +1,10 @@
+pip._internal.commands.cache.CacheCommand.remove_cache_items
+8151d3ddb8a1ba6ca562e520a05c5b45
+len
+os.unlink
+==
+warning
+_find_http_files
+_find_wheels
+verbose
+info

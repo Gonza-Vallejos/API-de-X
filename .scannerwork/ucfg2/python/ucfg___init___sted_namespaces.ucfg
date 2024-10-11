@@ -1,0 +1,64 @@
+
+8bs4.tests.XMLTreeBuilderSmokeTest.test_nested_namespacesa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.pyÑ Ñ("2*î
+2
+Ö ã(·
+ﬁ
+
+Ö ã(
+doc"__id*¬
+
+__unknown_file (•¢
+ü<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<parent xmlns="http://ns1/">
+<child xmlns="http://ns2/" xmlns:ns3="http://ns3/">
+<grandchild ns3:attr="value" xmlns="http://ns4/"/>
+</child>
+</parent>ÉÄ
+
+å å(
+%1*A
+
+__unknown_file (%#
+!bs4.tests.XMLTreeBuilderSmokeTest*#
+
+__unknown_file (
+
+doc2soup@
+>
+
+å å(
+soup"__id*"
+
+__unknown_file (
+
+%1B@
+
+ç ç(#
+%2*$
+
+__unknown_file (
+
+soup2encodeç
+ä
+
+ç ç(#
+%3"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+doc*"
+
+__unknown_file (
+
+%2*
+3*3
+3
+__init__.py"
+è è(
+implicit returnB%#
+!bs4.tests.XMLTreeBuilderSmokeTestH

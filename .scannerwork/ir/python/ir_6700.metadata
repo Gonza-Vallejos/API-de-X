@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_append_child_thats_already_at_the_end
+fd15ed95f65d6a0349d2117fb45f8aa9
+==
+soup
+append

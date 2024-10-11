@@ -1,0 +1,6 @@
+pip._vendor.platformdirs.api.PlatformDirsABC._append_app_name_and_version
+aba5a72f878f2fd2f583acdd026cedfe
+list.__init__
+==
+append
+_optionally_create_directory

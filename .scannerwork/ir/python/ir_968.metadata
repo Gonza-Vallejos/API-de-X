@@ -1,0 +1,5 @@
+pip._internal.utils.misc.get_pip_version
+7f1dadc98469b5cbed63489fd628a591
+os.path.abspath
+os.path.join
+os.path.dirname

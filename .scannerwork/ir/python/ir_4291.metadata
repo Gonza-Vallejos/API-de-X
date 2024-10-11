@@ -1,0 +1,5 @@
+pip._vendor.distlib.util.FileOperator.is_writable
+96849875938ee82e85d586c0aa8ce530
+os.access
+os.path.dirname
+os.path.exists

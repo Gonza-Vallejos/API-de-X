@@ -1,0 +1,4 @@
+bs4.tests.test_htmlparser.TestHTMLParserTreeBuilder.test_empty_element
+01ece06f67f5a46d4606c62bb20032a1
+==
+assert_soup

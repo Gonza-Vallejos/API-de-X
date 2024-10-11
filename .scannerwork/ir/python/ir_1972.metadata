@@ -1,0 +1,7 @@
+anyio._backends._asyncio.AsyncIOTaskInfo.has_pending_cancellation
+35cb8da499c6648ace8ad81053897879
+==
+_task
+get
+cancelled
+cancelling

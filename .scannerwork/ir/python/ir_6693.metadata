@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_replace_tag_with_itself
+cd800c7ace4f6756fb50222b60375463
+==
+soup
+replace_with

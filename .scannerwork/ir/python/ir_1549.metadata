@@ -1,0 +1,9 @@
+pip._vendor.platformdirs.unix.Unix.user_runtime_dir
+5f449a30631e781c8d13f2d63cff5b5b
+pathlib.Path.__init__
+==
+startswith
+strip
+get
+exists
+_append_app_name_and_version

@@ -1,0 +1,14 @@
+pip._vendor.urllib3.contrib._securetransport.low_level._temporary_keychain
+c1fef27955fbc510a1226f4a97a56dff
+base64.b16encode
+len
+pip._vendor.urllib3.contrib._securetransport.low_level._assert_no_error
+os.path.join
+os.urandom
+tempfile.mkdtemp
+ctypes.byref
+==
+encode
+SecKeychainCreate
+decode
+SecKeychainRef

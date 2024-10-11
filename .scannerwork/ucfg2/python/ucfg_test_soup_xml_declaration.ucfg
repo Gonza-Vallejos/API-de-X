@@ -1,0 +1,85 @@
+
+:bs4.tests.test_soup.TestOutput.test_decode_xml_declarationb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_soup.pyÞ Þ(#"2*é
+2
+ã ã('ˆ…
+
+ã ã('
+%1*>
+
+__unknown_file (" 
+bs4.tests.test_soup.TestOutput*+
+
+__unknown_file (
+<tag></tag>2soup@
+>
+
+ã ã('
+soup"__id*"
+
+__unknown_file (
+
+%1N
+L
+
+ä ä(
+
+soup"
+is_xml"__id*$
+
+__unknown_file (
+
+True˜
+•
+
+å å(R
+%2"__concat*0
+
+å å(0" 
+<?xml version="1.0" encoding="*!
+
+å1 å(@
+
+actual_encoding*"
+
+åA å(Q
+"?>\n<tag></tag>‹ˆ
+
+æ æ(C
+%3*$
+
+__unknown_file (
+
+soup2decode:F
+eventual_encoding1
+
+__unknown_file (
+
+eventual_encodingŒ
+‰
+
+å æ(C
+%4"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+3*4
+3
+test_soup.py"
+è è(
+implicit return:!
+
+Þ* Þ(;
+eventual_encoding:
+
+Þ= Þ(L
+actual_encodingB" 
+bs4.tests.test_soup.TestOutputH

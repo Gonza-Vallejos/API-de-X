@@ -1,0 +1,3 @@
+pip._vendor.requests.auth.HTTPDigestAuth.__init__
+ae893157f64ec29b723f152b3601ee58
+threading.local.__init__

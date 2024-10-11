@@ -1,0 +1,5 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_head_tag_between_head_and_body
+9e52149710b1564b9c210b7c4f410b4f
+==
+soup
+assertConnectedness

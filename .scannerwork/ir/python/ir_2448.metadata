@@ -1,0 +1,2 @@
+pip._vendor.requests.adapters.HTTPAdapter.__getstate__
+9e0fe242d736633823e0800733e779bf

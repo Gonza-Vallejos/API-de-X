@@ -1,0 +1,7 @@
+pip._vendor.pkg_resources.EggProvider._setup_prefix
+307f5e0edeb6c85596bde41a50917c88
+next
+pip._vendor.pkg_resources._parents
+filter.__init__
+==
+_set_egg

@@ -1,0 +1,6 @@
+pip._vendor.distlib.index.PackageIndex.sign_file
+564048e67a1c295415fd6855b21c7494
+==
+encode
+run_command
+get_sign_command

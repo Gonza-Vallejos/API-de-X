@@ -1,0 +1,5 @@
+anyio._backends._asyncio.CapacityLimiter.acquire_nowait
+222cc575e6ccd8a503e6bca99a27c9a1
+asyncio.tasks.current_task
+==
+acquire_on_behalf_of_nowait

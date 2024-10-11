@@ -1,0 +1,3 @@
+pip._vendor.requests.auth.HTTPProxyAuth.__call__
+32626f92cbe079f1ccf7083797cb0475
+pip._vendor.requests.auth._basic_auth_str

@@ -1,0 +1,1 @@
+ë 2pyXòhrDenv/lib/python3.12/site-packages/pip/_vendor/packaging/specifiers.py

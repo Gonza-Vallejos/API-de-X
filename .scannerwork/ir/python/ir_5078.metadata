@@ -1,0 +1,4 @@
+httpcore._async.connection.AsyncHTTPConnection.__init__
+84c23ac9063a7277583de3f72b28e058
+httpcore._synchronization.AsyncLock.__init__
+httpcore._backends.auto.AutoBackend.__init__

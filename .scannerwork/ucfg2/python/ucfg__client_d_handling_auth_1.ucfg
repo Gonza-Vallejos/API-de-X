@@ -1,0 +1,206 @@
+
+-httpx._client.AsyncClient._send_handling_auth\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.pyö ö(!"2*©
+13
+£ £(1JH
+
+£ £(1
+%9*)
+
+__unknown_file (
+
+	auth_flow2	__anext__C
+A
+
+£ £(1	
+request"__id*"
+
+__unknown_file (
+
+%9*
+4
+6*‘
+2
+° °(1us
+
+° °(1
+%10*$
+
+__unknown_file (
+
+auth*'
+
+__unknown_file (
+	
+request2async_auth_flowF
+D
+
+° °(1
+	auth_flow"__id*#
+
+__unknown_file (
+
+%10*
+13*2
+3
+
+_client.py"
+º º(
+implicit return*]
+4
+∫ ∫($GE
+
+∫ ∫($
+%1*)
+
+__unknown_file (
+
+	auth_flow2aclose*
+3*Î
+6
+¶ ™(çä
+
+¶! ™(
+%8*9
+
+__unknown_file (
+httpx._client.AsyncClient*'
+
+__unknown_file (
+	
+request2_send_handling_redirects:D
+follow_redirects0
+
+__unknown_file (
+
+follow_redirects:2
+history'
+
+__unknown_file (
+	
+historyD
+B
+
+¶ ™(
+
+response"__id*"
+
+__unknown_file (
+
+%8*
+12*\
+7
+∑ ∑(+FD
+
+∑ ∑(+
+%2*(
+
+__unknown_file (
+
+
+response2aclose*
+4*˝
+9
+± ±(4
+
+±' ±(4
+%3"listki
+
+±' ±(4
+%4*"
+
+__unknown_file (
+
+%3*'
+
+__unknown_file (
+	
+history2__init__Q
+O
+
+± ±(4
+
+
+response"	
+history"__id*"
+
+__unknown_file (
+
+%3EC
+
+≤ ≤(*
+%5*(
+
+__unknown_file (
+
+
+response2areadM
+K
+
+≥ ≥(*	
+request"__id*,
+
+__unknown_file (
+
+next_requestom
+
+¥ ¥(,
+%6*'
+
+__unknown_file (
+	
+history*(
+
+__unknown_file (
+
+
+response2append*	
+4
+6
+7*,
+10
+Ø Ø('"
+
+Ø Ø('
+
+
+response*€
+12
+≠ ≠(Fpn
+
+≠- ≠(F
+%7*)
+
+__unknown_file (
+
+	auth_flow*(
+
+__unknown_file (
+
+
+response2asendH
+F
+
+≠ ≠(F
+next_request"__id*"
+
+__unknown_file (
+
+%7*
+4
+7
+9
+10:
+
+ú ú(	
+request:
+
+ù ù(
+auth: 
+
+û û(
+follow_redirects:
+
+ü ü(	
+historyB
+httpx._client.AsyncClientH

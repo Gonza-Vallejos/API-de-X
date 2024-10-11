@@ -1,0 +1,8 @@
+pip._vendor.requests.adapters.HTTPAdapter.build_response
+e14f93c619079009fcf3b07aa4f3892d
+pip._vendor.requests.models.Response.__init__
+pip._vendor.requests.utils.get_encoding_from_headers
+pip._vendor.requests.cookies.extract_cookies_to_jar
+getattr
+==
+decode

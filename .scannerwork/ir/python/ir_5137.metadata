@@ -1,0 +1,4 @@
+anyio._core._fileio.AsyncFile.truncate
+f4bae160f6a00248fb405c2d6843f759
+==
+run_sync

@@ -1,0 +1,4 @@
+pip._internal.metadata.importlib._dists.Distribution.version
+f2d58e528e409e4926ea6c5cce58960d
+pip._internal.metadata.importlib._compat.parse_name_and_version_from_info_directory
+pip._vendor.packaging.version.parse

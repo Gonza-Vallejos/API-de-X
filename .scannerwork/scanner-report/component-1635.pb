@@ -1,0 +1,1 @@
+ã 2pyXhrEenv/lib/python3.12/site-packages/pip/_internal/operations/__init__.py

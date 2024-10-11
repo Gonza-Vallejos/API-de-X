@@ -1,0 +1,6 @@
+pip._internal.metadata.base.BaseDistribution._add_egg_info_requires
+60b3bb076d5ac562f9a8a636cb97c969
+==
+get_all
+_iter_egg_info_dependencies
+_iter_egg_info_extras

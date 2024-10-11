@@ -1,0 +1,6 @@
+pip._vendor.urllib3._collections.HTTPHeaderDict.add
+eabb76e6bba50212a8d9567b6a8f8cfc
+==
+setdefault
+lower
+append

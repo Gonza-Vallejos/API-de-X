@@ -1,0 +1,13 @@
+pip._vendor.distlib.locators.PyPIRPCLocator._get_project
+f37dd98c67f312e50a31f6d3f06c53d7
+pip._vendor.distlib.metadata.Metadata.__init__
+set.__init__
+pip._vendor.distlib.database.Distribution.__init__
+==
+add
+release_data
+_get_digest
+package_releases
+setdefault
+release_urls
+get

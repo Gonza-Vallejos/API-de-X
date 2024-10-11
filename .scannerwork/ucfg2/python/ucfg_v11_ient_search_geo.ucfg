@@ -1,0 +1,228 @@
+
+v11.V11Client.search_geo`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.pyó ó("2*Ú	
+2
+ô û(	
+
+ô û(	
+%7"dict
+Š
+
+õ õ(
+%8"__mapSet*"
+
+__unknown_file (
+
+%7*#
+
+__unknown_file (
+lat*#
+
+__unknown_file (
+
+lat
+Œ
+
+ö ö(
+%9"__mapSet*"
+
+__unknown_file (
+
+%7*$
+
+__unknown_file (
+long*$
+
+__unknown_file (
+
+long’
+
+
+÷ ÷(
+%10"__mapSet*"
+
+__unknown_file (
+
+%7*%
+
+__unknown_file (	
+query*%
+
+__unknown_file (	
+
+queryŒ
+‰
+
+ø ø(
+%11"__mapSet*"
+
+__unknown_file (
+
+%7*"
+
+__unknown_file (
+ip*"
+
+__unknown_file (
+
+ip
+›
+
+ù ù(&
+%12"__mapSet*"
+
+__unknown_file (
+
+%7*+
+
+__unknown_file (
+granularity*+
+
+__unknown_file (
+
+granularity
+›
+
+ú ú(&
+%13"__mapSet*"
+
+__unknown_file (
+
+%7*+
+
+__unknown_file (
+max_results*+
+
+__unknown_file (
+
+max_resultsB
+@
+
+ô û(	
+params"__id*"
+
+__unknown_file (
+
+%7
+
+ü ü()
+%14"tuplePN
+
+ü ü((
+%15"
+dict.items*&
+
+__unknown_file (
+
+
+params2itemsig
+
+ü ü()
+%16*#
+
+__unknown_file (
+
+%14*#
+
+__unknown_file (
+
+%152__init__*
+4
+7*Â
+4
+€ „(	S
+Q
+
+€ €(
+%1"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseX
+V
+
+ (
+%2"__id*<
+
+__unknown_file ( *
+v11.Endpoint"
+
+SEARCH_GEOS
+Q
+
+ƒ ƒ(
+%3"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+ƒ ƒ(+
+%4"__id*5
+
+__unknown_file (*
+
+%3"
+_base_headersÃÀ
+
+€ „(	
+%5*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22get:0
+params&
+
+__unknown_file (
+
+
+params:-
+headers"
+
+__unknown_file (
+
+%4"
+
+€ „(	
+
+%5*‡
+7
+ş ş(nl
+
+ş ş(
+%6"dict.pop*&
+
+__unknown_file (
+
+
+params*!
+
+__unknown_file (
+
+k2pop*
+4
+7:
+
+ó ó("
+lat:
+
+ó$ ó((
+long:
+
+ó* ó(/
+query:
+
+ó1 ó(3
+ip:
+
+ó5 ó(@
+granularity:
+
+óB ó(M
+max_resultsB
+v11.V11ClientH

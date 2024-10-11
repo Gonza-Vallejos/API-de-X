@@ -1,0 +1,5 @@
+anyio._core._synchronization.SemaphoreAdapter._semaphore
+a6b1e36f79bce5f53cb04ab9ae732f31
+anyio._core._eventloop.get_async_backend
+==
+create_semaphore

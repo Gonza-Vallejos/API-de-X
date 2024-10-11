@@ -1,0 +1,7 @@
+pip._internal.wheel_builder._should_cache
+b86e57c7b4b163166a403b368cde206b
+pip._internal.wheel_builder._contains_egg_info
+==
+splitext
+get_backend_for_scheme
+is_immutable_rev_checkout

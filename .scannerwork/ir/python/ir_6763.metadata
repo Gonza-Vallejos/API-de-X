@@ -1,0 +1,5 @@
+pip._vendor.platformdirs.macos.MacOS.user_data_dir
+5fe691abbb00b0f52a5c6fa6f221e5ec
+os.path.expanduser
+==
+_append_app_name_and_version

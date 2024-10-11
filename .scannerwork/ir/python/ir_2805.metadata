@@ -1,0 +1,9 @@
+h11.tests.test_connection.test_reuse_simple
+639cc61a1a491ac7b6887ba33e942853
+h11._events.EndOfMessage.__init__
+h11._events.Request.__init__
+h11._events.Response.__init__
+h11.tests.helpers.ConnectionPair.__init__
+==
+send
+start_next_cycle

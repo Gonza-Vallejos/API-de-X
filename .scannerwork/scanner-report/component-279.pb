@@ -1,0 +1,1 @@
+— 2pyX¾hr8env/lib/python3.12/site-packages/anyio/streams/memory.py

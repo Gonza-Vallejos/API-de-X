@@ -1,0 +1,3 @@
+pip._internal.exceptions.NetworkConnectionError.__str__
+1721c81f8b9ef2009ec4d570d36fb191
+str.__init__

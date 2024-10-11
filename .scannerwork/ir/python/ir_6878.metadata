@@ -1,0 +1,6 @@
+pip._vendor.distlib.manifest.Manifest.__init__
+85975d03110304a4030f5d0757cce28b
+os.path.normpath
+os.path.abspath
+set.__init__
+os.getcwd

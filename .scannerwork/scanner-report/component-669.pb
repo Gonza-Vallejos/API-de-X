@@ -1,0 +1,1 @@
+ù 2pyXÑhr/env/lib/python3.12/site-packages/bs4/element.py

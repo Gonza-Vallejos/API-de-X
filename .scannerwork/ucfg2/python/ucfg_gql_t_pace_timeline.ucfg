@@ -1,0 +1,92 @@
+
++gql.GQLClient.list_management_pace_timeline`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py¬ ¬(+"2*Ž
+2
+­ ­($
+
+­ ­($
+%4"dict‘
+Ž
+
+­ ­(#
+%5"__mapSet*"
+
+__unknown_file (
+
+%4*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+countE
+C
+
+­ ­($
+	variables"__id*"
+
+__unknown_file (
+
+%4*
+4
+5*Û
+4
+° °(^k
+i
+
+°" °(H
+%1"__id*O
+
+__unknown_file (3*1
+gql.Endpoint"
+LIST_MANAGEMENT_PACE_TIMELINEÆÃ
+
+° °(^
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*(
+
+__unknown_file (
+
+
+FEATURES2gql_get"
+
+° °(^
+
+%2*Æ
+5
+¯ ¯((¯¬
+
+¯ ¯((
+%3"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+¬2 ¬(7
+count:
+
+¬9 ¬(?
+cursorB
+gql.GQLClientH

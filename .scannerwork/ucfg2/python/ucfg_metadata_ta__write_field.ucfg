@@ -1,0 +1,47 @@
+
+8pip._vendor.distlib.metadata.LegacyMetadata._write_fieldk
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/metadata.py” ”("2*ë
+2
+• •(1k
+i
+
+• •(0
+%1"__concat*
+
+• •( 
+
+%s: %s\n*
+
+•$ •((
+
+name*
+
+•* •(/	
+
+valuehf
+
+• •(1
+%2*'
+
+__unknown_file (
+	
+fileobj*"
+
+__unknown_file (
+
+%12write*
+3*3
+3
+metadata.py"
+— —(
+implicit return:
+
+” ”("	
+fileobj:
+
+”$ ”((
+name:
+
+”* ”(/
+valueB/-
++pip._vendor.distlib.metadata.LegacyMetadataH

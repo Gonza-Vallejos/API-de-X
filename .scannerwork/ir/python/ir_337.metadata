@@ -1,0 +1,6 @@
+pip._vendor.distlib.scripts.ScriptMaker.make
+6c6e83afc890426647f437d2da658c56
+pip._vendor.distlib.util.get_export_entry
+==
+_make_script
+_copy_script

@@ -1,0 +1,4 @@
+bs4.tests.test_tag.TestTag.test_attributes_come_out_in_alphabetical_order
+3d05329cf8d5397c7b023fe091fdd053
+==
+assertSoupEquals

@@ -1,0 +1,8 @@
+anyio._core._sockets.create_udp_socket
+cc0937cecad42fa6baea620ba4d2c1d0
+anyio._core._sockets.getaddrinfo
+str.__init__
+typing.cast
+anyio._core._eventloop.get_async_backend
+==
+create_udp_socket

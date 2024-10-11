@@ -1,0 +1,2 @@
+pip._vendor.requests.adapters.BaseAdapter.close
+7121a97576c273e441e1851d2fded9b2

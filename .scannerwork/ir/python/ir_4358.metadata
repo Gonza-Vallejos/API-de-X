@@ -1,0 +1,5 @@
+pip._vendor.distlib.util.get_platform
+ed60e48152179aa851ca0bb21db7ef3a
+pip._vendor.distlib.util.get_host_platform
+==
+get

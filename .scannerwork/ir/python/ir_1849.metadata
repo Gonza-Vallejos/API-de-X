@@ -1,0 +1,4 @@
+pip._vendor.distlib.resources.ResourceFinder.get_resources.allowed
+d6972a4ac473b19dea52ff6a5170b14e
+==
+endswith

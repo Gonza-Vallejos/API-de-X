@@ -1,0 +1,8 @@
+pip._vendor.requests.cookies.RequestsCookieJar.set_cookie
+9b3576cb106f106b53da19fb11f433ef
+super
+hasattr
+==
+startswith
+replace
+endswith

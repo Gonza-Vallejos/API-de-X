@@ -1,0 +1,7 @@
+pip._vendor.urllib3.util.retry.Retry.get_backoff_time
+5eb5ce83d9c7f79d2f6ce538545aa2d2
+itertools.takewhile.__init__
+reversed.__init__
+min
+len
+list.__init__

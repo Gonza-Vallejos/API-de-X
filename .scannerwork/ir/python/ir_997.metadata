@@ -1,0 +1,3 @@
+pip._internal.utils.misc.redact_auth_from_url
+aa9c7270fda65cac23d5f41fb9a19999
+pip._internal.utils.misc._transform_url

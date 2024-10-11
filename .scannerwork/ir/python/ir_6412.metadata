@@ -1,0 +1,5 @@
+pip._internal.commands.inspect.InspectCommand._dist_to_dict
+092393c1ca469e9ca6ed191432af8c4b
+pip._internal.utils.urls.path_to_url
+==
+to_dict

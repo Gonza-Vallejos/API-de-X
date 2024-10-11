@@ -1,0 +1,165 @@
+
+pip._vendor.rich.panel.Panelc
+Y/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/rich/panel.py& &("2*ô
+28 8($n
+l
+8 8($.
+pip._vendor.rich.panel.Panel"
+
+renderable"__id**
+
+__unknown_file (
+
+
+renderable`
+^
+9 9('
+pip._vendor.rich.panel.Panel"
+box"__id*#
+
+__unknown_file (
+
+boxd
+b
+: :()
+pip._vendor.rich.panel.Panel"
+title"__id*%
+
+__unknown_file (	
+
+titlep
+n
+; ;(3/
+pip._vendor.rich.panel.Panel"
+title_align"__id*+
+
+__unknown_file (
+
+title_alignj
+h
+< <( ,
+pip._vendor.rich.panel.Panel"
+
+subtitle"__id*(
+
+__unknown_file (
+
+
+subtitlev
+t
+= =(,2
+pip._vendor.rich.panel.Panel"
+subtitle_align"__id*.
+
+__unknown_file (
+
+subtitle_alignj
+h
+> >( ,
+pip._vendor.rich.panel.Panel"
+
+safe_box"__id*(
+
+__unknown_file (
+
+
+safe_boxf
+d
+? ?(*
+pip._vendor.rich.panel.Panel"
+expand"__id*&
+
+__unknown_file (
+
+
+expandd
+b
+@ @()
+pip._vendor.rich.panel.Panel"
+style"__id*%
+
+__unknown_file (	
+
+styler
+p
+A A((0
+pip._vendor.rich.panel.Panel"
+border_style"__id*,
+
+__unknown_file (
+
+border_styled
+b
+B B()
+pip._vendor.rich.panel.Panel"
+width"__id*%
+
+__unknown_file (	
+
+widthf
+d
+C C(*
+pip._vendor.rich.panel.Panel"
+height"__id*&
+
+__unknown_file (
+
+
+heighth
+f
+D D(+
+pip._vendor.rich.panel.Panel"	
+padding"__id*'
+
+__unknown_file (
+	
+paddingl
+j
+E E("-
+pip._vendor.rich.panel.Panel"
+	highlight"__id*)
+
+__unknown_file (
+
+	highlight*
+3*Q
+3
+
+panel.py.,
+G G(
+%1"pip._vendor.rich.panel.Panel"
+G G(
+
+%1:
+( (($
+
+renderable:
+) )(
+box:
++ +((
+title:
+, ,(+
+title_align:
+- -(+
+
+subtitle:
+. .(.
+subtitle_align:
+/ /('
+
+safe_box:
+0 0(
+expand:
+1 1(!
+style:
+2 2((
+border_style:
+3 3(#
+width:
+4 4($
+height:
+5 5(+	
+padding:
+6 6(
+	highlightB 
+pip._vendor.rich.panel.PanelH

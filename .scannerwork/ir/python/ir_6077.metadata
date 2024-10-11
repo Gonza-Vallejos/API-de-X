@@ -1,0 +1,5 @@
+pip._vendor.requests.models.Response.close
+963a1d946fde7ab0d08ad77ac9421732
+getattr
+==
+close

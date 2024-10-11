@@ -1,0 +1,8 @@
+h11.tests.test_connection.test_sendfile
+a12e5123eaa69b5b03ce1e85b450ccae
+h11._events.EndOfMessage.__init__
+h11.tests.test_connection.test_sendfile.SendfilePlaceholder.__init__
+h11.tests.test_connection.test_sendfile.setup
+==
+index
+send

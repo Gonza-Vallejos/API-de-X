@@ -1,0 +1,3 @@
+pip._vendor.urllib3.connectionpool.HTTPConnectionPool.close
+a3b566e370e7f25b2525d25243776691
+pip._vendor.urllib3.connectionpool._close_pool_connections

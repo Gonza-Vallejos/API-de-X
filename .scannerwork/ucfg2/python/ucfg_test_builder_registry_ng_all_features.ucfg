@@ -1,0 +1,189 @@
+
+ibs4.tests.test_builder_registry.TestRegistry.test_lookup_gets_most_recent_builder_supporting_all_featuresl
+b/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_builder_registry.pyw w(D"2*ù
+2x x(2œ™
+x x(2
+%1*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+foo2builder_for_featuresA
+?
+x x(2	
+has_one"__id*"
+
+__unknown_file (
+
+%1œ™
+y y(8
+%2*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+bar2builder_for_featuresG
+E
+y y(8
+has_the_other"__id*"
+
+__unknown_file (
+
+%2æã
+z z(G
+%3*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+foo*#
+
+__unknown_file (
+bar*#
+
+__unknown_file (
+baz2builder_for_featuresH
+F
+z z(G
+has_both_early"__id*"
+
+__unknown_file (
+
+%3çä
+{ {(G
+%4*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+foo*#
+
+__unknown_file (
+bar*$
+
+__unknown_file (
+quux2builder_for_featuresG
+E
+{ {(G
+has_both_late"__id*"
+
+__unknown_file (
+
+%4œ™
+| |(4
+%5*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+bar2builder_for_featuresC
+A
+| |(4
+	lacks_one"__id*"
+
+__unknown_file (
+
+%5œ™
+} }(8
+%6*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+foo2builder_for_featuresG
+E
+} }(8
+has_the_other"__id*"
+
+__unknown_file (
+
+%6v
+t
+
+ (
+%7"__id*Z
+
+__unknown_file (>*<.
+,bs4.tests.test_builder_registry.TestRegistry"
+
+registry‹ˆ
+
+ (1
+%8*"
+
+__unknown_file (
+
+%7*#
+
+__unknown_file (
+foo*#
+
+__unknown_file (
+bar2lookup—
+”
+
+ (B
+%9"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%8*-
+
+__unknown_file (
+
+has_both_latew
+u
+
+„ „(
+%10"__id*Z
+
+__unknown_file (>*<.
+,bs4.tests.test_builder_registry.TestRegistry"
+
+registry²¯
+
+„ „(8
+%11*#
+
+__unknown_file (
+
+%10*#
+
+__unknown_file (
+foo*#
+
+__unknown_file (
+bar*#
+
+__unknown_file (
+baz2lookupš
+—
+
+„ „(J
+%12"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%11*.
+
+__unknown_file (
+
+has_both_early*
+3*@
+3
+test_builder_registry.py"
+† †(
+implicit returnB0.
+,bs4.tests.test_builder_registry.TestRegistryH

@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestTreeModification.test_replace_with_multiple
+5a0ff24df707dcaca9cf95c5f95bad8f
+==
+soup
+new_tag
+replace_with

@@ -1,0 +1,78 @@
+
+gql.GQLClient.delete_retweet`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyÄ Ä("2*¬
+2
+Å Å(G
+
+Å Å(G
+%1"dictû
+õ
+
+Å Å(0
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*/
+
+__unknown_file (
+source_tweet_id*(
+
+__unknown_file (
+
+
+tweet_idò
+ï
+
+Å1 Å(F
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*,
+
+__unknown_file (
+dark_request*%
+
+__unknown_file (	
+
+FalseE
+C
+
+Å Å(G
+	variables"__id*"
+
+__unknown_file (
+
+%1\
+Z
+
+Ç# Ç(:
+%4"__id*@
+
+__unknown_file ($*"
+gql.Endpoint"
+DELETE_RETWEETùö
+
+Ç Ç(F
+%5*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%4*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+Ç Ç(F
+
+%5:
+
+Ä# Ä(+
+
+tweet_idB
+gql.GQLClientH

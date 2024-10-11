@@ -1,0 +1,5 @@
+bs4.tests.test_pageelement.TestPersistence.test_copy_tag_copies_contents
+5a14802e7899692e57d429344133cc7e
+copy.copy
+==
+soup

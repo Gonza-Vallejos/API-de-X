@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestFindAllByName.test_find_all_with_tags_matching_method
+9ad7a3be9f5f220619c58072b79737da
+==
+soup
+find_all
+assert_selects

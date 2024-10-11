@@ -1,0 +1,114 @@
+
+v11.V11Client.create_blocks`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.py¾ ¾("2*Ó
+2
+¿ ¿(#
+
+¿ ¿(#
+%1"dict•
+’
+
+¿ ¿("
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (	
+user_id*'
+
+__unknown_file (
+	
+user_id@
+>
+
+¿ ¿(#
+data"__id*"
+
+__unknown_file (
+
+%1S
+Q
+
+À À(
+%3"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+À À()
+%4"__id*5
+
+__unknown_file (*
+
+%3"
+_base_headersC
+A
+
+À À()	
+headers"__id*"
+
+__unknown_file (
+
+%4ÎË
+
+Á Á(E
+%5"dict.__setitem__*'
+
+__unknown_file (
+	
+headers*,
+
+__unknown_file (
+content-type*A
+
+__unknown_file (%#
+!application/x-www-form-urlencoded2__setitem__S
+Q
+
+Â Â(
+%6"__id*7
+
+__unknown_file (*
+v11.V11Client"
+base[
+Y
+
+Ã Ã("
+%7"__id*?
+
+__unknown_file (#*!
+v11.Endpoint"
+CREATE_BLOCKSÅÂ
+
+Â Æ(	
+%8*"
+
+__unknown_file (
+
+%6*"
+
+__unknown_file (
+
+%72post:,
+data$
+
+__unknown_file (
+
+data:2
+headers'
+
+__unknown_file (
+	
+headers"
+
+Â Æ(	
+
+%8:
+
+¾" ¾()	
+user_idB
+v11.V11ClientH

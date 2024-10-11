@@ -1,0 +1,3 @@
+pip._vendor.pkg_resources.DefaultProvider._listdir
+078f47340ff42ae25b9d8606854b35c3
+os.listdir

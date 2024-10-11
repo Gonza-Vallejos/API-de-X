@@ -1,0 +1,9 @@
+pip._vendor.distlib.metadata.Metadata.get_requirements
+f19c1c87198dab9b160bf71758303e63
+pip._vendor.distlib.markers.interpret
+pip._vendor.distlib.util.get_extras
+==
+extend
+get
+get_requirements
+remove

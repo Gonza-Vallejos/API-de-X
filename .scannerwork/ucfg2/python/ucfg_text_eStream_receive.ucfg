@@ -1,0 +1,61 @@
+
+,anyio.streams.text.TextReceiveStream.receive_
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/streams/text.py- -("3"4*-
+3	
+text.py"
+4 4(
+implicit return*¨
+4/ /(9t
+r
+/ /(/
+%1"__id*Z
+
+__unknown_file (>*<&
+$anyio.streams.text.TextReceiveStream"
+transport_stream?=
+/ /(9
+%2*"
+
+__unknown_file (
+
+%12receive?
+=
+/ /(9
+chunk"__id*"
+
+__unknown_file (
+
+%2l
+j
+0 0(#
+%3"__id*R
+
+__unknown_file (6*4&
+$anyio.streams.text.TextReceiveStream"
+
+_decoderec
+0 0(1
+%4*"
+
+__unknown_file (
+
+%3*%
+
+__unknown_file (	
+
+chunk2decodeA
+?
+0 0(1	
+decoded"__id*"
+
+__unknown_file (
+
+%4*	
+3
+4
+5*&
+52 2("
+2 2(
+	
+decodedB(&
+$anyio.streams.text.TextReceiveStreamH

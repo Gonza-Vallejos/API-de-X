@@ -1,0 +1,17 @@
+
+2anyio.abc._eventloop.AsyncBackend.create_semaphorec
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/abc/_eventloop.py´ ´("3*5
+3
+_eventloop.py"
+½ ½(
+implicit return:
+
+¶ ¶(
+initial_value:
+
+¸ ¸($
+	max_value:
+
+¹ ¹("
+fast_acquireB%#
+!anyio.abc._eventloop.AsyncBackendH

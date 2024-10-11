@@ -1,0 +1,221 @@
+
+)httpx._client.BaseClient._redirect_method\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.py⁄ ⁄("2*ì
+2
+€ ﬁ(O
+M
+
+ﬂ ﬂ(
+%9"__id*3
+
+__unknown_file (*
+	
+request"
+methodB
+@
+
+ﬂ ﬂ(
+method"__id*"
+
+__unknown_file (
+
+%9V
+T
+
+‚ ‚(
+%10"__id*9
+
+__unknown_file (*
+
+
+response"
+status_codee
+c
+
+‚# ‚(2
+%11"__id*H
+
+__unknown_file (,**
+httpx._status_codes.codes"
+	SEE_OTHERè
+å
+
+‚ ‚(2
+%12"	__compare*"
+
+__unknown_file (
+==*#
+
+__unknown_file (
+
+%10*#
+
+__unknown_file (
+
+%11ì
+ê
+
+‚7 ‚(G
+%13"	__compare*"
+
+__unknown_file (
+!=*&
+
+__unknown_file (
+
+
+method*$
+
+__unknown_file (
+HEAD*
+8
+9*)
+4
+Ô Ô("
+
+Ô Ô(
+
+
+method*Y
+5
+Ì Ì(C
+A
+
+Ì Ì(
+method"__id*#
+
+__unknown_file (
+GET*
+4*Ä
+6
+Ï Ï(OU
+S
+
+Ï Ï(
+%1"__id*9
+
+__unknown_file (*
+
+
+response"
+status_codel
+j
+
+Ï# Ï(:
+%2"__id*P
+
+__unknown_file (4*2
+httpx._status_codes.codes"
+MOVED_PERMANENTLYå
+â
+
+Ï Ï(:
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%2í
+è
+
+Ï? Ï(O
+%4"	__compare*"
+
+__unknown_file (
+==*&
+
+__unknown_file (
+
+
+method*$
+
+__unknown_file (
+POST*
+4
+5*Y
+7
+Ë Ë(C
+A
+
+Ë Ë(
+method"__id*#
+
+__unknown_file (
+GET*
+6*Ù
+8
+Á Á(CU
+S
+
+Á Á(
+%5"__id*9
+
+__unknown_file (*
+
+
+response"
+status_code`
+^
+
+Á# Á(.
+%6"__id*D
+
+__unknown_file ((*&
+httpx._status_codes.codes"
+FOUNDå
+â
+
+Á Á(.
+%7"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5*"
+
+__unknown_file (
+
+%6í
+è
+
+Á3 Á(C
+%8"	__compare*"
+
+__unknown_file (
+!=*&
+
+__unknown_file (
+
+
+method*$
+
+__unknown_file (
+HEAD*
+6
+7*Y
+9
+„ „(C
+A
+
+„ „(
+method"__id*#
+
+__unknown_file (
+GET*
+8:
+
+⁄ ⁄(/	
+request:
+
+⁄1 ⁄(C
+
+responseB
+httpx._client.BaseClientH

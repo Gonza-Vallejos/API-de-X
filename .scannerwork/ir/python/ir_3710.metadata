@@ -1,0 +1,6 @@
+pip._internal.index.collector.HTMLLinkParser.handle_starttag
+87a191c0be269c2fd6afb93dd297514b
+dict.__init__
+==
+get_href
+append

@@ -1,0 +1,15 @@
+pip._vendor.requests.auth.HTTPDigestAuth.handle_401
+6f3e85392c8cb6c5f6bb1c1a53544bea
+pip._vendor.requests.cookies.extract_cookies_to_jar
+re.compile
+pip._vendor.requests.utils.parse_dict_header
+==
+sub
+build_digest_header
+get
+lower
+copy
+seek
+close
+append
+prepare_cookies

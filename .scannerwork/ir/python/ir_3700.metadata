@@ -1,0 +1,12 @@
+pip._internal.index.collector._get_simple_response
+117b8a32e60873a65133d4e4116c5356
+pip._internal.utils.misc.redact_auth_from_url
+pip._internal.models.link.Link.__init__
+pip._internal.network.utils.raise_for_status
+pip._internal.index.collector._ensure_api_response
+pip._internal.index.collector._ensure_api_header
+pip._internal.utils.filetypes.is_archive_file
+==
+debug
+get
+join

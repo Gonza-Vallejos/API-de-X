@@ -1,0 +1,8 @@
+pip._vendor.packaging._parser._parse_requirement
+d1a41935bafe99a2a5e2ca8997b3d4fd
+pip._vendor.packaging._parser._parse_extras
+pip._vendor.packaging._parser._parse_requirement_details
+pip._vendor.packaging._parser.ParsedRequirement.__init__
+==
+expect
+consume

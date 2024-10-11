@@ -1,0 +1,9 @@
+pip._vendor.pygments.formatters.latex.LatexFormatter.__init__
+7a9f8f5b51786a0889326e16d1a2cc57
+pip._vendor.pygments.util.get_bool_opt
+abs
+len
+pip._vendor.pygments.util.get_int_opt
+==
+_create_stylesheet
+get

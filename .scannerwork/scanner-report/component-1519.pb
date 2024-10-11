@@ -1,0 +1,1 @@
+ï 2pyXQhr@env/lib/python3.12/site-packages/pip/_internal/utils/egg_link.py

@@ -1,0 +1,8 @@
+bs4.tests.test_tree.TestTreeModification.test_insert_tag
+d46c14c6e3392c401b66364e773d0c16
+bs4.element.Tag.__init__
+==
+soup
+find
+insert
+default_builder

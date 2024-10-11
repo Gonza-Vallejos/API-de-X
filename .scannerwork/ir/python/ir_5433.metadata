@@ -1,0 +1,5 @@
+pip._internal.utils.urls.url_to_path
+3400d91753f3c740741aeb930f6655fc
+urllib.request.url2pathname
+len
+urllib.parse.urlsplit

@@ -1,0 +1,5 @@
+pip._internal.resolution.resolvelib.factory.Factory.make_requirements_from_spec
+9b6abe49ddd2af569aba8dc82e5bdc20
+==
+_make_requirements_from_install_req
+_make_install_req_from_spec

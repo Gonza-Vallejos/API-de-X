@@ -1,0 +1,6 @@
+httpx._client.BaseClient._build_request_auth
+9ae8f7826adce4b8e8b9ec17fcdf0cb9
+httpx._auth.Auth.__init__
+httpx._auth.BasicAuth.__init__
+==
+_build_auth

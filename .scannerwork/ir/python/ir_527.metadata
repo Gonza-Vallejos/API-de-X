@@ -1,0 +1,4 @@
+bs4.tests.test_pageelement.TestEncoding.test_tag_containing_unicode_string_can_be_encoded
+7e2cc9c30408187b1f844aeb2c119108
+==
+soup

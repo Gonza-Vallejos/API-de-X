@@ -1,0 +1,216 @@
+
+1gql.GQLClient.community_tweet_search_module_query`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyê ê(1"2*â
+2
+ë õ(	
+
+ë õ(	
+%4"dictë
+é
+
+í í(
+%5"__mapSet*"
+
+__unknown_file (
+
+%4*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+countë
+é
+
+ì ì(
+%6"__mapSet*"
+
+__unknown_file (
+
+%4*%
+
+__unknown_file (	
+query*%
+
+__unknown_file (	
+
+queryû
+õ
+
+î î('
+%7"__mapSet*"
+
+__unknown_file (
+
+%4*+
+
+__unknown_file (
+communityId*,
+
+__unknown_file (
+
+community_id¢
+ü
+
+ï ï(+
+%8"__mapSet*"
+
+__unknown_file (
+
+%4*6
+
+__unknown_file (
+includePromotedContent*%
+
+__unknown_file (	
+
+Falseù
+ö
+
+ñ ñ(&
+%9"__mapSet*"
+
+__unknown_file (
+
+%4*2
+
+__unknown_file (
+withBirdwatchNotes*$
+
+__unknown_file (
+
+Trueñ
+ì
+
+ó ó(
+%10"__mapSet*"
+
+__unknown_file (
+
+%4*)
+
+__unknown_file (
+	withVoice*%
+
+__unknown_file (	
+
+False°
+û
+
+ò ò(+
+%11"__mapSet*"
+
+__unknown_file (
+
+%4*8
+
+__unknown_file (
+isListMemberTargetUserId*!
+
+__unknown_file (
+0ö
+ó
+
+ô ô("
+%12"__mapSet*"
+
+__unknown_file (
+
+%4*-
+
+__unknown_file (
+withCommunity*%
+
+__unknown_file (	
+
+False§
+°
+
+ö ö(,
+%13"__mapSet*"
+
+__unknown_file (
+
+%4*8
+
+__unknown_file (
+withSafetyModeUserFields*$
+
+__unknown_file (
+
+TrueE
+C
+
+ë õ(	
+	variables"__id*"
+
+__unknown_file (
+
+%4*
+4
+5*Ú
+4
+û û(uq
+o
+
+û" û(N
+%1"__id*U
+
+__unknown_file (9*7
+gql.Endpoint"%
+#COMMUNITY_TWEET_SEARCH_MODULE_QUERY◊‘
+
+û û(u
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*9
+
+__unknown_file (
+
+COMMUNITY_TWEETS_FEATURES2gql_get"
+
+û û(u
+
+%2*∆
+5
+ù ù((Ø¨
+
+ù ù((
+%3"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+ê8 ê(D
+community_id:
+
+êF ê(K
+query:
+
+êM ê(R
+count:
+
+êT ê(Z
+cursorB
+gql.GQLClientH

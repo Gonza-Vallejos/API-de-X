@@ -1,0 +1,8 @@
+httpcore._async.http_proxy.AsyncForwardHTTPConnection.handle_async_request
+360c6d4b21a653b539ca8f2cef750fbb
+httpcore._async.http_proxy.merge_headers
+httpcore._models.URL.__init__
+httpcore._models.Request.__init__
+bytes.__init__
+==
+handle_async_request

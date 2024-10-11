@@ -1,0 +1,4 @@
+pip._internal.locations._sysconfig._should_use_osx_framework_prefix
+6f95f4ab5a8d4fc568e346d11c2abf3e
+pip._internal.utils.virtualenv.running_under_virtualenv
+pip._internal.locations.base.is_osx_framework

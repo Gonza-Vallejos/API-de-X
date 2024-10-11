@@ -1,0 +1,50 @@
+
+gql.GQLClient.list_subscribers`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyÅ Å("2*õ
+2
+Æ Æ(X^
+\
+
+Æ& Æ(?
+%1"__id*B
+
+__unknown_file (&*$
+gql.Endpoint"
+LIST_SUBSCRIBERSíê
+
+Æ Æ(X
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (
+	
+list_id*%
+
+__unknown_file (	
+
+count*&
+
+__unknown_file (
+
+
+cursor2_list_users"
+
+Æ Æ(X
+
+%2:
+
+Å% Å(,	
+list_id:
+
+Å. Å(3
+count:
+
+Å5 Å(;
+cursorB
+gql.GQLClientH

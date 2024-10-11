@@ -1,0 +1,6 @@
+pip._internal.utils.misc.protect_pip_from_modification_on_windows
+d80202c0208557facae3a6a00ab68661
+os.path.basename
+==
+format
+join

@@ -1,0 +1,9 @@
+pip._internal.req.req_install.InstallRequirement.prepare_metadata
+7ed253c01fb6b8f860c69dd6126327ce
+pip._internal.operations.build.metadata.generate_metadata
+pip._internal.operations.build.metadata_legacy.generate_metadata
+pip._internal.operations.build.metadata_editable.generate_editable_metadata
+==
+_set_requirement
+assert_source_matches_version
+warn_on_mismatching_name

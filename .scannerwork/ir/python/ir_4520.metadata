@@ -1,0 +1,10 @@
+pip._vendor.cachecontrol.filewrapper.CallbackFileWrapper._close
+6e77f480c7b93ab8c88e0a55cd8cb541
+memoryview.__init__
+mmap.mmap.__init__
+==
+fileno
+tell
+__callback
+seek
+close

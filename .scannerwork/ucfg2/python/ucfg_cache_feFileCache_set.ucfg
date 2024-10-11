@@ -1,0 +1,46 @@
+
+-pip._internal.network.cache.SafeFileCache.seth
+^/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/network/cache.pyR R("2*Ÿ
+2U U((”‘
+U U((
+%1*I
+
+__unknown_file (-+
+)pip._internal.network.cache.SafeFileCache*#
+
+__unknown_file (
+
+key2_get_cache_path>
+<
+U U((
+path"__id*"
+
+__unknown_file (
+
+%1³°
+V V( 
+%2*I
+
+__unknown_file (-+
+)pip._internal.network.cache.SafeFileCache*$
+
+__unknown_file (
+
+path*%
+
+__unknown_file (	
+
+value2_write*
+3*.
+3
+
+cache.py"
+X X(
+implicit return:
+S S(
+key:
+S S($
+value:
+S& S(P	
+expiresB-+
+)pip._internal.network.cache.SafeFileCacheH

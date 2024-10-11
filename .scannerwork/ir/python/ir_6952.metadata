@@ -1,0 +1,3 @@
+httpx._models.Response.is_redirect
+42c10ef2d7f33cb7dec93e48b867c002
+httpx._status_codes.codes.is_redirect

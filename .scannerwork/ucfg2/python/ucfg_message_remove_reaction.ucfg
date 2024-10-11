@@ -1,0 +1,145 @@
+
+&twikit.message.Message.remove_reaction[
+Q/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/message.py` `("2*Î
+2a m(]
+[
+n n($
+%1"__id*C
+
+__unknown_file ('*%
+twikit.message.Message"	
+_client?=
+n n(.
+%2*"
+
+__unknown_file (
+
+%12user_idA
+?
+n n(.	
+user_id"__id*"
+
+__unknown_file (
+
+%2_
+]
+q q((
+%4"__id*E
+
+__unknown_file ()*'
+twikit.message.Message"
+	sender_idè
+å
+q q((
+%5"	__compare*"
+
+__unknown_file (
+==*'
+
+__unknown_file (
+	
+user_id*"
+
+__unknown_file (
+
+%4*
+4
+5*¥
+4p p(b
+`
+p p(
+%6"__id*H
+
+__unknown_file (,**
+twikit.message.Message"
+recipient_id<
+:
+p p(
+%3"__id*"
+
+__unknown_file (
+
+%6*
+6*±
+5r r(_
+]
+r r(
+%7"__id*E
+
+__unknown_file ()*'
+twikit.message.Message"
+	sender_id<
+:
+r r(
+%3"__id*"
+
+__unknown_file (
+
+%7*
+6*©
+6r r(D
+B
+o s(	
+
+partner_id"__id*"
+
+__unknown_file (
+
+%3d
+b
+t t(3
+%8"__concat*
+t t('
+
+
+partner_id*
+t( t()
+-*
+t* t(1
+	
+user_idI
+G
+t t(3
+conversation_id"__id*"
+
+__unknown_file (
+
+%8]
+[
+u u(!
+%9"__id*C
+
+__unknown_file ('*%
+twikit.message.Message"	
+_clientY
+W
+v v(
+%10"__id*>
+
+__unknown_file ("* 
+twikit.message.Message"
+id”–
+u w(	
+%11*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+
+%10*/
+
+__unknown_file (
+
+conversation_id*%
+
+__unknown_file (	
+
+emoji2remove_reaction_from_message"
+u w(	
+
+%11:
+`$ `(.
+emojiB
+twikit.message.MessageH

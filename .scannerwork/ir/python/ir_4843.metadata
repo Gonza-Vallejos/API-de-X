@@ -1,0 +1,7 @@
+pip._internal.models.link.Link.filename
+95dcc189d029f6b027b079d8fa9e0b42
+urllib.parse.unquote
+posixpath.basename
+pip._internal.utils.misc.split_auth_from_netloc
+==
+rstrip

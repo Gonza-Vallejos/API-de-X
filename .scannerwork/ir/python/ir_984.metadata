@@ -1,0 +1,6 @@
+pip._internal.utils.misc.splitext
+ff1f9e8a01824d88097696bd2e29a171
+posixpath.splitext
+==
+lower
+endswith

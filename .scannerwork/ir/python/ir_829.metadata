@@ -1,0 +1,4 @@
+anyio._backends._trio.Process.send_signal
+1bdac3981490c4f0bab6734ea65bc0d1
+==
+send_signal

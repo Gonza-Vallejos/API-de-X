@@ -1,0 +1,8 @@
+httpx._client.BaseClient._redirect_headers
+2fabc880d758d07723bbf59c77dc60c1
+httpx._utils.is_https_redirect
+httpx._models.Headers.__init__
+httpx._utils.same_origin
+==
+pop
+decode

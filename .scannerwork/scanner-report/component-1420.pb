@@ -1,0 +1,1 @@
+Œ 2pyX_hrCenv/lib/python3.12/site-packages/pip/_internal/cli/progress_bars.py

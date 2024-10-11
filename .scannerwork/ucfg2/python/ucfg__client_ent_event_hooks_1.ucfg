@@ -1,0 +1,121 @@
+
+$httpx._client.BaseClient.event_hooks\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.pyö ö("2*Ä
+2
+÷ ú(	
+
+÷ ú(	
+%1"dict
+
+ø ø(;
+%2"list
+
+ø7 ø(9
+%3"list›
+
+ø ø(:
+%4"dict.get*+
+
+__unknown_file (
+
+event_hooks*'
+
+__unknown_file (	
+request*"
+
+__unknown_file (
+
+%32getfd
+
+ø ø(;
+%5*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%42__init__
+
+
+ø ø(;
+%6"__mapSet*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (	
+request*"
+
+__unknown_file (
+
+%2
+
+ù ù(=
+%7"list
+
+ù9 ù(;
+%8"listŸœ
+
+ù ù(<
+%9"dict.get*+
+
+__unknown_file (
+
+event_hooks*(
+
+__unknown_file (
+
+response*"
+
+__unknown_file (
+
+%82getge
+
+ù ù(=
+%10*"
+
+__unknown_file (
+
+%7*"
+
+__unknown_file (
+
+%92__init__’
+
+
+ù ù(=
+%11"__mapSet*"
+
+__unknown_file (
+
+%1*(
+
+__unknown_file (
+
+response*"
+
+__unknown_file (
+
+%7f
+d
+
+÷ ú(	,
+httpx._client.BaseClient"
+_event_hooks"__id*"
+
+__unknown_file (
+
+%1*
+3*2
+3
+
+_client.py"
+ü ü(
+implicit return:
+
+ö ö(A
+event_hooksB
+httpx._client.BaseClientH

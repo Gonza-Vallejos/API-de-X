@@ -1,0 +1,120 @@
+
+#bs4.tests.test_soup.TestOutput.testb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_soup.pyô ô("2*Ï	
+2
+ø ø('ˆ…
+
+ø ø('
+%1*>
+
+__unknown_file (" 
+bs4.tests.test_soup.TestOutput*+
+
+__unknown_file (
+<tag></tag>2soup@
+>
+
+ø ø('
+soup"__id*"
+
+__unknown_file (
+
+%1us
+
+ù! ù(>
+%2*$
+
+__unknown_file (
+
+soup2encode:1
+encoding%
+
+__unknown_file (	
+utf-8•
+’
+
+ù ù(>
+%3"	__compare*"
+
+__unknown_file (
+==*+
+
+__unknown_file (
+<tag></tag>*"
+
+__unknown_file (
+
+%2~|
+
+ú! ú(G
+%4*$
+
+__unknown_file (
+
+soup2encode_contents:1
+encoding%
+
+__unknown_file (	
+utf-8•
+’
+
+ú ú(G
+%5"	__compare*"
+
+__unknown_file (
+==*+
+
+__unknown_file (
+<tag></tag>*"
+
+__unknown_file (
+
+%4KI
+
+û  û(6
+%6*$
+
+__unknown_file (
+
+soup2decode_contents•
+’
+
+û û(6
+%7"	__compare*"
+
+__unknown_file (
+==*+
+
+__unknown_file (
+<tag></tag>*"
+
+__unknown_file (
+
+%6DB
+
+ü$ ü(3
+%8*$
+
+__unknown_file (
+
+soup2prettify™
+–
+
+ü ü(3
+%9"	__compare*"
+
+__unknown_file (
+==*/
+
+__unknown_file (
+<tag>\n</tag>\n*"
+
+__unknown_file (
+
+%8*
+3*2
+3
+test_soup.py"
+ÿ ÿ
+implicit returnB" 
+bs4.tests.test_soup.TestOutputH

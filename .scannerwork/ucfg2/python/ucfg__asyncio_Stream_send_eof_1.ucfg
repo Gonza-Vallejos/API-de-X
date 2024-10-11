@@ -1,0 +1,67 @@
+
+2anyio._backends._asyncio.UNIXSocketStream.send_eofg
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.pyž
+ ž
+("2*
+2
+Ÿ
+ Ÿ
+(v
+t
+
+Ÿ
+ Ÿ
+(
+%4"__id*Z
+
+__unknown_file (>*<+
+)anyio._backends._asyncio.UNIXSocketStream"
+_send_guard*
+3
+4*3
+3
+_asyncio.py"
+¢
+ ¢
+(
+implicit return*Å
+4
+ 
+  
+(5v
+t
+
+ 
+  
+(
+%1"__id*Z
+
+__unknown_file (>*<+
+)anyio._backends._asyncio.UNIXSocketStream"
+_raw_socketO
+M
+
+ 
+&  
+(4
+%2"__id*3
+
+__unknown_file (*
+
+socket"	
+SHUT_WRfd
+
+ 
+  
+(5
+%3*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22shutdown*
+3B-+
+)anyio._backends._asyncio.UNIXSocketStreamH

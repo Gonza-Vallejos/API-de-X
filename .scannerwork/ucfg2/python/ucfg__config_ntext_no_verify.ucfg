@@ -1,0 +1,55 @@
+
+2httpx._config.SSLConfig.load_ssl_context_no_verifyZ
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_config.py^ ^(""2*Û
+2_ a(hf
+b b(4
+%1*7
+
+__unknown_file (
+httpx._config.SSLConfig2_create_default_ssl_contextA
+?
+b b(4	
+context"__id*"
+
+__unknown_file (
+
+%1X
+V
+c c(&
+	
+context"
+check_hostname"__id*%
+
+__unknown_file (	
+
+FalseL
+J
+d d(+
+%2"__id*2
+
+__unknown_file (*
+
+ssl"
+	CERT_NONER
+P
+d d(+
+	
+context"
+verify_mode"__id*"
+
+__unknown_file (
+
+%2‰†
+e e((
+%3*7
+
+__unknown_file (
+httpx._config.SSLConfig*'
+
+__unknown_file (
+	
+context2_load_client_certs"
+f f(
+	
+contextB
+httpx._config.SSLConfigH

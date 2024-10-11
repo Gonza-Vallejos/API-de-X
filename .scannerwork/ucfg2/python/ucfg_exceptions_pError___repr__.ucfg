@@ -1,0 +1,109 @@
+
+4pip._internal.exceptions.DiagnosticPipError.__repr__e
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/exceptions.pyh h("2*×	
+2i q(	t
+r
+j j(
+%1"__id*Z
+
+__unknown_file (>*<-
++pip._internal.exceptions.DiagnosticPipError"
+	__class__J
+H
+j j('
+%2"__id*0
+
+__unknown_file (*
+
+%1"
+
+__name__t
+r
+k k('
+%3"__id*Z
+
+__unknown_file (>*<-
++pip._internal.exceptions.DiagnosticPipError"
+	referencer
+p
+l l(#
+%4"__id*X
+
+__unknown_file (<*:-
++pip._internal.exceptions.DiagnosticPipError"	
+messager
+p
+m m(#
+%5"__id*X
+
+__unknown_file (<*:-
++pip._internal.exceptions.DiagnosticPipError"	
+contextt
+r
+n n('
+%6"__id*Z
+
+__unknown_file (>*<-
++pip._internal.exceptions.DiagnosticPipError"
+	note_stmtt
+r
+o o('
+%7"__id*Z
+
+__unknown_file (>*<-
++pip._internal.exceptions.DiagnosticPipError"
+	hint_stmt§
+¤
+j p(
+%8"__concat*
+j j(
+<*
+j j('
+
+%2*
+j( j()
+(*
+k k(
+
+reference=*
+k k('
+
+%3*
+k* k(,
+, *
+l l(
+
+message=*
+l l(#
+
+%4*
+l& l((
+, *
+m m(
+
+context=*
+m m(#
+
+%5*
+m& m((
+, *
+n n(
+
+note_stmt=*
+n n('
+
+%6*
+n* n(,
+, *
+o o(
+
+hint_stmt=*
+o o('
+
+%7*
+p p(
+)>"
+i q(	
+
+%8B/-
++pip._internal.exceptions.DiagnosticPipErrorH

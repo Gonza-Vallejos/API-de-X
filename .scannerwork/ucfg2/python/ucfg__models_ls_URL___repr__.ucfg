@@ -1,0 +1,103 @@
+
+httpcore._models.URL.__repr___
+S/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_models.pyº º("2*ð
+2
+» ¾(	_
+]
+
+¼ ¼(
+%1"__id*C
+
+__unknown_file ('*%
+httpcore._models.URL"
+	__class__L
+J
+
+¼ ¼(&
+%2"__id*0
+
+__unknown_file (*
+
+%1"
+
+__name__\
+Z
+
+¼0 ¼(;
+%3"__id*@
+
+__unknown_file ($*"
+httpcore._models.URL"
+schemeZ
+X
+
+½ ½(
+%4"__id*>
+
+__unknown_file ("* 
+httpcore._models.URL"
+hostZ
+X
+
+½( ½(1
+%5"__id*>
+
+__unknown_file ("* 
+httpcore._models.URL"
+port\
+Z
+
+½> ½(I
+%6"__id*@
+
+__unknown_file ($*"
+httpcore._models.URL"
+target¥
+¢
+
+¼ ½(N
+%7"__concat*
+
+¼ ¼(&
+
+%2*
+
+¼' ¼(/
+
+(scheme=*
+
+¼0 ¼(;
+
+%3*
+
+¼> ¼(@
+, *
+
+½ ½(	
+host=*
+
+½ ½(
+
+%4*
+
+½  ½('	
+, port=*
+
+½( ½(1
+
+%5*
+
+½4 ½(=
+	, target=*
+
+½> ½(I
+
+%6*
+
+½L ½(M
+)"
+
+» ¾(	
+
+%7B
+httpcore._models.URLH

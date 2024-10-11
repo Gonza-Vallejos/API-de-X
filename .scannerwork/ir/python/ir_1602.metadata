@@ -1,0 +1,8 @@
+pip._vendor.rich._inspect.Inspect._get_formatted_doc
+2cc2f973e68492872ba860059c9ea621
+pip._vendor.rich._inspect._first_paragraph
+pip._vendor.rich.control.escape_control_codes
+inspect.cleandoc
+inspect.getdoc
+==
+strip

@@ -1,0 +1,133 @@
+
+httpx._client.Client.close\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.pyü	 ü	("2*ç
+2
+ý	 ÿ	(\
+Z
+
+€
+ €
+(
+%7"__id*@
+
+__unknown_file ($*"
+httpx._client.Client"
+_statea
+_
+
+€
+ €
+(,
+%8"__id*E
+
+__unknown_file ()*'
+httpx._client.ClientState"
+CLOSEDŒ
+‰
+
+€
+ €
+(,
+%9"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+
+%7*"
+
+__unknown_file (
+
+%8*
+3
+7*2
+3
+
+_client.py"
+ˆ
+ ˆ
+(
+implicit return*_
+6
+†
+ †
+(%FD
+
+†
+ †
+(%
+%1*)
+
+__unknown_file (
+
+	transport2close*
+3
+6*œ
+7
+
+ 
+(,a
+_
+
+
+ 
+(,
+%2"__id*E
+
+__unknown_file ()*'
+httpx._client.ClientState"
+CLOSED\
+Z
+
+
+ 
+(,"
+httpx._client.Client"
+_state"__id*"
+
+__unknown_file (
+
+%2`
+^
+
+ƒ
+ ƒ
+(
+%3"__id*D
+
+__unknown_file ((*&
+httpx._client.Client"
+
+_transport?=
+
+ƒ
+ ƒ
+(#
+%4*"
+
+__unknown_file (
+
+%32close]
+[
+
+„
+ „
+()
+%5"__id*A
+
+__unknown_file (%*#
+httpx._client.Client"	
+_mounts@>
+
+„
+ „
+(2
+%6*"
+
+__unknown_file (
+
+%52values*
+3
+6B
+httpx._client.ClientH

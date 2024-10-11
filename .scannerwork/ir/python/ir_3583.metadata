@@ -1,0 +1,6 @@
+pip._internal.operations.install.wheel._install_wheel.is_entrypoint_wrapper
+e19057904355ee2e563fd36602f20bed
+os.path.basename
+==
+lower
+endswith

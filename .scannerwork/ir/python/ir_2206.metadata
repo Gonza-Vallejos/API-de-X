@@ -1,0 +1,2 @@
+pip._vendor.requests.cookies.MockRequest.get_host
+121bb9e8e1f324870f641b4fbcf2544d

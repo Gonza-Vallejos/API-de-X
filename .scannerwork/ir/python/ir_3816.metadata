@@ -1,0 +1,7 @@
+pip._vendor.pygments.lexer.Lexer.__init__
+c7663a29f281758effb9d818283db124
+pip._vendor.pygments.util.get_bool_opt
+pip._vendor.pygments.util.get_int_opt
+pip._vendor.pygments.util.get_list_opt
+==
+get

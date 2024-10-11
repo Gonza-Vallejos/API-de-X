@@ -1,0 +1,5 @@
+pip._vendor.pkg_resources.Distribution.__getattr__
+d036b6c1539dfea19c4fe6da36dc7b79
+getattr
+==
+startswith

@@ -1,0 +1,139 @@
+
+httpcore._trace.Trace.__exit__\
+R/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_trace.py5 5("2*|
+2; ;(b
+`
+; ;(
+%12"__id*G
+
+__unknown_file (+*)
+httpcore._trace.Trace"
+should_trace*	
+3
+4
+5*/
+3
+	_trace.py"
+C C(
+implicit return*«
+4= =(:
+= =(:
+%1"dicta
+_
+=( =(9
+%2"__id*G
+
+__unknown_file (+*)
+httpcore._trace.Trace"
+return_value“
+
+= =(9
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*,
+
+__unknown_file (
+return_value*"
+
+__unknown_file (
+
+%2>
+<
+= =(:
+info"__id*"
+
+__unknown_file (
+
+%1Y
+W
+> >('
+%4"__id*?
+
+__unknown_file (#*!
+httpcore._trace.Trace"
+nameK
+I
+> >(2
+%5"__concat*
+> >('
+
+%4*
+>( >(1
+	.complete›˜
+> >(9
+%6*5
+
+__unknown_file (
+httpcore._trace.Trace*"
+
+__unknown_file (
+
+%5*$
+
+__unknown_file (
+
+info2trace*
+3*Í
+5@ @(/
+@ @(/
+%7"dict—
+”
+@ @(.
+%8"__mapSet*"
+
+__unknown_file (
+
+%7*)
+
+__unknown_file (
+	exception*)
+
+__unknown_file (
+
+	exc_value>
+<
+@ @(/
+info"__id*"
+
+__unknown_file (
+
+%7Y
+W
+A A('
+%9"__id*?
+
+__unknown_file (#*!
+httpcore._trace.Trace"
+nameJ
+H
+A A(0
+%10"__concat*
+A A('
+
+%9*
+A( A(/	
+.failedš
+A A(7
+%11*5
+
+__unknown_file (
+httpcore._trace.Trace*#
+
+__unknown_file (
+
+%10*$
+
+__unknown_file (
+
+info2trace*
+3:
+7 7(6
+
+exc_type:
+8 8(1
+	exc_value:
+9 9(1
+	tracebackB
+httpcore._trace.TraceH

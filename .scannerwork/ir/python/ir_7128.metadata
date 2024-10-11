@@ -1,0 +1,6 @@
+pip._vendor.pygments.formatters.groff.GroffFormatter.__init__
+67b05884b257b48a91bbf1d9d20e58af
+pip._vendor.pygments.util.get_bool_opt
+pip._vendor.pygments.util.get_int_opt
+==
+_make_styles

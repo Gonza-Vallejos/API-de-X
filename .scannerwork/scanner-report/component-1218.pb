@@ -1,0 +1,1 @@
+Â	 2pyX—Chr>env/lib/python3.12/site-packages/pip/_vendor/idna/uts46data.py

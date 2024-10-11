@@ -1,0 +1,29 @@
+
+Ibs4.tests.test_tag.TestTag.test_attributes_come_out_in_alphabetical_order_
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tag.pyG G(6"2*Ê
+2H H(8c
+a
+H H(8
+markup"__id*E
+
+__unknown_file ()'
+%<b a="1" z="5" m="3" f="2" y="4"></b>ÐÍ
+I I(N
+%1*:
+
+__unknown_file (
+bs4.tests.test_tag.TestTag*&
+
+__unknown_file (
+
+
+markup*E
+
+__unknown_file ()'
+%<b a="1" f="2" m="3" y="4" z="5"></b>2assertSoupEquals*
+3*1
+3
+test_tag.py"
+K K(
+implicit returnB
+bs4.tests.test_tag.TestTagH

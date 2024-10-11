@@ -1,0 +1,4 @@
+bs4.tests.XMLTreeBuilderSmokeTest.test_can_parse_unicode_document_begining_with_bom
+a2df580487320796def602d2ca7228ca
+==
+soup

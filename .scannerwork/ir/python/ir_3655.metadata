@@ -1,0 +1,6 @@
+pip._internal.configuration.get_configuration_files
+938e0b7207682704e550953e75cb8036
+os.path.join
+os.path.expanduser
+==
+user_config_dir

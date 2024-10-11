@@ -1,0 +1,8 @@
+pip._vendor.distro.distro.LinuxDistribution.id
+f03feacc8e73c7ab1f2a4102c6fa9660
+pip._vendor.distro.distro.LinuxDistribution.id.normalize
+==
+os_release_attr
+uname_attr
+distro_release_attr
+lsb_release_attr

@@ -1,0 +1,5 @@
+pip._vendor.requests.models.Response.iter_content
+c2eb2f43962ebdb6ee3bef0e620ecd28
+pip._vendor.requests.utils.stream_decode_response_unicode
+pip._vendor.requests.utils.iter_slices
+pip._vendor.requests.models.Response.iter_content.generate

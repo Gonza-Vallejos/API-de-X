@@ -1,0 +1,7 @@
+bs4.tests.test_tree.TestFindAllByName.test_find_with_multi_valued_attribute
+9aad900860f2249ddb8a5d2da371e758
+re.compile
+==
+soup
+find_all
+find

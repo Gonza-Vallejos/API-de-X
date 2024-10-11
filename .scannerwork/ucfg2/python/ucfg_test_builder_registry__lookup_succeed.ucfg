@@ -1,0 +1,62 @@
+
+]bs4.tests.test_builder_registry.TestRegistry.test_register_with_features_makes_lookup_succeedl
+b/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_builder_registry.pyf f(8"2*Ï
+2g g(9Á¾
+g g(9
+%1*L
+
+__unknown_file (0.
+,bs4.tests.test_builder_registry.TestRegistry*#
+
+__unknown_file (
+foo*#
+
+__unknown_file (
+bar2builder_for_featuresA
+?
+g g(9	
+builder"__id*"
+
+__unknown_file (
+
+%1t
+r
+h h(
+%2"__id*Z
+
+__unknown_file (>*<.
+,bs4.tests.test_builder_registry.TestRegistry"
+
+registryca
+h h(*
+%3*"
+
+__unknown_file (
+
+%2*#
+
+__unknown_file (
+foo2lookupt
+r
+i i(
+%4"__id*Z
+
+__unknown_file (>*<.
+,bs4.tests.test_builder_registry.TestRegistry"
+
+registryca
+i i(*
+%5*"
+
+__unknown_file (
+
+%4*#
+
+__unknown_file (
+bar2lookup*
+3*>
+3
+test_builder_registry.py"
+k k(
+implicit returnB0.
+,bs4.tests.test_builder_registry.TestRegistryH

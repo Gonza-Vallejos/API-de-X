@@ -1,0 +1,4 @@
+pyotp.otp.OTP.byte_secret
+3e4052d817a4cd1628b7bcc6bcae3f74
+len
+base64.b32decode

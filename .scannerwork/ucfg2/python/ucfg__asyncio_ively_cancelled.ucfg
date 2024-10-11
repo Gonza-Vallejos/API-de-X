@@ -1,0 +1,80 @@
+
+;anyio._backends._asyncio.CancelScope._effectively_cancelledg
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.pyâ â("2*ƒ
+2
+ã ã(/j
+h
+
+ã ã(/
+cancel_scope"__id*D
+
+__unknown_file ((&
+$anyio._backends._asyncio.CancelScope*
+4
+6*(
+4
+í í("
+
+í í(	
+
+False*v
+6
+å å(*\
+Z
+
+å å(*
+%3"__id*@
+
+__unknown_file ($*"
+
+cancel_scope"
+_cancel_called*
+9
+10*¾
+7
+ë ë(5[
+Y
+
+ë ë(5
+%1"__id*?
+
+__unknown_file (#*!
+
+cancel_scope"
+_parent_scopeH
+F
+
+ë ë(5
+cancel_scope"__id*"
+
+__unknown_file (
+
+%1*
+4
+6*(
+8
+é é("
+
+é é(	
+
+False*m
+9
+è è("T
+R
+
+è è("
+%2"__id*8
+
+__unknown_file (*
+
+cancel_scope"
+shield*
+7
+8*(
+10
+æ æ("
+
+æ æ(
+
+TrueB(&
+$anyio._backends._asyncio.CancelScopeH

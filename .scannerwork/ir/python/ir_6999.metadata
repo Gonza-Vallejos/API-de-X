@@ -1,0 +1,5 @@
+pip._internal.req.req_file.build_parser
+306f77b1fe5df4c5b0864ec899e6aa17
+optparse.OptionParser.__init__
+==
+add_option

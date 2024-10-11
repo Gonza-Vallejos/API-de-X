@@ -1,0 +1,7 @@
+pip._internal.network.auth.KeyRingPythonProvider.get_auth_info
+f66bf3b73346be484e00c6904fb93f5b
+hasattr
+==
+debug
+get_credential
+get_password

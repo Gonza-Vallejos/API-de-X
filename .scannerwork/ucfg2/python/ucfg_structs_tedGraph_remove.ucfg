@@ -1,0 +1,130 @@
+
+3pip._vendor.resolvelib.structs.DirectedGraph.removek
+a/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/resolvelib/structs.py' '("2*Î
+2( ((Qu
+s
+) )(
+%9"__id*[
+
+__unknown_file (?*=.
+,pip._vendor.resolvelib.structs.DirectedGraph"
+	_verticesdb
+) )("
+%10*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+
+key2removev
+t
+* *(
+%11"__id*[
+
+__unknown_file (?*=.
+,pip._vendor.resolvelib.structs.DirectedGraph"
+	_forwardsb`
+* *((
+%12*#
+
+__unknown_file (
+
+%11*#
+
+__unknown_file (
+
+key2pop*
+6
+8*0
+3
+
+structs.py"
+/ /(
+implicit return*ã
+5- -()u
+s
+- -(
+%1"__id*[
+
+__unknown_file (?*=.
+,pip._vendor.resolvelib.structs.DirectedGraph"
+	_forwardspn
+- -(
+%2"__mapGet*"
+
+__unknown_file (
+
+%1*!
+
+__unknown_file (
+
+t2__getitem__ca
+- -()
+%3*"
+
+__unknown_file (
+
+%2*#
+
+__unknown_file (
+
+key2remove*
+3
+5*ï
+6, ,()v
+t
+, ,( 
+%4"__id*\
+
+__unknown_file (@*>.
+,pip._vendor.resolvelib.structs.DirectedGraph"
+
+_backwards`^
+, ,()
+%5*"
+
+__unknown_file (
+
+%4*#
+
+__unknown_file (
+
+key2pop*
+3
+5*ä
+8+ +(*v
+t
++ +(
+%6"__id*\
+
+__unknown_file (@*>.
+,pip._vendor.resolvelib.structs.DirectedGraph"
+
+_backwardspn
++ +(
+%7"__mapGet*"
+
+__unknown_file (
+
+%6*!
+
+__unknown_file (
+
+f2__getitem__ca
++ +(*
+%8*"
+
+__unknown_file (
+
+%7*#
+
+__unknown_file (
+
+key2remove*
+6
+8:
+' '(
+keyB0.
+,pip._vendor.resolvelib.structs.DirectedGraphH

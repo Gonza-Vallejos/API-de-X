@@ -1,0 +1,7 @@
+pip._vendor.platformdirs.windows.get_win_folder_from_registry
+1a4912afd789f4ee3639712cfc25141c
+str.__init__
+==
+get
+OpenKey
+QueryValueEx

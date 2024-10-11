@@ -1,0 +1,3 @@
+pip._vendor.distlib.locators.DependencyFinder.__init__
+22b00f7a74a3c26e66ad3b61b265800d
+pip._vendor.distlib.version.get_scheme

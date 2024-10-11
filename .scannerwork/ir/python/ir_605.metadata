@@ -1,0 +1,3 @@
+pip._internal.operations.freeze.FrozenRequirement.__init__
+407dfa667366e987589d8c98c71bff49
+pip._vendor.packaging.utils.canonicalize_name

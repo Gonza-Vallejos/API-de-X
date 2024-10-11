@@ -1,0 +1,1 @@
+µ	 2pyXhrCenv/lib/python3.12/site-packages/pip/_vendor/truststore/__init__.py

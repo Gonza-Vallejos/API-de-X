@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestFindAllByAttribute.test_find_all_with_numeric_attribute
+cf8e163826b6b441a41d746165c1905c
+==
+soup
+find_all
+assert_selects

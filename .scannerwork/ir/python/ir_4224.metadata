@@ -1,0 +1,7 @@
+pip._vendor.rich.progress.SpinnerColumn.__init__
+1d35ade37109078a0a5c297d5e342864
+super
+pip._vendor.rich.text.Text.from_markup
+pip._vendor.rich.spinner.Spinner.__init__
+==
+__init__

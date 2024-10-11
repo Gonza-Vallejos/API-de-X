@@ -1,0 +1,58 @@
+
+Ybs4.tests.test_tag.TestMultiValuedAttributes.test_attributes_joined_into_string_on_outputa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tag.py¾ ¾(4"2*§
+2
+¿ ¿(0Ÿœ
+
+¿ ¿(0
+%1*L
+
+__unknown_file (0.
+,bs4.tests.test_tag.TestMultiValuedAttributes*4
+
+__unknown_file (
+<a class='foo\tbar'>2soup@
+>
+
+¿ ¿(0
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+À- À(3
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+a@>
+
+À- À(<
+%3*"
+
+__unknown_file (
+
+%22encode¡
+ž
+
+À À(<
+%4"	__compare*"
+
+__unknown_file (
+==*7
+
+__unknown_file (
+<a class="foo bar"></a>*"
+
+__unknown_file (
+
+%3*
+3*3
+3
+test_tag.py"
+Â Â(
+implicit returnB0.
+,bs4.tests.test_tag.TestMultiValuedAttributesH

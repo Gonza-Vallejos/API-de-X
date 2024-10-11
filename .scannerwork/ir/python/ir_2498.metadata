@@ -1,0 +1,4 @@
+httpx._client.Client._init_transport
+4ad5a1a7a63b3cdf4586ec3ce6ea9c5a
+httpx._transports.default.HTTPTransport.__init__
+httpx._transports.wsgi.WSGITransport.__init__

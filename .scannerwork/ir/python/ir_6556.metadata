@@ -1,0 +1,4 @@
+pip._vendor.rich._extension.load_ipython_extension
+28894fbe165195f073df26c54d4e437f
+pip._vendor.rich.pretty.install
+pip._vendor.rich.traceback.install

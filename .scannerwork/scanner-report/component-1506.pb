@@ -1,0 +1,1 @@
+â 2pyXXhrJenv/lib/python3.12/site-packages/pip/_internal/utils/direct_url_helpers.py

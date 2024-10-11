@@ -1,0 +1,8 @@
+pip._vendor.urllib3.poolmanager.ProxyManager.urlopen
+360dc4b3ad18e5a1efd5188cb7213877
+super
+pip._vendor.urllib3.util.proxy.connection_requires_http_tunnel
+pip._vendor.urllib3.util.url.parse_url
+==
+_set_proxy_headers
+get

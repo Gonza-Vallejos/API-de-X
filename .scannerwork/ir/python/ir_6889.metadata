@@ -1,0 +1,4 @@
+pip._vendor.distlib.manifest.Manifest._glob_to_re
+ab79fab29a90c2d58b3abc796add861f
+fnmatch.translate
+re.sub

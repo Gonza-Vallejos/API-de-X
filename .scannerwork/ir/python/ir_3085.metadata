@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.api.PlatformDirsABC.user_data_path
+c9b96acebad938dd6ac08cbab69ecd29
+pathlib.Path.__init__

@@ -1,0 +1,17 @@
+pip._internal.req.constructors.parse_req_from_line
+35e34422eeb2e69df24028ebbcb8b863
+pip._internal.req.constructors._strip_extras
+pip._internal.req.constructors.parse_req_from_line._parse_req_string
+os.path.normpath
+os.path.abspath
+pip._internal.utils.urls.path_to_url
+pip._internal.models.link.Link.__init__
+pip._internal.req.constructors._get_url_from_path
+re.search
+pip._internal.req.constructors.convert_extras
+pip._internal.models.wheel.Wheel.__init__
+pip._vendor.packaging.markers.Marker.__init__
+pip._internal.req.constructors.RequirementParts.__init__
+==
+split
+strip

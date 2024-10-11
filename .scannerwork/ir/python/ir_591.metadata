@@ -1,0 +1,7 @@
+pip._vendor.rich.logging.RichHandler.render_message
+7b19791624c1a35daeb4cc2eb8ae908e
+pip._vendor.rich.text.Text.from_markup
+getattr
+pip._vendor.rich.text.Text.__init__
+==
+highlight_words

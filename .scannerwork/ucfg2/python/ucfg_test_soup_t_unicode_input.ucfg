@@ -1,0 +1,61 @@
+
+<bs4.tests.test_soup.TestConstructor.test_short_unicode_input`
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_soup.py) )( "2*Å
+2* *(I
+G
+* *(
+data"__id*-
+
+__unknown_file (
+<h1>Ã©Ã©</h1>„
++ +(
+%1*C
+
+__unknown_file ('%
+#bs4.tests.test_soup.TestConstructor*$
+
+__unknown_file (
+
+data2soup>
+<
++ +(
+soup"__id*"
+
+__unknown_file (
+
+%1F
+D
+, ,(
+%2"__id*,
+
+__unknown_file (*
+
+soup"
+h1H
+F
+, ,(%
+%3"__id*.
+
+__unknown_file (*
+
+%2"
+stringŒ
+‰
+, ,(%
+%4"	__compare*"
+
+__unknown_file (
+==*$
+
+__unknown_file (
+Ã©Ã©*"
+
+__unknown_file (
+
+%3*
+3*2
+3
+test_soup.py"
+. .(
+implicit returnB'%
+#bs4.tests.test_soup.TestConstructorH

@@ -1,0 +1,5 @@
+pip._internal.models.direct_url.DirectUrl.validate
+3ef5af4e071a98f9fa6b625d5a6a00cf
+pip._internal.models.direct_url.DirectUrl.from_dict
+==
+to_dict

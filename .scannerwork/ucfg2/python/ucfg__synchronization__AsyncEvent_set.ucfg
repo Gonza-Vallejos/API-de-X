@@ -1,0 +1,120 @@
+
+(httpcore._synchronization.AsyncEvent.setf
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_synchronization.py ("2*à
+2
+Ä Ä(o
+m
+
+Ä Ä(
+%10"__id*R
+
+__unknown_file (6*4&
+$httpcore._synchronization.AsyncEvent"
+
+_backend*
+7
+8*;
+3
+_synchronization.py"
+à à(
+implicit return*∆
+4
+Ñ Ñ("q
+o
+
+Ñ Ñ(
+%1"__id*U
+
+__unknown_file (9*7&
+$httpcore._synchronization.AsyncEvent"
+_trio_event=;
+
+Ñ Ñ("
+%2*"
+
+__unknown_file (
+
+%12set*
+3*«
+5
+Ü Ü(#r
+p
+
+Ü Ü(
+%3"__id*V
+
+__unknown_file (:*8&
+$httpcore._synchronization.AsyncEvent"
+_anyio_event=;
+
+Ü Ü(#
+%4*"
+
+__unknown_file (
+
+%32set*
+3*õ
+6
+Ö Ö('n
+l
+
+Ö Ö(
+%5"__id*R
+
+__unknown_file (6*4&
+$httpcore._synchronization.AsyncEvent"
+
+_backendë
+é
+
+Ö Ö('
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5*'
+
+__unknown_file (	
+asyncio*
+3
+5*ò
+7
+É É("n
+l
+
+É É(
+%7"__id*R
+
+__unknown_file (6*4&
+$httpcore._synchronization.AsyncEvent"
+
+_backendé
+ã
+
+É É("
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%7*$
+
+__unknown_file (
+trio*
+4
+6*w
+8
+Å Å(a_
+
+Å Å(
+%9*D
+
+__unknown_file ((&
+$httpcore._synchronization.AsyncEvent2setup*
+7B(&
+$httpcore._synchronization.AsyncEventH

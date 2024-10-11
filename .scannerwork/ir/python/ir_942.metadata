@@ -1,0 +1,6 @@
+pip._vendor.rich.pretty.install.display_hook
+68fe2508f074d4dd5852e53318043a9b
+pip._vendor.rich.pretty.Pretty.__init__
+pip._vendor.rich.pretty._safe_isinstance
+==
+print

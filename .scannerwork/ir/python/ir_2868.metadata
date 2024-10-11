@@ -1,0 +1,6 @@
+pip._vendor.rich.text.Text.remove_suffix
+2ebf923cecd4efc129d060c8f1d814a9
+len
+==
+right_crop
+endswith

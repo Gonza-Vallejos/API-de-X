@@ -1,0 +1,2 @@
+bs4.tests.test_htmlparser.TestHTMLParserTreeBuilder.test_namespaced_system_doctype
+ec9810e09a51fc4bbc8663163cf5ad2f

@@ -1,0 +1,1 @@
+Â 2pyXúhrCenv/lib/python3.12/site-packages/pip/_internal/req/req_uninstall.py

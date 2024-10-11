@@ -1,0 +1,7 @@
+bs4.tests.test_pageelement.TestPersistence.test_copy_deeply_nested_document
+7f74112189ef94af67e6ca8694cae07f
+sys.getrecursionlimit
+copy.copy
+copy.deepcopy
+==
+soup

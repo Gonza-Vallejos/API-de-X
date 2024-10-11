@@ -1,0 +1,4 @@
+bs4.tests.test_tag.TestMultiValuedAttributes.test_attributes_joined_into_string_on_output
+cecded46cf505f8a42920927092ecf8e
+==
+soup

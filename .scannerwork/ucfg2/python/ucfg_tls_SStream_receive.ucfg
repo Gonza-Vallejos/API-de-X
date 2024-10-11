@@ -1,0 +1,60 @@
+
+#anyio.streams.tls.TLSStream.receive`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/streams/tls.pyÌ Ì("2*É
+2
+Í Í(Rh
+f
+
+Í1 Í(A
+%1"__id*L
+
+__unknown_file (0*.
+anyio.streams.tls.TLSStream"
+_ssl_objectH
+F
+
+Í1 Í(F
+%2"__id*,
+
+__unknown_file (*
+
+%1"
+read¹¶
+
+Í Í(R
+%3*;
+
+__unknown_file (
+anyio.streams.tls.TLSStream*"
+
+__unknown_file (
+
+%2*)
+
+__unknown_file (
+
+	max_bytes2_call_sslobject_method@
+>
+
+Í Í(R
+data"__id*"
+
+__unknown_file (
+
+%3*
+3
+4*.
+3
+tls.py"
+Ó Ó(
+implicit return*'
+4
+Ñ Ñ("
+
+Ñ Ñ(
+
+data:
+
+Ì Ì(2
+	max_bytesB
+anyio.streams.tls.TLSStreamH

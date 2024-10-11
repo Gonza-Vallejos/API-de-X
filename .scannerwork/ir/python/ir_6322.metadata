@@ -1,0 +1,7 @@
+pip._vendor.pkg_resources.Distribution.activate
+d99603e4a3638541fb2cbfbacfb6809c
+pip._vendor.pkg_resources.fixup_namespace_packages
+pip._vendor.pkg_resources.declare_namespace
+==
+insert_on
+_get_metadata

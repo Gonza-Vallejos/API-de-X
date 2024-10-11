@@ -1,0 +1,7 @@
+bs4.tests.test_tree.TestFindAllByAttribute.test_find_all_with_non_dictionary_for_attrs_finds_by_class
+7031112302a31e9a15b1999b796c3f79
+re.compile
+==
+soup
+find_all
+assert_selects

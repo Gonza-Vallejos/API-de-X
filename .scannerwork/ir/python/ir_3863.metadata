@@ -1,0 +1,2 @@
+bs4.tests.test_builder_registry.TestRegistry.test_lookup_gets_most_recent_builder_supporting_all_features
+fbdd259c083f13257558562402b06913

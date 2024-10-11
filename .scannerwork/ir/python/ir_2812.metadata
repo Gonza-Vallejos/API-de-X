@@ -1,0 +1,4 @@
+h11.tests.test_connection.test_errors.conn
+73df6084ea3a9ca030553e17fe653866
+h11.tests.helpers.receive_and_get
+h11._connection.Connection.__init__

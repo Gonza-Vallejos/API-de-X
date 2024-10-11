@@ -1,0 +1,140 @@
+
+<pip._internal.index.package_finder.PackageFinder._sort_linksq
+e/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/index/package_finder.pyŒ Œ("2*µ
+2
+œ “(
+
+” ”(
+%8"list@
+>
+
+” ”(
+eggs"__id*"
+
+__unknown_file (
+
+%8
+
+” ”(
+%9"listC
+A
+
+” ”(	
+no_eggs"__id*"
+
+__unknown_file (
+
+%9
+
+‘ ‘(
+%10"setA
+?
+
+‘ ‘(
+seen"__id*#
+
+__unknown_file (
+
+%10*
+4
+6*x
+4
+‹ ‹(Q
+O
+
+‹ ‹(
+%1"__concat*
+
+‹ ‹(
+	
+no_eggs*
+
+‹ ‹(
+
+eggs"
+
+‹ ‹(
+
+%1*‹
+6
+÷ ÷(Ä~
+
+÷ ÷(
+%6"set.__contains__*$
+
+__unknown_file (
+
+seen*$
+
+__unknown_file (
+
+link2__contains__=
+;
+
+÷ ÷(
+%7"not*"
+
+__unknown_file (
+
+%6*	
+4
+6
+9*Å
+7
+Ÿ Ÿ(%hf
+
+Ÿ Ÿ(%
+%2*$
+
+__unknown_file (
+
+eggs*$
+
+__unknown_file (
+
+link2append*
+4
+6*Ñ
+8
+€ €((ki
+
+€ €((
+%3*'
+
+__unknown_file (
+	
+no_eggs*$
+
+__unknown_file (
+
+link2append*
+4
+6*€
+9
+◊ ◊(nl
+
+◊ ◊(
+%4"set.add*$
+
+__unknown_file (
+
+seen*$
+
+__unknown_file (
+
+link2addR
+P
+
+ÿ ÿ($
+%5"__id*6
+
+__unknown_file (*
+
+link"
+egg_fragment*
+7
+8:
+
+Œ Œ(/
+linksB42
+0pip._internal.index.package_finder.PackageFinderH

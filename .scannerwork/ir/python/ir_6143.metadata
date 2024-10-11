@@ -1,0 +1,10 @@
+httpcore._utils.is_socket_readable
+52f9524873d5d61262696a90d34ebd20
+bool.__init__
+select.select
+getattr
+select.poll.__init__
+==
+fileno
+poll
+register

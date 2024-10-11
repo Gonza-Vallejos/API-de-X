@@ -1,0 +1,80 @@
+
+Xbs4.tests.HTMLTreeBuilderSmokeTest.test_tag_with_no_attributes_can_have_attributes_addeda
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py¹ ¹(="2*€
+2
+º º('Œ‰
+
+º º('
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*+
+
+__unknown_file (
+<a>text</a>2soup@
+>
+
+º º('
+data"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+» »(
+%3"__id*+
+
+__unknown_file (*
+
+data"
+a¢Ÿ
+
+» »(
+%2"dict.__setitem__*"
+
+__unknown_file (
+
+%3*#
+
+__unknown_file (
+foo*#
+
+__unknown_file (
+bar2__setitem__G
+E
+
+¼* ¼(0
+%4"__id*+
+
+__unknown_file (*
+
+data"
+a@>
+
+¼* ¼(9
+%5*"
+
+__unknown_file (
+
+%42decodeŸ
+œ
+
+¼ ¼(9
+%6"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+<a foo="bar">text</a>*"
+
+__unknown_file (
+
+%5*
+3*3
+3
+__init__.py"
+¾ ¾(
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

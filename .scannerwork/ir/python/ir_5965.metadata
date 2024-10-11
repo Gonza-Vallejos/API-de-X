@@ -1,0 +1,8 @@
+pip._vendor.rich.console.Console.update_screen_lines
+9ffb72e93294f75f0267e445dc71eaaf
+pip._vendor.rich.console.ScreenUpdate.__init__
+==
+extend
+_check_buffer
+NoAltScreen
+render

@@ -1,0 +1,1 @@
+ã 2pyX©hr6env/lib/python3.12/site-packages/soupsieve/__init__.py

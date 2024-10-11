@@ -1,0 +1,3 @@
+pip._vendor.rich.console.Console.set_alt_screen
+89d1ed220688ab13c44af01f2e16e6ac
+pip._vendor.rich.control.Control.alt_screen

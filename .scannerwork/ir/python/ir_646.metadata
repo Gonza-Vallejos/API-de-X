@@ -1,0 +1,2 @@
+bs4.tests.test_dammit.TestEntitySubstitution.test_xml_converstion_includes_no_quotes_if_make_quoted_attribute_is_false
+614607a2bc6b23d3bffc27dc78b7925b

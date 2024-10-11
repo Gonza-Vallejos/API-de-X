@@ -1,0 +1,4 @@
+pip._internal.metadata.select_backend
+982ca89bdccf0b12848bcacbf320eb35
+pip._internal.metadata._should_use_importlib_metadata
+typing.cast

@@ -1,0 +1,4 @@
+pip._internal.metadata.importlib._dists.Distribution.installed_location
+b729c1282c6ff21ed7e32a2f262363fa
+pip._internal.utils.misc.normalize_path
+str.__init__

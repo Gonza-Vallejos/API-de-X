@@ -1,0 +1,6 @@
+pip._internal.resolution.resolvelib.candidates.EditableCandidate.__init__
+225140cb22535a908a5562619c67b6a1
+pip._internal.resolution.resolvelib.candidates.make_install_req_from_editable
+super
+==
+__init__

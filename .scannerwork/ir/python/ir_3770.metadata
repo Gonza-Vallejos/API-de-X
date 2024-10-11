@@ -1,0 +1,6 @@
+pip._vendor.rich.styled.Styled.__rich_console__
+af02e32005b7a6f130e658745e5c54d3
+pip._vendor.rich.segment.Segment.apply_style
+==
+get_style
+render

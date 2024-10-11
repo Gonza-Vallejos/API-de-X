@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_tag_with_no_attributes_can_have_attributes_added
+0b0c3351d7adf3fcd12a6294478e5b19
+==
+soup

@@ -1,0 +1,11 @@
+pip._internal.utils.unpacking.unpack_file
+ecc52a3669760558d6fdf2a99111fea1
+zipfile.is_zipfile
+os.path.realpath
+pip._internal.utils.unpacking.unzip_file
+tarfile.is_tarfile
+pip._internal.utils.unpacking.untar_file
+==
+critical
+lower
+endswith

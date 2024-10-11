@@ -1,0 +1,6 @@
+pyotp.totp.TOTP.now
+e4f522ea266da58fc33a40769b1212d8
+datetime.datetime.now
+==
+generate_otp
+timecode

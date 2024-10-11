@@ -1,0 +1,9 @@
+pip._internal.commands.debug.get_vendor_version_from_module
+8911bd8daba89d4f5f04921fdab5a251
+pip._internal.commands.debug.get_module_from_module_name
+str.__init__
+pip._internal.metadata.get_environment
+os.path.dirname
+getattr
+==
+get_distribution

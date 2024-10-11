@@ -1,0 +1,4 @@
+anyio._backends._trio._TrioSocketMixin._check_closed
+7a376e92ec791a54e479ea1b8d5d2be9
+==
+fileno

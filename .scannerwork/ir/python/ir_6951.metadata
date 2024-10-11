@@ -1,0 +1,3 @@
+httpx._models.Response.is_success
+b6701b32de1762cb5d326217d146c105
+httpx._status_codes.codes.is_success

@@ -1,0 +1,1 @@
+È 2pyXchr5env/lib/python3.12/site-packages/filetype/filetype.py

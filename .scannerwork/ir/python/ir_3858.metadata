@@ -1,0 +1,2 @@
+bs4.tests.test_builder_registry.TestRegistry.test_register_with_no_features
+c457c43879253a9076ca28667a44267d

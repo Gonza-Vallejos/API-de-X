@@ -1,0 +1,103 @@
+
+gql.GQLClient.create_list`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyÅ Å("2*Å
+2
+Ç Ü(	
+
+Ç Ü(	
+%1"dictö
+ó
+
+É É(#
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+	isPrivate**
+
+__unknown_file (
+
+
+is_privateè
+å
+
+Ñ Ñ(
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*$
+
+__unknown_file (
+name*$
+
+__unknown_file (
+
+nameù
+ö
+
+Ö Ö(&
+%4"__mapSet*"
+
+__unknown_file (
+
+%1*+
+
+__unknown_file (
+description*+
+
+__unknown_file (
+
+descriptionE
+C
+
+Ç Ü(	
+	variables"__id*"
+
+__unknown_file (
+
+%1Y
+W
+
+á# á(7
+%5"__id*=
+
+__unknown_file (!*
+gql.Endpoint"
+CREATE_LISTÃ…
+
+á á(R
+%6*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%5*)
+
+__unknown_file (
+
+	variables*-
+
+__unknown_file (
+
+LIST_FEATURES2gql_post"
+
+á á(R
+
+%6:
+
+Å  Å($
+name:
+
+Å& Å(1
+description:
+
+Å3 Å(=
+
+is_privateB
+gql.GQLClientH

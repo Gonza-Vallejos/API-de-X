@@ -1,0 +1,7 @@
+pip._internal.req.req_uninstall.UninstallPthEntries.add
+1888688f31e96a49b7523835b21d87f3
+os.path.normcase
+os.path.splitdrive
+==
+add
+replace

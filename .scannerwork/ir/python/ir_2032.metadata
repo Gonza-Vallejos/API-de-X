@@ -1,0 +1,5 @@
+pip._vendor.packaging.tags.interpreter_version
+1141e6ae32bb36fbc2ec8b5a1a7beb2c
+pip._vendor.packaging.tags._version_nodot
+str.__init__
+pip._vendor.packaging.tags._get_config_var

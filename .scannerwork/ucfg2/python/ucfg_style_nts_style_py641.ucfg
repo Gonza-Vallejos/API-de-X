@@ -1,0 +1,504 @@
+
+gfile:///home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py641
+__unknown_file ("1*è
+2
+
+style.py"~
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.pyÃ Ã(
+implicit return*ÃJ
+1e
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py 	(wu
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py !(
+%1"dict√
+¿
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%2"__mapSet*
+ (
+
+%1*
+ (
+	ansiblack*
+ (
+
+000000¡
+æ
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%3"__mapSet*
+ (
+
+%1*
+ (	
+ansired*
+ (
+
+7f0000√
+¿
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%4"__mapSet*
+ (
+
+%1*
+ (
+	ansigreen*
+ (
+
+007f00ƒ
+¡
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%5"__mapSet*
+ (
+
+%1*
+ (
+
+ansiyellow*
+ (
+
+7f7fe0¬
+ø
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%6"__mapSet*
+ (
+
+%1*
+ (
+
+ansiblue*
+ (
+
+00007f≈
+¬
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%7"__mapSet*
+ (
+
+%1*
+ (
+ansimagenta*
+ (
+
+7f007f¬
+ø
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%8"__mapSet*
+ (
+
+%1*
+ (
+
+ansicyan*
+ (
+
+007f7f¬
+ø
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%9"__mapSet*
+ (
+
+%1*
+ (
+
+ansigray*
+ (
+
+e5e5e5 
+«
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%10"__mapSet*
+ (
+
+%1*
+ (
+ansibrightblack*
+ (
+
+555555»
+≈
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%11"__mapSet*
+ (
+
+%1*
+ (
+ansibrightred*
+ (
+
+ff0000 
+«
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%12"__mapSet*
+ (
+
+%1*
+ (
+ansibrightgreen*
+ (
+
+00ff00À
+»
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py ( 
+%13"__mapSet*
+ (
+
+%1* 
+ (
+ansibrightyellow*
+ (
+
+ffff00…
+∆
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%14"__mapSet*
+ (
+
+%1*
+ (
+ansibrightblue*
+ (
+
+0000ffÃ
+…
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (!
+%15"__mapSet*
+ (
+
+%1*!
+ (
+ansibrightmagenta*
+ (
+
+ff00ff…
+∆
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py (
+%16"__mapSet*
+ (
+
+%1*
+ (
+ansibrightcyan*
+ (
+
+00ffffƒ
+¡
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py   (
+%17"__mapSet*
+ (
+
+%1*
+ (
+	ansiwhite*
+ (
+
+ffffffê
+ç
+e
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py !(
+
+_ansimap"__id*
+ (
+
+%1xv
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py# 6(
+%18"dict…
+∆
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py% %(
+%19"__mapSet*
+ (
+
+%18*
+ (
+
+#ansiblack*
+ (
+	ansiblack…
+∆
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py& &(
+%20"__mapSet*
+ (
+
+%18*
+ (
+#ansidarkred*
+ (	
+ansiredÕ
+ 
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py' '(!
+%21"__mapSet*
+ (
+
+%18*
+ (
+#ansidarkgreen*
+ (
+	ansigreen 
+«
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py( ((
+%22"__mapSet*
+ (
+
+%18*
+ (
+
+#ansibrown*
+ (
+
+ansiyellowÀ
+»
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py) )(
+%23"__mapSet*
+ (
+
+%18*
+ (
+#ansidarkblue*
+ (
+
+ansiblueÃ
+…
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py* *( 
+%24"__mapSet*
+ (
+
+%18*
+ (
+#ansipurple*
+ (
+ansimagenta«
+ƒ
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py+ +(
+%25"__mapSet*
+ (
+
+%18*
+ (
+	#ansiteal*
+ (
+
+ansicyanÃ
+…
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py, ,( 
+%26"__mapSet*
+ (
+
+%18*
+ (
+#ansilightgray*
+ (
+
+ansigray“
+œ
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py. .(&
+%27"__mapSet*
+ (
+
+%18*
+ (
+#ansidarkgray*
+ (
+ansibrightblackÀ
+»
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py/ /(
+%28"__mapSet*
+ (
+
+%18*
+ (
+
+#ansired*
+ (
+ansibrightredœ
+Ã
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py0 0(#
+%29"__mapSet*
+ (
+
+%18*
+ (
+
+#ansigreen*
+ (
+ansibrightgreen—
+Œ
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py1 1(%
+%30"__mapSet*
+ (
+
+%18*
+ (
+#ansiyellow* 
+ (
+ansibrightyellowÕ
+ 
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py2 2(!
+%31"__mapSet*
+ (
+
+%18*
+ (
+	#ansiblue*
+ (
+ansibrightblue”
+–
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py3 3('
+%32"__mapSet*
+ (
+
+%18*
+ (
+#ansifuchsia*!
+ (
+ansibrightmagenta“
+œ
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py4 4(&
+%33"__mapSet*
+ (
+
+%18*
+ (
+#ansiturquoise*
+ (
+ansibrightcyan…
+∆
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py5 5(
+%34"__mapSet*
+ (
+
+%18*
+ (
+
+#ansiwhite*
+ (
+	ansiwhiteü
+ú
+e
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py# 6(
+_deprecated_ansicolors"__id*
+ (
+
+%18wu
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py7 7(
+%35"set¨©
+g
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py7 7(
+%36*
+ (
+
+%35*
+ (
+
+
+_ansimap2__init__ì
+ê
+e
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py7 7(
+
+ansicolors"__id*
+ (
+
+%35°
+û
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py≠ ≠( 
+background_color"__id*
+ (	
+#ffffff†
+ù
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py∞ ∞(
+highlight_color"__id*
+ (	
+#ffffcc¢
+ü
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py≥ ≥(!
+line_number_color"__id*
+ (	
+inherit±
+Æ
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py∂ ∂(0
+line_number_background_color"__id*
+ (
+transparent™
+ß
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.pyπ π()
+line_number_special_color"__id*
+ (	
+#000000µ
+≤
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.pyº º(4&
+$line_number_special_background_color"__id*
+ (	
+#ffffc0zx
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.pyø ø(
+%37"dictì
+ê
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.pyø ø(
+styles"__id*
+ (
+
+%37ï
+í
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py√ √(
+name"__id*
+ (	
+unnamedzx
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py≈ ≈(
+%38"listî
+ë
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.py≈ ≈(	
+aliases"__id*
+ (
+
+%38®
+•
+i
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/style.pyÀ À(%
+web_style_gallery_exclude"__id*
+ (	
+
+False*
+2B H

@@ -1,0 +1,6 @@
+pip._vendor.rich.table.Table._render.align_cell
+7bdb2d8330eed4f74d1abafcf5b1a42a
+==
+align_top
+align_middle
+align_bottom

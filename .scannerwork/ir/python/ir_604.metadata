@@ -1,0 +1,6 @@
+pip._vendor.rich.inspect
+a74c1ebadc15e838982ce982d82d0ae3
+pip._vendor.rich.get_console
+pip._vendor.rich._inspect.Inspect.__init__
+==
+print

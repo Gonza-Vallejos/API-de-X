@@ -1,0 +1,5 @@
+pip._vendor.packaging.tags._get_config_var
+455aa56dc11974fdba1d572c672f934d
+sysconfig.get_config_var
+==
+debug

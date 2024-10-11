@@ -1,0 +1,2 @@
+bs4.tests.test_lxml.TestLXMLTreeBuilder.test_entities_in_foreign_document_encoding
+237adb68a90ab0d72314d7f88578797e

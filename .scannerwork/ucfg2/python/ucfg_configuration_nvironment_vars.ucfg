@@ -1,0 +1,69 @@
+
+@pip._internal.configuration.Configuration._load_environment_varsj
+^/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_internal/configuration.pyª ª("2*æ
+2
+« «(<r
+p
+
+¬ ¬(
+%1"__id*V
+
+__unknown_file (:*8+
+)pip._internal.configuration.Configuration"	
+_configN
+L
+
+¬ ¬("
+%2"__id*2
+
+__unknown_file (*
+
+kinds"	
+ENV_VARsq
+
+¬ ¬(#
+%3"__mapGet*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22__getitem__qo
+
+­+ ­(B
+%4*I
+
+__unknown_file (-+
+)pip._internal.configuration.Configuration2get_environ_vars½º
+
+­ ­(C
+%5*I
+
+__unknown_file (-+
+)pip._internal.configuration.Configuration*%
+
+__unknown_file (	
+:env:*"
+
+__unknown_file (
+
+%42_normalized_keysdb
+
+¬ ®(	
+%6*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%52update*
+3*8
+3
+configuration.py"
+° °(
+implicit returnB-+
+)pip._internal.configuration.ConfigurationH

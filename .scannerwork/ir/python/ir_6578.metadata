@@ -1,0 +1,4 @@
+pip._internal.models.target_python.TargetPython.get_sorted_tags
+25ecfb152f87900c62eba3407d86f584
+pip._internal.utils.compatibility_tags.version_info_to_nodot
+pip._internal.utils.compatibility_tags.get_supported

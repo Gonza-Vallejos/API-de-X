@@ -1,0 +1,5 @@
+pip._vendor.rich._inspect.get_object_types_mro
+d40a50f86d0558186b27852a9e5a4264
+type.__init__
+hasattr
+getattr

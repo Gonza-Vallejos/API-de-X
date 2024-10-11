@@ -1,0 +1,5 @@
+bs4.tests.test_formatter.TestFormatter.test_empty_attributes_are_booleans
+931dc177c1060973c5a8a3a256400165
+bs4.formatter.Formatter.__init__
+==
+soup

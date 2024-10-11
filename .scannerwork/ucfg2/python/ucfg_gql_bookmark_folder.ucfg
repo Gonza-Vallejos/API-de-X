@@ -1,0 +1,79 @@
+
+"gql.GQLClient.edit_bookmark_folder`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyº º(""2*«
+2
+Ω ¿(	
+
+Ω ¿(	
+%1"dict¶
+£
+
+æ æ(/
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*6
+
+__unknown_file (
+bookmark_collection_id*)
+
+__unknown_file (
+
+	folder_idè
+å
+
+ø ø(
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*$
+
+__unknown_file (
+name*$
+
+__unknown_file (
+
+nameE
+C
+
+Ω ¿(	
+	variables"__id*"
+
+__unknown_file (
+
+%1b
+`
+
+¡# ¡(@
+%4"__id*F
+
+__unknown_file (**(
+gql.Endpoint"
+EDIT_BOOKMARK_FOLDERùö
+
+¡ ¡(L
+%5*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%4*)
+
+__unknown_file (
+
+	variables2gql_post"
+
+¡ ¡(L
+
+%5:
+
+º) º(2
+	folder_id:
+
+º4 º(8
+nameB
+gql.GQLClientH

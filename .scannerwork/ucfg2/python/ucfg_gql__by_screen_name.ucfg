@@ -1,0 +1,130 @@
+
+!gql.GQLClient.user_by_screen_name`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyò ò(!"2*ò	
+2
+ó ö(	
+
+ó ö(	
+%1"dict
+š
+
+ô ô(&
+%2"__mapSet*"
+
+__unknown_file (
+
+%1*+
+
+__unknown_file (
+screen_name*+
+
+__unknown_file (
+
+screen_name¤
+¡
+
+õ õ(-
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*8
+
+__unknown_file (
+withSafetyModeUserFields*%
+
+__unknown_file (	
+
+FalseE
+C
+
+ó ö(	
+	variables"__id*"
+
+__unknown_file (
+
+%1
+
+÷ ù(	
+%4"dict
+
+ø ø(>
+%5"dict£
+ 
+
+ø ø(=
+%6"__mapSet*"
+
+__unknown_file (
+
+%5*7
+
+__unknown_file (
+withAuxiliaryUserLabels*%
+
+__unknown_file (	
+
+False•
+’
+
+ø ø(>
+%7"__mapSet*"
+
+__unknown_file (
+
+%4*,
+
+__unknown_file (
+fieldToggles*"
+
+__unknown_file (
+
+%5B
+@
+
+÷ ù(	
+params"__id*"
+
+__unknown_file (
+
+%4a
+_
+
+ú" ú(>
+%8"__id*E
+
+__unknown_file ()*'
+gql.Endpoint"
+USER_BY_SCREEN_NAMEƒ€
+
+ú ú(n
+%9*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%8*)
+
+__unknown_file (
+
+	variables*-
+
+__unknown_file (
+
+USER_FEATURES2gql_get:6
+extra_params&
+
+__unknown_file (
+
+
+params"
+
+ú ú(n
+
+%9:
+
+ò( ò(3
+screen_nameB
+gql.GQLClientH

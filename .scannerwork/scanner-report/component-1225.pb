@@ -1,0 +1,1 @@
+É	 2pyXºhrAenv/lib/python3.12/site-packages/pip/_vendor/typing_extensions.py

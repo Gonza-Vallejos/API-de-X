@@ -1,0 +1,106 @@
+
+,gql.GQLClient.communities_main_page_timeline`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyë ë(,"2*©
+2
+ì ï(	
+
+ì ï(	
+%4"dict‘
+Ž
+
+í í(
+%5"__mapSet*"
+
+__unknown_file (
+
+%4*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+count˜
+•
+
+î î(!
+%6"__mapSet*"
+
+__unknown_file (
+
+%4*-
+
+__unknown_file (
+withCommunity*$
+
+__unknown_file (
+
+TrueE
+C
+
+ì ï(	
+	variables"__id*"
+
+__unknown_file (
+
+%4*
+4
+5*í
+4
+ò ò(pl
+j
+
+ò" ò(I
+%1"__id*P
+
+__unknown_file (4*2
+gql.Endpoint" 
+COMMUNITIES_MAIN_PAGE_TIMELINE×Ô
+
+ò ò(p
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*9
+
+__unknown_file (
+
+COMMUNITY_TWEETS_FEATURES2gql_get"
+
+ò ò(p
+
+%2*Æ
+5
+ñ ñ((¯¬
+
+ñ ñ((
+%3"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+ë3 ë(8
+count:
+
+ë: ë(@
+cursorB
+gql.GQLClientH

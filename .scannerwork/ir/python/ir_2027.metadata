@@ -1,0 +1,10 @@
+pip._vendor.packaging.tags._generic_abi
+f77473ce47daf5783f912a6fcac8ff65
+len
+pip._vendor.packaging.tags._get_config_var
+pip._vendor.packaging.tags._normalize_string
+pip._vendor.packaging.tags._cpython_abis
+==
+startswith
+split
+join

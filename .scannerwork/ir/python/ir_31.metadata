@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_correctly_nested_tables
+2567c2d53f908e908964d5a4d8455eb5
+==
+assert_soup

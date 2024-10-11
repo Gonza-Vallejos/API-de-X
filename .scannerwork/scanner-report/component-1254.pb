@@ -1,0 +1,1 @@
+æ	 2pyXšhrBenv/lib/python3.12/site-packages/pip/_vendor/pygments/unistring.py

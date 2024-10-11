@@ -1,0 +1,59 @@
+
+1httpcore._async.http2.AsyncHTTP2Connection.aclosed
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_async/http2.py£ £("2*ý
+2
+¦ ¦()u
+s
+
+¦ ¦(
+%1"__id*Y
+
+__unknown_file (=*;,
+*httpcore._async.http2.AsyncHTTP2Connection"
+	_h2_stateJH
+
+¦ ¦()
+%2*"
+
+__unknown_file (
+
+%12close_connectionq
+o
+
+§ §(0
+%3"__id*U
+
+__unknown_file (9*7+
+)httpcore._async.http2.HTTPConnectionState"
+CLOSEDr
+p
+
+§ §(08,
+*httpcore._async.http2.AsyncHTTP2Connection"
+_state"__id*"
+
+__unknown_file (
+
+%3{
+y
+
+¨ ¨("
+%4"__id*_
+
+__unknown_file (C*A,
+*httpcore._async.http2.AsyncHTTP2Connection"
+_network_stream@>
+
+¨ ¨(+
+%5*"
+
+__unknown_file (
+
+%42aclose*
+3*0
+3
+
+http2.py"
+¬ ¬(
+implicit returnB.,
+*httpcore._async.http2.AsyncHTTP2ConnectionH

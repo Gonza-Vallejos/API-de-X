@@ -1,0 +1,37 @@
+
+:anyio._backends._trio.CapacityLimiter.acquire_on_behalf_ofd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.py® ®(""2*Å
+2
+© ©(<q
+o
+
+© ©(
+%1"__id*U
+
+__unknown_file (9*7'
+%anyio._backends._trio.CapacityLimiter"
+
+__originalxv
+
+© ©(<
+%2*"
+
+__unknown_file (
+
+%1*(
+
+__unknown_file (
+
+
+borrower2acquire_on_behalf_of*
+3*0
+3
+
+_trio.py"
+´ ´(
+implicit return:
+
+®) ®(9
+
+borrowerB)'
+%anyio._backends._trio.CapacityLimiterH

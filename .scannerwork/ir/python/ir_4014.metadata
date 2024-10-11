@@ -1,0 +1,9 @@
+httpcore._sync.http_proxy.HTTPProxy.__init__
+7adefd91514b8e41d809b38fd3162d66
+super
+httpcore._models.enforce_headers
+httpcore._sync.http_proxy.build_auth_header
+httpcore._models.enforce_bytes
+httpcore._models.enforce_url
+==
+__init__

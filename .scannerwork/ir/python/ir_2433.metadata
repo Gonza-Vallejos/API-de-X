@@ -1,0 +1,6 @@
+h11.tests.test_state.test_ConnectionState_keep_alive
+d7f897734cbd715bea834f8643227c94
+h11._state.ConnectionState.__init__
+==
+process_keep_alive_disabled
+process_event

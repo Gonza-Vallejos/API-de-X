@@ -1,0 +1,6 @@
+pip._internal.configuration._normalize_name
+73004e771e25d6fc12db26a279ffbc22
+==
+startswith
+lower
+replace

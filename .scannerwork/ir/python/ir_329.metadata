@@ -1,0 +1,7 @@
+pip._vendor.distlib.scripts.ScriptMaker._get_alternate_executable
+09db189c224254e7a27be82c6d8e4cf6
+os.path.join
+os.path.split
+==
+get
+replace

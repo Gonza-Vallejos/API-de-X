@@ -1,0 +1,5 @@
+pip._vendor.pkg_resources.ResourceManager.resource_exists
+d44327cf38aa78a3130b1dd68b94660c
+pip._vendor.pkg_resources.get_provider
+==
+has_resource

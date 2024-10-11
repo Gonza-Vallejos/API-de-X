@@ -1,0 +1,7 @@
+pip._vendor.requests.adapters.HTTPAdapter.request_url
+6bc4ab278a0fedacf5ba786f9a4da4b2
+pip._vendor.requests.utils.select_proxy
+pip._vendor.requests.utils.urldefragauth
+==
+startswith
+lower

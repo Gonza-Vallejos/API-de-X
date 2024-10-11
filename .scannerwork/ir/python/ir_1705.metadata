@@ -1,0 +1,2 @@
+anyio._core._synchronization.Semaphore.acquire_nowait
+ae064565e48509365e1b86998679cf31

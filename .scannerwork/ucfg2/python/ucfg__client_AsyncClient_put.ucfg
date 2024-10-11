@@ -1,0 +1,130 @@
+
+httpx._client.AsyncClient.put\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.pyÅ Å("1*á
+2
+ë ï(ﬂ‹
+
+ñ §(	
+%2*9
+
+__unknown_file (
+httpx._client.AsyncClient*#
+
+__unknown_file (
+PUT*#
+
+__unknown_file (
+
+url2request:2
+content'
+
+__unknown_file (
+	
+content:,
+data$
+
+__unknown_file (
+
+data:.
+files%
+
+__unknown_file (	
+
+files:,
+json$
+
+__unknown_file (
+
+json:0
+params&
+
+__unknown_file (
+
+
+params:2
+headers'
+
+__unknown_file (
+	
+headers:2
+cookies'
+
+__unknown_file (
+	
+cookies:,
+auth$
+
+__unknown_file (
+
+auth:D
+follow_redirects0
+
+__unknown_file (
+
+follow_redirects:2
+timeout'
+
+__unknown_file (
+	
+timeout:8
+
+extensions*
+
+__unknown_file (
+
+
+extensions"
+
+ñ §(	
+
+%2*a
+1
+è è(3K
+I
+
+à à(
+%1"__id*/
+
+__unknown_file (*
+
+typing"
+Any*
+2:
+
+É É(
+url:
+
+Ö Ö(-	
+content:
+
+Ü Ü('
+data:
+
+á á()
+files:
+
+à à(&
+json:
+
+â â(-
+params:
+
+ä ä(*	
+headers:
+
+ã ã(*	
+cookies:
+
+å å(?
+auth: 
+
+ç ç(F
+follow_redirects:
+
+é é(E	
+timeout:
+
+è è(3
+
+extensionsB
+httpx._client.AsyncClientH

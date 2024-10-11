@@ -1,0 +1,6 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_pickle_and_unpickle_identity
+1e9e314a7b06a73d61893f541c1fa851
+pickle.loads
+pickle.dumps
+==
+soup

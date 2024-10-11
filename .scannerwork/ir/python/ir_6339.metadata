@@ -1,0 +1,3 @@
+pip._vendor.pkg_resources.Requirement.__repr__
+fcb394abbd774896121bb4238683cace
+str.__init__

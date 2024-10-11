@@ -1,0 +1,8 @@
+pip._vendor.urllib3.util.response.assert_header_parsing
+54d9018bc71a3d489ad24c33fe953302
+type.__init__
+pip._vendor.urllib3.exceptions.HeaderParsingError.__init__
+getattr
+==
+is_multipart
+format

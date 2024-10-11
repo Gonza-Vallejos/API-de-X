@@ -1,0 +1,7 @@
+h11.tests.test_connection.test_client_talking_to_http10_server
+b83fe6be99daa4339882b3b3ec11d158
+h11._events.EndOfMessage.__init__
+h11._events.Request.__init__
+h11._connection.Connection.__init__
+==
+send

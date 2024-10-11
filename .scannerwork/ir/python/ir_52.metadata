@@ -1,0 +1,6 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_attribute_values_with_double_nested_quotes_get_quoted
+ed5413339bc33be71af04124831fe4d0
+==
+soup
+assert_soup
+decode

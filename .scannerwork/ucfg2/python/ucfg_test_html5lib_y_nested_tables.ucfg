@@ -1,0 +1,37 @@
+
+Hbs4.tests.test_html5lib.TestHTML5LibBuilder.test_correctly_nested_tablesd
+Z/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_html5lib.py& &($"2*Ç
+2' '(Fö
+ó
+( -("
+markup"__id*{
+
+__unknown_file (_]
+[<table id="1"><tr><td>Here's another table:<table id="2"><tr><td>foo</td></tr></table></td>¬ø
+/ 3()
+%1*K
+
+__unknown_file (/-
++bs4.tests.test_html5lib.TestHTML5LibBuilder*&
+
+__unknown_file (
+
+
+markup*™
+
+__unknown_file (çä
+á<table id="1"><tbody><tr><td>Here\'s another table:<table id="2"><tbody><tr><td>foo</td></tr></tbody></table></td></tr></tbody></table>2assert_soupãà
+5 8(;
+%2*K
+
+__unknown_file (/-
++bs4.tests.test_html5lib.TestHTML5LibBuilder*õ
+
+__unknown_file (}
+{<table><thead><tr><td>Foo</td></tr></thead><tbody><tr><td>Bar</td></tr></tbody><tfoot><tr><td>Baz</td></tr></tfoot></table>2assert_soup*
+3*6
+3
+test_html5lib.py"
+: :(
+implicit returnB/-
++bs4.tests.test_html5lib.TestHTML5LibBuilderH

@@ -1,0 +1,73 @@
+
+Ybs4.tests.test_pageelement.TestEncoding.test_tag_containing_unicode_string_can_be_encodedg
+]/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_pageelement.py (9"2*Ý
+2 (#N
+L
+ (#
+html"__id*2
+
+__unknown_file (
+<b>\N{SNOWMAN}</b>ˆ…
+ (
+%1*G
+
+__unknown_file (+)
+'bs4.tests.test_pageelement.TestEncoding*$
+
+__unknown_file (
+
+html2soup>
+<
+ (
+soup"__id*"
+
+__unknown_file (
+
+%1E
+C
+ (
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+bec
+ (%
+%3*"
+
+__unknown_file (
+
+%2*%
+
+__unknown_file (	
+utf-82encodesq
+) (=
+%4"
+str.encode*$
+
+__unknown_file (
+
+html*%
+
+__unknown_file (	
+utf-82encodeŠ
+‡
+ (=
+%5"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4*
+3*9
+3
+test_pageelement.py"
+ (
+implicit returnB+)
+'bs4.tests.test_pageelement.TestEncodingH

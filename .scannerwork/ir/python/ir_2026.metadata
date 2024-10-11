@@ -1,0 +1,9 @@
+pip._vendor.packaging.tags._cpython_abis
+d091d9e4d8da4c6cf05c32519c618e06
+tuple.__init__
+pip._vendor.packaging.tags._version_nodot
+pip._vendor.packaging.tags._get_config_var
+hasattr
+==
+insert
+append

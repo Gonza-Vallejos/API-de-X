@@ -1,0 +1,4 @@
+httpx._client.AsyncClient._init_transport
+3679e2eed8eef3449ef7412af2b7f6dd
+httpx._transports.asgi.ASGITransport.__init__
+httpx._transports.default.AsyncHTTPTransport.__init__

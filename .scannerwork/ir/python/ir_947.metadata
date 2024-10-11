@@ -1,0 +1,7 @@
+pip._vendor.rich.pretty.is_expandable
+d1f40ee9430714d7c1cc07f40769dc3d
+dataclasses.is_dataclass
+pip._vendor.rich.pretty._safe_isinstance
+pip._vendor.rich.pretty._is_attr_object
+hasattr
+inspect.isclass

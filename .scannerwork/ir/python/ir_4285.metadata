@@ -1,0 +1,11 @@
+pip._vendor.distlib.util.FileOperator.copy_file
+f9a2689e5d162fbc34aeb30dc4fd24e5
+os.path.islink
+os.path.isfile
+os.path.dirname
+os.path.exists
+==
+record_as_written
+ensure_dir
+copyfile
+info

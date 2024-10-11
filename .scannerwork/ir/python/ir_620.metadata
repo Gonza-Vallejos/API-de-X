@@ -1,0 +1,5 @@
+pip._internal.commands.list.ListCommand.handle_pip_version_check
+15bfddd4bde8294e859d7b32823f6486
+super
+==
+handle_pip_version_check

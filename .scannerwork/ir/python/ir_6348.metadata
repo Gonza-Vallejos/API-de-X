@@ -1,0 +1,6 @@
+pip._internal.commands.configuration.ConfigurationCommand.unset_name
+6bf6e8ffaf4cd665952b25edf0d56aec
+==
+_get_n_args
+_save_configuration
+unset_value

@@ -1,0 +1,6 @@
+anyio._backends._asyncio.BlockingPortal.__init__
+bc63d2382487f03f5058b4ea61cfcc2c
+super
+asyncio.events.get_running_loop
+==
+__init__

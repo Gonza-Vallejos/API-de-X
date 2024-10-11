@@ -1,0 +1,6 @@
+bs4.tests.test_html5lib.TestHTML5LibBuilder.test_reparented_markup_containing_children
+54fd26bed6ab081922c3501f83c5132b
+==
+soup
+find_all
+find

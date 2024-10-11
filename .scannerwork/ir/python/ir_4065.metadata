@@ -1,0 +1,5 @@
+bs4.tests.test_html5lib.TestHTML5LibBuilder.test_reparented_markup_containing_identical_whitespace_nodes
+447e97efd32740a69dbb7fed3fe3ffa7
+==
+soup
+find_all

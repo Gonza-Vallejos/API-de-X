@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_attribute_values_with_nested_quotes_are_left_alone
+51eb169d6602cf1c03c727175d6bbf9c
+==
+assert_soup

@@ -1,0 +1,60 @@
+
+-anyio._backends._trio.ConnectedUDPSocket.sendd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_trio.pyÂ Â("2*Ž
+2
+Ã Ã(u
+s
+
+Ã Ã(
+%4"__id*Y
+
+__unknown_file (=*;*
+(anyio._backends._trio.ConnectedUDPSocket"
+_send_guard*
+3
+6*.
+3
+
+_trio.py"
+Ê Ê
+implicit return*²
+4
+Ç Ç(/›˜
+
+Ç Ç(/
+%1*H
+
+__unknown_file (,*
+(anyio._backends._trio.ConnectedUDPSocket*#
+
+__unknown_file (
+
+exc2_convert_socket_error*
+3*õ
+6
+Å Å(2v
+t
+
+Å Å('
+%2"__id*Z
+
+__unknown_file (>*<*
+(anyio._backends._trio.ConnectedUDPSocket"
+_trio_socketdb
+
+Å Å(2
+%3*"
+
+__unknown_file (
+
+%2*$
+
+__unknown_file (
+
+item2send*
+3
+4:
+
+Â Â($
+itemB,*
+(anyio._backends._trio.ConnectedUDPSocketH

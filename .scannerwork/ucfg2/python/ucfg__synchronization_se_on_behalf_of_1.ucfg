@@ -1,0 +1,36 @@
+
+Hanyio._core._synchronization.CapacityLimiterAdapter.release_on_behalf_ofk
+_/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_core/_synchronization.py§ §("2*ç
+2
+• •(4}
+{
+
+• •(
+%1"__id*a
+
+__unknown_file (E*C5
+3anyio._core._synchronization.CapacityLimiterAdapter"
+
+_limiterxv
+
+• •(4
+%2*"
+
+__unknown_file (
+
+%1*(
+
+__unknown_file (
+
+
+borrower2release_on_behalf_of*
+3*;
+3
+_synchronization.py"
+ß ß(
+implicit return:
+
+§# §(3
+
+borrowerB75
+3anyio._core._synchronization.CapacityLimiterAdapterH

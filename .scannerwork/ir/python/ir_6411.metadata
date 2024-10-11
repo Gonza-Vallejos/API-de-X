@@ -1,0 +1,9 @@
+pip._internal.commands.inspect.InspectCommand.run
+85cb9585caab665876924126cbd1ee57
+pip._vendor.packaging.markers.default_environment
+pip._vendor.rich.print_json
+pip._internal.metadata.get_environment
+set.__init__
+==
+iter_installed_distributions
+check_list_path_option

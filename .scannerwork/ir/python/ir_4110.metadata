@@ -1,0 +1,6 @@
+pip._internal.vcs.bazaar.Bazaar.update
+33bc5565a52a707ba6ac590d4ab5acb6
+==
+startswith
+run_command
+to_args

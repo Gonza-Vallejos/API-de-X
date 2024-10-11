@@ -1,0 +1,6 @@
+pip._vendor.msgpack.fallback.Packer.getbuffer
+160a91407657c030dc63ef4c01a893a0
+memoryview.__init__
+==
+bytes
+getbuffer

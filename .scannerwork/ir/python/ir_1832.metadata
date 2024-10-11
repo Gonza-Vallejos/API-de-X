@@ -1,0 +1,4 @@
+bs4.tests.test_tag.TestMultiValuedAttributes.test_hidden_tag_is_invisible
+79b61eaf2ebe4debf6eec23d69f2e56d
+==
+soup

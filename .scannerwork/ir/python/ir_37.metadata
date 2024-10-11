@@ -1,0 +1,4 @@
+bs4.tests.HTMLTreeBuilderSmokeTest.test_apos_entity
+d05b25039dcdf4cd60141141d59eb998
+==
+assert_soup

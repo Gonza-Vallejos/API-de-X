@@ -1,0 +1,52 @@
+
+8pip._vendor.pygments.formatters.rtf.RtfFormatter._escaper
+f/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/rtf.pyõ õ("2*˜
+2
+ú û('õò
+
+ú ú()
+%1"str.replace*$
+
+__unknown_file (
+
+text*"
+
+__unknown_file (
+\\*$
+
+__unknown_file (
+\\\\2replaceóî
+
+ú ù('
+%2"str.replace*"
+
+__unknown_file (
+
+%1*!
+
+__unknown_file (
+{*#
+
+__unknown_file (
+\\{2replaceóî
+
+ú û('
+%3"str.replace*"
+
+__unknown_file (
+
+%2*!
+
+__unknown_file (
+}*#
+
+__unknown_file (
+\\}2replace"
+
+ú û('
+
+%3:
+
+õ õ(
+textB42
+0pip._vendor.pygments.formatters.rtf.RtfFormatterH

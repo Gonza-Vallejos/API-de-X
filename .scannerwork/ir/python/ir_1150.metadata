@@ -1,0 +1,8 @@
+pip._vendor.pygments.formatters.html.HtmlFormatter.get_style_defs
+62667eeb023f79eeeee58d93ede05558
+==
+get_linenos_style_defs
+extend
+get_token_style_defs
+get_background_style_defs
+join

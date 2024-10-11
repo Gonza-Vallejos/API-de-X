@@ -1,0 +1,4 @@
+anyio._backends._asyncio.Semaphore.statistics
+f85fdce5a389760ef229e1fec2245751
+len
+anyio._core._synchronization.SemaphoreStatistics.__init__

@@ -1,0 +1,5 @@
+bs4.tests.test_tree.TestTreeModification.test_set_string_preserves_class_of_string
+f764391fd6cc7165c408ef17e7f0fec2
+bs4.element.CData.__init__
+==
+soup

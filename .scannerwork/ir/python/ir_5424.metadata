@@ -1,0 +1,5 @@
+pip._vendor.urllib3.response.HTTPResponse.fileno
+e46e686a8d824b8e5e9d79c8101ca332
+hasattr
+==
+fileno

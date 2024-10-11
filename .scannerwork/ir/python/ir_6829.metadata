@@ -1,0 +1,3 @@
+pip._internal.resolution.resolvelib.candidates.make_install_req_from_editable
+1b8923efeb99a9b821997525cba11a44
+pip._internal.req.constructors.install_req_from_editable

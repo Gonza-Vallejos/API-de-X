@@ -1,0 +1,5 @@
+pip._internal.utils.misc.ConfiguredBuildBackendHookCaller.get_requires_for_build_sdist
+2a67942375ee037d7a7a7c57cf52a0dc
+super
+==
+get_requires_for_build_sdist

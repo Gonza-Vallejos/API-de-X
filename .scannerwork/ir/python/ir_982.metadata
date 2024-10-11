@@ -1,0 +1,5 @@
+pip._internal.utils.misc.is_installable_dir
+706f3bb49ca0f6c7759310d543a8edf2
+os.path.isdir
+os.path.join
+os.path.isfile

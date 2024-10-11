@@ -1,0 +1,7 @@
+pip._internal.req.req_install.InstallRequirement.update_editable
+a7da031332ee46a55241fc612bf2e3fe
+pip._internal.utils.misc.hide_url
+==
+obtain
+debug
+get_backend_for_scheme

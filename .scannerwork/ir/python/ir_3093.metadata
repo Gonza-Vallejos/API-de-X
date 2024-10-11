@@ -1,0 +1,3 @@
+pip._vendor.platformdirs.api.PlatformDirsABC.user_documents_path
+63605b846443dd8f6db2007294b0f7d9
+pathlib.Path.__init__

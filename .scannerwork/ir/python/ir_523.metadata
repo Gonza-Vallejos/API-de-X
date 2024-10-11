@@ -1,0 +1,9 @@
+pip._vendor.rich.table.Table._measure_column
+b56144f86ffb1a4dca37549866009ad4
+max
+pip._vendor.rich.measure.Measurement.__init__
+==
+_get_padding_width
+with_maximum
+_get_cells
+clamp

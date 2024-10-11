@@ -1,0 +1,59 @@
+
+9httpcore._async.http11.AsyncHTTP11UpgradeStream.start_tlse
+Y/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_async/http11.pyù ù("1*í
+2
+ÿ ÿ(Rx
+v
+
+ÿ ÿ(!
+%2"__id*\
+
+__unknown_file (@*>1
+/httpcore._async.http11.AsyncHTTP11UpgradeStream"	
+_streamËÈ
+
+ÿ ÿ(R
+%3*"
+
+__unknown_file (
+
+%2*+
+
+__unknown_file (
+
+ssl_context*/
+
+__unknown_file (
+
+server_hostname*'
+
+__unknown_file (
+	
+timeout2	start_tls"
+
+ÿ ÿ(R
+
+%3*e
+1
+ý ý('O
+M
+
+û û(#
+%1"__id*3
+
+__unknown_file (*
+
+ssl"
+
+SSLContext*
+2:
+
+û û(#
+ssl_context:
+
+ü ü(-
+server_hostname:
+
+ý ý('	
+timeoutB31
+/httpcore._async.http11.AsyncHTTP11UpgradeStreamH

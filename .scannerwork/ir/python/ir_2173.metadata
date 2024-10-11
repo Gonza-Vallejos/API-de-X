@@ -1,0 +1,12 @@
+pip._vendor.requests.sessions.Session.prepare_request
+15170823d1ef0620dbe39fdb83cf9eff
+pip._vendor.requests.cookies.merge_cookies
+pip._vendor.requests.sessions.merge_setting
+pip._vendor.requests.sessions.merge_hooks
+pip._vendor.requests.cookies.cookiejar_from_dict
+pip._vendor.requests.cookies.RequestsCookieJar.__init__
+pip._vendor.requests.models.PreparedRequest.__init__
+pip._vendor.requests.utils.get_netrc_auth
+==
+prepare
+upper

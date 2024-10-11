@@ -1,0 +1,105 @@
+
+httpx._config.Timeout.as_dict\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_config.pyÄ Ä("2*˝
+2
+Å Ü(	
+
+Å Ü(	
+%1"dict^
+\
+
+Ç Ç(#
+%2"__id*B
+
+__unknown_file (&*$
+httpx._config.Timeout"	
+connectê
+ç
+
+Ç Ç(#
+%3"__mapSet*"
+
+__unknown_file (
+
+%1*'
+
+__unknown_file (	
+connect*"
+
+__unknown_file (
+
+%2[
+Y
+
+É É(
+%4"__id*?
+
+__unknown_file (#*!
+httpx._config.Timeout"
+readç
+ä
+
+É É(
+%5"__mapSet*"
+
+__unknown_file (
+
+%1*$
+
+__unknown_file (
+read*"
+
+__unknown_file (
+
+%4\
+Z
+
+Ñ Ñ(
+%6"__id*@
+
+__unknown_file ($*"
+httpx._config.Timeout"
+writeé
+ã
+
+Ñ Ñ(
+%7"__mapSet*"
+
+__unknown_file (
+
+%1*%
+
+__unknown_file (	
+write*"
+
+__unknown_file (
+
+%6[
+Y
+
+Ö Ö(
+%8"__id*?
+
+__unknown_file (#*!
+httpx._config.Timeout"
+poolç
+ä
+
+Ö Ö(
+%9"__mapSet*"
+
+__unknown_file (
+
+%1*$
+
+__unknown_file (
+pool*"
+
+__unknown_file (
+
+%8"
+
+Å Ü(	
+
+%1B
+httpx._config.TimeoutH

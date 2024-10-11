@@ -1,0 +1,48 @@
+
+;httpcore._async.http2.AsyncHTTP2Connection._send_end_streamd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_async/http2.pyî î("2*ü
+2
+ï ó(u
+s
+
+ò ò(
+%1"__id*Y
+
+__unknown_file (=*;,
+*httpcore._async.http2.AsyncHTTP2Connection"
+	_h2_stateom
+
+ò ò(,
+%2*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	stream_id2
+end_stream†ù
+
+ô ô(0
+%3*J
+
+__unknown_file (.,
+*httpcore._async.http2.AsyncHTTP2Connection*'
+
+__unknown_file (
+	
+request2_write_outgoing_data*
+3*0
+3
+
+http2.py"
+ù ù(
+implicit return:
+
+î% î(5	
+request:
+
+î7 î(E
+	stream_idB.,
+*httpcore._async.http2.AsyncHTTP2ConnectionH

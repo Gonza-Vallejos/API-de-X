@@ -1,0 +1,5 @@
+pip._internal.commands.search.SearchCommand.add_options
+25a67f8d419073154671e72b377b5bfb
+==
+insert_option_group
+add_option

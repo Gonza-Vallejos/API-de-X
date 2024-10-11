@@ -1,0 +1,5 @@
+anyio._core._sockets.wait_socket_readable
+4355659054d459edc28a487a20f76b65
+anyio._core._eventloop.get_async_backend
+==
+wait_socket_readable

@@ -1,0 +1,4 @@
+httpcore._backends.mock.MockBackend.connect_unix_socket
+e65fbe771f306044fe5251d8db5bd785
+httpcore._backends.mock.MockStream.__init__
+list.__init__

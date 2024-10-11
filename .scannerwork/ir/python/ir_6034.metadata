@@ -1,0 +1,7 @@
+pip._internal.commands.cache.CacheCommand.list_cache_items
+f7f8c408bb0ed30fdc5ae00645623bf2
+len
+==
+format_for_abspath
+format_for_human
+_find_wheels

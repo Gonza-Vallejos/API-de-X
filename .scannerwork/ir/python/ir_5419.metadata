@@ -1,0 +1,3 @@
+pip._vendor.urllib3.response.HTTPResponse.getheaders
+4b4a86566f07f2dc8b432d6c8ee8b3d7
+warnings.warn

@@ -1,0 +1,52 @@
+
+Mbs4.tests.test_dammit.TestEntitySubstitution.test_quotes_not_html_substitutedd
+X/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_dammit.pyï ï(("2*Õ
+2
+ð ð(HJ
+H
+
+ñ ñ(
+text"__id*,
+
+__unknown_file (
+Bob\'s "bar"q
+o
+
+ò ò(
+%1"__id*U
+
+__unknown_file (9*7.
+,bs4.tests.test_dammit.TestEntitySubstitution"
+subom
+
+ò ò(-
+%2*"
+
+__unknown_file (
+
+%1*$
+
+__unknown_file (
+
+text2substitute_htmlŽ
+‹
+
+ò ò(5
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*$
+
+__unknown_file (
+
+text*
+3*4
+3
+test_dammit.py"
+ó ó
+implicit returnB0.
+,bs4.tests.test_dammit.TestEntitySubstitutionH

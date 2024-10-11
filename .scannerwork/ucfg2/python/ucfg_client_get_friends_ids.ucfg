@@ -1,0 +1,66 @@
+
+client.Client.get_friends_idsc
+W/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/client.pyï ï("2*ï
+2
+ö †(R
+P
+
+ˆ) ˆ(1
+%1"__id*6
+
+__unknown_file (*
+client.Client"
+v11O
+M
+
+ˆ) ˆ(=
+%2"__id*3
+
+__unknown_file (*
+
+%1"
+friends_ids¢Ÿ
+
+‡ ‰(	
+%3*-
+
+__unknown_file (
+client.Client*'
+
+__unknown_file (
+	
+user_id*+
+
+__unknown_file (
+
+screen_name*%
+
+__unknown_file (	
+
+count*"
+
+__unknown_file (
+
+%2*&
+
+__unknown_file (
+
+
+cursor2_get_friendship_ids"
+
+‡ ‰(	
+
+%3:
+
+ñ ñ("	
+user_id:
+
+ò ò(&
+screen_name:
+
+ó ó(
+count:
+
+ô ô(!
+cursorB
+client.ClientH

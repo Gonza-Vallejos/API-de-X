@@ -1,0 +1,5 @@
+pip._vendor.urllib3.contrib._securetransport.low_level._is_cert
+f856e877e0779741f3248292b82404a0
+==
+CFGetTypeID
+SecCertificateGetTypeID

@@ -1,0 +1,49 @@
+
+-anyio._backends._asyncio.TestRunner.__enter__g
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/anyio/_backends/_asyncio.py¬ ¬("2*†
+2
+­ ­( l
+j
+
+­ ­(
+%1"__id*P
+
+__unknown_file (4*2%
+#anyio._backends._asyncio.TestRunner"	
+_runnerCA
+
+­ ­( 
+%2*"
+
+__unknown_file (
+
+%12	__enter__ca
+
+® ®(
+%3*C
+
+__unknown_file ('%
+#anyio._backends._asyncio.TestRunner2get_loopw
+u
+
+®. ®(E
+%4"__id*[
+
+__unknown_file (?*=%
+#anyio._backends._asyncio.TestRunner"
+_exception_handler¬©
+
+® ®(F
+%5"6asyncio.events.AbstractEventLoop.set_exception_handler*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%42set_exception_handler"5
+
+¯ ¯('%
+#anyio._backends._asyncio.TestRunnerB'%
+#anyio._backends._asyncio.TestRunnerH

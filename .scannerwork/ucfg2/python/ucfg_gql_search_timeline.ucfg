@@ -1,0 +1,143 @@
+
+gql.GQLClient.search_timeline`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyç ç("2*›
+2
+î ô(	
+
+î ô(	
+%4"dictî
+ë
+
+ï ï(
+%5"__mapSet*"
+
+__unknown_file (
+
+%4*(
+
+__unknown_file (
+
+rawQuery*%
+
+__unknown_file (	
+
+queryë
+é
+
+ñ ñ(
+%6"__mapSet*"
+
+__unknown_file (
+
+%4*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+countù
+ö
+
+ó ó((
+%7"__mapSet*"
+
+__unknown_file (
+
+%4*+
+
+__unknown_file (
+querySource*+
+
+__unknown_file (
+typed_queryï
+í
+
+ò ò(
+%8"__mapSet*"
+
+__unknown_file (
+
+%4*'
+
+__unknown_file (	
+product*'
+
+__unknown_file (
+	
+productE
+C
+
+î ô(	
+	variables"__id*"
+
+__unknown_file (
+
+%4*
+4
+5*Õ
+4
+ú ú(P]
+[
+
+ú" ú(:
+%1"__id*A
+
+__unknown_file (%*#
+gql.Endpoint"
+SEARCH_TIMELINE∆√
+
+ú ú(P
+%2*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*(
+
+__unknown_file (
+
+
+FEATURES2gql_get"
+
+ú ú(P
+
+%2*∆
+5
+õ õ((Ø¨
+
+õ õ((
+%3"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+è è(
+query:
+
+ê ê(	
+product:
+
+ë ë(
+count:
+
+í í(
+cursorB
+gql.GQLClientH

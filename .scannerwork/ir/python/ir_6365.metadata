@@ -1,0 +1,8 @@
+pip._vendor.rich.style.Style._make_ansi_codes
+e8d4a1797d0b0c715fd78d9102a8d163
+range.__init__
+==
+extend
+join
+downgrade
+get_ansi_codes

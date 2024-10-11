@@ -1,0 +1,5 @@
+pip._vendor.platformdirs.windows.Windows.user_data_dir
+15ef76cef77c161e61b1c839e786be6b
+os.path.normpath
+==
+_append_parts

@@ -1,0 +1,1 @@
+ù 2pyXihrBenv/lib/python3.12/site-packages/pip/_internal/utils/virtualenv.py

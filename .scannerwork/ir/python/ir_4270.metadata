@@ -1,0 +1,13 @@
+pip._vendor.distlib.util.parse_requirement
+f0c08a177930fa4d5f1303a9df037f12
+pip._vendor.distlib.util.parse_requirement.get_versions
+pip._vendor.distlib.util.parse_marker
+==
+startswith
+strip
+find
+match
+groups
+lstrip
+join
+append

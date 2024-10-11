@@ -1,0 +1,6 @@
+bs4.tests.test_tree.TestTreeModification.test_wrap
+e6083f23b71ad904e009126ef46e0e9d
+==
+soup
+new_tag
+wrap

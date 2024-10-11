@@ -1,0 +1,4 @@
+bs4.tests.test_lxml.TestLXMLTreeBuilder.test_out_of_range_entity
+18a880cc5482ca42ab35f7a5b3636939
+==
+assert_soup

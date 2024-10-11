@@ -1,0 +1,85 @@
+
+v11.V11Client.place_trends`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/v11.pyú ú("2*í
+2
+û ÿ(	S
+Q
+
+û û(
+%1"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseZ
+X
+
+ü ü(!
+%2"__id*>
+
+__unknown_file ("* 
+v11.Endpoint"
+PLACE_TRENDS
+
+ý ý( 
+%3"dictŽ
+‹
+
+ý ý(
+%4"__mapSet*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+id*%
+
+__unknown_file (	
+
+woeidS
+Q
+
+þ þ(
+%5"__id*7
+
+__unknown_file (*
+v11.V11Client"
+baseQ
+O
+
+þ þ(+
+%6"__id*5
+
+__unknown_file (*
+
+%5"
+_base_headers¿¼
+
+û ÿ(	
+%7*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%22get:,
+params"
+
+__unknown_file (
+
+%3:-
+headers"
+
+__unknown_file (
+
+%6"
+
+û ÿ(	
+
+%7:
+
+ú! ú(&
+woeidB
+v11.V11ClientH

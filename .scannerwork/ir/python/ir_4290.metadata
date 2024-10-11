@@ -1,0 +1,10 @@
+pip._vendor.distlib.util.FileOperator.ensure_removed
+aba174c566afdfe1c41fc32c9a179934
+os.path.islink
+os.remove
+os.path.isdir
+os.path.exists
+==
+debug
+rmtree
+remove

@@ -1,0 +1,11 @@
+pip._internal.utils.direct_url_helpers.direct_url_from_link
+9b107a737929d57eb29c5d04d1cc4603
+pip._internal.models.direct_url.ArchiveInfo.__init__
+pip._internal.models.direct_url.VcsInfo.__init__
+pip._internal.models.direct_url.DirectUrl.__init__
+pip._internal.models.direct_url.DirInfo.__init__
+==
+get_revision
+is_existing_dir
+get_url_rev_and_auth
+get_backend_for_scheme

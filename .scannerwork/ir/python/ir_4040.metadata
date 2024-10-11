@@ -1,0 +1,5 @@
+pip._internal.self_outdated_check.UpgradePrompt.__rich__
+1103043601a8df20ba72ee44ba3c590b
+pip._vendor.rich.text.Text.from_markup
+pip._vendor.rich.text.Text.__init__
+pip._internal.utils.entrypoints.get_best_invocation_for_this_pip

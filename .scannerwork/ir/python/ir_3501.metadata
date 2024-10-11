@@ -1,0 +1,3 @@
+pip._vendor.urllib3.connectionpool.HTTPConnectionPool._absolute_url
+694c667e93e3601aba6afdb9c9e2f3fa
+pip._vendor.urllib3.util.url.Url.__init__

@@ -1,0 +1,249 @@
+
+gql.GQLClient.tweet_detail`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.pyÉ É("2*á
+2
+Ñ ç(	
+
+Ñ ç(	
+%8"dictõ
+ò
+
+Ö Ö($
+%9"__mapSet*"
+
+__unknown_file (
+
+%8*,
+
+__unknown_file (
+focalTweetId*(
+
+__unknown_file (
+
+
+tweet_id†
+ù
+
+Ü Ü((
+%10"__mapSet*"
+
+__unknown_file (
+
+%8*3
+
+__unknown_file (
+with_rux_injections*%
+
+__unknown_file (	
+
+False¢
+ü
+
+á á(*
+%11"__mapSet*"
+
+__unknown_file (
+
+%8*6
+
+__unknown_file (
+includePromotedContent*$
+
+__unknown_file (
+
+Trueô
+ñ
+
+à à(!
+%12"__mapSet*"
+
+__unknown_file (
+
+%8*-
+
+__unknown_file (
+withCommunity*$
+
+__unknown_file (
+
+True≤
+Ø
+
+â â(:
+%13"__mapSet*"
+
+__unknown_file (
+
+%8*F
+
+__unknown_file (*(
+&withQuickPromoteEligibilityTweetFields*$
+
+__unknown_file (
+
+Trueû
+õ
+
+ä ä(&
+%14"__mapSet*"
+
+__unknown_file (
+
+%8*2
+
+__unknown_file (
+withBirdwatchNotes*$
+
+__unknown_file (
+
+Trueï
+í
+
+ã ã(
+%15"__mapSet*"
+
+__unknown_file (
+
+%8*)
+
+__unknown_file (
+	withVoice*$
+
+__unknown_file (
+
+Trueö
+ó
+
+å å("
+%16"__mapSet*"
+
+__unknown_file (
+
+%8*.
+
+__unknown_file (
+withV2Timeline*$
+
+__unknown_file (
+
+TrueE
+C
+
+Ñ ç(	
+	variables"__id*"
+
+__unknown_file (
+
+%8*
+4
+5*º
+4
+ê í(	
+
+ê í(	
+%1"dict
+
+ë ë(>
+%2"dict£
+†
+
+ë ë(=
+%3"__mapSet*"
+
+__unknown_file (
+
+%2*7
+
+__unknown_file (
+withAuxiliaryUserLabels*%
+
+__unknown_file (	
+
+Falseï
+í
+
+ë ë(>
+%4"__mapSet*"
+
+__unknown_file (
+
+%1*,
+
+__unknown_file (
+fieldToggles*"
+
+__unknown_file (
+
+%2B
+@
+
+ê í(	
+params"__id*"
+
+__unknown_file (
+
+%1Z
+X
+
+ì" ì(7
+%5"__id*>
+
+__unknown_file ("* 
+gql.Endpoint"
+TWEET_DETAIL˛˚
+
+ì ì(b
+%6*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%5*)
+
+__unknown_file (
+
+	variables*(
+
+__unknown_file (
+
+
+FEATURES2gql_get:6
+extra_params&
+
+__unknown_file (
+
+
+params"
+
+ì ì(b
+
+%6*∆
+5
+è è((Ø¨
+
+è è((
+%7"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+É! É()
+
+tweet_id:
+
+É+ É(1
+cursorB
+gql.GQLClientH

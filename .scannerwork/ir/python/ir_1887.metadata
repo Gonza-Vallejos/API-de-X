@@ -1,0 +1,8 @@
+anyio._backends._asyncio.WorkerThread._report_result
+d8c343275383df3afa1d95287106d1a5
+anyio._backends._asyncio.AsyncIOBackend.current_time
+==
+set_exception
+cancelled
+set_result
+append

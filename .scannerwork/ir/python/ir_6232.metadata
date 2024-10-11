@@ -1,0 +1,4 @@
+pip._vendor.pkg_resources.ResourceManager.postprocess
+955f47c184c9c9ae34cf09b5c8a78042
+os.stat
+os.chmod

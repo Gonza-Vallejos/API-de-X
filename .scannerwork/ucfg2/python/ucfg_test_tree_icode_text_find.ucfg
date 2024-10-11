@@ -1,0 +1,48 @@
+
+3bs4.tests.test_tree.TestFind.test_unicode_text_find`
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.py1 1("2*ı
+22 2(/èå
+2 2(/
+%1*<
+
+__unknown_file ( 
+bs4.tests.test_tree.TestFind*6
+
+__unknown_file (
+<h1>R√§ksm√∂rg√•s</h1>2soup>
+<
+2 2(/
+soup"__id*"
+
+__unknown_file (
+
+%1wu
+3 3(-
+%2*$
+
+__unknown_file (
+
+soup2find:7
+string-
+
+__unknown_file (
+R√§ksm√∂rg√•sï
+í
+3 3(=
+%3"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%2*-
+
+__unknown_file (
+R√§ksm√∂rg√•s*
+3*2
+3
+test_tree.py"
+5 5(
+implicit returnB 
+bs4.tests.test_tree.TestFindH

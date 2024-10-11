@@ -1,0 +1,8 @@
+bs4.tests.test_fuzz.TestFuzz.__markup
+e0536648b83b06d6225e83108b3780e3
+os.path.join
+os.path.split
+open
+==
+read
+endswith

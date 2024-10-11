@@ -1,0 +1,5 @@
+pip._vendor.distlib.index.PackageIndex.save_configuration
+29a95146576842b608f8da91f10a0f0c
+pip._vendor.distlib.util._store_pypirc
+==
+check_credentials

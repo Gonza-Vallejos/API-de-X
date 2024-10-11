@@ -1,0 +1,6 @@
+anyio._backends._asyncio.Lock.statistics
+f6fefb848ad72af5dd7c8a54cab5df99
+len
+anyio._backends._asyncio.AsyncIOTaskInfo.__init__
+==
+locked

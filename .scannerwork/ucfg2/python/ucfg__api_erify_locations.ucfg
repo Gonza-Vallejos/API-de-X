@@ -1,0 +1,104 @@
+
+<pip._vendor.truststore._api.SSLContext.load_verify_locationsj
+^/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/truststore/_api.py ("1*ü
+2
+‡ ‰(	l
+j
+
+‡ ‡(
+%6"__id*P
+
+__unknown_file (4*2(
+&pip._vendor.truststore._api.SSLContext"
+_ctxæã
+
+‡ ‰(	
+%7*"
+
+__unknown_file (
+
+%62load_verify_locations:0
+cafile&
+
+__unknown_file (
+
+
+cafile:0
+capath&
+
+__unknown_file (
+
+
+capath:0
+cadata&
+
+__unknown_file (
+
+
+cadata"
+
+‡ ‰(	
+
+%7*›
+1
+… …(8M
+K
+
+… …(
+%1"__id*1
+
+__unknown_file (*
+
+typing"
+UnionL
+J
+
+„ „()
+%2"__id*0
+
+__unknown_file (*
+
+os"
+
+PathLikeL
+J
+
+„1 „(<
+%3"__id*0
+
+__unknown_file (*
+
+os"
+
+PathLikeL
+J
+
+ƒ ƒ()
+%4"__id*0
+
+__unknown_file (*
+
+os"
+
+PathLikeL
+J
+
+ƒ1 ƒ(<
+%5"__id*0
+
+__unknown_file (*
+
+os"
+
+PathLike*
+2:
+
+ƒ ƒ(Q
+cafile:
+
+„ „(Q
+capath:
+
+… …(8
+cadataB*(
+&pip._vendor.truststore._api.SSLContextH

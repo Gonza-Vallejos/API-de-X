@@ -1,0 +1,1 @@
+² 2pyX¼	hr1env/lib/python3.12/site-packages/httpx/_models.py

@@ -1,0 +1,8 @@
+pip._internal.network.auth.MultiDomainBasicAuth._get_new_credentials
+365222f62ed30832b59c810f46b0098e
+pip._internal.utils.misc.split_auth_netloc_from_url
+pip._vendor.requests.utils.get_netrc_auth
+==
+debug
+_get_keyring_auth
+_get_index_url

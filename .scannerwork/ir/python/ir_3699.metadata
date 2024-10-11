@@ -1,0 +1,7 @@
+pip._internal.index.collector._ensure_api_response
+09e43d192a86afbe895bbcffbf85ae4c
+pip._internal.network.utils.raise_for_status
+urllib.parse.urlsplit
+pip._internal.index.collector._ensure_api_header
+==
+head

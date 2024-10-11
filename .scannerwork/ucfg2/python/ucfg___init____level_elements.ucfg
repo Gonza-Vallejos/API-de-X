@@ -1,0 +1,122 @@
+
+Cbs4.tests.HTMLTreeBuilderSmokeTest.test_nested_block_level_elementsa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py√ √(("2*ª
+2
+ƒ ƒ(+´®
+
+≈ ≈(F
+%1*B
+
+__unknown_file (&$
+"bs4.tests.HTMLTreeBuilderSmokeTest*J
+
+__unknown_file (.,
+*<blockquote><p><b>Foo</b></p></blockquote>2soup@
+>
+
+≈ ≈(F
+soup"__id*"
+
+__unknown_file (
+
+%1P
+N
+
+∆ ∆($
+%2"__id*4
+
+__unknown_file (*
+
+soup"
+
+blockquoteF
+D
+
+∆ ∆($
+
+blockquote"__id*"
+
+__unknown_file (
+
+%2M
+K
+
+« «(
+%3"__id*1
+
+__unknown_file (*
+
+
+blockquote"
+pE
+C
+
+« «(
+%4"__id*)
+
+__unknown_file (*
+
+%3"
+bJ
+H
+
+« «($
+%5"__id*.
+
+__unknown_file (*
+
+%4"
+stringç
+ä
+
+« «(-
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5*#
+
+__unknown_file (
+FooM
+K
+
+» »(
+%7"__id*1
+
+__unknown_file (*
+
+
+blockquote"
+bJ
+H
+
+» »("
+%8"__id*.
+
+__unknown_file (*
+
+%7"
+stringç
+ä
+
+» »(+
+%9"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%8*#
+
+__unknown_file (
+Foo*
+3*3
+3
+__init__.py"
+   (
+implicit returnB&$
+"bs4.tests.HTMLTreeBuilderSmokeTestH

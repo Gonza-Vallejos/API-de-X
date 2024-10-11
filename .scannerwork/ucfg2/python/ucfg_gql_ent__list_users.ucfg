@@ -1,0 +1,108 @@
+
+gql.GQLClient._list_users`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py¼ ¼("2*¥
+2
+½ ½(7
+
+½ ½(7
+%3"dict”
+‘
+
+½ ½(&
+%4"__mapSet*"
+
+__unknown_file (
+
+%3*&
+
+__unknown_file (
+
+listId*'
+
+__unknown_file (
+	
+list_id‘
+Ž
+
+½( ½(6
+%5"__mapSet*"
+
+__unknown_file (
+
+%3*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+countE
+C
+
+½ ½(7
+	variables"__id*"
+
+__unknown_file (
+
+%3*
+4
+5*ô
+4
+À À(@ÌÉ
+
+À À(@
+%1*-
+
+__unknown_file (
+gql.GQLClient*(
+
+__unknown_file (
+
+
+endpoint*)
+
+__unknown_file (
+
+	variables*(
+
+__unknown_file (
+
+
+FEATURES2gql_get"
+
+À À(@
+
+%1*Æ
+5
+¿ ¿((¯¬
+
+¿ ¿((
+%2"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+¼  ¼((
+
+endpoint:
+
+¼* ¼(1	
+list_id:
+
+¼3 ¼(8
+count:
+
+¼: ¼(@
+cursorB
+gql.GQLClientH

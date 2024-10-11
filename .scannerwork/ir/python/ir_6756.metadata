@@ -1,0 +1,9 @@
+pip._vendor.urllib3.contrib._securetransport.low_level._cf_string_to_unicode
+33cb8cf28c881ed819b6213237811893
+ctypes.POINTER
+ctypes.cast
+ctypes.create_string_buffer
+==
+CFStringGetCStringPtr
+CFStringGetCString
+decode

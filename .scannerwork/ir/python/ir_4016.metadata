@@ -1,0 +1,4 @@
+httpcore._sync.http_proxy.ForwardHTTPConnection.__init__
+e308ffb595970e72ce52df36f64460fe
+httpcore._sync.connection.HTTPConnection.__init__
+httpcore._models.enforce_headers

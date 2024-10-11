@@ -1,0 +1,5 @@
+pip._vendor.distlib.resources.ZipResourceFinder.get_stream
+f484dbec4ed3d06311ae3c7fffb3b80e
+io.BytesIO.__init__
+==
+get_bytes

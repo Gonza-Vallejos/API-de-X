@@ -1,0 +1,5 @@
+pip._vendor.distlib.util.Transport.make_connection
+bf5ea4964e2ccd2c21f87527b95e70e1
+==
+HTTPConnection
+get_host_info

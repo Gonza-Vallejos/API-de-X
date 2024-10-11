@@ -1,0 +1,63 @@
+
+6bs4.tests.XMLTreeBuilderSmokeTest.test_xml_declarationa
+U/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/__init__.py‹ ‹("2*À
+2
+› ›(Em
+k
+
+› ›(E
+markup"__id*M
+
+__unknown_file (1/
+-<?xml version="1.0" encoding="utf8"?>\n<foo/>ÜÉ
+
+ﬁ ﬁ( 
+%1*A
+
+__unknown_file (%#
+!bs4.tests.XMLTreeBuilderSmokeTest*&
+
+__unknown_file (
+
+
+markup2soup@
+>
+
+ﬁ ﬁ( 
+soup"__id*"
+
+__unknown_file (
+
+%1hf
+
+ﬂ ﬂ(,
+%2*$
+
+__unknown_file (
+
+soup*$
+
+__unknown_file (
+utf82encodeê
+ç
+
+ﬂ ﬂ(,
+%3"	__compare*"
+
+__unknown_file (
+==*&
+
+__unknown_file (
+
+
+markup*"
+
+__unknown_file (
+
+%2*
+3*3
+3
+__init__.py"
+· ·(
+implicit returnB%#
+!bs4.tests.XMLTreeBuilderSmokeTestH

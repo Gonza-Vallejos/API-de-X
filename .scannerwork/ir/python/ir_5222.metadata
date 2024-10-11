@@ -1,0 +1,7 @@
+pip._internal.req.req_install.InstallRequirement.hashes
+a89d3b163dc933160ff03fc635cb0a4f
+pip._internal.utils.hashes.Hashes.__init__
+==
+setdefault
+copy
+append

@@ -1,0 +1,5 @@
+pip._vendor.rich.console.ScreenContext.__exit__
+a6bf7199191cda11c61404df106c3ea3
+==
+show_cursor
+set_alt_screen

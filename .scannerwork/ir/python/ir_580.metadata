@@ -1,0 +1,4 @@
+pip._internal.utils.unpacking.is_within_directory
+55b1f007c2479ba5850e4c2b946e0183
+os.path.commonprefix
+os.path.abspath

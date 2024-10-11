@@ -1,0 +1,161 @@
+
+$gql.GQLClient.user_highlights_tweets`
+T/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/twikit/client/gql.py   ($"2*·
+2
+À –(	
+
+À –(	
+%6"dictî
+ë
+
+Ã Ã(
+%7"__mapSet*"
+
+__unknown_file (
+
+%6*&
+
+__unknown_file (
+
+userId*'
+
+__unknown_file (
+	
+user_idë
+é
+
+Õ Õ(
+%8"__mapSet*"
+
+__unknown_file (
+
+%6*%
+
+__unknown_file (	
+count*%
+
+__unknown_file (	
+
+count°
+û
+
+Œ Œ(*
+%9"__mapSet*"
+
+__unknown_file (
+
+%6*6
+
+__unknown_file (
+includePromotedContent*$
+
+__unknown_file (
+
+Trueï
+í
+
+œ œ(
+%10"__mapSet*"
+
+__unknown_file (
+
+%6*)
+
+__unknown_file (
+	withVoice*$
+
+__unknown_file (
+
+TrueE
+C
+
+À –(	
+	variables"__id*"
+
+__unknown_file (
+
+%6*
+4
+5*∑
+4
+” ÿ(	d
+b
+
+‘ ‘(+
+%1"__id*H
+
+__unknown_file (,**
+gql.Endpoint"
+USER_HIGHLIGHTS_TWEETSS
+Q
+
+◊ ◊(
+%2"__id*7
+
+__unknown_file (*
+gql.GQLClient"
+baseQ
+O
+
+◊ ◊(#
+%3"__id*5
+
+__unknown_file (*
+
+%2"
+_base_headersÅ˛
+
+” ÿ(	
+%4*-
+
+__unknown_file (
+gql.GQLClient*"
+
+__unknown_file (
+
+%1*)
+
+__unknown_file (
+
+	variables*?
+
+__unknown_file (#
+!
+USER_HIGHLIGHTS_TWEETS_FEATURES*"
+
+__unknown_file (
+
+%32gql_get"
+
+” ÿ(	
+
+%4*∆
+5
+“ “((Ø¨
+
+“ “((
+%5"dict.__setitem__*)
+
+__unknown_file (
+
+	variables*&
+
+__unknown_file (
+
+cursor*&
+
+__unknown_file (
+
+
+cursor2__setitem__*
+4:
+
+ +  (2	
+user_id:
+
+ 4  (9
+count:
+
+ ;  (A
+cursorB
+gql.GQLClientH

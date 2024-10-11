@@ -1,0 +1,5 @@
+pip._vendor.pkg_resources.NullProvider.get_resource_stream
+12d3a3907025a3351ecccee8c2394849
+io.BytesIO.__init__
+==
+get_resource_string

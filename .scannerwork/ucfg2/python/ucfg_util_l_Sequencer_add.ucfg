@@ -1,0 +1,108 @@
+
+&pip._vendor.distlib.util.Sequencer.addg
+[/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/util.pyÈ È("2*£
+2
+Í Í(ê
+ç
+
+Í Í(
+%1"	__compare*"
+
+__unknown_file (
+!=*$
+
+__unknown_file (
+
+pred*$
+
+__unknown_file (
+
+succj
+h
+
+Î Î(
+%2"__id*N
+
+__unknown_file (2*0$
+"pip._vendor.distlib.util.Sequencer"
+_preds
+
+Î% Î(*
+%3"setèå
+
+Î Î(+
+%4*"
+
+__unknown_file (
+
+%2*$
+
+__unknown_file (
+
+succ*"
+
+__unknown_file (
+
+%32
+setdefaultca
+
+Î Î(5
+%5*"
+
+__unknown_file (
+
+%4*$
+
+__unknown_file (
+
+pred2addj
+h
+
+Ï Ï(
+%6"__id*N
+
+__unknown_file (2*0$
+"pip._vendor.distlib.util.Sequencer"
+_succs
+
+Ï% Ï(*
+%7"setèå
+
+Ï Ï(+
+%8*"
+
+__unknown_file (
+
+%6*$
+
+__unknown_file (
+
+pred*"
+
+__unknown_file (
+
+%72
+setdefaultca
+
+Ï Ï(5
+%9*"
+
+__unknown_file (
+
+%8*$
+
+__unknown_file (
+
+succ2add*
+3*/
+3	
+util.py"
+Ó Ó(
+implicit return:
+
+È È(
+pred:
+
+È È(
+succB&$
+"pip._vendor.distlib.util.SequencerH

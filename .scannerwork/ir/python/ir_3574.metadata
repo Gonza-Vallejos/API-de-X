@@ -1,0 +1,6 @@
+pip._internal.operations.install.wheel.PipScriptMaker.make
+d9a2784ef4a9bf3a36b6451c7d47029c
+super
+pip._internal.operations.install.wheel._raise_for_invalid_entrypoint
+==
+make

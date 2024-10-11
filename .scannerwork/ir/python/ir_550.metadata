@@ -1,0 +1,4 @@
+bs4.tests.test_pageelement.TestFormatters.test_encoding_substitution_doesnt_happen_if_tag_is_strained
+08e16385b8d6582387bccf9bbc9bf6ea
+==
+soup

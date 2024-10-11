@@ -1,0 +1,6 @@
+anyio._backends._trio.SocketStream.__init__
+ce8f86fd516065c1959275fe2a19a763
+super
+anyio._core._synchronization.ResourceGuard.__init__
+==
+__init__

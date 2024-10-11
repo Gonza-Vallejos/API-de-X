@@ -1,0 +1,9 @@
+pip._vendor.packaging._parser._parse_extras_list
+eb1f8ddf505f29a63cb9c5caa6b64f9d
+==
+raise_syntax_error
+expect
+read
+consume
+check
+append

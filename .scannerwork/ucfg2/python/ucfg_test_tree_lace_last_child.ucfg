@@ -1,0 +1,86 @@
+
+@bs4.tests.test_tree.TestTreeModification.test_replace_last_childb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyÂ Â("2*–
+2
+Ã Ã(&S
+Q
+
+Ã Ã(&
+data"__id*5
+
+__unknown_file (
+<a><b></b><c></c></a>‹ˆ
+
+Ä Ä(
+%1*H
+
+__unknown_file (,*
+(bs4.tests.test_tree.TestTreeModification*$
+
+__unknown_file (
+
+data2soup@
+>
+
+Ä Ä(
+soup"__id*"
+
+__unknown_file (
+
+%1G
+E
+
+Å Å(
+%2"__id*+
+
+__unknown_file (*
+
+soup"
+cG
+E
+
+Å Å("
+%3"__id*+
+
+__unknown_file (*
+
+soup"
+bjh
+
+Å Å(#
+%4*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%32replace_withB@
+
+Æ# Æ(0
+%5*$
+
+__unknown_file (
+
+soup2decode˜
+•
+
+Æ Æ(0
+%6"	__compare*"
+
+__unknown_file (
+==*.
+
+__unknown_file (
+<a><b></b></a>*"
+
+__unknown_file (
+
+%5*
+3*4
+3
+test_tree.py"
+È È(
+implicit returnB,*
+(bs4.tests.test_tree.TestTreeModificationH

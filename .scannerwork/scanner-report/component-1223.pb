@@ -1,0 +1,1 @@
+Ç	 2pyXwhr:env/lib/python3.12/site-packages/pip/_vendor/idna/codec.py

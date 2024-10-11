@@ -1,0 +1,8 @@
+pip._vendor.distlib.database.BaseInstalledDistribution.get_hash
+7c12bb313b780dd33167b79a542f96a3
+base64.urlsafe_b64encode
+getattr
+==
+rstrip
+digest
+decode

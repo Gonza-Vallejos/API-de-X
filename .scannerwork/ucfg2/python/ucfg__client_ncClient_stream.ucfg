@@ -1,0 +1,183 @@
+
+ httpx._client.AsyncClient.stream\
+P/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpx/_client.py´ ´("1*Ø
+2
+Å Î(…‚
+
+Ï Û(	
+%3*9
+
+__unknown_file (
+httpx._client.AsyncClient2build_request:0
+method&
+
+__unknown_file (
+
+
+method:*
+url#
+
+__unknown_file (
+
+url:2
+content'
+
+__unknown_file (
+	
+content:,
+data$
+
+__unknown_file (
+
+data:.
+files%
+
+__unknown_file (	
+
+files:,
+json$
+
+__unknown_file (
+
+json:0
+params&
+
+__unknown_file (
+
+
+params:2
+headers'
+
+__unknown_file (
+	
+headers:2
+cookies'
+
+__unknown_file (
+	
+cookies:2
+timeout'
+
+__unknown_file (
+	
+timeout:8
+
+extensions*
+
+__unknown_file (
+
+
+extensionsC
+A
+
+Ï Û(		
+request"__id*"
+
+__unknown_file (
+
+%3®«
+
+Ü á(	
+%4*9
+
+__unknown_file (
+httpx._client.AsyncClient2send:2
+request'
+
+__unknown_file (
+	
+request:,
+auth$
+
+__unknown_file (
+
+auth:D
+follow_redirects0
+
+__unknown_file (
+
+follow_redirects:.
+stream$
+
+__unknown_file (
+
+TrueD
+B
+
+Ü á(	
+
+response"__id*"
+
+__unknown_file (
+
+%4*
+4*2
+3
+
+_client.py"
+ç ç(
+implicit return*\
+4
+å å(#FD
+
+å å(#
+%2*(
+
+__unknown_file (
+
+
+response2aclose*
+3*a
+1
+Ã Ã(3K
+I
+
+¼ ¼(
+%1"__id*/
+
+__unknown_file (*
+
+typing"
+Any*
+2:
+
+¶ ¶(
+method:
+
+· ·(
+url:
+
+¹ ¹(-	
+content:
+
+º º('
+data:
+
+» »()
+files:
+
+¼ ¼(&
+json:
+
+½ ½(-
+params:
+
+¾ ¾(*	
+headers:
+
+¿ ¿(*	
+cookies:
+
+À À(F
+auth: 
+
+Á Á(F
+follow_redirects:
+
+Â Â(E	
+timeout:
+
+Ã Ã(3
+
+extensionsB
+httpx._client.AsyncClientH

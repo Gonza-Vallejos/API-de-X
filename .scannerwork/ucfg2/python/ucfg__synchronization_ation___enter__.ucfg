@@ -1,0 +1,99 @@
+
+;httpcore._synchronization.AsyncShieldCancellation.__enter__h
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/httpcore/_synchronization.pyÑ Ñ("2*¥
+2
+Ò Ò("{
+y
+
+Ò Ò(
+%7"__id*_
+
+__unknown_file (C*A3
+1httpcore._synchronization.AsyncShieldCancellation"
+
+_backendŽ
+‹
+
+Ò Ò("
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%7*$
+
+__unknown_file (
+trio*
+5
+7*T
+4
+Ö Ö("C
+
+Ö Ö(53
+1httpcore._synchronization.AsyncShieldCancellation*Ú
+5
+Ó Ó()
+}
+
+Ó Ó(
+%1"__id*c
+
+__unknown_file (G*E3
+1httpcore._synchronization.AsyncShieldCancellation"
+_trio_shieldCA
+
+Ó Ó()
+%2*"
+
+__unknown_file (
+
+%12	__enter__*
+4*Ü
+6
+Õ Õ(*€
+~
+
+Õ Õ(
+%3"__id*d
+
+__unknown_file (H*F3
+1httpcore._synchronization.AsyncShieldCancellation"
+_anyio_shieldCA
+
+Õ Õ(*
+%4*"
+
+__unknown_file (
+
+%32	__enter__*
+4*¨
+7
+Ô Ô('{
+y
+
+Ô Ô(
+%5"__id*_
+
+__unknown_file (C*A3
+1httpcore._synchronization.AsyncShieldCancellation"
+
+_backend‘
+Ž
+
+Ô Ô('
+%6"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%5*'
+
+__unknown_file (	
+asyncio*
+4
+6B53
+1httpcore._synchronization.AsyncShieldCancellationH

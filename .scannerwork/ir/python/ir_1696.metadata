@@ -1,0 +1,5 @@
+anyio._core._synchronization.Condition.acquire_nowait
+266bb12f4fdce966a8fc7cda27fc8888
+anyio._core._testing.get_current_task
+==
+acquire_nowait

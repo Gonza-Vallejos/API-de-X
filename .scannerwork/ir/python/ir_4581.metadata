@@ -1,0 +1,5 @@
+pip._internal.cache.Cache._get_cache_path_parts
+5113e8d889155338a8eeb73780537ce8
+pip._vendor.packaging.tags.interpreter_name
+pip._vendor.packaging.tags.interpreter_version
+pip._internal.cache._hash_dict

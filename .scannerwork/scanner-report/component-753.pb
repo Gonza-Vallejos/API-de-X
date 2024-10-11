@@ -1,0 +1,1 @@
+ñ 2pyXñhr=env/lib/python3.12/site-packages/httpcore/_sync/http_proxy.py

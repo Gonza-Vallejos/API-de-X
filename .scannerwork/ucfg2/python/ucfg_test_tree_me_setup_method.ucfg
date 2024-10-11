@@ -1,0 +1,31 @@
+
+2bs4.tests.test_tree.TestFindAllByName.setup_methodb
+V/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/bs4/tests/test_tree.pyâ â("2*ô
+2
+ä å(Jïí
+
+ä å(J
+%1*E
+
+__unknown_file ()'
+%bs4.tests.test_tree.TestFindAllByName*∞
+
+__unknown_file (ìê
+ç<a>First tag.</a>
+                                  <b>Second tag.</b>
+                                  <c>Third <a>Nested tag.</a> tag.</c>2soupk
+i
+
+ä å(J1'
+%bs4.tests.test_tree.TestFindAllByName"
+tree"__id*"
+
+__unknown_file (
+
+%1*
+3*4
+3
+test_tree.py"
+é é(
+implicit returnB)'
+%bs4.tests.test_tree.TestFindAllByNameH

@@ -1,0 +1,5 @@
+pip._vendor.packaging._parser.process_python_str
+b921d45349023f79216b6bd48c462637
+pip._vendor.packaging._parser.Value.__init__
+ast.literal_eval
+str.__init__

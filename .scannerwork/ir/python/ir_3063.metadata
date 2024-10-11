@@ -1,0 +1,10 @@
+pip._internal.utils.entrypoints.get_best_invocation_for_this_pip
+3107e70b62ec13bcad931279a088ef54
+os.path.normcase
+os.path.samefile
+shutil.which
+os.path.join
+os.path.exists
+==
+split
+get

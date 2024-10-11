@@ -1,0 +1,137 @@
+
+/pip._vendor.distlib.index.PackageIndex.registerf
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/index.pyl l("2*Å
+2m u(mk
+v v( 
+%1*F
+
+__unknown_file (*(
+&pip._vendor.distlib.index.PackageIndex2check_credentialsFD
+w w(
+%2*(
+
+__unknown_file (
+
+
+metadata2validateDB
+x x(
+%3*(
+
+__unknown_file (
+
+
+metadata2todict;
+9
+x x(
+d"__id*"
+
+__unknown_file (
+
+%3¶£
+y y(
+%4"dict.__setitem__*!
+
+__unknown_file (
+
+d*'
+
+__unknown_file (	
+:action*&
+
+__unknown_file (
+
+verify2__setitem__<:
+z& z(/
+%5*!
+
+__unknown_file (
+
+d2items
+z1 z(3
+%6"list≥∞
+z z(4
+%7*F
+
+__unknown_file (*(
+&pip._vendor.distlib.index.PackageIndex*"
+
+__unknown_file (
+
+%5*"
+
+__unknown_file (
+
+%62encode_requestA
+?
+z z(4	
+request"__id*"
+
+__unknown_file (
+
+%7íè
+{ {("
+%8*F
+
+__unknown_file (*(
+&pip._vendor.distlib.index.PackageIndex*'
+
+__unknown_file (
+	
+request2send_request¶£
+| |(
+%9"dict.__setitem__*!
+
+__unknown_file (
+
+d*'
+
+__unknown_file (	
+:action*&
+
+__unknown_file (
+
+submit2__setitem__=;
+}& }(/
+%10*!
+
+__unknown_file (
+
+d2items
+}1 }(3
+%11"list∂≥
+} }(4
+%12*F
+
+__unknown_file (*(
+&pip._vendor.distlib.index.PackageIndex*#
+
+__unknown_file (
+
+%10*#
+
+__unknown_file (
+
+%112encode_requestB
+@
+} }(4	
+request"__id*#
+
+__unknown_file (
+
+%12ìê
+~ ~()
+%13*F
+
+__unknown_file (*(
+&pip._vendor.distlib.index.PackageIndex*'
+
+__unknown_file (
+	
+request2send_request"
+~ ~()
+
+%13:
+l l(
+
+metadataB*(
+&pip._vendor.distlib.index.PackageIndexH

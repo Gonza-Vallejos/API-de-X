@@ -1,0 +1,118 @@
+
+.pip._vendor.distlib.index.PackageIndex._readerh
+\/home/kali/Documentos/API-de-X/env/lib/python3.12/site-packages/pip/_vendor/distlib/index.pyÄ Ä("4"6*0
+3
+
+index.py"
+í í(
+implicit return*Y
+4
+ê ê(CA
+
+ê ê(
+%1*&
+
+__unknown_file (
+
+
+stream2close*
+3*û
+6
+ä ä(!FD
+
+ä ä(!
+%7*&
+
+__unknown_file (
+
+
+stream2readline=
+;
+
+ä ä(!
+s"__id*"
+
+__unknown_file (
+
+%7*
+4
+7*π
+7
+ç ç(*fd
+
+ç ç(!
+%2*!
+
+__unknown_file (
+
+s*%
+
+__unknown_file (	
+utf-82decode@>
+
+ç ç(*
+%3*"
+
+__unknown_file (
+
+%22rstrip=
+;
+
+ç ç(*
+s"__id*"
+
+__unknown_file (
+
+%3ge
+
+é é(
+%4*&
+
+__unknown_file (
+
+
+outbuf*!
+
+__unknown_file (
+
+s2appende
+c
+
+è è(-
+%5"__concat*
+
+è è(!
+
+%s: %s*
+
+è% è()
+
+name*
+
+è+ è(,
+
+sge
+
+è è(.
+%6*&
+
+__unknown_file (
+
+
+logger*"
+
+__unknown_file (
+
+%52debug*
+4
+6:
+
+Ä Ä(
+name:
+
+Ä Ä("
+stream:
+
+Ä$ Ä(*
+outbufB*(
+&pip._vendor.distlib.index.PackageIndexH

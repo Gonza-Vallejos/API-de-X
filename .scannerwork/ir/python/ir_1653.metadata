@@ -1,0 +1,7 @@
+pip._vendor.urllib3.poolmanager.PoolManager.connection_from_host
+01eb813b1bff25da2d937549bf47f7e7
+==
+_merge_pool_kwargs
+connection_from_context
+lower
+get

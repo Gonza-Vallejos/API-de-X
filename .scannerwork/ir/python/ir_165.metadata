@@ -1,0 +1,6 @@
+lxml.html.diff.compress_merge_back
+61a6e353483414293bdd99636d7b6b50
+type.__init__
+lxml.html.diff.token.__init__
+==
+append

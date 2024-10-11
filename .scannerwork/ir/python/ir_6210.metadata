@@ -1,0 +1,9 @@
+pip._vendor.pkg_resources.WorkingSet._resolve_dist
+b4b4e8d7a348fd6579d18c3c36d070ab
+pip._vendor.pkg_resources.WorkingSet.__init__
+pip._vendor.pkg_resources.Environment.__init__
+==
+get
+with_context
+best_match
+append
